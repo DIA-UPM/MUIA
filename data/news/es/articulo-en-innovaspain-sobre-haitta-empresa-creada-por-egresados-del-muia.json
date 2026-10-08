@@ -1,0 +1,57 @@
+{
+  "slug": "articulo-en-innovaspain-sobre-haitta-empresa-creada-por-egresados-del-muia",
+  "lang": "es",
+  "path": "/es/articulo-en-innovaspain-sobre-haitta-empresa-creada-por-egresados-del-muia/",
+  "title": "Artículo en INNOVASPAIN sobre hAItta, empresa creada por egresados del MUIA",
+  "wpId": 91,
+  "date": "2018-01-24T19:25:05+00:00",
+  "modified": "2023-11-23T18:49:01+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Artículo en INNOVASPAIN sobre hAItta, empresa creada por egresados del MUIA - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El pasado 25 de enero se publicó un artículo en INNOVASPAIN (el portal líder de la innovación en español) sobre hAItta, empresa creada […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2018/01/DomingoSenise.jpg",
+      "width": 220,
+      "height": 138,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2018/01/DomingoSenise.jpg",
+      "width": 220,
+      "height": 138,
+      "caption": "DomingoSenise"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El pasado 25 de enero se publicó un artículo en INNOVASPAIN&nbsp;(el portal líder de la&nbsp;innovación en español) sobre&nbsp;hAItta, empresa creada por egresados de MUIA, titulado «el paso adelante de la Inteligencia Artificial que trasciende lo tecnológico»</p>\n<p><span id=\"more-91\"></span></p>\n<p>El pasado 25 de enero se publicó un artículo en INNOVASPAIN&nbsp;(el portal líder de la&nbsp;innovación en español) sobre&nbsp;hAItta, empresa creada por egresados de MUIA, titulado «el paso adelante de la Inteligencia Artificial que trasciende lo tecnológico».</p>\n<p>Domingo Senise y Mariano Ferrero capitanean un nuevo enfoque de IA, a medida pero de aplicación global.</p>\n<p><a href=\"https://www.innovaspain.com/haitta-paso-adelante-la-inteligencia-artificial-trasciende-lo-tecnologico/\" target=\"_blank\" rel=\"noopener\">Ver artículo.</a></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2018/01/DomingoSenise.jpg",
+    "width": 220,
+    "height": 138,
+    "alt": "DomingoSenise"
+  },
+  "wordCount": 125,
+  "excerpt": "<p>El pasado 25 de enero se publicó un artículo en INNOVASPAIN&nbsp;(el portal líder de la&nbsp;innovación en español) sobre&nbsp;hAItta, empresa creada</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2018/01/DomingoSenise.jpg",
+    "width": 220,
+    "height": 138,
+    "alt": "DomingoSenise"
+  }
+}

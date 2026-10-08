@@ -1,0 +1,104 @@
+{
+  "slug": "bajo-perez-javier",
+  "lang": "en",
+  "path": "/en/personal/bajo-perez-javier/",
+  "name": "Bajo Pérez, Javier",
+  "wpId": 706,
+  "date": "2017-05-26T11:06:24+00:00",
+  "modified": "2024-01-15T00:36:41+00:00",
+  "tags": [
+    "professors"
+  ],
+  "translations": {
+    "en": "/en/personal/bajo-perez-javier/",
+    "es": "/es/personal/bajo-perez-javier_es/"
+  },
+  "seo": {
+    "title": "Bajo Pérez, Javier - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/jbajo-copia_0.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/Bajo-Perez-Javier.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Bajo-Perez-Javier.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Office",
+      "value": "2105"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Phone",
+      "value": "+34-91-336-6605"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0002-4392-4743",
+      "href": "https://orcid.org/0000-0002-4392-4743",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "jbajo@fi.upm.es",
+      "href": "mailto:jbajo@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/C-7059-2009",
+      "href": "http://www.researcherid.com/rid/C-7059-2009",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Research group",
+      "value": "Grupo de Ingeniería Ontológica",
+      "href": "http://www.oeg-upm.net/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=8899577600",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=8899577600",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>\n<p><!-- wp:paragraph --></p>\n<p>Javier Bajo es Catedrático de Universidad en el Departamento de Inteligencia Artificial de la Universidad Politécnica de Madrid (UPM) y es, desde 05/03/2019, Director del Centro Tecnológico Mixto&nbsp;<em>UPM-Accenture AI.nnovation Space</em>de innovacion en Inteligencia Artificial. Previamente fue Director del Departamento de Inteligencia Intelligence (20/05/2016-19/10/2017) en la UPM, Secretario del Doctorado en Inteligencia Artificial en UPM (23/06/2016-19/10/2017) y Coordinador del Master Universitario en Inteligencia Artificial en UPM (18/02/2013 – 20/05/2016). Además, fue Director Centro de Proceso de Datos en la Universidad Pontificia de Salamanca (13-10/2010 – 08-11-2012).</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Javier fue Profesor Titular de Universidad en el Departamento de Inteligencia Artificial de la UPM (08/10/2012-05/03/2019) fue Profesor Adjunto en la Pontificia de Salamanca, Salamanca, Spain (01/03/2003-08/11/2012). Ha sido profesor visitante en el Dartmouth College (USA, 2016), Osaka Institute of Technology (Japan, 2011, JSPS&nbsp;Invitation Fellowship Program for Research in Japan) e IRIT-University of Toulouse (France, 2013, 2014, 2015).</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Javier obtuvo su Doctorado en Informática (con premio extraordinario de doctorado), así como un Master en Comercio Electrónico por la Universidad de Salamanca en 2007. Es Ingeniero Informático por la&nbsp;Universidad Pontificia de Salamanca (2003) e Ingeniero Técnico en Informática de Sistemas por la Universidad de Valladolid (2001).</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Sus principales líneas de investigación son la Computación Social, las Sociedades Híbridas y Artificiales, los Agentes Inteligentes y Sistemas Multi-agente. Ha supervisado 11 tesis doctorales, participado en más de 50 proyectos de investigación (en buena parte de ellos como investigador principal), es autor de más de 300 artículos científicos en revistas (81 artículos JCR) y congresos y posee una patente y más de 50 registros de software.&nbsp;Su índice H es 39.&nbsp;Es fundador de la serie de conferencias PAAMS, así como miembro IEEE, ACM e ISIF.</p>\n<p><!-- /wp:paragraph --></p>\n<p></p>"
+    }
+  ],
+  "photoPrefixHtml": "&lt;",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Bajo-Perez-Javier.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/Bajo-Perez-Javier.png 490w, /wp-content/uploads/sites/6/2017/05/Bajo-Perez-Javier-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/Bajo-Perez-Javier-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  },
+  "styleVariant": "variant-4"
+}

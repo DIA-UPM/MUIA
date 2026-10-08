@@ -1,0 +1,101 @@
+{
+  "slug": "rodriguez-paton-aradas-alfonso",
+  "lang": "es",
+  "path": "/es/personal/rodriguez-paton-aradas-alfonso/",
+  "name": "Rodríguez-Patón Aradas, Alfonso",
+  "wpId": 702,
+  "date": "2017-05-26T16:24:40+00:00",
+  "modified": "2024-01-24T00:45:32+00:00",
+  "tags": [
+    "catedraticos-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/rodriguez-paton-aradas-alfonso_en/",
+    "es": "/es/personal/rodriguez-paton-aradas-alfonso/"
+  },
+  "seo": {
+    "title": "Rodríguez-Patón Aradas, Alfonso - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2106Web: Teléfono: +34-91-336-6604ORCID: https://orcid.org/0000-0001-7289-2114Email: arpaton@fi.upm.esResearcherID: Grupo de investigación: Laboratorio de Inteligencia ArtificialScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=8882795400",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/alfonsorp.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/Rodriguez-Paton-Aradas-Alfonso.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Rodriguez-Paton-Aradas-Alfonso.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2106"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-6604"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0001-7289-2114",
+      "href": "https://orcid.org/0000-0001-7289-2114",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "arpaton@fi.upm.es",
+      "href": "mailto:arpaton@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Laboratorio de Inteligencia Artificial",
+      "href": "http://www.lia.upm.es/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=8882795400",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=8882795400",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Rodriguez-Paton-Aradas-Alfonso.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/Rodriguez-Paton-Aradas-Alfonso.png 490w, /wp-content/uploads/sites/6/2017/05/Rodriguez-Paton-Aradas-Alfonso-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/Rodriguez-Paton-Aradas-Alfonso-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

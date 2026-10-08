@@ -1,0 +1,136 @@
+{
+  "lang": "en",
+  "ariaLabel": "Site Navigation: menu-main-menu-english",
+  "items": [
+    {
+      "id": 4384,
+      "label": "Presentation",
+      "url": "/en/",
+      "kind": "page",
+      "children": [
+        {
+          "id": 828,
+          "label": "Objectives and competencies",
+          "url": "/en/objectives_competencies/",
+          "kind": "page"
+        },
+        {
+          "id": 831,
+          "label": "Faculty",
+          "url": "/en/teachingstaff_tutorship/",
+          "kind": "page"
+        },
+        {
+          "id": 4646,
+          "label": "Frequently asked question",
+          "url": "/en/#general_faq",
+          "kind": "custom"
+        }
+      ]
+    },
+    {
+      "id": 830,
+      "label": "Structure",
+      "url": "/en/structure/",
+      "kind": "page",
+      "children": [
+        {
+          "id": 4667,
+          "label": "Modules and seminars",
+          "url": "/en/structure/#modules_and_seminars",
+          "kind": "custom"
+        },
+        {
+          "id": 4668,
+          "label": "Teaching plan",
+          "url": "/en/structure/#teaching_plan",
+          "kind": "custom"
+        },
+        {
+          "id": 4666,
+          "label": "Master’s Final Project",
+          "url": "/en/structure/#masters_final_project",
+          "kind": "custom"
+        },
+        {
+          "id": 4663,
+          "label": "Procedure to apply for the diploma",
+          "url": "/en/structure/#procedure_to_apply_for_the_diploma",
+          "kind": "custom"
+        },
+        {
+          "id": 4665,
+          "label": "Faqs about structure of the MUIA",
+          "url": "/en/structure/#muia_structure_faqs",
+          "kind": "custom"
+        }
+      ]
+    },
+    {
+      "id": 832,
+      "label": "Timetables",
+      "url": "/en/timetables/",
+      "kind": "page"
+    },
+    {
+      "id": 829,
+      "label": "Admission",
+      "url": "/en/access_admission_registration/",
+      "kind": "page"
+    },
+    {
+      "id": 834,
+      "label": "Quality",
+      "url": "/en/quality/",
+      "kind": "page",
+      "children": [
+        {
+          "id": 6109,
+          "label": "Quality Assurance System",
+          "url": "/en/quality/#quality-assurance-system",
+          "kind": "custom"
+        },
+        {
+          "id": 6110,
+          "label": "Accreditations and Euro-Inf Seal",
+          "url": "/en/quality/#accreditations-euro-inf-seal",
+          "kind": "custom"
+        }
+      ]
+    },
+    {
+      "id": 6209,
+      "label": "News",
+      "url": "/en/category/news/",
+      "kind": "category",
+      "children": [
+        {
+          "id": 6210,
+          "label": "Top Stories",
+          "url": "/en/category/news/top-stories/",
+          "kind": "category"
+        },
+        {
+          "id": 6221,
+          "label": "Current Affairs",
+          "url": "/en/category/news/currenta-affairs/",
+          "kind": "category"
+        }
+      ]
+    },
+    {
+      "id": 6582,
+      "label": "Student Support",
+      "url": "/en/student_support/",
+      "kind": "page"
+    }
+  ],
+  "languageSwitcher": {
+    "targetLang": "es",
+    "itemId": "903-es",
+    "termId": 6,
+    "hreflang": "es-ES",
+    "label": "Español",
+    "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEX/AAD9AAD3AADxAADrAAD/eXn9bGz8YWH8WVn6UVH5SEj5Pz/3NDT0Kir9/QD+/nL+/lT18lDt4Uf6+j/39zD39yf19R3n5wDxflXsZ1Pt4Y3x8zr0wbLs1NXz8xPj4wD37t3jmkvsUU/Bz6nrykm3vJ72IiL0FBTyDAvhAABEt4UZAAAAX0lEQVR4AQXBQUrFQBBAwXqTDkYE94Jb73+qfwVRcYxVQRBRToiUfoaVpGTrtdS9SO0Z9FR9lVy/g5c99+dKl30N5uxPuviexXEc9/msC7TOkd4kHu/Dlh4itCJ8AP4B0w4Qwmm7CFQAAAAASUVORK5CYII="
+  }
+}

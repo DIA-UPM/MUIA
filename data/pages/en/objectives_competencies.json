@@ -1,0 +1,514 @@
+{
+  "slug": "objectives_competencies",
+  "lang": "en",
+  "path": "/en/objectives_competencies/",
+  "title": "Objectives and competencies",
+  "wpId": 549,
+  "date": "2023-09-21T11:34:54+00:00",
+  "modified": "2024-01-08T14:13:40+00:00",
+  "translations": {
+    "en": "/en/objectives_competencies/",
+    "es": "/es/objetivos_competencias/"
+  },
+  "seo": {
+    "title": "Objectives and competencies - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2023/09/joven-investigador-con-brazo-robot.jpg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/09/joven-investigador-con-brazo-robot.jpg"
+    },
+    "twitter": {
+      "twitter:label1": "Est. reading time",
+      "twitter:data1": "7 minutes"
+    }
+  },
+  "bodyClass": "page-template-default page page-id-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit- astra-addon-4.8.6",
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-gwapcxe",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-yjokuln",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "hero_section",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-v62zddu",
+              "children": [
+                {
+                  "type": "row",
+                  "id": "eb-row-9recpm3",
+                  "rootClass": false,
+                  "align": "full",
+                  "children": [
+                    {
+                      "type": "column",
+                      "outer": false,
+                      "id": "eb-column-y6aoqv5",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-phz4e97",
+                          "rootClass": false,
+                          "animation": "fadeIn",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "h1",
+                              "html": "Thinking about your success"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-whm5l2i",
+                          "rootClass": false,
+                          "animation": "fadeIn",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "h1",
+                              "html": "Objectives and competencies<br>of the MUIA"
+                            },
+                            {
+                              "part": "subtitle",
+                              "tag": "p",
+                              "html": "Refer to the full Master’s programme report"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-ix5btov",
+                          "rootClass": false,
+                          "animation": "fadeInLeft",
+                          "href": "https://dia.fi.upm.es/wp-content/version-final-memoria.muia.pdf",
+                          "target": "_blank",
+                          "rel": "nofollow noopener",
+                          "icon": "fas fa-chevron-right hvr-icon",
+                          "iconPosition": "right",
+                          "text": "View report"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "column",
+                      "outer": false,
+                      "id": "eb-column-bdcogf5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-6jcdd7c",
+      "rootClass": false,
+      "align": "full",
+      "anchor": "objectives",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-ljt72p8",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "services_section",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-2ok1ejd",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-xv8x1j5",
+                  "rootClass": false,
+                  "anchor": "objetivos",
+                  "animation": "fadeInLeft",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Objectives of the MUIA"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "The objective of the MSc in Artificial Intelligence&nbsp;is: <strong>To prepare students for innovation in the area of Artificial Intelligence, in two ways: firstly, the creation of innovative techniques and methods within the research area of Artificial Intelligence and, secondly, the application of these techniques and methods relative to social and business reality as well as creating processes and innovative computer solutions. </strong> <br><br>Consequently a higher degree of knowledge in Artificial Intelligence will be afforded and provided to Computer Engineering and Science and Technology professionals studying this course. This will enable them to deal with and solve problems of both a scientific and technological nature using techniques and methods resulting from recent research.  <br><br>This general objective can be completed using two additional and intrinsic goals. Firstly, the idea of innovating in order to research and, simultaneously, the idea of researching in order to innovate. The first goal suggests innovative programmes, which are able to combine the specialised nature of the degree with creativity that underlies original and productive research directions. The second one is about the ability to be creative when addressing and solving problems through research.<br><br>Therefore, the global objective is materialised in more specific objectives that are&nbsp;the following:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-pyu5671",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-scdup5l",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/joven-investigador-con-brazo-robot.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objective 1",
+                  "description": "Acquire advance training of a specialised and multidisciplinary nature, geared towards&nbsp; promoting the introduction to research work in Artificial Intelligence."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-49xfhyo",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/alumnos-sonrientes-con-robot.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objective 2",
+                  "description": "Provide a higher degree of knowledge in Artificial Intelligence techniques and methods, to be able to deal with and solve technological and scientific problems through the research (research in order to innovate)."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-sozjusy",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-3q5zpj8",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/Alumno-asiatico-sonriendo.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objective 3",
+                  "description": "Create innovative programmes that are able to combine the specialised nature of the degree with creativity that underlies original, active and productive research directions (innovate in order to research) in Artificial Intelligence."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-fxwbzou",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/alumnos-sonrientes-8.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objective 4",
+                  "description": "Enable students to be creative in addressing and solving scientific and technological problems through research in Artificial Intelligence."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-zw9uyjr",
+      "rootClass": false,
+      "align": "full",
+      "anchor": "competences",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-tingcs3",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-n9aiv8s",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-oceq20x",
+                  "rootClass": false,
+                  "anchor": "competencias",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": ""
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "The objectives previously outlined aim to ensure that students acquire a set of general and specific competencies during their studies.  <br><br>The competencies of the European Msc in Artificial Intelligence have been structured into 4 categories."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-kd4dl89",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-n5rz1on",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-h4h9obr",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "General Competencies",
+                  "description": "The general competencies derive, on one hand, from a ‘Real Decreto’ and are common to any master’s degree in Spain; on the other hand, there are those proposed by the UPM; and finally, there are those specific to the EURO-INF accreditation."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-hgzuqj8",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-7vrz4t5",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "Research Competencies",
+                  "description": "The general competencies derive, on one hand, from a Royal Decree and are common to any master’s degree in Spain; on the other hand, there are those proposed by the UPM; and finally, there are those specific to the EURO-INF accreditation."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-k91aavc",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-ds38een",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "AI<br> Competencies",
+                  "description": "In this category are the specific competencies in AI, which set the proposed degree apart from any other research master’s at the Higher Technical School of Computer Engineers. of the Universitad Politécnica de Madrid."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-jhve7tj",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-tfb2xlw",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "TFM Competencies",
+                  "description": "In this category is the specific competency associated with the Master’s Thesis, designed to equip the student with the ability to develop, present, and defend their project before the members of a university panel, among others."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-7m6qvjp",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-sv3vx9v",
+          "rootClass": false,
+          "align": "full",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "wrapper",
+              "id": "eb-wrapper-zpg9zet",
+              "rootClass": false,
+              "align": "wide",
+              "children": [
+                {
+                  "type": "row",
+                  "id": "eb-row-zjpfom0",
+                  "rootClass": false,
+                  "align": "full",
+                  "children": [
+                    {
+                      "type": "column",
+                      "outer": false,
+                      "id": "eb-column-ck15svb",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-jtzjtfs",
+                          "rootClass": false,
+                          "anchor": "competencias",
+                          "animation": "fadeInUp",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "h2",
+                              "html": "General and specific competences of the MUIA"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "column",
+                      "outer": false,
+                      "id": "eb-column-5706uoa",
+                      "children": [
+                        {
+                          "type": "button",
+                          "id": "eb-button-fjxrynr",
+                          "rootClass": false,
+                          "animation": "fadeInLeft",
+                          "href": "https://dia.fi.upm.es/masteria/sites/default/files/master/General/Competencias%20por%20materias.pdf",
+                          "target": "_blank",
+                          "rel": "nofollow noopener",
+                          "icon": "fas fa-chevron-right hvr-icon",
+                          "iconPosition": "right",
+                          "text": "See tables of competency levels by subject"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "advanced-tabs",
+              "id": "eb-advanced-tabs-cg12jgf",
+              "rootClass": false,
+              "align": "wide",
+              "className": "algomindai_tabmark",
+              "animation": "fadeInUp",
+              "layout": "vertical",
+              "titleTag": "h6",
+              "activeIndex": 0,
+              "tabs": [
+                {
+                  "tabId": "1",
+                  "title": "General competences",
+                  "children": [
+                    {
+                      "type": "wrapper",
+                      "id": "eb-wrapper-g4hv7vx",
+                      "rootClass": false,
+                      "align": "full",
+                      "contentAlign": "center",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p><strong>CG1</strong>:&nbsp;Students will learn how to apply the knowledge acquired and their ability to solve problems in new or lesser-known environments within wider (and multidisciplinary) contexts related to their field of study.</p>\n<p><strong>CG2: </strong>Students are able to integrate knowledge and face the complexity of making judgments based on information that, being incomplete or limited, includes reflections on social and ethical responsibilities linked to the application of their knowledge and judgments.</p>\n<p><strong>CG3</strong>: Students know how to communicate their conclusions, knowledge and ultimate reasons that sustain them to specialized and non-specialized audiences in a clear and unambiguous way.</p>\n<p><strong>CG4</strong>: Students will acquire learning skills that will allow them to continue studying in a way that will mostly be self-directed and autonomous.</p>\n<p><strong>CG5</strong>: Organization and planning.&nbsp;</p>\n<p><strong>CG6</strong>: Information management.</p>\n<p><strong>CG7</strong>: Specification and performance of complex, unclear and unfamiliar computer tasks.</p>\n<p><strong>CG8</strong>: Problem design and resolution in new and emerging areas of its discipline.</p>\n<p><strong>CG9</strong>: Application of the most recent or innovative problem solving methods that may involve the use of other disciplines.</p>\n<p><strong>CG10</strong>: Capacity to apply creative thinking when developing new and original approaches and methods.</p>\n<p><strong>CG11</strong>: Knowledge integration from different disciplines, as well as complexity management.</p>\n<p><strong>CG12</strong>: Comprehensive understanding of the techniques and methods applicable to a specific specialisation, as well as their limits.</p>\n<p><strong>CG13</strong>: Appreciation of the limits regarding current knowledge and practical application of &nbsp;cutting-edge technology.</p>\n<p><strong>CG14</strong>: Knowledge and understanding of computer science to create information models and complex systems and processes.</p>\n<p><strong>CG15</strong>: Capacity to contribute to the future development of computer science.</p>\n<p><strong>CG16</strong>: Ability to independently work in a professional field.</p>\n<p><strong>CG17</strong>: Management skills and ability to lead a team that can be composed of different disciplines and levels.</p>\n<p><strong>CG18</strong>:&nbsp;Ability to work and communicate in international contexts.</p>\n<p><strong>CG19</strong>: Systematic approach to risk management.</p>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tabId": "2",
+                  "title": "Specific competences<br>research",
+                  "children": [
+                    {
+                      "type": "wrapper",
+                      "id": "eb-wrapper-a45r5r0",
+                      "rootClass": false,
+                      "align": "full",
+                      "contentAlign": "center",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p><strong>CIG1</strong>: To acquire advanced scientific knowledge in the field of computer science that will allow the student to produce new ideas within a line of research.</p>\n<p><strong>CGI2</strong>:&nbsp;To understand the procedure, value and limits of the scientific method in the field of Computer Science, being able to identify, locate and obtain data required in a research work, to design and guide analytical, modeling and experimental research, as well as to evaluate data in a critical way and draw conclusions.</p>\n<p><strong>CGI3:</strong>&nbsp;Ability to value the importance of documentary sources, manage them and search information for the development of any research work.</p>\n<p><strong>CGI4:</strong>&nbsp;Ability to read and understand publications within the study/research discipline, as well as their documentation and scientific value.</p>\n<p><strong>CGI5</strong>:&nbsp;To acquire the necessary knowledge about research funding mechanisms and technology transfer, and about the existing legislation on the protection of results.</p>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tabId": "3",
+                  "title": "Specific competences<br>of Artificial Intelligence",
+                  "children": [
+                    {
+                      "type": "wrapper",
+                      "id": "eb-wrapper-07ss307",
+                      "rootClass": false,
+                      "align": "full",
+                      "contentAlign": "center",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p><strong>CEIA1</strong>: Capacity to integrate typical Artificial Intelligence technologies and systems, from a general standpoint, into wider and multidisciplinary contexts.</p>\n<p><strong>CEIA2</strong>: Capacity to connect cutting-edge technology from Artificial Intelligence to their clients’ needs.</p>\n<p><strong>CEIA3</strong>:&nbsp;Knowledge about quantitative models that support decision-making processes from different perspectives (deterministic-stochastic, individual-collective or static-dynamic), as well as about their application.</p>\n<p><strong>CEIA4</strong>: Capacity to interpret supervised and unsupervised classification approaches obtained by the application of Machine Learning techniques to data sets.</p>\n<p><strong>CEIA5</strong>:&nbsp;Knowledge about the main techniques from natural computing, both at a symbolical and physical level, and the capacity to identify their suitability for different types of problems.</p>\n<p><strong>CEIA6</strong>: Formalisation of specifications, demonstration of program properties, and design of programs through reasoning or the use of logic itself as a programming language</p>\n<p><strong>CEIA7</strong>:&nbsp;Knowledge about the reusable techniques of knowledge representation and reasoning within centralised and distributed environments in order to use them for problem solving that requires intelligent behaviour</p>\n<p><strong>CEIA8</strong>:&nbsp;Capacity to analyse problems of perception related to robot control and to determine the most appropriate technique for their solution, as well as to identify the characteristics of the acquisition equipment and to put into practice a prototype of that system.</p>\n<p><strong>CEIA9</strong>: Understanding of markets, their habits and their needs of products or services in terms of Artificial Intelligence.</p>\n<p><strong>CEIA10</strong>: Identification of application areas in which the techniques and methods related to Artificial Intelligence can be used.</p>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tabId": "4",
+                  "title": "Specific competence<br>of the Master’s final project",
+                  "children": [
+                    {
+                      "type": "wrapper",
+                      "id": "eb-wrapper-ipbycxb",
+                      "rootClass": false,
+                      "align": "full",
+                      "contentAlign": "center",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p><strong>CTFM</strong>: To prepare an individual project related to the scientific or technological field dealing with by the subjects of this master programme, summarising and including the competencies acquired during the learning process, and to defend it before a university evaluation panel.</p>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/en-objectives_competencies.css"
+}

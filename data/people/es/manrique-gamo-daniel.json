@@ -1,0 +1,104 @@
+{
+  "slug": "manrique-gamo-daniel",
+  "lang": "es",
+  "path": "/es/personal/manrique-gamo-daniel/",
+  "name": "Manrique Gamo, Daniel",
+  "wpId": 694,
+  "date": "2017-05-26T16:18:54+00:00",
+  "modified": "2024-01-13T15:08:54+00:00",
+  "tags": [
+    "profesores-titulares-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/manrique-gamo-daniel_en/",
+    "es": "/es/personal/manrique-gamo-daniel/"
+  },
+  "seo": {
+    "title": "Manrique Gamo, Daniel - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2109Web: Teléfono: +34-91-336-7437ORCID: https://orcid.org/0000-0003-2574-7568Email: dmanrique@fi.upm.esResearcherID: http://www.researcherid.com/rid/F-9625-2013Grupo de investigación: Laboratorio de Inteligencia ArtificialScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=55999150900",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/manrique.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2109"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-7437"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0003-2574-7568",
+      "href": "https://orcid.org/0000-0003-2574-7568",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "dmanrique@fi.upm.es",
+      "href": "mailto:dmanrique@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/F-9625-2013",
+      "href": "http://www.researcherid.com/rid/F-9625-2013",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Laboratorio de Inteligencia Artificial",
+      "href": "http://www.lia.upm.es/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=55999150900",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=55999150900",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png 490w, /wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  },
+  "styleVariant": "variant-3"
+}

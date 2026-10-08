@@ -1,0 +1,57 @@
+{
+  "slug": "victor-maojo-miembro-de-la-international-academy-of-health-sciences-informatics-2",
+  "lang": "es",
+  "path": "/es/victor-maojo-miembro-de-la-international-academy-of-health-sciences-informatics-2/",
+  "title": "Víctor Maojo, miembro de la International Academy of Health Sciences Informatics",
+  "wpId": 56,
+  "date": "2017-07-06T12:44:58+00:00",
+  "modified": "2023-11-23T18:52:09+00:00",
+  "author": "jcano",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Víctor Maojo, miembro de la International Academy of Health Sciences Informatics - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El catedrático de la Universidad Politécnica de Madrid y profesor del MUIA ha sido reconocido como uno de los pioneros […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/06/Maojo-ACMI_300.jpg",
+      "width": 165,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/06/Maojo-ACMI_300.jpg",
+      "width": 165,
+      "height": 220,
+      "caption": "Maojo ACMI_300"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "jcano",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El catedrático de la Universidad Politécnica de Madrid y profesor del MUIA ha sido reconocido como uno de los pioneros de la informática biomédica en todo el mundo. Un campo, el de la “medicina digital”, que en los últimos años ha transformado de manera sustancial la práctica médica.</p>\n<p><span id=\"more-56\"></span></p>\n<p class=\"rtejustify\">Víctor Maojo, catedrático de la UPM y director del&nbsp;<a href=\"http://www.gib.fi.upm.es/\">Grupo Informática Biomédica</a>, ha sido nombrado miembro fundador de la Academia Internacional de Informática de Ciencias de la Salud (<em>International Academy of Health Sciences Informatics</em>). De reciente creación, la academia aglutina a un prestigioso grupo internacional de más de cien científicos y profesionales en informática biomédica, y servirá como foro de discusión de temas relacionados con esta materia, como historias clínicas, estándares, sistemas de ayuda a la decisión, Big data, minería de textos, bioinformática y genómica, entre otros.</p>\n<p class=\"rtejustify\">El profesor Maojo ya era miembro (<em>Fellow</em>) elegido del<em>&nbsp;</em><a href=\"https://www.amia.org/programs/acmi-fellowship\">American College of Medical Informatics</a><em>&nbsp;</em>(ACMI), el equivalente americano de esta academia internacional, que ha sido promovida por la<em>&nbsp;</em><a href=\"http://imia-medinfo.org/wp/\">International Medical Informatics Association</a><em>&nbsp;</em>(IMIA).</p>\n<p class=\"rtejustify\"><a href=\"http://www.upm.es/Investigacion?id=1f030d6163acc510VgnVCM10000009c7648a____&amp;prefmt=articulo&amp;fmt=detail\">Leer más</a></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2017/06/Maojo-ACMI_300.jpg",
+    "width": 165,
+    "height": 220,
+    "alt": "Maojo ACMI_300"
+  },
+  "wordCount": 212,
+  "excerpt": "<p>El catedrático de la Universidad Politécnica de Madrid y profesor del MUIA ha sido reconocido como uno de los pioneros</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/06/Maojo-ACMI_300.jpg",
+    "width": 165,
+    "height": 220,
+    "alt": "Maojo ACMI_300"
+  }
+}

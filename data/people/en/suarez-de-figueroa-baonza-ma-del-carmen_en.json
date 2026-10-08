@@ -1,0 +1,102 @@
+{
+  "slug": "suarez-de-figueroa-baonza-ma-del-carmen_en",
+  "lang": "en",
+  "path": "/en/personal/suarez-de-figueroa-baonza-ma-del-carmen_en/",
+  "name": "Suárez de Figueroa Baonza, Mª del Carmen",
+  "wpId": 741,
+  "date": "2018-05-21T07:12:24+00:00",
+  "modified": "2024-05-02T14:58:37+00:00",
+  "tags": [
+    "associate-professors"
+  ],
+  "translations": {
+    "en": "/en/personal/suarez-de-figueroa-baonza-ma-del-carmen_en/",
+    "es": "/es/personal/suarez-de-figueroa-baonza-ma-del-carmen/"
+  },
+  "seo": {
+    "title": "Suárez de Figueroa Baonza, Mª del Carmen - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2018/05/Suarez-de-Figueroa-Baonza-M-del-Carmen.png",
+      "width": 462,
+      "height": 462,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2018/05/Suarez-de-Figueroa-Baonza-M-del-Carmen.png",
+      "width": 462,
+      "height": 462
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2018/05/Suarez-de-Figueroa-Baonza-M-del-Carmen.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Office",
+      "value": "2101"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Phone",
+      "value": "+34-91-067-2913"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0003-3807-5019",
+      "href": "https://orcid.org/0000-0003-3807-5019",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "mcsuarez@fi.upm.es",
+      "href": "mailto:mcsuarez@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/J-6277-2012",
+      "href": "http://www.researcherid.com/rid/J-6277-2012",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Research group",
+      "value": "Grupo de Ingeniería Ontológica",
+      "href": "http://www.oeg-upm.net",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "photoPrefixHtml": "&lt;",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2018/05/Suarez-de-Figueroa-Baonza-M-del-Carmen.png",
+    "width": 462,
+    "height": 462,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2018/05/Suarez-de-Figueroa-Baonza-M-del-Carmen.png 462w, /wp-content/uploads/sites/6/2018/05/Suarez-de-Figueroa-Baonza-M-del-Carmen-300x300.png 300w, /wp-content/uploads/sites/6/2018/05/Suarez-de-Figueroa-Baonza-M-del-Carmen-150x150.png 150w",
+    "sizes": "(max-width: 462px) 100vw, 462px"
+  },
+  "styleVariant": "variant-1"
+}

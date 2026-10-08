@@ -1,0 +1,136 @@
+{
+  "lang": "es",
+  "ariaLabel": "Navegación del sitio: main-menu",
+  "items": [
+    {
+      "id": 807,
+      "label": "Presentación",
+      "url": "/es/",
+      "kind": "page",
+      "children": [
+        {
+          "id": 770,
+          "label": "Objetivos y competencias",
+          "url": "/es/objetivos_competencias/",
+          "kind": "page"
+        },
+        {
+          "id": 782,
+          "label": "Profesorado",
+          "url": "/es/profesorado_tutorias/",
+          "kind": "page"
+        },
+        {
+          "id": 4199,
+          "label": "Preguntas frecuentes",
+          "url": "/es/#faq_generales",
+          "kind": "custom"
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "label": "Estructura",
+      "url": "/es/estructura/",
+      "kind": "page",
+      "children": [
+        {
+          "id": 2243,
+          "label": "Asignaturas y seminarios",
+          "url": "/es/estructura/#asignaturas_seminarios",
+          "kind": "custom"
+        },
+        {
+          "id": 2249,
+          "label": "Planificación de las enseñanzas",
+          "url": "/es/estructura/#planificacion_enseñanzas",
+          "kind": "custom"
+        },
+        {
+          "id": 5013,
+          "label": "Trabajo Fin de Máster",
+          "url": "/es/estructura/#trabajo_fin_de_master",
+          "kind": "custom"
+        },
+        {
+          "id": 5014,
+          "label": "Solicitud del título",
+          "url": "/es/estructura/#solicitud_del_titulo",
+          "kind": "custom"
+        },
+        {
+          "id": 5015,
+          "label": "FAQs Estructura del MUIA",
+          "url": "/es/estructura/#faq_estructura",
+          "kind": "custom"
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "label": "Horarios",
+      "url": "/es/horarios/",
+      "kind": "page"
+    },
+    {
+      "id": 771,
+      "label": "Admisión",
+      "url": "/es/admision_y_matricula/",
+      "kind": "page"
+    },
+    {
+      "id": 774,
+      "label": "Calidad",
+      "url": "/es/calidad/",
+      "kind": "page",
+      "children": [
+        {
+          "id": 6099,
+          "label": "Sistema de garantía de calidad",
+          "url": "/es/calidad/#sistema-garantia-calidad",
+          "kind": "custom"
+        },
+        {
+          "id": 6100,
+          "label": "Acreditaciones y sello Euro-Inf",
+          "url": "/es/calidad/#acreditaciones-sello-euro-inf",
+          "kind": "custom"
+        }
+      ]
+    },
+    {
+      "id": 6368,
+      "label": "Noticias",
+      "url": "/es/category/noticias-es/",
+      "kind": "category",
+      "children": [
+        {
+          "id": 6370,
+          "label": "Noticias destacadas",
+          "url": "/es/category/noticias-es/noticias-destacadas/",
+          "kind": "category"
+        },
+        {
+          "id": 6369,
+          "label": "Actualidad",
+          "url": "/es/category/noticias-es/actualidad-es/",
+          "kind": "category"
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "label": "Contacto",
+      "url": "/es/gestion/",
+      "kind": "page"
+    }
+  ],
+  "languageSwitcher": {
+    "targetLang": "en",
+    "itemId": "904-en",
+    "termId": 4,
+    "hreflang": "en-US",
+    "label": "English",
+    "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg=="
+  }
+}

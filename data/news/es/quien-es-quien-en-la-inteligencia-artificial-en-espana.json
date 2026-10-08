@@ -1,0 +1,55 @@
+{
+  "slug": "quien-es-quien-en-la-inteligencia-artificial-en-espana",
+  "lang": "es",
+  "path": "/es/quien-es-quien-en-la-inteligencia-artificial-en-espana/",
+  "title": "Quién es quién en la inteligencia artificial en España",
+  "wpId": 268,
+  "date": "2021-02-18T10:21:10+00:00",
+  "modified": "2023-11-23T18:21:47+00:00",
+  "author": "admin",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Quién es quién en la inteligencia artificial en España - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "La revista Corporate ha publicado un artículo acerca de la Inteligencia Artificial en España, donde se habla sobre la importancia de la formación en […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2021/02/oscaryasuncion.png",
+      "width": 220,
+      "height": 147,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2021/02/oscaryasuncion.png",
+      "width": 220,
+      "height": 147,
+      "caption": "oscaryasuncion"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "admin"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">La revista Corporate&nbsp;ha publicado un artículo acerca de la&nbsp;Inteligencia&nbsp;Artificial en España, donde se habla sobre&nbsp;la importancia de la formación en IA y algunas referencias (aunque no completas) a nuestros grados y másters.&nbsp;</p>\n<p class=\"rtejustify\">En el mismo se hace mención a dos profesores del MUIA&nbsp;como parte importante del artículo, Óscar Corcho García y Asunción&nbsp;Gómez Pérez.</p>\n<p class=\"rtejustify\">&nbsp;</p>\n<p><a href=\"https://www.corporate.es/6704-2/\">Link del acticulo</a></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2021/02/oscaryasuncion.png",
+    "width": 220,
+    "height": 147,
+    "alt": "oscaryasuncion"
+  },
+  "wordCount": 92,
+  "excerpt": "<p>La revista Corporate&nbsp;ha publicado un artículo acerca de la&nbsp;Inteligencia&nbsp;Artificial en España, donde se habla sobre&nbsp;la importancia de la formación en</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2021/02/oscaryasuncion.png",
+    "width": 220,
+    "height": 147,
+    "alt": "oscaryasuncion"
+  }
+}

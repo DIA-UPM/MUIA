@@ -1,0 +1,104 @@
+{
+  "slug": "valle-fernandez-roberto",
+  "lang": "en",
+  "path": "/en/personal/valle-fernandez-roberto/",
+  "name": "Valle Fernández, Roberto",
+  "wpId": 5557,
+  "date": "2023-10-05T20:24:33+00:00",
+  "modified": "2024-01-13T03:20:45+00:00",
+  "tags": [
+    "lecturers"
+  ],
+  "translations": {
+    "en": "/en/personal/valle-fernandez-roberto/",
+    "es": "/es/personal/valle-fernandez-roberto-es/"
+  },
+  "seo": {
+    "title": "Valle Fernández, Roberto - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2023/10/RobertoValle-e1696537433644.jpeg",
+      "width": 250,
+      "height": 250,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/Roberto-Valle.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Roberto-Valle.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Office",
+      "value": "2101"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "https://bobetocalo.github.io/",
+      "href": "https://bobetocalo.github.io/",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Phone",
+      "value": "+34-91-067-289"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0003-1423-1478",
+      "href": "https://orcid.org/0000-0003-1423-1478",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "rvalle@fi.upm.es",
+      "href": "mailto:rvalle@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Research group",
+      "value": "Visión por computador y robótica aérea",
+      "href": "https://portalcientifico.upm.es/es/ipublic/entity/16167",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=57190189506",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=57190189506",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "photoPrefixHtml": "&lt;",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Roberto-Valle.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/Roberto-Valle.png 490w, /wp-content/uploads/sites/6/2023/10/Roberto-Valle-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/Roberto-Valle-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  },
+  "styleVariant": "variant-1"
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ L.locale }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+{{ head | safe -}}
+{% for href in stylesheets %}<link rel="stylesheet" href="{{ href }}" media="all">
+{% endfor -%}
+<link rel="icon" href="{{ site.favicon }}" sizes="32x32">
+<link rel="icon" href="{{ site.favicon }}" sizes="192x192">
+<link rel="apple-touch-icon" href="{{ site.favicon }}">
+<meta name="msapplication-TileImage" content="{{ site.favicon }}">
+<noscript><style>
+/* Without JavaScript the entrance animations never start: show the content. */
+body .eb_animation { visibility: visible !important; opacity: 1 !important; }
+</style></noscript>
+</head>
+<body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="{{ bodyClass }}">
+<a
+class="skip-link screen-reader-text"
+href="#content"
+title="{{ L.strings.skipLinkTitle }}">
+{{ L.strings.skipLink }}</a>
+<div
+class="hfeed site" id="page">
+{% include "partials/header.njk" %}<!-- #masthead -->
+{% block main %}{% endblock %}
+{% include "partials/mobile-popup.njk" %}
+{% include "partials/footer.njk" %}
+</div><!-- #page -->
+{% include "partials/duotone-svg.njk" %}
+<div id="ast-scroll-top" tabindex="0" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both">
+{{ arrow | safe }}	<span class="screen-reader-text">{{ L.strings.scrollTop }}</span>
+</div>
+<script>
+{{ inlineConfig | safe }}
+</script>
+{% for src in scripts %}<script src="{{ src }}"></script>
+{% endfor -%}
+</body>
+</html>

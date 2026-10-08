@@ -1,0 +1,913 @@
+{
+  "slug": "home",
+  "lang": "es",
+  "path": "/es/",
+  "title": "Portada",
+  "wpId": 527,
+  "date": "2023-09-12T11:40:05+00:00",
+  "modified": "2024-09-11T10:42:40+00:00",
+  "translations": {
+    "en": "/en/",
+    "es": "/es/"
+  },
+  "seo": {
+    "title": "Máster Universitario en Inteligencia Artificial - UPM",
+    "description": "El Máster Universitario en Inteligencia Artificial lo imparte el Departamento de Inteligencia Artificial (DIA) de la ETSI inf. de la UPM",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2023/09/Robot-en-carrera-transparente.png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/09/Robot-en-carrera-transparente.png"
+    },
+    "extraSchema": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\": \"¿Cuál es la duración del MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"La duración del MUIA es de dos semestres, es decir, un curso académico. El primero de ellos se dedica a la impartición de asignaturas, de las que el alumno debe cursar 7, y el segundo a seminarios, a los que el alumno debe asistir al menos a 6, y al desarrollo del trabajo fin de máster.\"}},{\"@type\":\"Question\",\"name\": \"¿El MUIA es presencial?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"El MUIA es presencial, aunque el segundo semestre, correspondiente a seminarios y desarrollo y defensa del Trabajo Fin de Máster, cabe la posibilidad de desarrollarse parcialmente mediante videoconferencia, por causas debidamente justificadas.\"}},{\"@type\":\"Question\",\"name\": \"¿En qué idioma se imparte el MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Las lenguas utilizadas en la impartición del MUIA son el castellano (español) y el inglés. Las asignaturas y seminarios que se ofertan en inglés se indican aquí. Las asignaturas ofertadas en inglés se impartirán en dicho idioma siempre que haya algún alumno matriculado en las mismas que no hable castellano; en caso contrario, si todos los alumnos son castellano parlantes, podrá impartirse en castellano. Es importante saber que no se puede cursar la totalidad del MUIA sin un buen conocimiento del castellano.\"}},{\"@type\":\"Question\",\"name\": \"¿Cuánto cuesta cursar el MUIA completo?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Consulta esta página.\"}},{\"@type\":\"Question\",\"name\": \"¿Qué tipo de becas hay disponibles para la realización del MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"El Departamento de Inteligencia Artificial convoca de forma anual los Premios José Cuena, destinados a estudiantes de nuevo ingreso en el MUIA. Previa solicitud, pueden optar a este premio estudiantes de cualquier nacionalidad, matriculados a tiempo completo, que hayan aprobado las 7 asignaturas del primer semestre, hayan obtenido las calificaciones más altas (media de las 7 calificaciones).De manera adicional, ocasionalmente los grupos de investigación a los que pertenecen los profesores del máster convocan becas asociadas a proyectos de investigación en los que participan, que permiten a los alumnos realizar su trabajo fin de máster y/o su posterior tesis doctoral con financiación.Para más información sobre becas y ayudas, consulta también esta página\"}},{\"@type\":\"Question\",\"name\": \"¿Qué salidas profesionales tiene el MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Aunque el MUIA es un máster de investigación y constituye el periodo formativo del Doctorado en Inteligencia Artificial, ésta no es la única salida del máster, siendo la salida profesional en empresas y centros o institutos de I+D+i una alternativa por la que se han decantado numerosos alumnos del posgrado del DIA.\"}},{\"@type\":\"Question\",\"name\": \"¿El MUIA constituye el periodo formativo del Doctorado en IA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Sí, el MUIA está asociado al Programa de Doctorado en Inteligencia Artificial por la UPM, que supone la adaptación al Espacio Europeo de Educación Superior del programa de doctorado que se venía impartiendo hasta el curso académico 2009-10.\"}},{\"@type\":\"Question\",\"name\": \"¿Qué actividad investigadora desarrolla el DIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Consulta la página oficial del Departamento de Inteligencia Artificial (DIA) sobre su actividad investigadora.\"}},{\"@type\":\"Question\",\"name\": \"¿Cuál es la normativa de permanencia en el MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"En aquellas situaciones en las que el alumno haya agotado los 3 cursos académicos y desee continuar sus estudios de máster, debe presentar una solicitud a la Comisión Académica del Máster Universitario en Inteligencia Artificial, que analizará la situación del alumno y elevará su solicitud a la Comisión de Ordenación Académica de la ETS de Ingenieros Informáticos.Se incluye también la exigencia de que el alumno supere al menos 15 ECTS el primer año, y al menos 45 ECTS en los dos primeros años de matriculación.En todo caso, las normas de permanencia del Máster se atendrán a la normativa establecida por la Universidad Politécnica de Madrid para el régimen de permanencia en las titulaciones de Máster Universitario.\"}},{\"@type\":\"Question\",\"name\": \"¿Está adaptado el MUIA al Espacio Europeo de Educación Superior?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Efectivamente, el MUIA supone la adaptación al Espacio Europeo de Educación Superior (EEES) del Máster de Investigación en Inteligencia Artificial, que se venía impartiendo desde el curso académico 2006-2007. El MUIA fue verificado positivamente por primera vez en la ANECA, el 13 de Enero de 2010 y desde entonces se imparte de manera ininterrumpida.\"}}]}"
+    ]
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-wyvf921",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-tf55e2v",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-u3cd53x",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-cl49nvl",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Impulsa tu carrera con seguridad"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-hk21e6i",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h1",
+                      "html": "Máster Universitario <br>en Inteligencia<br>Artificial&nbsp;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-564ad6w",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-hkqdi6m",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2023/09/Robot-en-carrera-transparente.png",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-xo9frv5",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-8svbxv0",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2023/08/Logo-politecnica-blanco.png",
+                  "alt": ""
+                },
+                {
+                  "type": "advanced-video",
+                  "id": "eb-advanced-video-6u9azvj",
+                  "lightbox": "none",
+                  "url": "https://youtu.be/CKycvwF1hXc?si=PKVp6xFkgS-P7MNN",
+                  "controls": false,
+                  "loop": false,
+                  "muted": true,
+                  "autoplay": true,
+                  "poster": "/wp-content/uploads/sites/6/2023/08/Portada-video.jpg",
+                  "playIcon": "fas fa-play-circle",
+                  "playIconImage": "/assets/vendor/essential-blocks/assets/images/adv-video-playicon.svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-u1o5j35",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-sofavev",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-5d0ljc7",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-bef9bxb",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2017/05/euroinfMII1024x326.jpg",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-ptm08fh",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-4iqk0cn",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "La Etiqueta de Calidad Euro-Inf es un marco basado en resultados que proporciona una referencia de calidad para títulos de Grado y Máster en Informática de acuerdo con criterios académicos y profesionales."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-0nw5vjk",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-l05zata",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2018/02/Centro-IDi-e1695493447170.png",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-jz6dpou",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-1bq7kih",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Los alumnos pueden experimentar la actividad investigadora con los grupos de investigación del DIA y el centro de I+D+i en IA de la UPM, AI.nnovation Space."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-3xtnt6g",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-tb8wq13",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2023/08/Ranking-El-Mundo-e1695492847930.jpeg",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-6yax03z",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-stu2p3x",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Reconocido en el ranking de mejores másteres de España en informática especializada, publicado por el periódico El Mundo, entre los tres mejores durante catorce ediciones. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-yvn6u2g",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-5u9eom1",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-fz4vnoy",
+              "children": [
+                {
+                  "type": "number-counter",
+                  "id": "eb-counter-rm58rz0",
+                  "title": "Año académico",
+                  "target": "1",
+                  "start": "0",
+                  "duration": "1000",
+                  "separator": ",",
+                  "showSeparator": "true"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-t3hjgjv",
+              "children": [
+                {
+                  "type": "number-counter",
+                  "id": "eb-counter-4ndat9j",
+                  "title": "Créditos ECTS",
+                  "target": "60",
+                  "start": "0",
+                  "duration": "1000",
+                  "separator": ",",
+                  "showSeparator": "true"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-ibtg4eq",
+              "children": [
+                {
+                  "type": "number-counter",
+                  "id": "eb-counter-yzxg750",
+                  "title": "Plazas",
+                  "target": "60",
+                  "start": "0",
+                  "duration": "1000",
+                  "separator": ",",
+                  "showSeparator": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-iesqzxb",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-3jl685a",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-jkasl7n",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Un máster con <br>orientación <br>investigadora"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-1vae3fj",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-6wcbcqu",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "p",
+                      "html": "Organizado e impartido por el <a href=\"https://dia.fi.upm.es/\" target=\"_blank\" rel=\"noreferrer noopener\">Departamento de Inteligencia Artificial&nbsp; (DIA)</a>, forma parte de la oferta de postgrado de la Escuela Técnica Superior de Ingenieros Informáticos&nbsp;de la Universidad Politécnica de Madrid. Con una orientación investigadora, comenzó a impartirse en el curso académico 2010/11, y proporciona una formación de calidad en diversos campos de investigación actuales en inteligencia artificial."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-4e60l",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-ax9gk",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-c2qot",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/Sergio-Cavero-Dias-e1704658424499.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h6",
+                  "title": "«The teachers were really relevant in the area of artificial intelligence»"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-s52fj",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "separator",
+                      "style": "line"
+                    },
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Sergio Cavero "
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Premio José Cuena, mejor TFM"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-sqf4j",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-al0f4",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2024/01/Maria-Navas-Lobo.jpeg",
+                    "alt": ""
+                  },
+                  "titleTag": "h6",
+                  "title": "«Estuve mirando varios másteres en inteligencia artificial y era el más general»"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-yr9ul",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "separator",
+                      "style": "line"
+                    },
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "María Navas "
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Investigadora post-doctoral"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-rigwv",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-xsagd",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/Maria-Navas-Lobo.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h6",
+                  "title": "«Muchos de mis compañeros están en empresas muy punteras y muy contentos»"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-tkmyl",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "separator",
+                      "style": "line"
+                    },
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Elvira Amador"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Investigadora post-doctoral"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-w3uxanr",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-vohmc2t",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-xwjywag",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Acceso al doctorado"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-67gx00k",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-fvwhub1",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h3",
+                      "html": "El Máster Universitario en Inteligencia Artificial (MUIA) constituye el periodo de formación asociado al&nbsp;programa de <a href=\"https://dia.fi.upm.es/doctoradoia/\">Doctorado en Inteligencia Artificial por la UPM</a>, por lo que los alumnos que lo cursen tiene la posibilidad de acceder directamente a dicho programa."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-re9srhu",
+      "align": "full",
+      "anchor": "faq_generales",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-chj48xh",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-w3qq0z5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-g7t8tyc",
+                  "animation": "slideInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h3",
+                      "html": "FAQ generales sobre el MUIA"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Puedes acceder a más preguntas frecuentes específicas en los siguientes enlaces:"
+                    }
+                  ]
+                },
+                {
+                  "type": "feature-list",
+                  "id": "eb-feature-list-ue3xn3a",
+                  "wrapperClass": "eb-icon-position-left eb-tablet-icon-position-left eb-mobile-icon-position-left eb-feature-list-left",
+                  "listClass": "circle stacked",
+                  "titleTag": "h3",
+                  "items": [
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--eb-global-button-text-color)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/es/admision_y_matricula/#faq_admision",
+                      "title": "Sobre el acceso a la admisión",
+                      "content": "Encontrarás respuestas sobre el número de plazas y los periodos de inscripción, la titulación que necesitas y los criterios de admisión, así como los trámites a seguir."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/estructura/#faq_estructura",
+                      "title": "Sobre la estructura del Máster",
+                      "content": "Conocerás todo lo que necesitas sobre la estructura del máster, sus asignaturas y seminarios, el desarrollo del TFM y cómo se realiza la defensa del mismo."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/es/gestion/#faqs-students-outside-madrid",
+                      "title": "Para alumnos de fuera de Madrid",
+                      "content": "Si eres un alumno que proviene de fuera de la ciudad de Madrid, encontrarás información sobre dónde encontrar alojamiento o sobre la documentación para tu visado."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-l1impt9",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-q6hw06h",
+                  "animation": "zoomIn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-angle-down",
+                  "expandedIcon": "fas fa-angle-up",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-4eios",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "¿Cuál es la duración del MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-f7zjx",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "La duración del MUIA es de dos semestres, es decir, <strong>un curso académico</strong>. El primero de ellos se dedica a la impartición de asignaturas, de las que el alumno debe cursar 7, y el segundo a seminarios, a los que el alumno debe asistir al menos a 6, y al desarrollo del trabajo fin de máster."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u6eljqt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>¿El MUIA es presencial?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-xwdod12",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "El MUIA es presencial, aunque el <strong>segundo semestre</strong>, correspondiente a seminarios y desarrollo y defensa del Trabajo&nbsp;Fin de Máster, cabe la posibilidad de desarrollarse parcialmente&nbsp;mediante <strong>videoconferencia, por causas debidamente justificadas</strong>."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-2cynjuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>¿En qué idioma se imparte el MUIA?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-diyjtab",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Las lenguas utilizadas en la impartición del MUIA son el <strong>castellano</strong>&nbsp;(español) y el <strong>inglés</strong>. Las asignaturas y seminarios que se ofertan en inglés se indican <a href=\"/es/estructura/#asignaturas_seminarios\">aquí</a>. <br><br>Las asignaturas ofertadas en inglés se impartirán en dicho idioma siempre que haya algún alumno matriculado en las mismas que no hable castellano;&nbsp;en caso contrario, si todos los alumnos son castellano parlantes, podrá impartirse&nbsp;en castellano. Es importante saber que&nbsp;<strong>no se puede</strong>&nbsp;cursar la totalidad del MUIA sin un buen conocimiento del castellano."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-s8tg4ws",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>¿Cuánto cuesta cursar el MUIA completo?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-7oslr5m",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Consulta esta <a rel=\"noreferrer noopener\" href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Matricula\" target=\"_blank\">página</a>."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-fmjpygc",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>¿Qué tipo de becas hay disponibles para la realización del MUIA?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-y3ckrh2",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "El Departamento de Inteligencia Artificial convoca de forma anual los Premios José Cuena, destinados a <strong>estudiantes de nuevo ingreso en el MUIA</strong>. Previa solicitud, pueden optar a este premio estudiantes de cualquier nacionalidad, matriculados a tiempo completo, que hayan aprobado las 7 asignaturas del primer semestre, hayan obtenido las calificaciones más altas (media de las 7 calificaciones).<br><br>De manera adicional, ocasionalmente los grupos de investigación a los que pertenecen los profesores del máster convocan becas asociadas a proyectos de investigación en los que participan, que permiten a los alumnos realizar su trabajo&nbsp;fin de máster y/o su posterior tesis doctoral con financiación.<br><br>Para más información sobre becas y ayudas, consulta también esta <a href=\"https://www.upm.es/Estudiantes/BecasAyudasPremios\" target=\"_blank\" rel=\"noreferrer noopener\">página</a>"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wy4cyhj",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Qué salidas profesionales tiene el MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-jjxwwef",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Aunque el MUIA es un máster de investigación y constituye el periodo formativo del Doctorado en Inteligencia Artificial, ésta no es la única salida del máster, siendo la salida profesional en empresas y centros o institutos de I+D+i una alternativa por la que se han decantado numerosos alumnos del posgrado del DIA."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-crxx32g",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>¿El MUIA constituye el periodo formativo del Doctorado en IA</strong>?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-wzc7nyk",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Sí, el MUIA está asociado al&nbsp;<strong><em>Programa de Doctorado en Inteligencia Artificial por la UPM</em></strong>, que supone la adaptación al Espacio Europeo de Educación Superior del programa de doctorado que se venía impartiendo hasta el curso académico 2009-10."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ny88yrk",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>¿Qué actividad investigadora desarrolla el DIA?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-3xt6d8i",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Consulta la <strong><a href=\"https://dia.fi.upm.es/investigacion_dia/\">página oficial</a> </strong>del Departamento de Inteligencia Artificial (DIA) sobre su actividad investigadora."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-hgm9kuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>¿Cuál es la normativa de permanencia en el MUIA?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-j2tvora",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "En aquellas situaciones en las que el alumno haya agotado los 3 cursos académicos y desee continuar sus estudios de máster, debe presentar una solicitud a la Comisión Académica del Máster Universitario en Inteligencia Artificial, que analizará la situación del alumno y elevará su solicitud a la Comisión de Ordenación Académica de la ETS de Ingenieros Informáticos.<br><br>Se incluye también la exigencia de que el alumno supere al menos 15 ECTS el primer año, y al menos 45 ECTS en los dos primeros años de matriculación.<br><br>En todo caso, las normas de permanencia del Máster se atendrán a la normativa establecida por la Universidad Politécnica de Madrid para el régimen de permanencia en las titulaciones de Máster Universitario."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-zue7frw",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Está adaptado el MUIA al Espacio Europeo de Educación Superior?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-mieusxc",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Efectivamente, el MUIA supone la adaptación al Espacio Europeo de Educación Superior (EEES) del Máster de Investigación en Inteligencia Artificial, que se venía impartiendo desde el curso académico 2006-2007. El MUIA fue verificado positivamente por primera vez en la ANECA, el 13 de Enero de 2010 y desde entonces se imparte de manera ininterrumpida."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-v1skgiz",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-r8058zv",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "advanced-heading",
+              "id": "eb-advance-heading-wuol4hq",
+              "anchor": "cta_section",
+              "animation": "zoomIn",
+              "preset": "button-1",
+              "parts": [
+                {
+                  "part": "title",
+                  "tag": "h2",
+                  "html": "Conoce los objetivos  y competencias específicas del Máster"
+                },
+                {
+                  "part": "subtitle",
+                  "tag": "p",
+                  "html": "El objetivo general del Máster Universitario en Inteligencia Artificial es<strong> preparar al alumno para la innovación en el área de la Inteligencia Artificial, en dos sentidos: la creación de técnicas y métodos innovadores en la propia área de investigación de la Inteligencia Artificial y la incorporación de esas técnicas y métodos a la realidad social y empresarial, creando procesos y soluciones informáticas innovadoras.</strong>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "dual-button",
+          "id": "eb-button-group-p45i4un",
+          "preset": "button-1",
+          "buttons": [
+            {
+              "text": "Objetivos",
+              "href": "/es/objetivos_competencias/#objetivos",
+              "rel": "noopener"
+            },
+            {
+              "text": "Competencias ",
+              "href": "/es/objetivos_competencias/#competencias",
+              "rel": "noopener"
+            }
+          ],
+          "connector": {
+            "icon": "fas fa-arrows-alt-h"
+          }
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-s2msowq",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-ruxmnwh",
+          "align": "full",
+          "anchor": "blog-post-section",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-3x49d3b",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-4iabuxm",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Noticias destacadas"
+                    }
+                  ]
+                },
+                {
+                  "type": "row",
+                  "id": "eb-row-hh3ewju",
+                  "align": "full",
+                  "children": [
+                    {
+                      "type": "column",
+                      "id": "eb-column-4i4cd10",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "row",
+                  "id": "eb-row-32znkj8",
+                  "align": "full",
+                  "animation": "zoomIn",
+                  "children": [
+                    {
+                      "type": "column",
+                      "id": "eb-column-h8eytgk",
+                      "children": [
+                        {
+                          "type": "post-grid",
+                          "id": "eb-post-grid-oc6mq1b",
+                          "rootFirst": true,
+                          "preset": "style-4",
+                          "source": "news",
+                          "categories": [
+                            "noticias-destacadas"
+                          ],
+                          "orderBy": "date",
+                          "order": "desc",
+                          "perPage": 9,
+                          "pagination": true,
+                          "showThumbnail": false,
+                          "showTaxonomyFilter": false,
+                          "showMeta": false,
+                          "titleTag": "h2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isHome": true,
+  "stylesheet": "blocks/pages/es-home.css"
+}

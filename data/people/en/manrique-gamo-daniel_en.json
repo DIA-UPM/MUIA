@@ -1,0 +1,104 @@
+{
+  "slug": "manrique-gamo-daniel_en",
+  "lang": "en",
+  "path": "/en/personal/manrique-gamo-daniel_en/",
+  "name": "Manrique Gamo, Daniel",
+  "wpId": 725,
+  "date": "2017-05-26T16:18:54+00:00",
+  "modified": "2024-01-13T03:11:21+00:00",
+  "tags": [
+    "associate-professors"
+  ],
+  "translations": {
+    "en": "/en/personal/manrique-gamo-daniel_en/",
+    "es": "/es/personal/manrique-gamo-daniel/"
+  },
+  "seo": {
+    "title": "Manrique Gamo, Daniel - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/manrique.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Office",
+      "value": "2109"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Phone",
+      "value": "+34-91-336-7437"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0003-2574-7568",
+      "href": "https://orcid.org/0000-0003-2574-7568",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "dmanrique@fi.upm.es",
+      "href": "mailto:dmanrique@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/F-9625-2013",
+      "href": "http://www.researcherid.com/rid/F-9625-2013",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Research group",
+      "value": "Laboratorio de Inteligencia Artificial",
+      "href": "http://www.lia.upm.es/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=55999150900",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=55999150900",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "photoPrefixHtml": "&lt;",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel.png 490w, /wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/manrique-gamo-daniel-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  },
+  "styleVariant": "variant-1"
+}

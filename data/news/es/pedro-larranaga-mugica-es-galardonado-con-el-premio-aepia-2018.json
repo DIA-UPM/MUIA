@@ -1,0 +1,57 @@
+{
+  "slug": "pedro-larranaga-mugica-es-galardonado-con-el-premio-aepia-2018",
+  "lang": "es",
+  "path": "/es/pedro-larranaga-mugica-es-galardonado-con-el-premio-aepia-2018/",
+  "title": "Pedro Larrañaga Múgica es galardonado con el premio AEPIA 2018",
+  "wpId": 80,
+  "date": "2017-12-20T18:01:42+00:00",
+  "modified": "2023-11-23T18:49:54+00:00",
+  "author": "jcano",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Pedro Larrañaga Múgica es galardonado con el premio AEPIA 2018 - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "La Asociación Española de Inteligencia Artificial (AEPIA) ha otorgado el Premio AEPIA 2018 al profesor del MUIA Pedro Larrañaga Múgica. […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/12/Pedro.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/12/Pedro.jpg",
+      "width": 176,
+      "height": 220,
+      "caption": "Pedro"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "jcano",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "2 minutos"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">La Asociación Española de Inteligencia Artificial (AEPIA) ha otorgado el Premio AEPIA 2018 al profesor del MUIA Pedro Larrañaga Múgica.</p>\n<p><span id=\"more-80\"></span></p>\n<p class=\"rtejustify\">Catedrático de Ciencias de la Computación e Inteligencia Artificial en la Universidad Politécnica de Madrid desde 2007, Pedro Larrañaga ha sido distinguido con el Premio de la&nbsp;<a href=\"http://www.aepia.org/aepia/\">Asociación Española de Inteligencia Artificial (AEPIA)</a>&nbsp;en su edición 2018. Este galardón supone un reconocimiento a las personas cuya “trayectoria científica, docente y organizativa en el área de la Inteligencia Artificial es muy destacada, tanto en el esfuerzo e interés por la promoción de esta disciplina como por sus conocimientos y méritos”.</p>\n<p class=\"rtejustify\">Antes de trasladarse a la UPM, su carrera académica se ha desarrollado en la Universidad del País Vasco (UPV-EHU) como profesor asociado, profesor titular y catedrático. Su campo de investigación es el Aprendizaje Automático, donde llama la atención la amplitud y profundidad de sus trabajos refrendados por publicaciones en las revistas más prestigiosas del campo. Ha hecho contribuciones metodológicas muy relevantes en Redes Bayesianas y Computación Evolutiva, así como en aplicaciones en Bioinformática y Neurociencia. Asimismo, Pedro Larrañaga pertenece al Departamento de Inteligencia Artificial de la Escuela Técnica Superior de Ingenieros Informáticos.</p>\n<p class=\"rtejustify\">En la trayectoria de Pedro Larrañaga cabe destacar su papel como organizador de grupos de investigación. Fue el fundador del Intelligent Systems Group en UPV-EHU y del Computational Intelligence Group en UPM. El Profesor Larrañaga ha sido miembro de numerosos Comités de Programas en los más prestigiosos Congresos internacionales de su especialidad y ha sido miembro del Comité Editorial de revistas muy importantes en Aprendizaje Automático. Asimismo, el profesor Larrañaga ha sido Gestor del Plan Nacional de Proyectos de Investigación en el área de Informática durante el periodo 2007-2010, y miembro de la Comisión Nacional Evaluadora de la Actividad Investigadora (CNEAI) en los años 2010-2011</p>\n<p class=\"rtejustify\">Ha publicado más de 150 artículos en revistas de factor de impacto y ha supervisado más de 20 tesis de doctorado. Es follow electo de la European Coordinating Committe for Artificial Intelligence desde 2012 y ha sido galardonado con el Premio Nacional de Informática 2013 que entrega la Sociedad Científica Informática de España.</p>\n<p class=\"rtejustify\">El premio AEPIA 2018 se le entregará al profesor Larrañaga durante la celebración de la Conferencia Española de Inteligencia Artificial (CAEPIA), que tendrá lugar en Granada en el mes de octubre de 2018.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2017/12/Pedro.jpg",
+    "width": 176,
+    "height": 220,
+    "alt": "Pedro"
+  },
+  "wordCount": 436,
+  "excerpt": "<p>La Asociación Española de Inteligencia Artificial (AEPIA) ha otorgado el Premio AEPIA 2018 al profesor del MUIA Pedro Larrañaga Múgica.</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/12/Pedro.jpg",
+    "width": 176,
+    "height": 220,
+    "alt": "Pedro"
+  }
+}

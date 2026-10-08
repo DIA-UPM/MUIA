@@ -1,0 +1,827 @@
+{
+  "slug": "admision_y_matricula",
+  "lang": "es",
+  "path": "/es/admision_y_matricula/",
+  "title": "Admisión y matrícula",
+  "wpId": 311,
+  "date": "2016-11-11T10:59:07+00:00",
+  "modified": "2024-06-24T13:10:08+00:00",
+  "translations": {
+    "en": "/en/access_admission_registration/",
+    "es": "/es/admision_y_matricula/"
+  },
+  "seo": {
+    "title": "Admisión y matrícula - Máster Universitario en Inteligencia Artificial",
+    "twitter": {
+      "twitter:label1": "Tiempo de lectura",
+      "twitter:data1": "12 minutos"
+    },
+    "extraSchema": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\": \"¿Existe un número limitado de plazas de nuevo ingreso?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"El número de plazas para alumnos de nuevo ingreso será de 60 (dato de 2023-2024) (web UPM)\"}},{\"@type\":\"Question\",\"name\": \"¿Cuál es el periodo de preinscripción del MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Consulta el calendario UPM.\"}},{\"@type\":\"Question\",\"name\": \"¿Se puede ingresar en el máster en Febrero?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"No se permite el ingreso de nuevos alumnos en el MUIA en el segundo semestre (febrero).\"}},{\"@type\":\"Question\",\"name\": \"¿Qué titulación se necesita para poder cursar el MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Para aquellos estudiantes que quieran comenzar sus estudios en la titulación de Máster Universitario en Inteligencia Artificial, se recomienda el perfil de ingreso siguiente. Se requiere que el título que ostente el candidato sea de Informática o equivalente:- Grado en Ingeniería Informática,- Grado en Informática y Matemáticas,- Grado en Ingeniería del Software,- Grado en Sistemas de Información- Grado en Ingeniería de Computadores,- Grado en Ciencia de Datos e Inteligencia Artificial…o afín:- Cualquier grado desarrollado en el ámbito de la ingeniería con un perfil tecnológico predominante (telecomunicaciones, informática biomédica, etc.)- Grados en Matemáticas o Físicas con especialidad en ComputaciónPara aquellas titulaciones anteriores a la implantación del EEES se requerirá la titulación académica de licenciado, ingeniero técnico o ingeniero superior que equivalga a los títulos mencionados anteriormente.\"}},{\"@type\":\"Question\",\"name\": \"¿Qué criterios se utilizan para la selección y admisión de alumnos en el MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Los elementos de referencia que considerará la Comisión Académica del Máster Universitario en Inteligencia Artificial (CAMIA) en el proceso de selección de los alumnos serán: la universidad de procedencia, la titulación cursada, el curriculum vitae y el expediente académico. \"}},{\"@type\":\"Question\",\"name\": \"Si necesito una carta de preadmisión para solicitar una beca para cursar el MUIA, ¿a quién debo dirigirme?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Para solicitar una carta de preadmisión en el MUIA, el alumno deberá dirigirse a la Secretaría Administrativa del MUIA (masteria.dia@fi.upm.es). Una vez que se verifique que el alumno cumple los requisitos de acceso y que la documentación aportada en la preinscripción es correcta y completa, se remitirá la carta de preadmisión al alumno vía correo ordinario y electrónico.Dicha carta no asegura la admisión del alumno, el cual deberá superar un proceso de selección en el caso de que la demanda supere el número de plazas ofertadas de nuevo ingreso en el curso académico correspondiente. \"}},{\"@type\":\"Question\",\"name\": \"¿Qué son los complementos formativos?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Los alumnos de nuevo ingreso con una titulación que no sea de informática sino afín (Ingeniero Técnico Superior en Telecomunicaciones, Ingeniero Técnico en Telecomunicaciones, Ingeniero Técnico Superior en Industriales, Ingeniero Técnico Industrial, Licenciado en Matemáticas, en Físicas o en alguna especialidad en computación) deberán cursar hasta 12 ECTS de complementos formativos.La Comisión Académica del máster establecerá qué asignaturas debe cursar el alumno como complementos formativos dentro de la titulación de Grado en Ingeniería Informática y/o Grado en Matemáticas e Informática, impartida en la ETS de Ingenieros Informáticos de la Universidad Politécnica de Madrid.Los complementos formativos pueden cursarse al mismo tiempo que las asignaturas del MUIA.\"}}]}"
+    ]
+  },
+  "bodyClass": "page-template-default page page-id-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit- astra-addon-4.8.6",
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-9sv6f4k",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-yjokuln",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "hero_section",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-y6aoqv5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-phz4e97",
+                  "rootClass": false,
+                  "animation": "fadeIn",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h1",
+                      "html": "Bienvenido el talento"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Admisión y Matrícula"
+                    }
+                  ]
+                },
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-white-color has-text-color\">Sigue estos pasos para ser estudiante del <br>Máster Universitario en Inteligencia Artificial:</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-7bsi7yn",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-c2a90vu",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "solo-escritorio-proceso",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-kib5g3f",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<a href=\"/es/admision_y_matricula/#tab_requisitos\">\n<div class=\"process-box color1\">\n<div class=\"process-text\">\n<div class=\"process-title\">Comprobar requisitos antes de inscribirse</div>\n<div class=\"process-subtitle\"></div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);font-size:13px;line-height:1.3\">Requerimientos académicos<br>Fechas y plazos<br>Legalización de documentos</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-8cvx8fx",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<a href=\"/es/admision_y_matricula/#tab_acceso\">\n<div class=\"process-box color2\">\n<div class=\"process-text\">\n<div class=\"process-title\">Acceso</div>\n<div class=\"process-subtitle\">Preinscripción online en la UPM</div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email de confirmación y seguimiento a través de <a href=\"https://www.upm.es/helios/\"><strong>Hellios</strong></a><br>Email de acceso al verificar la documentación (para ello puede requerirse correcciones o información adicional)</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-uyrnkww",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"process-box color3\">\n<div class=\"process-text\">\n<div class=\"process-title\">Admisión</div>\n<div class=\"process-subtitle\">Por parte del Máster solicitado</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email de admisión o denegación cuando resuelva tu solicitud<br>Esta situación aparecerá en la Lista de Admitidos</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-scjisio",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"process-box color4\">\n<div class=\"process-text\">\n<div class=\"process-title\">Reserva de plaza</div>\n<div class=\"process-subtitle\">Estudiantes sin estudios previos en la UPM</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalizar en el plazo indicado, en caso contrario la admisión será cancelada</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-mzxey58",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"process-box color5\">\n<a href=\"/es/admision_y_matricula/#matriculacion\" class=\"process-link\">\n<div class=\"process-text\">\n<div class=\"process-title\">Matriculación</div>\n<div class=\"process-subtitle\">Online o en la Escuela del Programa</div>\n</div>\n</a>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalizar matrícula</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-bzcaq8r",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-nalo7",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "solo-movil-proceso",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "row",
+              "id": "eb-row-5fp29",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-hnazt",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_requisitos\">\n<div class=\"process-box color1\">\n<div class=\"process-text\">\n<div class=\"process-title\">Comprobar requisitos antes de inscribirse</div>\n<div class=\"process-subtitle\"></div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);font-size:13px;line-height:1.3\">Requerimientos académicos<br>Fechas y plazos<br>Legalización de documentos</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-76iqr",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_acceso\">\n<div class=\"process-box color2\">\n<div class=\"process-text\">\n<div class=\"process-title\">Acceso</div>\n<div class=\"process-subtitle\">Preinscripción online en la UPM</div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email de confirmación y seguimiento a través de <a href=\"https://www.upm.es/helios/\"><strong>Hellios</strong></a><br>Email de acceso al verificar la documentación (para ello puede requerirse correcciones o información adicional)</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-cqkwj",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color3\">\n<div class=\"process-text\">\n<div class=\"process-title\">Admisión</div>\n<div class=\"process-subtitle\">Por parte del Máster solicitado</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email de admisión o denegación cuando resuelva tu solicitud<br>Esta situación aparecerá en la Lista de Admitidos</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-vx8ue",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color4\">\n<div class=\"process-text\">\n<div class=\"process-title\">Reserva de plaza</div>\n<div class=\"process-subtitle\">Estudiantes sin estudios previos en la UPM</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalizar en el plazo indicado, en caso contrario la admisión será cancelada</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-4e8t8",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color5\">\n<a href=\"/es/admision_y_matricula/#matriculacion\" class=\"process-link\">\n<div class=\"process-text\">\n<div class=\"process-title\">Matriculación</div>\n<div class=\"process-subtitle\">Online o en la Escuela del Programa</div>\n</div>\n</a>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalizar matrícula</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-av7cz",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-td8uf",
+          "rootClass": false,
+          "anchor": "solo-tableta-escritorio",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "row",
+              "id": "eb-row-9subz",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-t7tjr",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_requisitos\">\n<div class=\"process-box color1\">\n<div class=\"process-text\">\n<div class=\"process-title\">Comprobar requisitos antes de inscribirse</div>\n<div class=\"process-subtitle\"></div>\n</div>\n</div>\n</a>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-k72bk",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);font-size:13px;line-height:1.3\">Requerimientos académicos<br>Fechas y plazos<br>Legalización de documentos</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-v0g6f",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-hxv7j",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_acceso\">\n<div class=\"process-box color2\">\n<div class=\"process-text\">\n<div class=\"process-title\">Acceso</div>\n<div class=\"process-subtitle\">Preinscripción online en la UPM</div>\n</div>\n</div>\n</a>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-e649p",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email de confirmación y seguimiento a través de <a href=\"https://www.upm.es/helios/\"><strong>Hellios</strong></a><br>Email de acceso al verificar la documentación (para ello puede requerirse correcciones o información adicional)</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-ouvyc",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-nf1qq",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color3\">\n<div class=\"process-text\">\n<div class=\"process-title\">Admisión</div>\n<div class=\"process-subtitle\">Por parte del Máster solicitado</div>\n</div>\n</div>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-czgsq",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email de admisión o denegación cuando resuelva tu solicitud<br>Esta situación aparecerá en la Lista de Admitidos</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-9fn2p",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-bkj27",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color4\">\n<div class=\"process-text\">\n<div class=\"process-title\">Reserva de plaza</div>\n<div class=\"process-subtitle\">Estudiantes sin estudios previos en la UPM</div>\n</div>\n</div>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-cpb2e",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalizar en el plazo indicado, en caso contrario la admisión será cancelada</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-kqr78",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-67en0",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color5\">\n<a href=\"/es/admision_y_matricula/#matriculacion\" class=\"process-link\">\n<div class=\"process-text\">\n<div class=\"process-title\">Matriculación</div>\n<div class=\"process-subtitle\">Online o en la Escuela del Programa</div>\n</div>\n</a>\n</div>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-rqcqn",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalizar matrícula</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-sv3vx9v",
+      "rootClass": false,
+      "legacy": true,
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-tabs",
+          "id": "eb-advanced-tabs-cg12jgf",
+          "rootClass": false,
+          "align": "wide",
+          "className": "algomindai_tabmark custom-color-tabs",
+          "animation": "fadeInUp",
+          "layout": "vertical",
+          "titleTag": "h6",
+          "activeIndex": 0,
+          "tabs": [
+            {
+              "tabId": "1",
+              "title": "Requisitos",
+              "customId": "requisitos",
+              "anchor": "requisitos",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-g4hv7vx",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Antes de iniciar el proceso de preinscripción, se recomienda comprobar los requisitos de Acceso y Admisión ya que varían dependiendo del país donde se obtuvo la titulación universitaria, el idioma en que se cursó, el programa máster que se solicita, etc. Es importante revisar atentamente la información relativa a su caso ya que gestionar la documentación necesaria puede implicar tiempo. Toda la información al respecto se puede consultar <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Admision\">aquí</a>.</p>\n<p>Adicionalmente, se requiere que el título que ostenten los alumnos interesados en cursar el Máster Universitario en Inteligencia Artificial sea del ámbito de la informática:</p>\n<ul class=\"wp-block-list\">\n<li>Grado en Ingeniería Informática,</li>\n<li>Grado en Matemáticas e Informática,</li>\n<li>Grado en Ciencia de Datos e Inteligencia Artificial,</li>\n<li>Grado en Ingeniería del Software,</li>\n<li>Grado en Sistemas de Información</li>\n<li>Grado en Ingeniería de Computadores,</li>\n<li>Grado en Tecnologías para la Sociedad de la Información</li>\n<li>o equivalente</li>\n</ul>\n<p>o en su defecto, una titulación afín:</p>\n<ul class=\"wp-block-list\">\n<li>Grado en Matemáticas o Física&nbsp;con especialidad en Computación</li>\n<li>Cualquier grado desarrollado en el ámbito de la ingeniería con un perfil tecnológico predominante (biomédica, telecomunicaciones…)</li>\n</ul>\n<p>Para aquellas titulaciones anteriores a la implantación del EEES se requerirá la titulación académica de licenciado o ingeniero técnico o superior que equivalga a los títulos mencionados anteriormente.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "2",
+              "title": "Acceso",
+              "customId": "acceso",
+              "anchor": "acceso",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-a45r5r0",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>La&nbsp;<strong>preinscripción</strong>&nbsp;para solicitar el acceso y admisión al Máster Universitario en Inteligencia Artificial (MUIA) se realiza on-line a través de la aplicación <a href=\"https://www.upm.es/helios/\"><strong>HELIOS</strong></a>. Los alumnos solicitantes entregan, a través de dicha plataforma, toda la información requerida para que se pueda evaluar si se cumplen las condiciones de acceso; y, en su caso, ser admitido como alumno del programa.</p>\n<p>Para acceder al MUIA es necesario estar en posesión de un título universitario oficial, con el perfil descrito anteriormente, que faculte para el acceso a enseñanzas de Máster.</p>\n<p>En caso de que un solicitante <strong>NO</strong> haya finalizado su titulación de grado, la <a href=\"https://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Informacion/Normativa/2022_23_Normativa%20Admision%20UPM%20CG_05_22_y_01_23.pdf\">Normativa de Admisión de la UPM</a> le permite preinscribirse si se cumplen los siguientes requisitos:</p>\n<ul class=\"wp-block-list\">\n<li><strong>Solo resta el Trabajo Fin de Grado (TFG) y un máximo de 9 créditos</strong> para la obtención del título de grado, lo que deberá acreditarse con un<strong> expediente académico oficial</strong> en el que se constate fehacientemente dicha situación y donde consten los créditos superados y los créditos requeridos por su titulación.</li>\n<li><strong>Estudiantes de la UPM</strong> en <strong>Programas Académicos de Recorrido Sucesivo (PARS)</strong> a los que les reste un <strong>máximo de 30 créditos incluido el TFG</strong>.</li>\n</ul>\n<p>Los solicitantes que en el momento de hacer la preinscripción todavía no cumplan este requisito, podrán ser admitidos de manera condicionada, debiendo acreditar su cumplimiento antes del <strong>30 de septiembre</strong>. <strong>En caso contrario quedaría anulada la admisión.</strong></p>\n<p>En ningún caso se podrá obtener el título de Máster sin haber finalizado previamente el título de Grado.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "3",
+              "title": "Admisión",
+              "customId": "admision",
+              "anchor": "admision",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-07ss307",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>El proceso de admisión adjudica las plazas ofertadas por la universidad entre los solicitantes que han realizado la preinscripción, aportando toda la documentación necesaria.<br><br>La Comisión Académica del Máster Universitario de Inteligencia Artificial (CAMIA) es la responsable de la admisión de sus alumnos, publicando las listas de admitidos en tres periodos, según el <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Calendario\">calendario</a> fijado por la UPM.</p>\n<p>Los criterios de admisión aplicados por la CAMIA se atienen a lo establecido en el <a href=\"http://www.fi.upm.es/?id=politicacalidad\">Sistema de Garantía Interna de Calidad</a> de la ETSIINF y la <a href=\"https://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Informacion/Normativa/2022_23_Normativa%20Admision%20UPM%20CG_05_22_y_01_23.pdf\">Normativa de Admisión de la UPM</a>, pero tienen en cuenta también los siguientes aspectos: &nbsp;</p>\n<ul class=\"wp-block-list\">\n<li>Para los solicitantes de nuevo ingreso con una<strong> titulación que no sea del ámbito de la informática sino afín</strong>,&nbsp;se establecerán los <strong>complementos formativos</strong> que se estimen necesarios (hasta un máximo de&nbsp;12&nbsp;ECTS).&nbsp;</li>\n<li>Si el número de solicitantes es muy superior a las plazas ofertadas, se realizará un <strong>proceso de selección</strong> <strong>de alumnos</strong> para su admisión. Los elementos de referencia que considerará la CAMIA en el proceso de selección de los alumnos podrán incluir: la titulación cursada, la universidad de procedencia,&nbsp;el curriculum vitae y/o expediente académico, el conocimiento de idiomas,&nbsp;y que el alumno pueda&nbsp;matricularse&nbsp;a tiempo completo.</li>\n</ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "4",
+              "title": "Reserva de plaza",
+              "customId": "reserva_de_plaza",
+              "anchor": "reserva_de_plaza",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-ipbycxb",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Todos aquellos estudiantes que hayan sido admitidos al MUIA, en el primer o segundo periodo de admisión, y <strong>NO</strong> hayan cursado estudios previos en la UPM deben formalizar su reserva de plaza dentro del plazo establecido en el <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Calendario\">Calendario</a> de la UPM. <strong>En caso contrario la admisión se anulará.</strong>El importe de la reserva de plaza es de <strong>250 euros</strong>, que posteriormente se descontarán del importe de la matrícula. No habrá devolución en caso de no formalizar la matrícula.</p>\n<p>Pasos para hacer la reserva de plaza:<br>a) Solicitar <a href=\"https://cuentas.upm.es/solicitud\">cuenta de email UPM<br></a>b) Acceder a la <a href=\"https://automatricula.upm.es/AC_gestionRecibos/\">plataforma de pago</a> (<em>Gestión de Recibos</em>). El pago se realizará con tarjeta bancaria exclusivamente.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "8",
+              "title": "Complementos<br>Formativos",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-ubg08",
+                  "rootClass": false,
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>El sello internacional de calidad Euro-Inf, que ostenta el MUIA, requiere que los resultados de aprendizaje establecidos&nbsp;por EQANIE para nivel de máster en Informática sean alcanzados por todos los alumnos que cursen el título. La Comisión Académica del MUIA (CAMIA), con el fin de asegurar que todos los alumnos cuyo perfil de ingreso no sea del ámbito de la&nbsp;Informática sino afín puedan alcanzar dichos objetivos, establecerá para estos alumnos hasta un máximo de 12&nbsp;ECTS de complementos formativos a cursar mediante asignaturas del Grado en Ingeniería Informática (GII) o del Grado en Matemáticas e Informática (GMI)&nbsp;impartidos en la ETS de Ingenieros Informáticos de la UPM.</p>\n<p><strong>Las asignaturas que se </strong>utilizarán como complementos formativos son:</p>\n<p></p>\n<ul class=\"wp-block-list\">\n<li>Del ámbito de Programación:<ul><li>Programación I</li></ul><ul><li>Sistemas digitales</li></ul>\n<ul class=\"wp-block-list\">\n<li>Lenguajes formales, autómatas y computabilidad</li>\n</ul>\n</li>\n<li>Del ámbito de Ingeniería del Software, Sistemas de la Información y Sistemas Inteligentes:<ul><li>Bases de Datos</li></ul>\n<ul class=\"wp-block-list\">\n<li>Interacción persona ordenador&nbsp;</li>\n</ul>\n</li>\n<li>Del ámbito de Ingeniería de Computadores:<ul><li>Estructura de Computadores&nbsp;</li></ul>\n<ul class=\"wp-block-list\">\n<li>Proyecto de Instalación Informática&nbsp;</li>\n</ul>\n</li>\n<li>Del ámbito de Sistemas Operativos, Sistemas Distribuidos y Redes:<ul><li>Redes de Computadores</li></ul>\n<ul class=\"wp-block-list\">\n<li>Seguridad de las Tecnologías de la Computación</li>\n</ul>\n</li>\n</ul>\n<p></p>\n<p>La asignación de complementos formativos se hace de forma individualizada para cada alumno, para lo que se solicitará a todos los alumnos que proporcionen información sobre las asignaturas de&nbsp;informática que hayan estudiado en sus titulaciones afines y los contenidos de las mismas. Tras analizar esta información, se identificarán los complementos formativos a cursar, con un máximo de 12 ECTS, y las asignaturas que corresponden.</p>\n<p></p>\n<p><strong>Propuestas de secuenciación&nbsp;del máster para alumnos con complementos formativos:</strong></p>\n<p></p>\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Complementos-formativos/12%20ECTS%20CF.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Alumnos con 12 ECTS de complementos formativos</a></li>\n<li><a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Complementos-formativos/6%20ECTS%20CF.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Alumnos con 6&nbsp;ECTS de complementos formativos</a></li>\n</ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "5",
+              "title": "Matriculación",
+              "customId": "matriculacion",
+              "anchor": "matriculacion",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-2ravuhy",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Una vez admitido, el estudiante deberá formalizar on-line la matrícula mediante un&nbsp;<strong>sistema de automatrícula</strong>.&nbsp;en el que&nbsp;el estudiante puede realizar por sí mismo la selección y gestión de su propia matrícula así como la impresión de la/s carta/s de pago. El acceso al sistema, así como amplia información sobre el mismo, está disponible <a href=\"https://www.upm.es/UPM/ServiciosTecnologicos/Automatricula\">aquí</a>.</p>\n<p>El&nbsp;periodo ordinario de matriculación&nbsp;en el Máster Universitario en Inteligencia Artificial, así como el&nbsp;periodo de desmatriculación&nbsp;para asignaturas del segundo semestre (Seminarios) y el&nbsp;periodo de ampliación de matrícula&nbsp;(solo para el Trabajo Fin de Máster)&nbsp;se encuentran en el <a href=\"/es/horarios/\">calendario académico</a><strong>.</strong></p>\n<p>Más información sobre la matriculación <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Matricula\">aquí</a>.</p>\n<p><strong>Notas importantes:&nbsp;</strong></p>\n<ol class=\"wp-block-list\" start=\"1\" style=\"list-style-type:1\">\n<li>Todos los estudiantes que deseen cursar estudios oficiales de&nbsp;Máster realizarán<strong> matrícula anual.</strong></li>\n<li>Se establece un mínimo de 12 créditos a matricular anualmente, salvo aquellos estudiantes a los que les reste para terminar sus estudios un número menor de créditos. No se establece ningún límite al número máximo de créditos a matricular.</li>\n<li>El estudiante podrá optar entre el pago único o el pago fraccionado. En este último caso se establecerán ocho plazos para el pago de la matrícula.</li>\n<li>Los&nbsp;<strong>complementos formativos&nbsp;</strong>deben matricularse en el periodo ordinario (anual) de matrícula.</li>\n<li>Los&nbsp;<strong>seminarios</strong>&nbsp;del máster se matriculan como una única asignatura de 10 ECTS y se cursan en el segundo semestre. También&nbsp;debe&nbsp;matricularse en el periodo ordinario (anual) de matrícula.&nbsp;<strong>NO</strong>&nbsp;se&nbsp;especifican&nbsp;los seminarios concretos que se van a cursar a la hora de matricularse: estos se elegirán a lo largo del primer semestre (la coordinación del Máster se pondrá en contacto con los alumnos).</li>\n<li>El&nbsp;<strong>Trabajo Fin de Máster</strong>&nbsp;(TFM)&nbsp;puede matricularse&nbsp;en&nbsp;el periodo ordinario o de ampliación de matrícula, pudiéndose defender en cualquier momento a lo largo del año o semestre correspondiente.</li>\n<li>En atención a la singularidad del TFM, en caso de que el estudiante no haya podido superarlo en un curso académico, los precios a pagar en el siguiente curso académico serán los correspondientes al 25% del precio en la primera matrícula del Decreto de Precios Públicos, lo que le dará derecho a una única convocatoria de examen sin perjuicio del resto de derechos que se adquieren al matricularse de dicha asignatura.&nbsp;</li>\n<li>El alumno debe tener en cuenta que si no está matriculado de ninguna asignatura en el MUIA pierde su vinculación oficial con la UPM y no puede optar a becas oficiales y no oficiales, movilidad, etc. Por ello, se recomienda a los alumnos que únicamente tengan pendiente el TFM&nbsp;lo&nbsp;matriculen al principio del semestre correspondiente para mantener la vinculación con la universidad.</li>\n</ol>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "6",
+              "title": "Transferencia y<br>reconocimiento<br>de créditos",
+              "customId": "transparencia_y_reconocimiento_de_creditos",
+              "anchor": "transparencia_y_reconocimiento_de_creditos",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-ku2j6xi",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Toda la información relativa al reconocimiento y transferencia de créditos está disponible <a href=\"https://www.upm.es/Estudiantes/OrdenacionAcademica/Reconocimiento\">aquí</a>.</p>\n<p>La <strong>Comisión Académica del Máster en Inteligencia Artificial (CAMIA)</strong>&nbsp;analizará las peticiones y elaborará los correspondientes informes, que remitirá a la <strong>Comisión de Ordenación Académica </strong>de la Escuela Técnica Superior de Ingenieros Informáticos, la cual a su vez emitirá informe y dará traslado al <strong>Vicerrectorado de Alumnos</strong>.&nbsp;La resolución concediendo o denegando los reconocimientos de créditos será adoptada por el Presidente de la Comisión de Reconocimiento y Transferencia de Créditos conforme a lo establecido en el art. 5 d) de la normativa.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "7",
+              "title": "Normativa de<br>permanencia",
+              "customId": "normativa_de_permanencia",
+              "anchor": "normativa_de_permanencia",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-s8mkyjs",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Si un alumno ha agotado tres cursos académicos sin finalizar el máster pero desea continuar sus estudios, debe presentar una solicitud a la Comisión Académica del Máster Universitario en Inteligencia Artificial (CAMIA), que analizará la situación del alumno y elevará su solicitud a la Comisión de Ordenación Académica de la Escuela Técnica Superior de Ingenieros Informáticos.</p>\n<p>Se incluye también la exigencia de que el alumno supere al menos 15 ECTS el primer año, y al menos 45 ECTS en los dos primeros años de matriculación.</p>\n<p>En todo caso, las normas de permanencia del MUIA se atendrán a la normativa establecida por la Universidad Politécnica de Madrid para el régimen de permanencia en las titulaciones, disponible <a href=\"http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Informacion/Normativa/Permanencia_2011_2012.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">aquí</a>.</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-re9srhu",
+      "rootClass": false,
+      "align": "full",
+      "anchor": "faq_admision",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-chj48xh",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-w3qq0z5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-g7t8tyc",
+                  "rootClass": false,
+                  "animation": "slideInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h3",
+                      "html": "FAQs sobre admisión en el MUIA"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Puedes acceder a más preguntas frecuentes generales o específicas en los siguientes enlaces:"
+                    }
+                  ]
+                },
+                {
+                  "type": "feature-list",
+                  "id": "eb-feature-list-ue3xn3a",
+                  "rootClass": false,
+                  "wrapperClass": "-icon-position-left -tablet-icon-position-left -mobile-icon-position-left eb-feature-list-left",
+                  "listClass": "circle stacked",
+                  "titleTag": "h3",
+                  "items": [
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/#faq_generales",
+                      "title": "Sobre el Máster en general",
+                      "content": "Encontrarás respuestas a las preguntas más comunes que los futuros estudiantes suelen tener sobre el programa en sí, dándote una visión general completa y precisa de lo que puedes esperar al unirte al máster."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/es/estructura/#faq_estructura",
+                      "title": "Sobre la estructura del Máster",
+                      "content": "Conocerás todo lo que necesitas sobre la estructura del máster, sus asignaturas y seminarios, el desarrollo del TFM y cómo se realiza la defensa del mismo."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "title": "Para alumnos de fuera de Madrid",
+                      "content": "Si eres un alumno que proviene de fuera de la ciudad de Madrid, encontrarás información sobre dónde encontrar alojamiento o sobre la documentación para tu visado."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-l1impt9",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-q6hw06h",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-angle-down",
+                  "expandedIcon": "fas fa-angle-up",
+                  "transitionDuration": "500",
+                  "legacy": true,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-vzxka8v",
+                      "clickable": "true",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "¿Existe un número limitado de plazas de nuevo ingreso?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-2e4rekc",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "El número de plazas para alumnos de nuevo ingreso será de 60 (dato de 2023-2024) (<a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Programas?id=10.9&amp;fmt=detail\" target=\"_blank\" rel=\"noreferrer noopener\">web UPM</a>)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u6eljqt",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "¿Cuál es el periodo de preinscripción del MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-xwdod12",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Consulta el&nbsp;<a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Calendario\" target=\"_blank\" rel=\"noreferrer noopener\">calendario UPM</a>."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-2cynjuv",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "¿Se puede ingresar en el máster en Febrero?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-diyjtab",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "No se permite el ingreso de nuevos alumnos en el MUIA en el segundo semestre (febrero)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-s8tg4ws",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "¿Qué titulación se necesita para poder cursar el MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-7oslr5m",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Para aquellos estudiantes que quieran comenzar sus estudios en la titulación de Máster Universitario en Inteligencia Artificial, se recomienda el&nbsp;<strong>perfil de ingreso&nbsp;</strong>siguiente.&nbsp;Se requiere que el título que ostente el candidato sea de <strong>Informática o equivalente</strong>:<br><br>– Grado en Ingeniería Informática,<br>– Grado en Informática y Matemáticas,<br>– Grado en Ingeniería del Software,<br>– Grado en Sistemas de Información<br>– Grado en Ingeniería de Computadores,<br>– Grado en Ciencia de Datos e Inteligencia Artificial<br>…<br>o afín:<br><br>– Cualquier grado desarrollado en el ámbito de la ingeniería con un perfil tecnológico predominante (telecomunicaciones, informática biomédica,&nbsp;etc.)<br>– Grados en Matemáticas o Físicas con especialidad en Computación<br><br>Para aquellas titulaciones anteriores a la implantación del EEES se requerirá la titulación académica de licenciado, ingeniero técnico o ingeniero superior que equivalga a los títulos mencionados anteriormente."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-fmjpygc",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "¿Qué criterios se utilizan para la selección y admisión de alumnos en el MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-y3ckrh2",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Los elementos de referencia que considerará la Comisión Académica del Máster Universitario en Inteligencia Artificial (CAMIA) en el proceso de selección de los alumnos serán: la universidad de procedencia, la titulación cursada,&nbsp;el curriculum vitae y el&nbsp;expediente académico.&nbsp;"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wy4cyhj",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "Si necesito una carta de preadmisión para solicitar una beca para cursar el MUIA, ¿a quién debo dirigirme?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-jjxwwef",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Para solicitar una carta de preadmisión en el MUIA, el alumno deberá dirigirse a la Secretaría Administrativa del MUIA (<a href=\"mailto:masteria.dia@fi.upm.es\">masteria.dia@fi.upm.es</a>). Una vez que se verifique que el alumno cumple los requisitos de acceso y que la documentación aportada en la preinscripción es correcta y completa, se remitirá la carta de preadmisión al alumno vía correo ordinario y electrónico.<br><br>Dicha carta no asegura la admisión del alumno, el cual deberá superar un proceso de selección en el caso de que la demanda supere el número de plazas ofertadas de nuevo ingreso en el curso académico correspondiente.&nbsp;<br><br>"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-crxx32g",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "¿Qué son los complementos formativos?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-wzc7nyk",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Los alumnos de nuevo ingreso con una titulación que no sea de informática sino afín (Ingeniero Técnico Superior en Telecomunicaciones,&nbsp;Ingeniero Técnico en Telecomunicaciones,&nbsp;Ingeniero Técnico Superior en Industriales,&nbsp;Ingeniero Técnico Industrial,&nbsp;Licenciado en Matemáticas, en Físicas o en alguna especialidad en computación)&nbsp;deberán cursar hasta 12&nbsp;ECTS de complementos formativos.<br>La Comisión Académica del máster establecerá qué asignaturas debe cursar el alumno como complementos formativos dentro de la titulación de Grado en Ingeniería Informática y/o Grado en Matemáticas e Informática, impartida en la ETS de Ingenieros Informáticos de la Universidad Politécnica de Madrid.<br><br>Los complementos formativos pueden cursarse al mismo tiempo que las asignaturas del MUIA."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/es-admision_y_matricula.css"
+}

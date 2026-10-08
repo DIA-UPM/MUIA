@@ -1,0 +1,413 @@
+{
+  "slug": "quality",
+  "lang": "en",
+  "path": "/en/quality/",
+  "title": "Quality",
+  "wpId": 579,
+  "date": "2016-11-11T11:00:08+00:00",
+  "modified": "2024-01-10T16:57:12+00:00",
+  "translations": {
+    "en": "/en/quality/",
+    "es": "/es/calidad/"
+  },
+  "seo": {
+    "title": "Quality - Máster Universitario en Inteligencia Artificial",
+    "schemaImage": {
+      "src": "/assets/external/mucd.dia.fi.upm.es/wp-content/uploads/sites/7/2023/10/euroinfo-vectorizado.svg"
+    },
+    "twitter": {
+      "twitter:label1": "Est. reading time",
+      "twitter:data1": "4 minutes"
+    }
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-lmparau",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-b0p9k9o",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-27z900i",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<h2 class=\"wp-block-heading has-ast-global-color-5-color has-text-color has-link-color wp-elements-f4effab3667fca6cfca650d08c941113\" style=\"margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:0;padding-bottom:0\">Ensuring Excellence</h2>"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-i12rphw",
+                  "rootClass": false,
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Quality &amp; Accreditation"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "The Master’s Degree in Artificial Intelligence of the ETS in Computer Engineering of the UPM stands out for its rigorous commitment to academic excellence, backed by Institutional Accreditation and the distinctive EURO-INF seal. This seal is synonymous with quality and competence in the educational and professional field, guaranteeing that our programmes meet the highest international standards. We aim to inspire and train the next generation of leaders in the field of artificial intelligence, offering them an education that is not only globally recognised but also opens doors to career opportunities around the world."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-0o85v7r",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-v0fa15q",
+      "rootClass": false,
+      "align": "full",
+      "anchor": "quality-assurance-system",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-20r6fsm",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "Quality Assurance System"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "The main actors in the Master’s quality assurance systems are the following:"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-g0yvfjz",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-shs1gdw",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-parent-wrapper eb-parent-eb-infobox-sr5ifk0 eb_animation eb___animated eb___fadeInRight\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-infobox-sr5ifk0 eb-infobox-wrapper\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"infobox-wrapper-inner\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-bookmark\" class=\"eb-infobox-icon-data-selector  fas fa-bookmark\"></span></div></div></a><div class=\"contents-wrapper\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><h4 class=\"title\">The Internal Quality Assurance Unit</h4></a><p class=\"description\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><a href=\"https://www.fi.upm.es/?id=politicacalidad\" data-type=\"link\" data-id=\"https://www.fi.upm.es/?id=politicacalidad\"><strong>The Internal Quality Assurance System of the E.T.S. in Computer Engineering</strong></a> (SGIC-ETSIINF), whose scope covers all the degrees taught at the same, in their levels of Degree, Master and PhD, is responsible for ensuring the quality in all the degrees of the E.T.S. in Computer Engineering of the Universidad Politécnica de Madrid (UPM)</p></div></div></div></div></div>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-c6hifkk",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-xrete7b",
+                  "rootClass": false,
+                  "className": "last-home-card",
+                  "animation": "fadeInUp",
+                  "icon": "fas fa-users",
+                  "iconTag": "span",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "The Academic Commitee",
+                  "description": "The Academic Committee of the Master’s Degree in Artificial Intelligence (CAMIA) is responsible for guaranteeing the quality of the Programme, implementing the processes identified in this respect within the framework of the Internal Quality Assurance System of the School of Computer Engineering of UPM."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-qiduc1g",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-parent-wrapper eb-parent-eb-infobox-i4yh9yx eb_animation eb___animated eb___fadeInDown\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-infobox-i4yh9yx eb-infobox-wrapper\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"infobox-wrapper-inner\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-sun\" class=\"eb-infobox-icon-data-selector  fas fa-sun\"></span></div></div></a><div class=\"contents-wrapper\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><h4 class=\"title\">The Accreditations of the MUIA</h4></a><p class=\"description\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\">The E.T.S. in Computer Engineering obtained in May 2020 the Institutional Accreditation by the Council of Universities (</a><a href=\"https://www.fi.upm.es/docs/estructura/989_Resolucion-CU-Acred-Institucional-18-05-2020.pdf\" data-type=\"link\" data-id=\"https://www.fi.upm.es/docs/estructura/989_Resolucion-CU-Acred-Institucional-18-05-2020.pdf\">resolution</a>) after the favourable report of the Foundation for Knowledge Madri+d of the CAM (<a href=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\" data-type=\"link\" data-id=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\">final report</a>). This accreditation is an important recognition of quality and excellence for our School.</p></div></div></div></div></div>\n<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-parent-wrapper eb-parent-eb-infobox-cu87o eb_animation eb___animated eb___fadeInDown\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-infobox-cu87o eb-infobox-wrapper\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"infobox-wrapper-inner\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-sun\" class=\"eb-infobox-icon-data-selector  fas fa-sun\"></span></div></div></a><div class=\"contents-wrapper\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><h4 class=\"title\">The Accredi-<br>tations of the MUIA</h4></a><p class=\"description\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\">The E.T.S. in Computer Engineering obtained in May 2020 the Institutional Accreditation by the Council of Universities (</a><a href=\"https://www.fi.upm.es/docs/estructura/989_Resolucion-CU-Acred-Institucional-18-05-2020.pdf\" data-type=\"link\" data-id=\"https://www.fi.upm.es/docs/estructura/989_Resolucion-CU-Acred-Institucional-18-05-2020.pdf\">resolution</a>) after the favourable report of the Foundation for Knowledge Madri+d of the CAM (<a href=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\" data-type=\"link\" data-id=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\">final report</a>). This accreditation is an important recognition of quality and excellence for our School.</p></div></div></div></div></div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-i3evd7u",
+      "rootClass": false,
+      "anchor": "accreditations-euro-inf-seal",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-2e5n81u",
+          "rootClass": false,
+          "anchor": "accreditations-Euro-Inf-seal",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "Quality Label EUROINF"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "In Spain, the management of this seal is carried out by ANECA, as an agency authorized by EQANIE, through the <a href=\"https://www.aneca.es/en/professional-labels\">International Quality Seals program</a>."
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-u9x9q1r",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-96csago",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-mss59hd",
+                  "rootClass": false,
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "link": {
+                    "href": "https://eqanie.eu/quality-label/",
+                    "target": "_blank",
+                    "rel": "noopener",
+                    "overlay": true
+                  },
+                  "src": "/assets/external/mucd.dia.fi.upm.es/wp-content/uploads/sites/7/2023/10/euroinfo-vectorizado.svg",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-zapp4ga",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p>Spanish legislation establishes that the initial accreditation of official degrees must be renewed periodically from the date of their verification or from the date of their last accreditation (Royal Decree 861/2010, of 2 July, which amends Royal Decree 1393/2007, of 29 October, which establishes the organisation of official university education in Spain).</p>\n<p>In this context, ANECA offers degrees in certain disciplines the possibility of obtaining an international seal of recognised prestige, simultaneously with the process of renewing the accreditation of the degree.</p>\n<p>Since June 2015, the Master’s Degree in Artificial Intelligence (MUIA) has been participating in the 2016 call of this programme, through which the degree is seeking to renew its accreditation and obtain the EURO-INF European quality seal, taking advantage of the synergies between both assessment procedures.</p>\n<p style=\"font-size:16px;line-height:1.8\">The Euro-Inf seal is a quality label awarded to a university for a bachelor’s or master’s degree in informatics evaluated according to a set of defined <a href=\"http://eqanie.eu/wp-content/uploads/2019/09/Euro-Inf_Framework_Standards_and_Accreditation_Criteria_Spanish_Version.pdf\" data-type=\"link\" data-id=\"http://eqanie.eu/wp-content/uploads/2019/09/Euro-Inf_Framework_Standards_and_Accreditation_Criteria_Spanish_Version.pdf\">standards</a>, in accordance with the principles of quality, relevance, transparency, recognition and mobility as set out in the European Higher Education Area according to the prestigious European association <a href=\"https://eqanie.eu/quality-label/\">EQANIE (European Quality Assurance Network for Informatics Education).</a></p>\n<p style=\"font-size:16px;line-height:1.8\">In Spain, the management of this label is carried out by ANECA, as an agency authorized by EQANIE, through the <a href=\"https://www.aneca.es/sellos-profesionales\">Sellos Internacionales de Calidad</a> program.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-5h0zcs5",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "The following are some of the main <a href=\"https://eqanie.eu/quality-label/benefits-of-the-euro-inf-quality-label/\">benefits</a> provided by"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-2t8ldgd",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-l1ayzi4",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"eb-parent-wrapper eb-parent-eb-infobox-kz482gd eb_animation eb___animated eb___fadeInRight\"><div class=\"eb-infobox-kz482gd eb-infobox-wrapper\"><div class=\"infobox-wrapper-inner\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-check-circle\" class=\"eb-infobox-icon-data-selector  fas fa-check-circle\"></span></div></div><div class=\"contents-wrapper\"><h4 class=\"title\">International Recognition</h4><p class=\"description\">Graduates attain widespread global acknowledgment for the high quality and prestige of their program’s training, significantly enhancing their credibility across diverse professional settings.</p></div></div></div></div></a></div>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-4a352zh",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-pggx678",
+                  "rootClass": false,
+                  "className": "last-home-card",
+                  "animation": "fadeInUp",
+                  "icon": "fas fa-check-circle",
+                  "iconTag": "span",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Academic <br>Mobility",
+                  "description": "The label guarantees that the program’s competency training aligns with European standards (EHEA), facilitating smooth academic transitions and entry into various educational institutions."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-4ex3aml",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"eb-parent-wrapper eb-parent-eb-infobox-zvjoyg7 eb_animation eb___animated eb___fadeInDown\"><div class=\"eb-infobox-zvjoyg7 eb-infobox-wrapper\"><div class=\"infobox-wrapper-inner\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-check-circle\" class=\"eb-infobox-icon-data-selector  fas fa-check-circle\"></span></div></div><div class=\"contents-wrapper\"><h4 class=\"title\">Professional Advantage</h4><p class=\"description\">The Euro-Inf accreditation provides added value in terms of access to the business world, generating more international employment opportunities, and increasing possibilities for professional mobility.</p></div></div></div></div></a></div>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-kj6mc2y",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "The MUIA obtained the Euro-Inf quality seal on 27/07/2016, and its validity extends until 27/01/2027, as reflected in the latest <a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/IF_EUROInf_4311905_UPM_MUIA.pdf\">Final Report</a> issued by the Euro-Inf Accreditation Commission of ANECA."
+            }
+          ]
+        },
+        {
+          "type": "html",
+          "html": "<hr class=\"wp-block-separator has-text-color has-ast-global-color-8-color has-alpha-channel-opacity has-ast-global-color-8-background-color has-background is-style-wide\" style=\"margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--20)\">"
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-xd3pf60",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-xytpo27",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Provisional report for the renewal of the Euro-Inf label: "
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "On 28 January 2021, the EURO-INF Seal Accreditation Commission issued the final report on the award of the seal. The period for awarding the seal is from 28 July 2021 to 27 July 2027. The report is available <a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/IF_EUROInf_4311905_UPM_MUIA.pdf\" data-type=\"link\" data-id=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/IF_EUROInf_4311905_UPM_MUIA.pdf\">here</a>."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-gbmybdw",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Final report on institutional accreditation:"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "In March 2020, the E.T.S. in Computer Engineering obtained the favourable report of the Institutional Accreditation by the Fundación para el Conocimiento Madri+d de la Comunidad de Madrid (pending resolution of the Consejo de Universidades). The report is available <a href=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\" data-type=\"link\" data-id=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\">here</a> and on the Foundation’s website. Obtaining this distinction means the automatic renewal of the accreditation of the degrees affiliated to the School, including the Master’s Degree in Artificial Intelligence."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-n0ra947",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Final report for obtaining the Euro-Inf"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "On 23 July 2017, the EURO-INF Accreditation Commission issued the final report on the award of the seal.The period for awarding the seal is from 27 July 2016 to 27 July 2020. The report is available <a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Concesi%C3%B3n%20definitiva%20sello%20EURO-INF%202017.pdf\" data-type=\"link\" data-id=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Concesi%C3%B3n%20definitiva%20sello%20EURO-INF%202017.pdf\">here</a>."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-emi1413",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Favourable report for re-accreditation:"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "On 13 April 2016, the <a href=\"http://www.madrimasd.org/fundacion\" data-type=\"link\" data-id=\"http://www.madrimasd.org/fundacion\">Foundation for Knowledge Madri+d </a>issued a favourable report for the renewal of MUIA’s accreditation.The report is available <a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Informe%20renovaci%C3%B3n%20acreditaci%C3%B3n%202016.pdf\" data-type=\"link\" data-id=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Informe%20renovaci%C3%B3n%20acreditaci%C3%B3n%202016.pdf\">here</a> and on the Foundation’s website."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-vjohxdp",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Favourable report for degree accreditation:"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "On 13 January 2010, it was favourably assessed by ANECA and by the Council of Universities.The report is available <a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Informe%20favorable%20acreditaci%C3%B3n%202010.pdf\">here</a>."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/en-quality.css"
+}

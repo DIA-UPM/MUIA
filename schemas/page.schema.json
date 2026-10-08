@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "page.schema.json",
+  "title": "Content page (data/pages/<lang>/<slug>.json)",
+  "type": "object",
+  "required": ["slug", "lang", "path", "title", "wpId", "seo", "blocks"],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9_-]+$" },
+    "lang": { "enum": ["es", "en"] },
+    "path": { "type": "string", "pattern": "^/(es|en)/([^/]+/)*$" },
+    "title": { "type": "string", "minLength": 1 },
+    "wpId": { "type": "integer", "description": "Original WordPress post id (kept in CSS classes such as post-312)" },
+    "date": { "type": "string", "format": "date-time" },
+    "modified": { "type": "string", "format": "date-time" },
+    "isHome": { "type": "boolean" },
+    "hasFeaturedImage": { "type": "boolean" },
+    "translations": { "type": "object", "additionalProperties": { "type": "string", "pattern": "^/" } },
+    "seo": { "$ref": "seo.schema.json" },
+    "bodyClass": { "type": "string" },
+    "stylesheet": { "type": "string", "pattern": "^blocks/.+\\.css$" },
+    "tables": { "type": "array", "items": { "type": "object", "required": ["selector", "options"] } },
+    "blocks": { "$ref": "blocks.schema.json" }
+  },
+  "additionalProperties": false
+}

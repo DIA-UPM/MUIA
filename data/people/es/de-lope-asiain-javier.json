@@ -1,0 +1,103 @@
+{
+  "slug": "de-lope-asiain-javier",
+  "lang": "es",
+  "path": "/es/personal/de-lope-asiain-javier/",
+  "name": "de Lope Asiaín, Javier",
+  "wpId": 692,
+  "date": "2017-05-26T16:11:29+00:00",
+  "modified": "2024-01-13T15:56:27+00:00",
+  "tags": [
+    "profesores-titulares-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/de-lope-asiain-javier_en/",
+    "es": "/es/personal/de-lope-asiain-javier/"
+  },
+  "seo": {
+    "title": "de Lope Asiaín, Javier - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 4123Web: https://dia.fi.upm.es/~jdlope/Teléfono: +34-91-336-7855ORCID: https://orcid.org/0000-0001-9779-6057Email: jdlope@fi.upm.esResearcherID: Grupo de investigación: Grupo de Robótica Cognitiva ComputacionalScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=55888684400",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/javierdlope.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/javier-de-lopez-asiain.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/javier-de-lopez-asiain.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "4123"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "https://dia.fi.upm.es/~jdlope/",
+      "href": "https://dia.fi.upm.es/~jdlope/",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-7855"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0001-9779-6057",
+      "href": "https://orcid.org/0000-0001-9779-6057",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "jdlope@fi.upm.es",
+      "href": "mailto:jdlope@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Robótica Cognitiva Computacional",
+      "href": "https://dia.fi.upm.es/~ccr/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=55888684400",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=55888684400",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/javier-de-lopez-asiain.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/javier-de-lopez-asiain.png 490w, /wp-content/uploads/sites/6/2017/05/javier-de-lopez-asiain-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/javier-de-lopez-asiain-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "topdia",
+  "lang": "es",
+  "path": "/es/topdia/",
+  "title": "Investigadores del DIA en la «World’s Top 2% Scientist List» de la Universidad de Standford",
+  "wpId": 290,
+  "date": "2021-11-10T09:08:17+00:00",
+  "modified": "2023-11-23T18:17:52+00:00",
+  "author": "admin",
+  "categories": [
+    "noticias-es",
+    "noticias-destacadas"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Investigadores del DIA en la \"World's Top 2% Scientist List\" de la Universidad de Standford - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Los profesores del MUIA Asunción Gómez, Pedro Larrañaga, Óscar Corcho y David Pearce se encuentran en la lista «World’s Top 2% Scientists List» […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2021/11/pedro-asun-oscar-david.png",
+      "width": 166,
+      "height": 220,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2021/11/pedro-asun-oscar-david.png",
+      "width": 166,
+      "height": 220,
+      "caption": "pedro-asun-oscar-david"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "admin",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p>Los profesores del MUIA&nbsp;Asunción Gómez,&nbsp;Pedro Larrañaga,&nbsp;Óscar Corcho y David Pearce se encuentran en la lista «World’s Top 2% Scientists List» recientemente publicada por la Universidad de Stanford.</p>\n<p>La Universidad de Stanford ha publicado recientemente la lista del 2% de los científicos más citados del mundo en todas las áreas del conocimiento. Dicha lista se ha elaborado en base a las citas recibidas por los científicos&nbsp;a sus publicaciones incluidas en las bases de datos de Scopus. De los casi 190.000 integrantes de la lista, 56 pertenecen a la Universidad Politécnica de Madrid y de entre ellos, los Catedráticos del Departamento de Inteligencia Artificial y profesores del MUIA son: Pedro Larrañaga, Asunción Gómez y Óscar Corcho y David Pearce.</p>\n<p><a href=\"https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3\">Fuente</a></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2021/11/pedro-asun-oscar-david.png",
+    "width": 166,
+    "height": 220,
+    "alt": "pedro-asun-oscar-david"
+  },
+  "wordCount": 149,
+  "excerpt": "<p>Los profesores del MUIA&nbsp;Asunción Gómez,&nbsp;Pedro Larrañaga,&nbsp;Óscar Corcho y David Pearce se encuentran en la lista «World’s Top 2% Scientists List»</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2021/11/pedro-asun-oscar-david.png",
+    "width": 166,
+    "height": 220,
+    "alt": "pedro-asun-oscar-david"
+  }
+}

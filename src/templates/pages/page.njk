@@ -1,0 +1,19 @@
+{#- Content pages and the homepage (data/pages/<lang>/<slug>.json). -#}
+{% extends "base.njk" %}
+{% block main %}
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary">
+<main id="main" class="site-main">
+<article
+class="{{ articleClass }}" id="post-{{ record.wpId }}" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+<div class="entry-content clear"
+data-ast-blocks-layout="true" itemprop="text">
+{{ content | safe }}
+</div><!-- .entry-content .clear -->
+</article><!-- #post-## -->
+</main><!-- #main -->
+</div><!-- #primary -->
+	</div> <!-- ast-container -->
+</div><!-- #content -->
+{% endblock %}

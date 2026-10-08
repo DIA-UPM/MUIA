@@ -1,0 +1,828 @@
+{
+  "slug": "access_admission_registration",
+  "lang": "en",
+  "path": "/en/access_admission_registration/",
+  "title": "Access, Admission and Registration",
+  "wpId": 643,
+  "date": "2016-11-11T10:59:07+00:00",
+  "modified": "2024-02-14T19:40:40+00:00",
+  "translations": {
+    "en": "/en/access_admission_registration/",
+    "es": "/es/admision_y_matricula/"
+  },
+  "seo": {
+    "title": "Access, Admission and Registration - Máster Universitario en Inteligencia Artificial",
+    "twitter": {
+      "twitter:label1": "Est. reading time",
+      "twitter:data1": "12 minutes"
+    },
+    "extraSchema": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\": \"Is there a limited number of vacancies for new admissions?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The number of available vacancies for new admissions will be 60  (data for 2023-2024) (UPM web)\"}},{\"@type\":\"Question\",\"name\": \"What is the pre-registration period for the MUIA degree?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Check the UPM calendar.\"}},{\"@type\":\"Question\",\"name\": \"Is it possible to join the degree in February?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"It is not possible to join the degree in the second semester (February).\"}},{\"@type\":\"Question\",\"name\": \"What previous degrees must I hold in order to be able to register for the MUIA degree?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The recommended admission profile for prospective Master of Science in Artificial Intelligence students is as follows. Students are required to hold a bachelor’s degree in informatics or equivalent:- Bachelor of Science in Informatics Engineering- Bachelor of Science in Computing and Mathematics- Bachelor of Science in Computing and Business Administration and Management- Bachelor of Science in Software Engineering- Bachelor of Science in Information Systems- Bachelor of Science in Computer Engineering- …or similar:- Any bachelor’s degree within the field of engineering with a predominantly technological profile (telecommunications engineering, industrial engineering, aeronautical engineering, biotechnology, agricultural engineering).- Bachelor’s degrees in mathematics or physics specializing in computation.Students holding degrees awarded before the deployment of the EHEA shall be required to hold the equivalent academic qualifications to the above degree programmes (licentiate, engineer or technical engineer).\"}},{\"@type\":\"Question\",\"name\": \"What criteria are used for selecting and admitting students onto the MUIA degree?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The reference elements which will be considered by the Academic Board of the MSc (CAMIA) in the students’ selection process are: the University where the student comes from, the studied degree and the student's resume/CV and/or academic record. The documentation that will be requested from the student will be: a photocopy of the national identity card, the academic certification and the resume/CV.\"}},{\"@type\":\"Question\",\"name\": \"In case I need a pre-admission letter in order to apply for a studentship associated with the MUIA degree, who should I ask?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"To request a pre-admission letter for the MUIA degree, the student shall contact the Administrative Secretariat of the MUIA (Dª. Victoria Centeno Montero, masteria.dia@fi.upm.es). Once it has been verified that the student fullfils the access requirements and that the documentation provided at pre-registration is correct and complete, the pre-admission letter will be sent to the student via post and e-mail. The aforementioned letter does not guarantee the student's admission. The student must go through a selection process in case the demand is greater than the number of available vacancies for the new academic year.\"}},{\"@type\":\"Question\",\"name\": \"What are the “training complements” and who must attend them?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The students whose degree is not in computer science but similar (Technical Engineering in Telecommunications, Superior Industrial Technical Engineering, Industrial Technical Engineering, BSc degree in Mathematics, Physics or any other speciality in computers) and wish to register for the UMAI degree must attend up to 12 ECTS on “training complements”. CAMIA will determine which modules the student must be taught as his/her training complements, selected from the degree in Ingeniería Informática (Informatics Engineering) or the degree in mathematics and informatics taught by the ETSIInf of the Universidad Politécnica de Madrid (UPM).The “bridge complements’ student” can be simultaneously attended with the MUIA modules.\"}}]}"
+    ]
+  },
+  "bodyClass": "page-template-default page page-id-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit- astra-addon-4.8.6",
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-9sv6f4k",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-yjokuln",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "hero_section",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-y6aoqv5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-phz4e97",
+                  "rootClass": false,
+                  "animation": "fadeIn",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h1",
+                      "html": "Welcome to talent"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Admission and Registration"
+                    }
+                  ]
+                },
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-white-color has-text-color\">Follow these steps to become a student of the <br>Master´s Degree in Artificial Intelligence:</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-7bsi7yn",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-c2a90vu",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "desktop-process",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-kib5g3f",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<a href=\"/es/admision_y_matricula/#tab_requisitos\">\n<div class=\"process-box color1\">\n<div class=\"process-text\">\n<div class=\"process-title\">Check requirements before registration</div>\n<div class=\"process-subtitle\"></div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);font-size:13px;line-height:1.3\">Academic requirements<br>Dates and deadlines<br>Document legalisation</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-8cvx8fx",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<a href=\"/es/admision_y_matricula/#tab_acceso\">\n<div class=\"process-box color2\">\n<div class=\"process-text\">\n<div class=\"process-title\">Access</div>\n<div class=\"process-subtitle\">Online pre-registration at the UPM</div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email confirmation and follow-up via <a href=\"http://upm.es/helios\">Hellios</a><br>Access email when verifying documentation (corrections or additional information may be required for this purpose)</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-uyrnkww",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"process-box color3\">\n<div class=\"process-text\">\n<div class=\"process-title\">Admission</div>\n<div class=\"process-subtitle\">By the requested Master</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Admission or rejection email when your application is resolved<br>This situation will appear on the Admittance List.</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-scjisio",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"process-box color4\">\n<div class=\"process-text\">\n<div class=\"process-title\">Place reservation</div>\n<div class=\"process-subtitle\">Students without prior studies at UPM</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Complete within the indicated deadline; otherwise, the admission will be cancelled</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-mzxey58",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"process-box color5\">\n<a href=\"/es/admision_y_matricula/#matriculacion\" class=\"process-link\">\n<div class=\"process-text\">\n<div class=\"process-title\">Registration</div>\n<div class=\"process-subtitle\">Online or at the Programme’s School</div>\n</div>\n</a>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalise registration</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-bzcaq8r",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-nalo7",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "only-mobile-process",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "row",
+              "id": "eb-row-5fp29",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-hnazt",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_requisitos\">\n<div class=\"process-box color1\">\n<div class=\"process-text\">\n<div class=\"process-title\">Check requirements before registration</div>\n<div class=\"process-subtitle\"></div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);font-size:13px;line-height:1.3\">Academic requirements<br>Dates and deadlines<br>Document legalisation</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-76iqr",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_acceso\">\n<div class=\"process-box color2\">\n<div class=\"process-text\">\n<div class=\"process-title\">Access</div>\n<div class=\"process-subtitle\">Online pre-registration at the UPM</div>\n</div>\n</div>\n</a>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email confirmation and follow-up via <a href=\"http://upm.es/helios\">Hellios</a><br>Access email when verifying documentation (corrections or additional information may be required for this purpose)</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-cqkwj",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color3\">\n<div class=\"process-text\">\n<div class=\"process-title\">Admission</div>\n<div class=\"process-subtitle\">By the requested Master</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Admission or rejection email when your application is resolved<br>This situation will appear on the Admittance List.</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-vx8ue",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color4\">\n<div class=\"process-text\">\n<div class=\"process-title\">Place reservation</div>\n<div class=\"process-subtitle\">Students without prior studies at UPM</div>\n</div>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Complete within the indicated deadline; otherwise, the admission will be cancelled</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-4e8t8",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color5\">\n<a href=\"/es/admision_y_matricula/#matriculacion\" class=\"process-link\">\n<div class=\"process-text\">\n<div class=\"process-title\">Registration</div>\n<div class=\"process-subtitle\">Online or at the Programme’s School</div>\n</div>\n</a>\n</div>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalise registration</p>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-av7cz",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-td8uf",
+          "rootClass": false,
+          "anchor": "only-tablet-process",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "row",
+              "id": "eb-row-9subz",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-t7tjr",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_requisitos\">\n<div class=\"process-box color1\">\n<div class=\"process-text\">\n<div class=\"process-title\">Check requirements before registration</div>\n<div class=\"process-subtitle\"></div>\n</div>\n</div>\n</a>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-k72bk",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);font-size:13px;line-height:1.3\">Academic requirements<br>Dates and deadlines<br>Document legalisation</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-v0g6f",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-hxv7j",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<a href=\"/es/admision_y_matricula/#tab_acceso\">\n<div class=\"process-box color2\">\n<div class=\"process-text\">\n<div class=\"process-title\">Access</div>\n<div class=\"process-subtitle\">Online pre-registration at the UPM</div>\n</div>\n</div>\n</a>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-e649p",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Email confirmation and follow-up via <a href=\"http://upm.es/helios\">Hellios</a><br>Access email when verifying documentation (corrections or additional information may be required for this purpose)</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-ouvyc",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-nf1qq",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color3\">\n<div class=\"process-text\">\n<div class=\"process-title\">Admission</div>\n<div class=\"process-subtitle\">By the requested Master</div>\n</div>\n</div>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-czgsq",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Admission or rejection email when your application is resolved<br>This situation will appear on the Admittance List.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-9fn2p",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-bkj27",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color4\">\n<div class=\"process-text\">\n<div class=\"process-title\">Place reservation</div>\n<div class=\"process-subtitle\">Students without prior studies at UPM</div>\n</div>\n</div>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-cpb2e",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Complete within the indicated deadline; otherwise, the admission will be cancelled</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "row",
+              "id": "eb-row-kqr78",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-67en0",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"process-box color5\">\n<a href=\"/es/admision_y_matricula/#matriculacion\" class=\"process-link\">\n<div class=\"process-text\">\n<div class=\"process-title\">Registration</div>\n<div class=\"process-subtitle\">Online or at the Programme’s School</div>\n</div>\n</a>\n</div>"
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-rqcqn",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:var(--wp--preset--spacing--30);margin-right:0rem;margin-bottom:var(--wp--preset--spacing--30);margin-left:0rem;font-size:13px;line-height:1.3\">Formalise registration</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-sv3vx9v",
+      "rootClass": false,
+      "legacy": true,
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-tabs",
+          "id": "eb-advanced-tabs-cg12jgf",
+          "rootClass": false,
+          "align": "wide",
+          "className": "algomindai_tabmark custom-color-tabs",
+          "animation": "fadeInUp",
+          "layout": "vertical",
+          "titleTag": "h6",
+          "activeIndex": 0,
+          "tabs": [
+            {
+              "tabId": "1",
+              "title": "Requirements",
+              "customId": "tab_requisitos",
+              "anchor": "tab_requisitos",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-g4hv7vx",
+                  "rootClass": false,
+                  "align": "wide",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Before starting the pre-enrolment process, it is recommended to check the Access and Admission requirements as they vary depending on the country where the university degree was obtained, the language in which it was studied, the Master’s programme applied for, etc. It is important to carefully review the information regarding your case as it may take time to process the necessary documentation. You can find all the information you need <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Admision\">here</a>.</p>\n<p>In addition, students interested in taking the Master’s Degree in Artificial Intelligence must hold a degree in computer science:</p>\n<ul class=\"wp-block-list\">\n<li>Bachelor of Science in Informatics Engineering</li>\n<li>Bachelor of Science in Mathematics and Informatics</li>\n<li>Bachelor of Science in Data Science and Artificial Intelligence</li>\n<li>Bachelor of Science in Software Engineering</li>\n<li>Bachelor of Science in Information Systems</li>\n<li>Bachelor of Science in Computer Engineering</li>\n<li>Bachelor of Science in Technologies for the Information Society</li>\n<li>or equivalent</li>\n</ul>\n<p>or alternatively, a related qualification:</p>\n<ul class=\"wp-block-list\">\n<li>Bachelor’s degree in Mathematics or Physics with a specialisation in Computing</li>\n<li>Any degree developed in the field of engineering with a predominantly technological profile (biomedical, telecommunications, etc.)</li>\n</ul>\n<p>Students holding degrees awarded before the deployment of the EHEA shall be required to hold the equivalent academic qualifications to the above degree programmes (licentiate, engineer or technical engineer).</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "2",
+              "title": "Access",
+              "customId": "tab_acceso",
+              "anchor": "tab_acceso",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-a45r5r0",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Pre-registration to apply for access and admission to the Master’s Degree in Artificial Intelligence (MUIA) is done online through the <a href=\"http://upm.es/helios\">HELIOS</a> application. Applicants submit, through this platform, all the information required to assess whether they meet the conditions of access and, where appropriate, be admitted as a student on the programme.</p>\n<p>To access the MUIA it is necessary to be in possession of an official university degree, with the profile described above, which entitles access to Master’s studies.</p>\n<p>In case an applicant has NOT finished his/her bachelor’s degree, the <a href=\"https://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Informacion/Normativa/2022_23_Normativa%20Admision%20UPM%20CG_05_22_y_01_23.pdf\">UPM Admission Regulations</a> allow him/her to pre-enrol if the following requirements are met:</p>\n<ul class=\"wp-block-list\">\n<li>Only the Final Degree Project (TFG) and a maximum of 9 credits remain to obtain the degree, which must be accredited with an official academic transcript in which this situation is reliably confirmed and where the credits passed and the credits required by their degree are stated.</li>\n<li>UPM students in Successive Academic Programmes (PARS) with a maximum of 30 credits remaining, including the TFG.</li>\n</ul>\n<p>Applicants who do not meet this requirement at the time of pre-enrolment may be admitted on a conditional basis, and must provide proof of compliance before 30 September. Otherwise, admission will be cancelled.</p>\n<p>Under no circumstances may the Master’s degree be obtained without having previously completed the Bachelor’s degree.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "3",
+              "title": "Admission",
+              "customId": "tab_admision",
+              "anchor": "tab_admision",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-07ss307",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>The admission process allocates the places offered by the university among applicants who have pre-registered, providing all the necessary documentation.<br><br>The Academic Committee of the Master’s Degree in Artificial Intelligence (CAMIA) is responsible for the admission of its students, publishing the admission lists in three periods, according to the <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Calendario\">calendar</a> set by the UPM.</p>\n<p>The admission criteria applied by CAMIA are in accordance with the provisions of the ETSIINF <a href=\"http://fi.upm.es/?id=politicacalidad\">Internal Quality Assurance System</a> and the <a href=\"https://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Informacion/Normativa/2022_23_Normativa%20Admision%20UPM%20CG_05_22_y_01_23.pdf\">UPM Admission Regulations</a>, but also take into account the following aspects:</p>\n<ul class=\"wp-block-list\">\n<li>For new applicants with a degree that is not in the field of computer science but related to it, the training complements deemed necessary will be established (up to a maximum of 12 ECTS).</li>\n<li>If the number of applicants is much higher than the number of places offered, a selection process will be carried out for admission. The reference elements that CAMIA will consider in the student selection process may include: the degree studied, the university of origin, the curriculum vitae and/or academic record, knowledge of languages, and that the student can enrol full time.</li>\n</ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "4",
+              "title": "Place reservation",
+              "customId": "tab_reserva",
+              "anchor": "tab_reserva",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-ipbycxb",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>All those students who have been admitted to the MUIA, in the first or second admission period, and have NOT taken previous studies at the UPM must formalise their place reservation within the deadline established in the UPM <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Calendario\">Calendar.</a> The reservation fee is 250 euros, which will be deducted from the registration fee. There will be no refund if the registration is not formalised.</p>\n<p>Steps to book your place:<br>a) Request <a href=\"http://cuentas.upm.es/solicitud\">UPM email account</a><br>b) Access the <a href=\"https://automatricula.upm.es/AC_gestionRecibos/\">payment platform</a> (Gestión de Recibos). Payment will be made by credit card only.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "8",
+              "title": "Training <br>Complements",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-l4c08",
+                  "rootClass": false,
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>The international quality label Euro-Inf, which MUIA holds, requires that the learning outcomes established by EQANIE for the master’s degree in Computer Science are achieved by all students taking the degree. The MUIA Academic Committee (CAMIA), in order to ensure that all students whose entry profile is not from the field of Computer Science but related to it can achieve these objectives, will establish for these students up to a maximum of 12 ECTS of complementary training to be taken through subjects of the Degree in Computer Engineering (GII) or the Degree in Mathematics and Computer Science (GMI) taught at the ETS of Computer Engineering of the UPM.</p>\n<p>The subjects that will be used as training complements are:</p>\n<ul class=\"wp-block-list\">\n<li>Within the field of Programming:\n<ul class=\"wp-block-list\">\n<li>Programming I</li>\n<li>Digital Systems</li>\n<li>Formal Languages, Automata, and Computability</li>\n</ul>\n</li>\n<li>From the field of Software Engineering, Information Systems, and Intelligent Systems:\n<ul class=\"wp-block-list\">\n<li>Data bases</li>\n<li>Human-computer interaction</li>\n</ul>\n</li>\n</ul>\n<ul class=\"wp-block-list\">\n<li>From the field of Computer Engineering:\n<ul class=\"wp-block-list\">\n<li>Computer structure&nbsp;</li>\n<li>Data center design project&nbsp;</li>\n</ul>\n</li>\n<li>From the field of Operating Systems, Distributed Systems, and Networks.:\n<ul class=\"wp-block-list\">\n<li>Computer networks</li>\n<li>Information technologies process management</li>\n</ul>\n</li>\n</ul>\n<p></p>\n<p>The assignment of training complements is done on an individual basis for each student, for which all students will be asked to provide information on the computer science subjects they have studied in their related degrees and the contents of these subjects. After analysing this information, the complementary courses to be taken will be identified, with a maximum of 12 ECTS, and the corresponding subjects.</p>\n<p></p>\n<p>Master’s programming&nbsp;proposals for students with training complements:</p>\n<p></p>\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Complementos-formativos/12%20ECTS%20CF.pdf\">Students with&nbsp;12 ECTS training complements</a></li>\n<li><a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Complementos-formativos/6%20ECTS%20CF.pdf\">Students with&nbsp;6&nbsp;ECTS training complements</a></li>\n</ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "5",
+              "title": "Registration",
+              "customId": "matriculacion",
+              "anchor": "matriculacion",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-2ravuhy",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>Once admitted to the master’s degree, students must formalise their enrolment online by means of an automatic enrolment system, in which students can select and manage their own enrolment and print the payment letter(s). Access to the system, as well as extensive information about it, is available <a href=\"https://www.upm.es/UPM/ServiciosTecnologicos/Automatricula\">here</a>.</p>\n<p>The ordinary annual enrolment period for the Master’s Degree in Artificial Intelligence, as well as the un-enrolment period for second semester subjects (Seminars) and the extended enrolment period (only for the Master’s Thesis) are available in the<a href=\"/es/horarios/\"><strong> academic calendar</strong></a>:</p>\n<p>Further information on registration <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Matricula\">here</a>.</p>\n<p><strong>Notes:&nbsp;</strong></p>\n<ol class=\"wp-block-list\" start=\"1\" style=\"list-style-type:1\">\n<li>All students will make <strong>annual registration</strong>.</li>\n<li>A minimum of 12 credits to be enrolled annually is established, except for those students who have a lower number of credits to finish their studies. There is no limit to the maximum number of credits to enroll.</li>\n<li>The student may choose between the <strong>single payment or the installment payment</strong>. In the latter case, eight installments will be established for the payment of tuition.</li>\n<li><strong>Bridge complements</strong> must be enrolled in the regular (annual) registration period.</li>\n<li>The <strong>seminars</strong> are registered as a single subject of 10 ECTS, and are given in the second semester. Seminars must be also enrolled in the regular (annual) registration period.</li>\n<li>The <strong>Master’s Final&nbsp;Project</strong> (MFP) can be registered in the regular&nbsp;or extended enrollment periods, and can be defended at any time during the corresponding year or semester.</li>\n<li>In attention to the uniqueness of the MFP, in case the student has not been able to overcome it in an academic year, the prices to be paid in the following academic year will be those corresponding to 25% of the price in the first registration of the Decree of Public Prices, which will entitle the student&nbsp;to a single examination session without prejudice to the rest of the rights acquired when registering in said subject.</li>\n<li>Students that are not enrolled for any Master in Artificial Intelligence subject lose their official status as students of the UPM and are not eligible for official or unofficial grants, mobility assistance… On this ground, we advise students that have completed the rest of the course to register for their MFP at the start of the respective semester to ensure that they retain their UPM student status.</li>\n</ol>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "6",
+              "title": "Credit Recognition <br>and Transfer",
+              "customId": "tab_transferencia",
+              "anchor": "tab_transferencia",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-ku2j6xi",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>All information regarding the recognition and transfer of credits is available <a href=\"https://www.upm.es/Estudiantes/OrdenacionAcademica/Reconocimiento\">here</a>.</p>\n<p>The Academic Committee of the Master’s Degree in Artificial Intelligence (CAMIA) will analyse the requests and draw up the corresponding reports, which will be sent to the Academic Organisation Committee of the School of Computer Engineering, which in turn will issue a report and send it to the Vice-Rector’s Office for Students. The resolution granting or denying the recognition of credits will be adopted by the President of the Credit Recognition and Transfer Committee in accordance with the provisions of art. 5 d) of the regulations.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "7",
+              "title": "Continuance regulation <br>for students",
+              "customId": "tab_normativa",
+              "anchor": "tab_normativa",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-s8mkyjs",
+                  "rootClass": false,
+                  "align": "full",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>In those particular situations in which students have run out the three academic years but they wish to continue their master studies, it will be mandatory to submit an application to the Academic Committee of the University’s Master in Artificial Intelligence, responsible for analysing the student´s status to then submit his/her application to the Academic Planning Committee of School of Computer Science</p>\n<p>This includes the requirement that students must pass at least 15 ECTS during their first academic year, and at least 45 ECTS during the first two academic years of enrolment.</p>\n<p>In any case, Master’s regulations for permanency must comply the rules established by the Universidad Politécnica de Madrid for the procedure of permanence in Master’s degrees that can be found <a href=\"https://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Informacion/Normativa/Permanencia_2011_2012.pdf\">here</a>.</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-re9srhu",
+      "rootClass": false,
+      "align": "full",
+      "anchor": "faq_admission",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-chj48xh",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-w3qq0z5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-g7t8tyc",
+                  "rootClass": false,
+                  "animation": "slideInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h3",
+                      "html": "FAQs about admission of the MUIA"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "You can access more general or specific FAQs by clicking on the following links:"
+                    }
+                  ]
+                },
+                {
+                  "type": "feature-list",
+                  "id": "eb-feature-list-ue3xn3a",
+                  "rootClass": false,
+                  "wrapperClass": "-icon-position-left -tablet-icon-position-left -mobile-icon-position-left eb-feature-list-left",
+                  "listClass": "circle stacked",
+                  "titleTag": "h3",
+                  "items": [
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/en/#general_faq",
+                      "title": "About the Master’s programme in general",
+                      "content": "You will find answers to the most common questions prospective students often have about the programme itself, giving you a complete and accurate overview of what to expect when you join the MUIA"
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/en/structure/#muia_structure_faqs",
+                      "title": "About the structure of the degree",
+                      "content": "You will learn everything you need to know about the structure of the master’s degree, its subjects and seminars, the development of the dissertation and how the defence of the dissertation is carried out."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "#",
+                      "title": "About students from outside Madrid",
+                      "content": "If you are a student coming from outside the city of Madrid, you will find information on where to find accommodation or on the documentation for your visa."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-l1impt9",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-q6hw06h",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-angle-down",
+                  "expandedIcon": "fas fa-angle-up",
+                  "transitionDuration": "500",
+                  "legacy": true,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-vzxka8v",
+                      "clickable": "true",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "Is there a limited number of vacancies for new admissions?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-2e4rekc",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The number of available vacancies for new admissions will be 60&nbsp; (data for 2023-2024) (<a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Programas?id=10.9&amp;fmt=detail\" target=\"_blank\" rel=\"noreferrer noopener\">UPM web</a>)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u6eljqt",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "<strong>What is the pre-registration period for the MUIA degree?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-xwdod12",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Check the <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Calendario\">UPM calendar</a>."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-2cynjuv",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "<strong>Is it possible to join the degree in February?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-diyjtab",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "It is not possible to join the degree in the second semester (February)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-s8tg4ws",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "What previous degrees must I hold in order to be able to register for the MUIA degree?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-7oslr5m",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The recommended admission <strong>profile for prospective</strong> Master of Science in Artificial Intelligence students is as follows. Students are required to hold a bachelor’s degree in <strong>informatics or equivalent:</strong><br><br>– Bachelor of Science in Informatics Engineering<br>– Bachelor of Science in Computing and Mathematics<br>– Bachelor of Science in Computing and Business Administration and Management<br>– Bachelor of Science in Software Engineering<br>– Bachelor of Science in Information Systems<br>– Bachelor of Science in Computer Engineering<br>– …<br><br>or similar:<br><br>– Any bachelor’s degree within the field of engineering with a predominantly technological profile (telecommunications engineering, industrial engineering, aeronautical engineering, biotechnology, agricultural engineering).<br>– Bachelor’s degrees in mathematics or physics specializing in computation.<br><br>Students holding degrees awarded before the deployment of the EHEA shall be required to hold the equivalent academic qualifications to the above degree programmes (licentiate, engineer or technical engineer)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-fmjpygc",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "<strong>What criteria are used for selecting and admitting students onto the MUIA degree?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-y3ckrh2",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The reference elements which will be considered by the Academic Board of the MSc (CAMIA) in the students’ selection process are: the University where the student comes from, the studied degree and the student’s resume/CV and/or academic record. The documentation that will be requested from the student will be: a photocopy of the national identity card, the academic certification and the resume/CV."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wy4cyhj",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "In case I need a pre-admission letter in order to apply for a studentship associated with the MUIA degree, who should I ask?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-jjxwwef",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "To request a pre-admission letter for the MUIA degree, the student shall contact the Administrative Secretariat of the MUIA (Dª. Victoria Centeno Montero, masteria.dia@fi.upm.es). Once it has been verified that the student fullfils the access requirements and that the documentation provided at pre-registration is correct and complete, the pre-admission letter will be sent to the student via post and e-mail. <br><br>The aforementioned letter does not guarantee the student’s admission. The student must go through a selection process in case the demand is greater than the number of available vacancies for the new academic year."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-crxx32g",
+                      "clickable": "false",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "What are the “training complements” and who must attend them?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-wzc7nyk",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The students whose degree is not in computer science but similar (Technical Engineering in Telecommunications, Superior Industrial Technical Engineering, Industrial Technical Engineering, BSc degree in Mathematics, Physics or any other speciality in computers) and wish to register for the UMAI degree must attend up to 12 ECTS on “training complements”. CAMIA will determine which modules the student must be taught as his/her training complements, selected from the degree in Ingeniería Informática (Informatics Engineering) or the degree in mathematics and informatics taught by the ETSIInf of the Universidad Politécnica de Madrid (UPM).<br><br>The “bridge complements’ student” can be simultaneously attended with the MUIA modules."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/en-access_admission_registration.css"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "pedro-larranaga-y-concha-bielza-premiados-por-la-amity-university-india",
+  "lang": "es",
+  "path": "/es/pedro-larranaga-y-concha-bielza-premiados-por-la-amity-university-india/",
+  "title": "Pedro Larrañaga y Concha Bielza, premiados por la Amity University (India)",
+  "wpId": 202,
+  "date": "2020-01-31T12:09:55+00:00",
+  "modified": "2023-11-23T19:00:19+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es",
+    "noticias-destacadas"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Pedro Larrañaga y Concha Bielza, premiados por la Amity University (India) - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Los profesores del MUIA Pedro Larrañaga y Concha Bielza, reciben el Premio otorgado por Amity University, en Noida (India) por su […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2020/01/India3.jpg",
+      "width": 220,
+      "height": 165,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2020/01/India3.jpg",
+      "width": 220,
+      "height": 165,
+      "caption": "India3"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">Los profesores del MUIA&nbsp;Pedro Larrañaga y Concha Bielza, reciben el Premio otorgado por Amity University, en Noida (India) por su relevante contribución investigadora en Machine Learning.</p>\n<p><span id=\"more-202\"></span></p>\n<p class=\"rtejustify\">\nLos catedráticos e investigadores de la ETSIINF, Pedro Larrañaga y Concha Bielza, han recibido &nbsp;el Premio «Amity Researcher Award for Significant Contribution in the Field of Machine Learning» en Confluence-2020: 10th International Conference on Cloud Computing, Data Science &amp; Engineering (<a href=\"https://www.amity.edu/aset/confluence2020/\">https://www.amity.edu/aset/confluence2020/</a>).&nbsp;Amity University en Noida (India) les ha hecho entrega de este Premio.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2020/01/India3.jpg",
+    "width": 220,
+    "height": 165,
+    "alt": "India3"
+  },
+  "wordCount": 104,
+  "excerpt": "<p>Los profesores del MUIA&nbsp;Pedro Larrañaga y Concha Bielza, reciben el Premio otorgado por Amity University, en Noida (India) por su</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2020/01/India3.jpg",
+    "width": 220,
+    "height": 165,
+    "alt": "India3"
+  }
+}

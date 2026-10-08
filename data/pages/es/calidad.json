@@ -1,0 +1,412 @@
+{
+  "slug": "calidad",
+  "lang": "es",
+  "path": "/es/calidad/",
+  "title": "Calidad",
+  "wpId": 315,
+  "date": "2016-11-11T11:00:08+00:00",
+  "modified": "2024-01-10T17:38:36+00:00",
+  "translations": {
+    "en": "/en/quality/",
+    "es": "/es/calidad/"
+  },
+  "seo": {
+    "title": "Calidad - Máster Universitario en Inteligencia Artificial",
+    "schemaImage": {
+      "src": "/assets/external/mucd.dia.fi.upm.es/wp-content/uploads/sites/7/2023/10/euroinfo-vectorizado.svg"
+    },
+    "twitter": {
+      "twitter:label1": "Tiempo de lectura",
+      "twitter:data1": "5 minutos"
+    }
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-lmparau",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-b0p9k9o",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-27z900i",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<h2 class=\"wp-block-heading has-ast-global-color-5-color has-text-color has-link-color wp-elements-5558fa65bdb94caee9a22bd9f4de816f\">Asegurando la excelencia</h2>"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-i12rphw",
+                  "rootClass": false,
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Calidad &amp; Acreditaciones"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "El Máster Universitario en Inteligencia Artificial de la ETS de Ingenieros Informáticos de la UPM destaca por su riguroso compromiso con la excelencia académica, respaldado por la Acreditación Institucional y el distintivo sello EURO-INF. Este sello es sinónimo de calidad y competencia en el ámbito educativo y profesional, garantizando que nuestros programas cumplen con los más altos estándares internacionales. Aspiramos a inspirar y capacitar a la próxima generación de líderes en el campo de la inteligencia artificial, ofreciéndoles una educación que no solo es reconocida globalmente sino que también abre puertas a oportunidades de carrera en todo el mundo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-0o85v7r",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-v0fa15q",
+      "rootClass": false,
+      "align": "full",
+      "anchor": "sistema-garantia-calidad",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-20r6fsm",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "Sistema de Garantía de Calidad"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Los principales actores en los sistemas de aseguramiento de la calidad del Máster son los siguientes:"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-g0yvfjz",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-shs1gdw",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-parent-wrapper eb-parent-eb-infobox-sr5ifk0 eb_animation eb___animated eb___fadeInRight\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-infobox-sr5ifk0 eb-infobox-wrapper\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"infobox-wrapper-inner\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-bookmark\" class=\"eb-infobox-icon-data-selector  fas fa-bookmark\"></span></div></div></a><div class=\"contents-wrapper\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><h4 class=\"title\">La Unidad de Garantía Interna de Calidad</h4></a><p class=\"description\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><a rel=\"noreferrer noopener\" href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_blank\">El Sistema de Garantía Interna de Calidad de la E.T.S. de Ingenieros Informáticos </a>(SGIC-ETSIINF), cuyo alcance cubre todas las titulaciones que se imparten en la misma, en sus niveles de Grado, Máster y Doctorado, es el responsable de garantizar la calidad en todas las titulaciones de la E.T.S. de Ingenieros Informáticos de la UPM.</p></div></div></div></div></div>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-c6hifkk",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-xrete7b",
+                  "rootClass": false,
+                  "className": "last-home-card",
+                  "animation": "fadeInUp",
+                  "icon": "fas fa-users",
+                  "iconTag": "span",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "La Comisión Académica",
+                  "description": "<strong>La&nbsp;Comisión Académica del Máster Universitario en Inteligencia Artificial&nbsp;(CAMIA)&nbsp;</strong>es la responsable de garantizar la calidad del Programa, poniendo en ejecución los procesos identificados al respecto en el marco del&nbsp;Sistema de Garantía Interna de Calidad de la Escuela Técnica Superior de Ingenieros Informáticos de la Universidad Politécnica de Madrid (UPM)."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-qiduc1g",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-parent-wrapper eb-parent-eb-infobox-i4yh9yx eb_animation eb___animated eb___fadeInDown\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"eb-infobox-i4yh9yx eb-infobox-wrapper\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"></a><div class=\"infobox-wrapper-inner\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-sun\" class=\"eb-infobox-icon-data-selector  fas fa-sun\"></span></div></div></a><div class=\"contents-wrapper\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><h4 class=\"title\">Las Entidades de Acreditación</h4></a><p class=\"description\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\">La <strong>E.T.S. de Ingenieros Informáticos</strong> obtuvo en mayo de 2020 la<strong>&nbsp;Acreditación Institucional</strong>&nbsp;por parte del Consejo de Universidades (</a><a href=\"https://www.fi.upm.es/docs/estructura/989_Resolucion-CU-Acred-Institucional-18-05-2020.pdf\">resolución</a>) tras el informe favorable de la Fundación para el Conocimiento Madri+d de la CAM (<a href=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\">informe final</a>). Esta acreditación es un importante reconocimiento de calidad y excelencia para nuestra Escuela.</p></div></div></div></div></div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-i3evd7u",
+      "rootClass": false,
+      "anchor": "acreditaciones-sello-euro-inf",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-2e5n81u",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "Acreditaciones y sello Euro-Inf"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "En España, la gestión de este sello se lleva a cabo por parte de ANECA, como agencia autorizada por EQANIE, a través del programa <a href=\"https://www.aneca.es/en/professional-labels\" data-type=\"link\" data-id=\"https://www.aneca.es/en/professional-labels\">Sellos Internacionales de Calidad</a>."
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-u9x9q1r",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-96csago",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-mss59hd",
+                  "rootClass": false,
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "link": {
+                    "href": "https://eqanie.eu/quality-label/",
+                    "target": "_blank",
+                    "rel": "noopener",
+                    "overlay": true
+                  },
+                  "src": "/assets/external/mucd.dia.fi.upm.es/wp-content/uploads/sites/7/2023/10/euroinfo-vectorizado.svg",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-zapp4ga",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p>La legislación española establece que la acreditación inicial de los títulos oficiales debe ser renovada periódicamente a partir de la fecha de su verificación o desde la fecha de su última acreditación (Real Decreto 861/2010, de 2 de julio, que modifica el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales en España)</p>\n<p>En este contexto ANECA ofrece a los títulos de determinadas disciplinas la posibilidad de obtener un sello internacional de reconocido prestigio, simultáneamente con el proceso de renovación de la acreditación del título.</p>\n<p>Desde junio de 2015 el Máster Universitario en Inteligencia Artificial (MUIA) participa en la convocatoria de 2016 de dicho programa; mediante la cual, el título opta a renovar su acreditación y obtener el sello de calidad europeo EURO-INF, aprovechando las sinergias entre ambos procedimientos de evaluación.</p>\n<p style=\"font-size:16px;line-height:1.8\">El sello <strong>Euro-Inf</strong> es un sello de calidad concedido a una Universidad respecto a un título de informática de grado o máster evaluado según una serie de <a href=\"http://eqanie.eu/wp-content/uploads/2019/09/Euro-Inf_Framework_Standards_and_Accreditation_Criteria_Spanish_Version.pdf\"><strong>estándares definidos</strong></a>, de acuerdo con los principios de calidad, relevancia, transparencia, reconocimiento y movilidad contemplados en el Espacio Europeo de Educación Superior según la prestigiosa asociación europea <a href=\"https://eqanie.eu/quality-label/\"><strong>EQANIE (European Quality Assurance Network for Informatics Education)</strong></a>.</p>\n<p style=\"font-size:16px;line-height:1.8\">En España, la gestión de este sello se lleva a cabo por parte de ANECA, como agencia autorizada por EQANIE, a través del programa <a href=\"https://www.aneca.es/sellos-profesionales\"><strong>Sellos Internacionales de Calidad</strong></a>.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-5h0zcs5",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Algunos de los principales <a href=\"https://eqanie.eu/quality-label/benefits-of-the-euro-inf-quality-label/\">beneficios</a> que proporciona el sello Euro-Inf son:"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-2t8ldgd",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-l1ayzi4",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"eb-parent-wrapper eb-parent-eb-infobox-kz482gd eb_animation eb___animated eb___fadeInRight\"><div class=\"eb-infobox-kz482gd eb-infobox-wrapper\"><div class=\"infobox-wrapper-inner\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-check-circle\" class=\"eb-infobox-icon-data-selector  fas fa-check-circle\"></span></div></div><div class=\"contents-wrapper\"><h4 class=\"title\">Reconocimiento internacional</h4><p class=\"description\">Los graduados obtienen un amplio reconocimiento global por la alta calidad y prestigio de la formación de su programa, mejorando significativamente su credibilidad en diversos entornos profesionales.</p></div></div></div></div></a></div>\n<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"https://www.fi.upm.es/?id=politicacalidad\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"eb-parent-wrapper eb-parent-eb-infobox-kia84 eb_animation eb___animated eb___fadeInRight\"><div class=\"eb-infobox-kia84 eb-infobox-wrapper\"><div class=\"infobox-wrapper-inner\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-check-circle\" class=\"eb-infobox-icon-data-selector  fas fa-check-circle\"></span></div></div><div class=\"contents-wrapper\"><h4 class=\"title\">Recono-<br>cimiento internacional</h4><p class=\"description\">Los graduados obtienen un amplio reconocimiento global por la alta calidad y prestigio de la formación de su programa, mejorando significativamente su credibilidad en diversos entornos profesionales.</p></div></div></div></div></a></div>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-4a352zh",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-pggx678",
+                  "rootClass": false,
+                  "className": "last-home-card",
+                  "animation": "fadeInUp",
+                  "icon": "fas fa-check-circle",
+                  "iconTag": "span",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Movilidad académica",
+                  "description": "El sello garantiza que la formación en competencias del programa se alinea con los estándares europeos (EEES), facilitando transiciones académicas fluidas y el ingreso a muy diversas instituciones."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-4ex3aml",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<div class=\"wp-block-essential-blocks-infobox last-home-card\"><a href=\"http://www.madrimasd.org/fundacion\" target=\"_self\" rel=\"noopener noreferrer\" class=\"info-click-link info-wrap-link\"><div class=\"eb-parent-wrapper eb-parent-eb-infobox-zvjoyg7 eb_animation eb___animated eb___fadeInDown\"><div class=\"eb-infobox-zvjoyg7 eb-infobox-wrapper\"><div class=\"infobox-wrapper-inner\"><div class=\"icon-img-wrapper\"><div class=\"eb-icon number-or-icon\"><span data-icon=\"fas fa-check-circle\" class=\"eb-infobox-icon-data-selector  fas fa-check-circle\"></span></div></div><div class=\"contents-wrapper\"><h4 class=\"title\">Ventaja profesional</h4><p class=\"description\">La acreditación Euro-Inf proporciona un valor añadido en términos de acceso al mundo empresarial, generando más oportunidades de empleo a nivel internacional y aumentando las posibilidades de movilidad profesional.</p></div></div></div></div></a></div>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-kj6mc2y",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "El MUIA obtuvo el sello de calidad Euro-Inf el 27/07/2016, y su validez se extiende hasta el 27/01/2027, tal y como se refleja en el último <a href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/IF_EUROInf_4311905_UPM_MUIA.pdf\" data-type=\"link\" data-id=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/IF_EUROInf_4311905_UPM_MUIA.pdf\">Informe Final</a> emitido por la Comisión de Acreditación Euro-Inf de ANECA."
+            }
+          ]
+        },
+        {
+          "type": "html",
+          "html": "<hr class=\"wp-block-separator has-text-color has-ast-global-color-8-color has-alpha-channel-opacity has-ast-global-color-8-background-color has-background is-style-wide\" style=\"margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--20)\">"
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-xd3pf60",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-xytpo27",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Informe provisional para la renovación del sello Euro-Inf: "
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Con fecha 28&nbsp;de enero de 2021 se ha emitido el informe definitivo&nbsp;de obtención&nbsp;del sello por parte de la Comisión de Acreditación del Sello&nbsp;EURO-INF.&nbsp;El periodo de concesión del sello es&nbsp;del 28&nbsp;de julio de 2021 al 27 de julio de 2027.&nbsp;El informe se encuentra disponible&nbsp;<a rel=\"noreferrer noopener\" href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/IF_EUROInf_4311905_UPM_MUIA.pdf\" target=\"_blank\">aquí</a>."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-gbmybdw",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Informe definitivo de la acretitación institucional: "
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Con fecha de marzo&nbsp;de 2020 la&nbsp;E.T.S. de Ingenieros Informáticos obtuvo el informe favorable de&nbsp;la&nbsp;Acreditación Institucional&nbsp;por la Fundación para el Conocimiento Madri+d de la Comunidad de Madrid (pendiente de resolución del Consejo de Universidades). El informe se encuentra disponible <a href=\"http://www.fi.upm.es/docs/estructura/598_Informe-final-Acreditacion-Instituciona-06-03-20.pdf\">aquí</a>&nbsp;y en la página de la Fundación.&nbsp;La obtención de dicha distinción supone la renovación automática de la acreditación&nbsp;de los títulos adscritos a la Escuela, entre ellos el Máster U. en Inteligencia Artificial."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-n0ra947",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Informe definitivo para la obtención del sello Euro-Inf: "
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Con fecha 23 de julio&nbsp;de 2017 se ha emitido el informe definitivo&nbsp;de obtención&nbsp;del sello por parte de la Comisión de Acreditación EURO-INF.&nbsp;El periodo de concesión del sello es&nbsp;del 27 de julio de 2016&nbsp;al 27 de julio de 2020.&nbsp;El informe se encuentra disponible&nbsp;<a rel=\"noreferrer noopener\" href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Concesi%C3%B3n%20definitiva%20sello%20EURO-INF%202017.pdf\" target=\"_blank\">aquí</a>."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-emi1413",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Informe favorable para la renovación de la acreditación: "
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Con fecha 13 de abril de 2016 se ha emitido el informe favorable para la renovación de la acreditación del MUIA por parte de la <a rel=\"noreferrer noopener\" href=\"http://www.madrimasd.org/fundacion\" target=\"_blank\">Fundación para el Conocimiento madri+d</a>. El informe se encuentra disponible <a rel=\"noreferrer noopener\" href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Informe%20renovaci%C3%B3n%20acreditaci%C3%B3n%202016.pdf\" target=\"_blank\">aquí</a> y en la página de la Fundación."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-vjohxdp",
+          "rootClass": false,
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "? Informe favorable para la acreditación de título: "
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Con fecha 13 de enero de 2010&nbsp;evaluado favorablemente por la ANECA&nbsp;y por el Consejo de Universidades.&nbsp;El informe se encuentra disponible <a rel=\"noreferrer noopener\" href=\"https://dia.fi.upm.es/masteria/sites/default/files/master/Calidad/Informe%20favorable%20acreditaci%C3%B3n%202010.pdf\" target=\"_blank\">aquí</a>."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/es-calidad.css"
+}

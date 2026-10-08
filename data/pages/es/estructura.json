@@ -1,0 +1,1916 @@
+{
+  "slug": "estructura",
+  "lang": "es",
+  "path": "/es/estructura/",
+  "title": "Estructura",
+  "wpId": 312,
+  "date": "2017-05-19T11:21:38+00:00",
+  "modified": "2026-07-29T08:25:25+00:00",
+  "translations": {
+    "en": "/en/structure/",
+    "es": "/es/estructura/"
+  },
+  "seo": {
+    "title": "Estructura - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2024/05/Profesor-en-seminario.jpg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2024/05/Profesor-en-seminario.jpg"
+    },
+    "twitter": {
+      "twitter:label1": "Tiempo de lectura",
+      "twitter:data1": "33 minutos"
+    },
+    "extraSchema": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\": \"¿Se pueden cursar asignaturas en el segundo semestre?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"No. Las asignaturas únicamente se imparten en el primer semestre, mientras que los seminarios se imparten únicamente en el segundo.\"}},{\"@type\":\"Question\",\"name\": \"¿Todas las asignaturas y seminarios del máster son optativas?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Todas las asignaturas del MUIA son optativas. Los únicos seminarios obligatorios son “Metodología de la Investigación”, &quot;Gestión de Proyectos y Control del Riesgo&quot; y &quot;Aspectos Legales y Éticos de la IA&quot;. Los restantes seminarios son todos optativos, aunque el alumno deba cursar algunos de ellos de manera obligatoria, dependiendo de las asignaturas que haya escogido (consulta aquí).\"}},{\"@type\":\"Question\",\"name\": \"¿Cómo se matriculan los seminarios?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Los seminarios se matriculan como una única asignatura de 10 ECTS, no teniendo que especificarse en el momento de la matriculación cuáles se van a cursar. El alumno debe matricular los seminarios en el periodo ordinario (anual) de matrícula.\"}},{\"@type\":\"Question\",\"name\": \"¿A cuántos seminarios se debe asistir para superar la asignatura de Seminarios?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Los seminarios tienen asignado un total de 10 ECTS, teniendo en cuenta que cada seminario son 1.5 o 2 ECTS, el alumno debe cursar 6 seminarios para superar la asignatura asociada a los mismos.\"}},{\"@type\":\"Question\",\"name\": \"¿Cómo se asigna el director del Trabajo Fin de Máster?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"La asignación de Trabajo Fin de Máster (TFM) se puede realizar de tres formas distintas:\nLos alumnos pueden contactar con los profesores del MUIA y acordar el tema de su TFM.A través de una aplicación informática desarrollada por el Depto. de Inteligencia Artificial, los alumnos pueden introducir sus preferencias sobre las propuestas de TFM que anualmente realizan los profesores del MUIA (de mediados de diciembre&nbsp;a mediados de enero).En el caso de que no les atraiga ninguna oferta, o no se les haya asignado ninguna de las seleccionadas (varios alumnos pueden seleccionar la misma propuesta), el alumno deberá realizar una propuesta, encuadrándola en una de las materias del MUIA e indicando hasta tres profesores de la misma que puedan ejercer de directores.\"}},{\"@type\":\"Question\",\"name\": \"¿Cuáles son los grupos de investigación y las líneas de investigación que desarrollan en la que basar el TFM?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Los profesores del MUIA pertenecen a varios grupos de investigación consolidados de la Universidad Politécnica de Madrid. En https://dia.fi.upm.es/#grupos_de_investigacion se puede obtener una descripción de dichos grupos, así como sus integrantes, líneas de investigación que desarrollan y proyectos de investigación subvencionados en los que participan.\"}},{\"@type\":\"Question\",\"name\": \"¿Se puede tener más de un director de TFM?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Se permitirá la codirección de un TFM por dos profesores, previa solicitud y justificación de la misma a la Comisión Académica del máster, siendo obligatorio que al menos uno de los dos profesores forme parte del profesorado del MUIA, y que ambos sean doctores.\"}},{\"@type\":\"Question\",\"name\": \"¿En qué consiste la defensa del Trabajo Fin de Máster, y cuándo se puede realizar?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"El alumno puede matricularse del TFM en el periodo ordinario (anual) o en el de ampliación de matrícula. La defensa puede realizarse en cualquier momento a lo largo del curso académico.Para poder defender el TFM el alumno deberá tener superadas todas las asignaturas y  seminarios del máster, además de tener que entregar cierta documentación con antelación a la fecha de la defensa del TFM (véase esta página).\"}},{\"@type\":\"Question\",\"name\": \"¿Qué sucede si no se puede terminar el TFM durante el primer curso académico?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"En este caso el alumno deberá volver a matricularse del Trabajo fin de Máster en el curso posterior, aun precio reducido.\"}}]}"
+    ]
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-gwapcxe",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-9sv6f4k",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "row",
+              "id": "eb-row-yjokuln",
+              "align": "full",
+              "anchor": "hero_section",
+              "children": [
+                {
+                  "type": "column",
+                  "id": "eb-column-y6aoqv5",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-phz4e97",
+                      "animation": "fadeIn",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h1",
+                          "html": "El MUIA es Flexible y adaptado a ti"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-whm5l2i",
+                      "animation": "fadeIn",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h1",
+                          "html": "Estructura y Contenidos"
+                        },
+                        {
+                          "part": "subtitle",
+                          "tag": "p",
+                          "html": "El Máster Universitario en Inteligencia Artificial es presencial de 60 ects, de los cuales 35 corresponden a asignaturas optativas, de 5 ects cada una, 10 corresponden a seminarios, y 15 están asociados al Trabajo Fin de Máster. Para obtener el título, el alumno debe superar<br><strong>– siete</strong> asignaturas;<br>– <strong>seis</strong> seminarios; y<br>– el <strong>Trabajo Fin de Máster</strong> (TFM)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "id": "eb-column-7bsi7yn",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-s6cmjs5",
+      "anchor": "asignaturas_seminarios",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-1apqiou",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-kk74bun",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-dgxz9ol",
+                  "anchor": "competencias",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Asignaturas y seminarios"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Todas las asignaturas del título y la mayor parte de los seminarios ofertados son optativos, y están estructurados en varias materias. El alumno tendrá que elegir <strong><span style=\"text-decoration: underline;\">siete asignaturas</span></strong>. La elección de las asignaturas es libre, pero el alumno tendrá que seleccionar asignaturas de <strong><span style=\"text-decoration: underline;\">al menos dos materias</span></strong> entre M2, M3, M4, M5, M6. Por ejemplo, seleccionar A4, A5, A6, A7, A18, A19 y A20 no está permitido porque, además de M7, solo se ha elegido asignaturas de la materia M3.<br><br>Con respecto a los seminarios, el alumno tendrá que elegir <strong><span style=\"text-decoration: underline;\">seis seminarios</span></strong>; algunos de ellos son obligatorios, mientras otros son optativos (con condiciones)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-b0fdkbs",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "advanced-tabs",
+          "id": "eb-advanced-tabs-cg12jgf",
+          "align": "full",
+          "className": "algomindai_tabmark",
+          "animation": "fadeInUp",
+          "layout": "vertical",
+          "minHeight": "true",
+          "titleTag": "h6",
+          "activeIndex": 0,
+          "tabs": [
+            {
+              "tabId": "1",
+              "title": "M1. Fundamentos <br>de Investigación",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-mdseo16",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-qiylnro",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>S1: Metodología de la investigación</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Este seminario guía a los estudiantes sobre los métodos, técnicas y sistemas más comunes utilizados en la práctica de la investigación científica, lo cual será relevante para el desarrollo de sus Trabajos Fin de Máster, así como para algunos de los cursos cubiertos en este Máster. Los temas que se tratarán en este seminario son los siguientes:</p>\n<p>• La carrera de un investigador, donde se revisarán y discutirán los diferentes caminos y etapas de la carrera de un investigador en la academia o la industria.</p>\n<p>• El Método Científico y cómo se puede aplicar en el contexto de la Inteligencia Artificial.</p>\n<p>• El rol de las publicaciones científicas en la investigación, incluyendo dónde y cuándo publicar resultados, y cómo publicarlos.</p>\n<p>• Métodos y Técnicas para generar una revisión de la literatura.</p>\n<p>• Propiedad intelectual, incluyendo la propiedad industrial, los derechos de autor y las licencias de software.</p>\n<p>• Ciencia Abierta: principios, buenas prácticas y tendencias.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-82iyetg",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-n36udq6",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S2: Gestión de proyectos y análisis de riesgos</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El seminario pretende proporcionar al alumno un conocimiento sobre los aspectos fundamentales de la gestión de proyectos tecnológicos y el control de riesgos. De esta forma será posible para el alumno tener una comprensión de los principios de la gestión de proyectos, riesgo y cambio, así como poseer a capacidad de aplicar metodologías y procesos para gestionar proyectos y mitigar riesgos.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-3lrql88",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-pd1s5ye",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S3: Aspectos éticos y legales de la Inteligencia Artificial</strong> &nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>No es aventurado suponer que todo egresado del MUIA tendrá que afrontar a lo largo de su carrera profesional retos no estrictamente técnicos pero relacionados con otras áreas de conocimiento tales como el derecho o la ética. Todo profesional del sector debería conocer los rudimentos de la legislación en materia de protección de datos y en materia de propiedad intelectual, así como también todo profesional debería saber hacer una evaluación del impacto de un proyecto desde un punto de vista ético. Esta situación no es novedosa, y en realidad cualquier egresado del grado en informática habrá de dar respuesta a problemas similares –pero los avances en el área de inteligencia artificial y la disponibilidad masiva de datos hacen que esta necesidad formativa sea más acuciante para un profesional de la inteligencia artificial.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-ujs6k17",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-xc68q49",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S4: Inteligencia Artificial e inclusión &nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Este seminario proporcionará al alumno conocimientos generales sobre</p>\n<ul class=\"wp-block-list\">\n<li>Sesgos (bias) e imparcialidad (fairness) en métodos y técnicas de Inteligencia Artificial con respecto a la dimensión de la discapacidad, ya que la mayor parte de la investigación realizada hasta la fecha sobre estos aspectos se ha centrado en la raza y el género.</li>\n<li>Explicabilidad en general y con respecto a la dimensión de la discapacidad. Un aspecto esencial para minimizar el sesgo y asegurar la imparcialidad se refiere a la creación de explicaciones asociadas a los desarrollos de Inteligencia Artificial.</li>\n<li>Casos de uso y aplicaciones de métodos y técnicas de Inteligencia Artificial para resolver problemas de inclusión social.</li>\n</ul>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-90wk80k",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "2",
+              "title": "M2. Análisis <br>de Decisiones",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-v4dvkuv",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-sblm55f",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A1: Sistemas de ayuda a la decisión</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Los SAD constituyen sistemas informáticos interactivos cuyo objetivo es ayudar a los decisores en la utilización de datos y modelos para resolver problemas no estructurados. <br><br>Surgen en la década de los años setenta para resolver situaciones complejas en las que los individuos han de elegir entre varias alternativas posibles para seguir la óptima o una satisfactoria. Para esta toma de decisiones no basta la experiencia, sentido común o intuición de los expertos, ya que, frecuentemente intervienen múltiples criterios normalmente conflictivos, incertidumbre, varios decisores, diversas etapas. La versatilidad inagotable de los problemas reales de decisión humana ha hecho necesarios esfuerzos en múltiples áreas, para ir construyendo una sucesión de esquemas coherentes, cada vez más amplios para abordar correctamente los problemas de decisión. Este curso se dedicará a exponer los fundamentos y aplicaciones de las principales líneas de desarrollo actual de los Procesos de Decisión, estudiando diferentes herramientas y software que han surgido en estos años para la modelización y evaluación de los problemas de toma de decisiones en ambiente de incertidumbre.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-8jqajiv",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000357_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-4q157e0",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A2: Decisión participativa y negociación</strong>&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>En la asignatura se presenta a la lógica «satisfaciente» como el marco racional para ubicar el análisis de la negociación y la toma de decisiones colectivas. Dicho marco aparecerá como el idóneo para reforzar el nexo de unión entre estas dos disciplinas del análisis de decisiones.<br><br>El modo operativo de implementar la lógica «satisfaciente», tanto a un problema de agregación de preferencia como a uno de análisis de la negociación, será el uso de la Programación por Metas.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-qevhs5j",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000358_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-4p2uuew",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A3: Métodos de simulación</strong>&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La Simulación consiste en construir modelos informáticos que describen la parte esencial del comportamiento de un sistema de interés, así como en diseñar y realizar experimentos con tales modelos con el fin de extraer conclusiones de sus resultados para apoyar la toma de decisiones. Típicamente, se utiliza en el análisis de sistemas tan complejos que no es posible su tratamiento analítico o mediante análisis numérico. La Simulación es hoy una metodología de experimentación fundamental en campos tan diversos como la Economía, la Estadística, la Informática, la Ingeniería Química, la Ecología y la Física, con enormes aplicaciones industriales y comerciales, que van desde los sistemas de manufacturación a los simuladores de vuelo, pasando por los juegos de ordenador, la predicción bursátil y la predicción meteorológica.<br><br>En la asignatura se mostrarán múltiples aplicaciones en la Inteligencia Artificial, especialmente en la disciplina de Análisis de Decisiones.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-hbd3yqw",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000345_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-coyi71c",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>S5: Análisis de decisiones</strong>&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El seminario proporciona al alumno un conocimiento general sobre la materia de Análisis de Decisiones, siendo a su vez una introducción para las distintas asignaturas que forman parte de la materia: los sistemas de ayuda a la decisión, la negociación y decisión colectiva bajo racionalidad acotada, y los métodos de simulación.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-90hsccb",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "3",
+              "title": "M3. Aprendizaje <br>Automático",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-uf5c789",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-yhtomm4",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A4: Redes bayesianas</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Esta asignatura expone las redes Bayesianas como herramientas gráficas bien consolidadas y de enorme aplicación en la actualidad para modelizar la incertidumbre y razonar con ella en sistemas inteligentes. La incertidumbre se modeliza con la probabilidad y el razonamiento se basa en la regla de Bayes.<br><br>Se comienza explicando el significado de las redes para modelizar conocimiento con incertidumbre tanto causal como no causal, y tanto desde un punto de vista estructural (cualitativo) como paramétrico (cuantitativo). El siguiente paso es hacer preguntas a la red, es decir, inferir conocimiento a partir de observaciones o datos que se vayan recogiendo. Así, podemos preguntar por ejemplo por el diagnóstico de una enfermedad o por la explicación más probable de la evidencia observada. Los algoritmos pueden obtener la respuesta exacta o aproximada, en este último caso seguramente utilizando simulación Montecarlo. La red se construye analizando el problema con el experto, pero también puede inducirse de una base de datos.<br><br>Éste es un tema actual: cómo obtener la estructura y los parámetros de la red, para lo que se expondrán métodos de aprendizaje automático. Finalmente, sabiendo cómo se construye la red y cómo se utiliza para realizar consultas, se verá su aplicación a la toma de decisiones y a otras aplicaciones de gran interés dentro de la Inteligencia Artificial: visión computacional, clasificación automática, filtrado de mensajes de correo electrónico, etc.<br><br>(la documentación de la asignatura está en inglés pero las clases y los procesos de evaluación se realizarán en castellano)</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-8us4iee",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000359_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-pefd5tq",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A5: Aprendizaje automático&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El Aprendizaje Automático trata de construir sistemas informáticos que optimicen un criterio de rendimiento utilizando datos o experiencia previa. Una situación en la que se requiere aprender es cuando no existe experiencia humana o cuando no es fácilmente explicable. Otra es cuando el problema a resolver cambia en el tiempo o de pende del entorno particular. El Aprendizaje Automático transforma los datos en conocimiento y proporciona sistemas de propósito general que se adaptan a las circunstancias. Entre las muchas aplicaciones exitosas pueden citarse el reconocimiento del habla o de texto manuscrito, navegación autónoma de robots, recuperación de información documental, filtrado cooperativo, sistemas de diagnóstico, análisis de microarrays de ADN, etc.<br><br>Este curso expone varios métodos que tienen su base en diferentes campos como la Estadística, Reconocimiento de Patrones, Inteligencia Artificial, Minería de Datos. El objetivo es conocer tales métodos desde una perspectiva unificada, teniendo claro los problemas que se resuelven así como las limitaciones y circunstancias de uso de cada uno de ellos.<br><br>(la documentación de la asignatura está en inglés pero las clases y los procesos de evaluación se realizarán en castellano)&nbsp;</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-u6pzpqu",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000360_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-a6kvp3z",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A6: Redes de neuronas artificiales y Deep Learning&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This course presents a theoretical and practical view of artificial neural networks. The course presents first the foundations of artificial neural networks and different types of architectures (both shallow and deep networks). Then, the course presents learning techniques to train neural networks, with special attention to deep learning methods. The course also presents neural models (e.g., convolutional neural networks) for problem classes and application domains (e.g., artificial vision, robotics, etc.). To complement the practical view, the student will use specialized software tools to train neural networks in practical problems.<br><br>(la documentación de la asignatura está en inglés pero las clases y los procesos de evaluación se realizarán en castellano)</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-pkfvsxk",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000815_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-4igi5db",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A7: Inteligencia artificial explicable&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>A pesar del alto rendimiento de los algoritmos de Inteligencia Artificial (IA) muchos de ellos son incomprensibles para las personas. La Inteligencia Artificial Explicable (IAX) trata de desarrollar sistemas inteligentes artificiales que sean inherentemente explicables, así como técnicas qué permitan la explicación de modelos de aprendizaje automático considerados del tipo «caja negra». El concepto de «caja negra» se utiliza para referirse al hecho de que no se puede explicar el motivo de una decisión final dado un modelo aprendido. La Inteligencia Artificial Explicable genera elementos que explican la decisión de un modelo aprendido proporcionando un conocimiento que mejora su inteligibilidad y asegura su validez. Entre las aplicaciones de interés pueden citarse el análisis clínico, la bioinformática, la navegación autónoma, o sistemas de ayuda al descubrimiento de conocimiento. En esta asignatura se ven distintos modelos y métodos que permiten interpretar y dotar con explicabilidad a un sistema inteligente artificial. El objetivo es conocer estos métodos desde una perspectiva global, sus usos y limitaciones, y algunas métricas que permiten su validación.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-1vh3m9e",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000750_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u2v2ajg",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S6: Aprendizaje automático&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El seminario proporciona al alumno un conocimiento general sobre la materia de Aprendizaje Automático, siendo a su vez una introducción para las distintas asignaturas y seminarios complementarios que forman parte de la materia: las redes bayesianas, el aprendizaje automático y las redes de neuronas artificiales y Deep learning.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-qwb4794",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "4",
+              "title": "M4. Computación <br>Natural",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-7xos3cn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-g5qpuha",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A8: Búsqueda inteligente basada en metaheurísticas</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>En época relativamente reciente se ha observado un interés creciente por el desarrollo de métodos de solución para problemas complejos de optimización. Siguiendo el éxito de las metaheurísticas tales como los algoritmos evolutivos, el recocido simulado, la búsqueda tabú y otras en el área de la optimización uniobjetivo, muchos investigadores han propuesto la extensión de metaheurísticas al campo multiobjetivo.<br><br>El objetivo de esta asignatura es presentar las líneas básicas y algunos de los desarrollos recientes en este campo de los algoritmos metaheurísticos tanto para el caso de uno como de varios objetivos. Se mostrará que para un problema dado existirán metodologías alternativas y que la naturaleza de estos métodos invita al analista a modificar o adaptar alguno de los enfoques que se podrían escoger, haciendo ver qué aspectos como las características particulares del problema, experiencias pasadas y preferencias personales constituyen una ayuda para la elección final.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-u4ofqpc",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000361_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-7rumvnt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A9: Computación evolutiva</strong>&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La Computación Evolutiva se inspira en los procesos biológicos existentes en la Naturaleza encaminados a la mejora del grado de adaptación al medio de una población de individuos para lograr su prevalencia o subsistencia. La Computación Evolutiva se emplea principalmente en la resolución de problemas de búsqueda y optimización. Para ello, se simula en un computador la existencia de poblaciones de posibles soluciones a un problema (individuos), que evoluciona con el fin de mejorarlas.<br><br>Esta asignatura presenta dos de las técnicas empleadas en Computación Evolutiva: los Algoritmos Genéticos y la Programación Genética; las cuales proporcionan mecanismos para la construcción automática de sistemas inteligentes auto-adaptativos, tanto simbólicos (sistemas basados en el conocimiento) como sub-simbólicos (redes de neuronas artificiales).</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-bwv3gx2",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000362_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-qgxa5ns",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A10: Biología programable:&nbsp;Computación con ADN e Ingeniería de biocircuitos</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El avance tecnológico actual está permitiendo manipular de forma cada vez más precisa la materia a nivel molecular e incluso atómico. Estos avances tecnológicos pueden hacer realidad estos dos nuevos modelos de computación. En el siglo XX se intentó modelar y simular los procesos computacionales presentes en la Naturaleza. En el siglo XXI, los esfuerzos se encaminarán a utilizar la propia Naturaleza para realiza cómputos: computadoras biomoleculares para analizar e interactuar con organismos vivos y computadoras cuánticas para simular sistemas físicos cuánticos. Estos estudios nos permitirán también descifrar las leyes del procesamiento de la información en la Naturaleza. Una teoría única de la información que incluya la física, la computación y la biología.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-pz9mh7p",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000363_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-kc709mf",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S7: Computación natural</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El seminario proporciona al alumno un conocimiento general sobre la materia de Computación Natural, siendo a su vez una introducción para las distintas asignaturas que forman parte de la materia: la búsqueda inteligente basada en metaheurísticas, la computación evolutiva y la computación no convencional (computación biomolecular y cuántica).</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-tbayxo3",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "5",
+              "title": "M5. Representación <br>del conocimiento y <br>Razonamiento",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-pxtg44f",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-fpp4llo",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A11: Programación lógica</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Esta asignatura aborda la utilización de la lógica como instrumento práctico de programación de aplicaciones avanzadas. La asignatura comienza presentando técnicas de representación y resolución de problemas utilizando programación lógica pura. A continuación, se estudia a fondo la programación en el lenguaje Prolog, así como técnicas de programación eficiente en este lenguaje, con especial énfasis en las aplicaciones en inteligencia artificial. También se aborda el tratamiento de la negación por fallo y la programación meta-lógica.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-tt1m72m",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000364_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-j59ifti",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A12: Sistemas multiagente</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Los sistemas multiagente son sistemas formados por varias entidades autónomas, llamadas agentes, que interactúan entre sí para para resolver problemas que exceden de las capacidades individuales de cada una o resolverlos de manera más eficiente. Esta interacción es el objeto principal de investigación en sistemas multiagente; y a él han contribuido diferentes disciplinas como las ciencias sociales, la teoría de juegos o la inteligencia artificial. En este curso, además de estudiar estas contribuciones se introducirá a los alumnos en la práctica de la investigación, en alguna de las áreas relacionadas con sistemas multiagente, y en la elaboración de artículos que describan los resultados de su actividad investigadora.<br><br>(la documentación de la asignatura está en inglés pero las clases y los procesos de evaluación se realizarán en castellano)</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-hasrbgr",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000366_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-0ugzj9c",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A13: Ingeniería ontológica</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El objetivo de esta asignatura es proporcionar la base teórica y práctica sobre los fundamentos científicos, metodológicos y tecnológicos implicados en la construcción de ontologías, las cuales van a ser utilizadas en la construcción de aplicaciones que integren, combinen y deduzcan información distribuida y heterogénea. En concreto, se presentarán: los conceptos de ontología y anotación en el contexto de la Web semántica y la semántica corporativa; los fundamentos teóricos y las ontologías más conocidas; los lenguajes RDF(S) y OWL; las metodologías, métodos y técnicas más utilizadas en su construcción que incluyen guías para la identificación del ciclo de vida, especificación, planificación, conceptualización, correspondencias, reutilización, reingeniería, etc.; métodos y técnicas para la anotación de recursos y aplicaciones más significativas. A lo largo de toda la asignatura se plantearán problemas de investigación abiertos que permitan a los estudiantes proporcionar soluciones innovadoras.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-h3ze3wa",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000367_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ulm8agj",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A14: Modelos de razonamiento</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La asignatura «Modelos de Razonamiento» presenta modelos computacionales de razonamiento propuestos en inteligencia artificial, que tienen aplicación en el diseño y construcción de sistemas inteligentes.<br><br>La asignatura comienza con una introducción que incluye generalidades sobre los sistemas inteligentes como base para el posterior desarrollo de la asignatura. Esta introducción proporciona una visión integradora de diferentes tipos de métodos de inteligencia artificial, algunos de los cuales se describen con más detalle en otras asignaturas.<br><br>A continuación, la asignatura presenta conceptos básicos relacionados con el razonamiento y la representación del conocimiento. En esta parte se contrastan los enfoques simbólicos y conexionistas en inteligencia artificial y se revisan diferentes métodos de inferencia (basados en lógica, restricciones, etc.) junto con herramientas software relacionadas. Se muestran ciertos aspectos del razonamiento (por ejemplo, no monotonía o razonar sobre los efectos de acciones) junto con técnicas existentes para abordar su simulación (circunscripción, cálculo de eventos, etc.).<br><br>Seguidamente, se describen soluciones relacionadas con razonamiento deliberativo para construir sistemas inteligentes autónomos que necesitan tomar decisiones seguras y eficientes en entornos dinámicos complejos, como los que se utilizan en sistemas robóticos o vehículos autónomos. En esta parte, se discuten funciones reactivas, deliberativas y reflexivas junto con soluciones para su integración.<br><br>Finalmente, la asignatura describe retos futuros relacionados con modelos de razonamiento mostrando dificultades y logros parciales. Esta parte incluye, por ejemplo, la integración de modelos neuronales y simbólicos o el razonamiento de sentido común entre otros aspectos relacionados con la inteligencia artificial general.<br><br>La asignatura ofrece principalmente una descripción teórica de una serie de métodos, ilustrada en algunos casos con herramientas y aplicaciones relacionadas con dominios prácticos (por ejemplo, robots aéreos autónomos). Se espera que los estudiantes que cursen esta asignatura desarrollen una comprensión general de métodos de razonamiento que ayude a complementar otras áreas de la inteligencia artificial en donde se hace uso de dichos métodos (por ejemplo, sistemas multiagente, planificación automática, robots autónomos, etc.).<br><br>Al cursar esta asignatura, los estudiantes desarrollarán habilidades de investigación en inteligencia artificial a través de la realización de un trabajo que explore un tema de su interés, relacionado con los modelos de razonamiento. En este trabajo, los estudiantes podrán optar por desarrollar un prototipo de sistema inteligente con capacidad deliberativa o por investigar en mayor profundidad un área específica mediante análisis de fuentes bibliográficas. Los alumnos presentarán en clase los resultados del trabajo realizado.<br><br>(la documentación de la asignatura está en inglés pero las clases y los procesos de evaluación se realizarán en castellano)<br><br>NOTA: En esta asignatura, las clases se imparten en español pero el material escrito utilizado están en inglés (por ejemplo, las diapositivas utilizadas en clase o la bibliografía recomendada).</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-r2aji1s",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000368_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-dv5jffq",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S8: Representación del conocimiento y razonamiento</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El seminario proporciona al alumno un conocimiento general sobre la materia de Representación del Conocimiento y Modelos de Razonamiento, siendo a su vez una introducción para las distintas asignaturas y seminarios complementarios que forman parte de la materia: programación lógica, sistemas multiagente, ingeniería ontológica, modelos de razonamiento y lógica borrosa.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-poy7lj3",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-sj56fxx",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S9: Lógica borrosa</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Este seminario trata los fundamentos teóricos y prácticos de la lógica borrosa, la cual permite representar conocimiento con imprecisión. Se exponen las técnicas necesarias para utilizar este conocimiento en procesos de inferencia, tanto en sistemas inteligentes basados en reglas como en sistemas de control borroso.<br><br>Este seminario está dirigido a alumnos sin conocimientos previos de lógica borrosa.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-lg0kqjl",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-pibv1dv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S10: Computación cognitiva</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El objeto de este seminario es realizar una introducción a la Computación Cognitiva y a los Sistemas Cognitivos, introduciendo posibles arquitecturas, principales componentes, explicando sistemas y plataformas existentes en la actualidad.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-1tcp021",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "6",
+              "title": "M6. Robótica <br>Cognitiva y Percepción",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-1fn804n",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-gb3dzmb",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A15: Visión por computador</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Las técnicas de visión por computador tienen como fin extraer propiedades del mundo a partir de un conjunto de imágenes. La identificación y localización de los objetos que nos rodean, el reconocimiento de una persona o la inserción automática de un personaje gráfico en una película, son algunos ejemplos de aplicaciones actuales de la visión por computador.<br><br>El objetivo del curso es introducir al alumno en la problemática de la visión por computador y estudiar las técnicas más usuales de análisis automático de imágenes desde la perspectiva del aprendizaje profundo. Se estudiarán en detalle los modelos y arquitecturas más utilizados, así como algunas de sus aplicaciones. La asignatura tiene un enfoque en el que se pretende equilibrar los conocimientos teóricos de los últimos avances, con el uso práctico de las técnicas más asentadas.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-v5q3syz",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000369_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-v0xsqvr",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A16: Robots autónomos</strong>&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El objetivo principal de la Robótica es la construcción de máquinas inteligentes que sean capaces de percibir e incluso modelar el estado del entorno dinámico en el que se desenvuelven y que actúen tomando como referencia esa información. Así es como se define el bucle básico de control que plantea una serie de retos a disciplinas como son la Electrónica, la Mecánica, la Matemática Aplicada y, muy especialmente, la Informática, en particular, la Inteligencia Artificial. En la asignatura se estudian y aplican diversos métodos de control, coordinación y comunicación de robots móviles autónomos que usan como base herramientas y técnicas particulares de Inteligencia Artificial. Éstas pueden resumirse en métodos basados en redes de neuronas artificiales, en técnicas evolutivas y algoritmos genéticos, en lógica borrosa, en aprendizaje por refuerzo, en paradigmas de coordinación que usan modelos de sistemas multi-agente. En cuanto a objeto final, se estudian y proporcionan soluciones para robots móviles con ruedas, articulados, modulares, aéreos, y también para sistemas multi-robot formados por equipos de robots de las características previamente mencionadas.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-raxogwb",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000370_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-1r1l10x",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S11: Robótica cognitiva y percepción</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El objetivo de este seminario es proporcionar a los estudiantes una breve introducción a algunos de los temas tratados en las siguientes asignaturas: Visión por Computador y Robots Autónomos. El seminario incluirá:</p>\n<ul class=\"wp-block-list\">\n<li>Robótica\n<ul class=\"wp-block-list\">\n<li>Introducción y navegación reactiva</li>\n<li>Control de sistemas robóticos</li>\n<li>Planificación</li>\n</ul>\n</li>\n<li>Visión por computador\n<ul class=\"wp-block-list\">\n<li>Introducción</li>\n<li>Modelos profundos para visión por computador</li>\n</ul>\n</li>\n</ul>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-otp6hce",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-aiqc4bo",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S12: Principios de la locomoción robótica</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Son muy pocos los organismos vivos que no tienen la capacidad de la locomoción, poder moverse es fundamental para la supervivencia en el mundo real. Por esta razón, la locomoción es una de las capacidades básicas esperadas en un sistema robótico inteligente. En este seminario se estudiarán temas relacionados con la locomoción de los robots, con un enfoque en la navegación y la construcción de planos. Los participantes en el seminario construirán un controlador robótico simple y lo probarán en un robot real.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-tdwan4v",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "7",
+              "title": "M7. Áreas <br>de aplicación",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-hiy01c0",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-8v0byxa",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A17: Informática biomédica</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La informática biomédica intenta analizar los problemas de la práctica médica, desde el punto de vista del manejo de la información (médica y biológica) y buscar las mejores soluciones mediante el uso de computadoras. Por ello, el énfasis se realiza en el manejo de datos, informaciones y conocimientos, y no en las técnicas y métodos utilizados. Muchos de los problemas actuales de la biomedicina tienen su causa básica en defectos de análisis y manejo de información, que podrían tener mejores soluciones con sistemas adecuados de informática médica. <br><br>Las tecnologías no son el fin último de la informática biomédica; sin embargo, sí es importante el uso de métodos que permitan no sólo construir las mejores aplicaciones, sino el intercambio y reutilización de técnicas y conocimientos favoreciendo la colaboración entre grupos de investigación. Estos esfuerzos conjuntos se ven estimulados por el crecimiento de Internet y nuevas técnicas de Inteligencia Artificial, base de datos, programación e Ingeniería del Software, que facilitan la comunicación entre aplicaciones y grupos. El uso de sistemas basados en nuevas tecnologías (por ejemplo, con la Web Semántica o Grid) está contribuyendo a un avance decisivo en la informática biomédica.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-eg4rx7n",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000371_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wm0owss",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A18: Ingeniería lingüística</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La Ingeniería Lingüística (IL) es el conjunto de técnicas, recursos y herramientas destinadas a resolver problemas derivados del uso más o menos automatizado de la lengua. En este curso se pretende introducir al estudiante en el marco global en el que se encuentra hoy en día la IL. En una segunda fase, se explicarán las dos bases principales de la mayor parte de los sistemas de tratamiento de las lenguas, como son los modelos de representación de contenidos y la creación y mantenimiento de los recursos léxicos, ambos pilares de cualquier sistema y para cualquier uso. En la tercera parte del curso se introducirá al alumno en tres de las grandes aplicaciones en el mercado de la IL, como son la recuperación de información (asociada a la búsqueda de documentos), la extracción de información (asociada a la búsqueda de datos o ítems de información en textos) y a la minería de textos donde además de extraer información tipo datos se pretende extraer relaciones entre los mismos. Las aplicaciones de mercado ya existentes y las tendencias más inmediatas (como por ejemplo el análisis de foros de opinión) serán también comentadas y explicadas.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-sabltnk",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000346_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ejv9ll5",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A19: Ciencia de la web</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La Ciencia de la Web estudia todos aquellos fenómenos relacionados con el análisis de la web. El aspecto social es un factor determinante en la web del futuro. En esta asignatura se realiza una introducción a la ciencia de la web. En una segunda fase se revisan los mecanismos de diseño de sistemas para ciencia de la web, incluyendo los mecanismos de recuperación de información, los sistemas de recomendación y el análisis de sentimientos. En una tercera fase los estudiantes conocen la computación social, prestando especial atención a las sociedades artificiales y a los mecanismos de reputación confianza, así como a la explicación del fenómeno de ciencia ciudadana. Por último, se revisan los mecanismos de toma de decisiones sociales basados en agregación de preferencias.<br><br>(la documentación de la asignatura está en inglés pero las clases y los procesos de evaluación se realizarán en castellano)</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-qdbzs7v",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000720_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-czjtlbt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A20: Deep Learning para el Procesamiento del Lenguaje Natural</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El Deep Learning es un subcampo del aprendizaje automático basado en el uso de redes neuronales artificiales que, mediante una jerarquía de capas con unidades de procesamiento no lineal, aprenden abstracciones de alto nivel para datos. En los últimos años, estas representaciones han permitido conseguir un rendimiento destacado en diversos campos de la inteligencia artificial (IA) tales como: la visión artificial; el aprendizaje por refuerzo; y, como se abordará en esta asignatura, el procesamiento del lenguaje natural o PNL. <br><br>El PNL es un campo crucial de la IA que estudia las interacciones entre computadores y el lenguaje humano. El objetivo es que las máquinas puedan procesar o «entender» el lenguaje natural (en oposición a los lenguajes de programación), de manera que sean capaces de realizar tareas de utilidad. Ejemplos de estas tareas son: el análisis de sentimientos, la traducción automática, la realización de resúmenes, o la búsqueda de respuestas ante preguntas planteadas por humanos en lenguaje natural. Esta asignatura explorará las principales tecnologías del Deep Learning para el PNL y cómo se pueden emplear para resolver este tipo de tareas.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-ynwjbv7",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000743_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-vu4mlws",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S13: Aplicaciones de la Inteligencia Artificial</strong> ",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El seminario es un compendio de aplicaciones de la Inteligencia Artificial, particularmente (como es lógico, aprovechando así el potencial investigador de los profesores del DIA y la experiencia de sus miembros en numerosos proyectos de I+D llevados a cabo en los últimos años). Para ello, las descripciones de todas las asignaturas del DIA (y particularmente aquellas que tienen un componente más aplicado y menos de investigación básica) son consideradas y contenidas en este seminario. <br><br>En este seminario no solamente los temas a enseñar serán importantes sino la enseñanza del propio desarrollo de aplicaciones de Inteligencia Artificial y de proyectos en el área, superando la idea de la mera exposición de una carga teórica desprovista del aspecto aplicado que es fundamental en la Inteligencia Artificial y particularmente para su uso industrial.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-6xy29de",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-mehn88p",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S14: Procesamiento del lenguaje natural</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>El seminario va destinado a dar a conocer al estudiante, qué sistemas actuales están soportados por aplicaciones del Procesamiento del Lenguaje Natural en cualquiera de sus formas, en especial en forma textual. Así pues, conocerá que sistemas en el mercado requieren tratamiento de textos, desde analizadores o generadores de lenguaje, a buscadores semánticos, tratamiento de la multilingualidad desde la traducción automática hasta los buscadores multilingües. Qué técnicas soportan las aplicaciones más avanzadas de tratamiento de textos, con especial énfasis en la “minería de textos” y las más modernas aproximaciones de extracción de información, sistemas de pregunta-respuesta y recuperación de información desde la clásica hasta la multilingüe. El objetivo es que el alumno conozca las áreas tan amplias de mercado que necesitan estos tipos de aplicaciones y que requieren el uso de herramientas específicas o la creación automática o semiautomática de recursos léxicos que son el corazón del buen funcionamiento de estos sistemas.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-owxx5up",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "Ver guía de aprendizaje"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ttitw8a",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S15: Planificación automática</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La planificación automática es una rama de la inteligencia artificial dirigida a la creación automatizada de planes (normalmente representados como secuencias de acciones) para la resolución de problemas complejos o para gobernar el comportamiento de agentes inteligentes, robots autónomos o vehículos no tripulados. Las técnicas de planificación automática se han aplicado con éxito en diferentes dominios, como por ejemplo, contextos industriales, logísticos, juegos por computadora, robótica e incluso exploración espacial. En este seminario se estudiarán los enfoques más utilizados para resolver problemas de planificación clásica, como búsqueda en el espacio de estados, búsqueda en el espacio de planes, técnicas basadas en grafos o reducción del problema de planificación a un problema de satisfacibilidad proposicional. Tras esto, el curso se enfocará en el estudio de nuevos métodos de planificación, tales como las reglas de control o la planificación basada en redes de tareas jerárquicas, que explotan el conocimiento de dominio proporcionado por el experto humano para mejorar el desempeño del planificador. Finalmente, se introducirán brevemente algoritmos de planificación avanzados que son capaces de producir planes que tienen en cuenta restricciones temporales y/o condiciones de observabilidad parcial, ambas muy frecuentes en aplicaciones reales.</p>\n<div class=\"wp-block-essential-blocks-button root-eb-button-6snqg5x  root-eb-button-qh10s\"><div class=\"eb-parent-wrapper eb-parent-eb-button-qh10s \"><div class=\"eb-button-wrapper eb-button-alignment eb-button-qh10s\"><div class=\"eb-button\"><a class=\"eb-button-anchor\" href=\"https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf\" target=\"_blank\" rel=\"noopener\">Ver guía de aprendizaje</a></div></div></div></div>"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ox0u5",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S16: IA Generativa y Prompt Engineering: Aplicaciones y Retos</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>La inteligencia artificial generativa (GenAI) comprende los sistemas capaces de crear y generar contenido, ya sea texto, imágenes u otros medios, en respuesta a instrucciones o prompts. Cuando estos sistemas pueden procesar e integrar datos de diferentes modalidades junto al prompt textual (como imágenes, audio y vídeo), hablamos de GenAI multimodal. Estas tecnologías han experimentado un crecimiento exponencial en su popularidad debido a su facilidad de uso y su capacidad para abordar una amplia variedad de tareas, desde la generación de contenido creativo y artístico hasta la resolución de problemas complejos en campos como la ingeniería y la medicina.<br>En este seminario se explorará el campo de la GenAI multimodal, centrándonos en su aplicación práctica mediante métodos como el prompt engineering, few-shot prompting, chain-of-thought prompting y retrieval-augmented generation (RAG). Se seguirá una metodología de aprendizaje basado en retos. Algunos retos abordables con GenAI incluyen: la generación de vídeos desde descripciones textuales, la respuesta a preguntas sobre contenido en imágenes, o la traducción automática de voz a texto. Se fomentará el trabajo colaborativo, la experimentación activa y el intercambio de ideas entre los participantes.</p>\n<div class=\"wp-block-essential-blocks-button root-eb-button-6snqg5x  root-eb-button-ua0d8\"><div class=\"eb-parent-wrapper eb-parent-eb-button-ua0d8 \"><div class=\"eb-button-wrapper eb-button-alignment eb-button-ua0d8\"><div class=\"eb-button\"><a class=\"eb-button-anchor\" href=\"https://www.upm.es/comun_gauss/publico/guias/2026-27/GA_10AJ_103000372_ES_2026-27.pdf\" target=\"_blank\" rel=\"noopener\">Ver guía de aprendizaje</a></div></div></div></div>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "8",
+              "title": "M8. Trabajo Fin de Máster",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "advanced-tabs",
+          "id": "eb-advanced-tabs-207ivkc",
+          "align": "full",
+          "className": "algomindai_tabmark",
+          "animation": "fadeInUp",
+          "layout": "horizontal",
+          "minHeight": "true",
+          "titleTag": "h6",
+          "activeIndex": 0,
+          "tabs": [
+            {
+              "tabId": "1",
+              "title": "M1. Fundamentos <br>de Investigación",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-4yuzvsm",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-yoxiy",
+                      "clickable": "false",
+                      "titleTag": "h4",
+                      "title": "Accordion title 1",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-0zzf7",
+                      "clickable": "false",
+                      "titleTag": "h4",
+                      "title": "Accordion title 2",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-fyc7t",
+                      "clickable": "false",
+                      "titleTag": "h4",
+                      "title": "Accordion title 3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "2",
+              "title": "M2. Análisis <br>de Decisiones",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-z6slnfp",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-upp1c",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 1",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-q3c4v",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 2",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-bijfz",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "3",
+              "title": "M3. Aprendizaje <br>Automático",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-8nmmvy3",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-tah5e",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 1",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-l1k55",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 2",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-1ejvy",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "4",
+              "title": "M4. Computación <br>Natural",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-6poa17z",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-7ra9r",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 1",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-hald4",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 2",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-uitu3",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "5",
+              "title": "M5. Representación <br>del conocimiento y <br>Razonamiento",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-8jwqk66",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-dt305",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 1",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-4m7no",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 2",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-yervh",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "6",
+              "title": "M6. Robótica <br>Cognitiva y Percepción",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-5rot1ec",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-f46f6",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 1",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-1m513",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 2",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-0gz53",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "7",
+              "title": "M7. Áreas <br>de aplicación",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-9roccrf",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-gsnh4",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 1",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-j5vzt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 2",
+                      "children": []
+                    },
+                    {
+                      "id": "eb-accordion-item-aviw8",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Accordion title 3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-6jcdd7c",
+      "align": "full",
+      "anchor": "planificacion_enseñanzas",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-ljt72p8",
+          "align": "full",
+          "anchor": "services_section",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-2ok1ejd",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-xv8x1j5",
+                  "anchor": "objetivos",
+                  "animation": "fadeInLeft",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Planificación de las enseñanzas"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-text-color\" style=\"color:#5c6680;font-size:16px\">Por la amplia oferta de optatividad en el diseño del máster, el título que se ofrece da cabida a&nbsp;<strong>dos perfiles de alumnos</strong>:</p>\n<ul style=\"color:#5c6680;line-height:1.5\" class=\"wp-block-list has-text-color\">\n<li style=\"margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:16px\">El alumno interesado en la&nbsp;<strong>especialización</strong> en una o varias disciplinas concretas de la IA, que tenderá a cursar todas las asignaturas y seminarios de las materias de su interés.<br></li>\n<li style=\"margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);font-size:16px\">El alumno que busca una&nbsp;<strong>visión más global</strong>, es decir, la obtención de conocimientos extensos de toda la IA, que tenderá a cursar asignaturas de prácticamente todas las materias.</li>\n</ul>\n<p class=\"has-text-color\" style=\"color:#5c6680;font-size:16px\">Todas las asignaturas se imparten en el primer semestre, en español o en inglés, dejando para el segundo semestre la realización de los seminarios y el trabajo fin de máster. Las 7 asignaturas pueden ser elegidas libremente por el alumno entre la oferta disponible.<br>&nbsp;<br>Respecto a los seminarios, también hay un alto grado de optatividad. No obstante, con el objetivo de cubrir todas las competencias de la titulación, los alumnos están obligados a realizar los seminarios de aquellas materias en las que no hayan seleccionado ninguna asignatura, cuyo nombre coincidirá con el de la materia.<br><br>La mayoría de los&nbsp;seminarios se podrán cursar online si se justifica adecuadamente la imposibilidad de acudir presencialmente. Las excepciones son <em>S1:&nbsp;Metodología de la investigación</em> (en su edición de primer semestre),&nbsp;<em>S9: Lógica borrosa</em>&nbsp;y <em>S12: Principios de la locomoción robótica,</em> que solo se ofertan de forma presencial.</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-pyu5671",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-42i6p",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">Tipos de seminarios</mark>"
+                    }
+                  ]
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-ryinn",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(1)</mark> Seminarios OBLIGATORIOS (S1, S2, S3)",
+                  "description": "Se trata de los únicos seminarios obligatorios del máster, que todos los estudiantes tendrán que cursar."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-3q5zpj8",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(2)</mark> Seminarios optativos cuyo nombre coincide con el de la materia a la que pertenecen (S5, S6, S7, S8, S11)",
+                  "description": "Tienen&nbsp;como objetivo cubrir ciertas disciplinas de la Inteligencia Artificial que no se estudian en las mismas. Se vuelven obligatorios si no se ha elegido ninguna asignatura de la materia: por ejemplo, S5 es normalmente optativo, pero se vuelve obligatorio si no se elige ninguna asignatura entre A1, A2 y A3."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-mqcya",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(3) </mark>Seminarios optativos (S4, S9, S10, S12, S13, S14, S15)",
+                  "description": "Estos seminarios pretenden profundizar en temáticas específicas que no están cubiertas en ninguna de las asignaturas optativas."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-dt1l7",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(4) </mark>Seminarios de profesores visitantes",
+                  "description": "En estos seminarios el alumno adquiere conocimientos avanzados o especializados sobre alguna materia cursada en el máster."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-a8ow8",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-76blf",
+                  "figureClass": "img-style-square caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2024/05/Profesor-en-seminario.jpg",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-v0fa15q",
+      "anchor": "trabajo_fin_de_master",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-20r6fsm",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "Trabajo Fin de Máster"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "El <strong><span style=\"color:orange\">proceso de asignación</span></strong> de Trabajo Fin de Máster es el siguiente:"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-a93woha",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-0f2y7hf",
+              "animation": "fadeInLeft",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-hrqbsj4",
+                  "titleTag": "h2",
+                  "title": "Acordar el tema",
+                  "description": "Los alumnos pueden contactar con sus profesores para definir el tema de su TFM. La comunicación temprana con el profesorado es crucial para seleccionar un tema de interés mutuo. Esta colaboración asegura la relevancia del tema y permite a los estudiantes recibir orientación y desarrollar habilidades de investigación con la guía de expertos."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-aldpu25",
+              "animation": "zoomIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-cihq3jf",
+                  "titleTag": "h2",
+                  "title": "Elección de propuestas",
+                  "description": "Alternativamente, durante el mes de diciembre, los alumnos recibirán un fichero con diversas propuestas de TFM realizadas por profesores del MUIA y enviarán al coordinador de la titulación aquellas preferencias sobre las propuestas posibles de Trabajos Fin de Máster, identificando&nbsp;en orden hasta un máximo de 5 las propuestas que más le atraigan."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-q4aqg4r",
+              "animation": "fadeInRight",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-57cjrnz",
+                  "titleTag": "h2",
+                  "title": "Realizar propuesta",
+                  "description": "En el caso de que no les atraiga ninguna oferta, o no se le haya asignado ninguna de las seleccionadas (varios alumnos pueden seleccionar la misma propuesta), el alumno deberá realizar una y enviarla al coordinador, encuadrándola en una de las materias del MUIA e indicando hasta tres profesores de la misma que puedan ejercer de directores."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-s2gxdca",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "<span style=\"color:black\">La</span> <strong><span style=\"color:orange\">defensa</span></strong>"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Una vez finalizado el TFM, éste se defenderá ante un tribunal formado por 3 profesores de la titulación designados por la comisión académica del máster. Los miembros del tribunal y el alumno acordarán la&nbsp;<strong>fecha y hora de la defensa</strong>, y se lo notificarán al coordinador del máster, al menos 7 días naturales previos al acto de la defensa. <br>&nbsp;<br>El alumno deberá proporcionar:"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-2t8ldgd",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-l1ayzi4",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-kz482gd",
+                  "className": "last-home-card",
+                  "animation": "fadeInRight",
+                  "icon": "fas fa-file-pdf",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Memoria del Trabajo Fin de Máster",
+                  "description": "El alumno deberá entregar a través de Moodle  la&nbsp;<strong>memoria del </strong>Trabajo Fin de Máster (TFM) en formato digital electrónico (PDF) dentro los <strong>siete días naturales</strong> anteriores al acto de la defensa."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-4a352zh",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-pggx678",
+                  "className": "last-home-card",
+                  "animation": "fadeInUp",
+                  "icon": "fas fa-upload",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Archivo digital de la UPM",
+                  "description": "El interesado en publicar su trabajo en el archivo digital de la UPM tiene que rellenar las dos instancias de autorización  (<a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/CONFIDENCIAL_ESP_2021.pdf\">instancia 1/2</a>,<br>&nbsp;<a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/AUTORIZACION_TFM_ESP_2022-01.pdf\">instancia 2/2</a>)&nbsp;del TFM y enviarlas a través de Moodle.."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-4ex3aml",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-zvjoyg7",
+                  "className": "last-home-card",
+                  "animation": "fadeInDown",
+                  "icon": "fas fa-lock",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Solicitud de confidencialidad",
+                  "description": "Si&nbsp;<strong>NO</strong>&nbsp;está interesado en que su trabajo se publique en&nbsp;el archivo digital de la UPM:&nbsp; presentará instancia de&nbsp;<strong>solicitud de confidencialidad&nbsp;</strong><br>(<a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/CONFIDENCIAL_ESP_2021.pdf\">instancia</a>) de su TFM a través de Moodle."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-16741",
+                  "className": "last-home-card",
+                  "animation": "fadeInDown",
+                  "icon": "fas fa-lock",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Solicitud de confiden-cialidad",
+                  "description": "Si&nbsp;<strong>NO</strong>&nbsp;está interesado en que su trabajo se publique en&nbsp;el archivo digital de la UPM:&nbsp; presentará instancia de&nbsp;<strong>solicitud de confidencialidad&nbsp;</strong><br>(<a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/CONFIDENCIAL_ESP_2021.pdf\">instancia</a>) de su TFM a través de Moodle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-k3ix7qn",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "La&nbsp;&nbsp;<strong>lengua&nbsp;</strong>tanto de la memoria del&nbsp;TFM, como de la defensa del mismo ante el tribunal, podrá ser el <strong>castellano</strong> o el <strong>inglés</strong>."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-mhxo7ox",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "La defensa se puede hacer&nbsp;<strong>presencialmente</strong>&nbsp;u&nbsp;<strong>online</strong>, y consistirá en una presentación oral sobre el misma por parte del alumno durante un&nbsp;<strong>tiempo mínimo de 20 minutos&nbsp;</strong>&nbsp;y máximo de 40 minutos, seguida de un turno de preguntas por parte de los miembros del tribunal durante un máximo de 20 minutos. El tribunal evaluador podrá proponer el TFM para que le sea concedida una mención de honor si lo considera oportuno y dicho trabajo alcanza los criterios de excelencia aprobados por la Comisión Académica del máster.&nbsp;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-0l9usi8",
+      "align": "full",
+      "anchor": "solicitud_del_titulo",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-fpforz4",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-perybl5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-sutaztc",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Solicitud del título"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Una vez finalizados los estudios, incluyendo la defensa del TFM, se puede&nbsp;<strong>solicitar el título</strong>."
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-svtu9b9",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": ""
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Se puede solicitar a través del siguiente modelo (están incluidas las instrucciones). El trámite se hace con Secretaría de Alumnos (secretaria@fi.upm.es).  "
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "id": "eb-button-06x0otp",
+                  "href": "/wp-content/uploads/sites/6/2022/09/solicitudTitulo_ES.docx",
+                  "rel": "noopener",
+                  "text": "Descargar modelo con instrucciones"
+                },
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-white-color has-text-color has-small-font-size\">*No hay que rellenar «Especialidad», «Doctor» y «Mención»</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-jgeulpy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-re9srhu",
+      "align": "full",
+      "anchor": "faq_estructura",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-chj48xh",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-w3qq0z5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-g7t8tyc",
+                  "animation": "slideInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h3",
+                      "html": "FAQ estructura del MUIA"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Puedes acceder a más preguntas frecuentes generales o específicas en los siguientes enlaces:"
+                    }
+                  ]
+                },
+                {
+                  "type": "feature-list",
+                  "id": "eb-feature-list-ue3xn3a",
+                  "wrapperClass": "eb-icon-position-left eb-tablet-icon-position-left eb-mobile-icon-position-left eb-feature-list-left",
+                  "listClass": "circle stacked",
+                  "titleTag": "h3",
+                  "items": [
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/#faq_generales",
+                      "title": "Sobre el Máster en general",
+                      "content": "Encontrarás respuestas a las preguntas más comunes que los futuros estudiantes suelen tener sobre el programa en sí, dándote una visión general completa y precisa de lo que puedes esperar al unirte al máster."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/es/admision_y_matricula/#faq_admision",
+                      "title": "Sobre el acceso a la admisión",
+                      "content": "Encontrarás respuestas sobre el número de plazas y los periodos de inscripción, la titulación que necesitas y los criterios de admisión, así como los trámites a seguir."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "#",
+                      "title": "Para alumnos de fuera de Madrid",
+                      "content": "Si eres un alumno que proviene de fuera de la ciudad de Madrid, encontrarás información sobre dónde encontrar alojamiento o sobre la documentación para tu visado."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-l1impt9",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-q6hw06h",
+                  "animation": "zoomIn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-angle-down",
+                  "expandedIcon": "fas fa-angle-up",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-vzxka8v",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "¿Se pueden cursar asignaturas en el segundo semestre?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-2e4rekc",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "No. Las asignaturas únicamente se imparten en el primer semestre, mientras que los seminarios se imparten únicamente en el segundo."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u6eljqt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Todas las asignaturas y seminarios del máster son optativas?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-xwdod12",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Todas las asignaturas del MUIA son optativas. Los únicos seminarios obligatorios son “Metodología de la Investigación”,&nbsp;«Gestión de Proyectos y Control del Riesgo» y «Aspectos Legales y Éticos de la IA». Los restantes seminarios son todos optativos, aunque el alumno deba cursar algunos de ellos de manera obligatoria, dependiendo de las asignaturas que haya escogido (consulta <a href=\"https://dia.fi.upm.es/masteria/?q=es/planificacion\" target=\"_blank\" rel=\"noreferrer noopener\">aquí</a>)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-2cynjuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Cómo se matriculan los seminarios?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-diyjtab",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Los seminarios se matriculan como una única asignatura de 10 ECTS, no teniendo que especificarse en el momento de la matriculación cuáles se van a cursar.&nbsp;El alumno debe matricular los seminarios&nbsp;en el periodo ordinario (anual) de matrícula."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-s8tg4ws",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿A cuántos seminarios se debe asistir para superar la asignatura de Seminarios?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-7oslr5m",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Los seminarios tienen asignado un total de 10 ECTS, teniendo en cuenta que cada seminario son 1.5 o 2 ECTS, el alumno debe cursar 6 seminarios para superar la asignatura asociada a los mismos."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-fmjpygc",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Cómo se asigna el director del Trabajo Fin de Máster?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-y3ckrh2",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "La asignación de Trabajo Fin de Máster (TFM) se puede realizar de tres formas distintas:"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "html",
+                          "html": "<ul style=\"color:#1f2b3dbd\" class=\"wp-block-list has-text-color\">\n<li style=\"font-size:16px\">Los alumnos pueden contactar con los profesores del MUIA y acordar el tema de su TFM.</li>\n<li style=\"font-size:16px\">A través de una aplicación informática desarrollada por el Depto. de Inteligencia Artificial, los alumnos pueden introducir sus preferencias sobre las propuestas de TFM que anualmente realizan los profesores del MUIA (de mediados de diciembre&nbsp;a mediados de enero).</li>\n<li style=\"font-size:16px\">En el caso de que no les atraiga ninguna oferta, o no se les haya asignado ninguna de las seleccionadas (varios alumnos pueden seleccionar la misma propuesta), el alumno deberá realizar una propuesta, encuadrándola en una de las materias del MUIA e indicando hasta tres profesores de la misma que puedan ejercer de directores.<br></li>\n</ul>"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wy4cyhj",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Cuáles son los grupos de investigación y las líneas de <br>investigación que desarrollan en la que basar el TFM?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-jjxwwef",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Los profesores del MUIA pertenecen a varios&nbsp;grupos de investigación consolidados de la Universidad Politécnica de Madrid. En <a href=\"https://dia.fi.upm.es/#grupos_de_investigacion\">https://dia.fi.upm.es/#grupos_de_investigacion</a> se puede obtener una descripción de dichos grupos, así como sus integrantes, líneas de investigación que desarrollan y proyectos de investigación subvencionados en los que participan."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-crxx32g",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Se puede tener más de un director de TFM?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-wzc7nyk",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Se permitirá la codirección de un&nbsp;TFM por dos profesores, previa solicitud y justificación de la misma a la Comisión Académica del máster, siendo obligatorio que al menos uno de los dos profesores forme parte del profesorado del MUIA, y que ambos sean doctores."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ny88yrk",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿En qué consiste la defensa del Trabajo Fin de Máster, <br>y cuándo se puede realizar?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-3xt6d8i",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "El alumno puede matricularse del&nbsp;TFM en el periodo ordinario (anual) o en el de ampliación de matrícula. La defensa puede realizarse en cualquier momento a lo largo del curso académico.<br><br>Para poder defender el TFM el alumno deberá tener superadas todas las asignaturas y&nbsp; seminarios del máster, además de tener que entregar cierta documentación con antelación a la fecha de la defensa del&nbsp;TFM (véase esta página)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-hgm9kuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "¿Qué sucede si no se puede terminar el TFM durante el primer curso académico?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-j2tvora",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "En este caso el alumno deberá volver a matricularse del Trabajo fin de Máster en el curso posterior, aun precio reducido."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/es-estructura.css"
+}

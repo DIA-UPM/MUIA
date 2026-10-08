@@ -1,0 +1,55 @@
+{
+  "slug": "segundo-mejor-master-en-espana-en-informatica-especializada",
+  "lang": "es",
+  "path": "/es/segundo-mejor-master-en-espana-en-informatica-especializada/",
+  "title": "SEGUNDO MEJOR MÁSTER EN ESPAÑA EN INFORMÁTICA ESPECIALIZADA",
+  "wpId": 179,
+  "date": "2019-06-28T08:36:33+00:00",
+  "modified": "2023-11-23T18:37:25+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "SEGUNDO MEJOR MÁSTER EN ESPAÑA EN INFORMÁTICA ESPECIALIZADA - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "EL MUIA aparece en segunda posición en el área de Informática Especializada en el ranking “250 Másteres y Guía Completa MBA” que ha […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2019/06/RANKING-EL-MUNDO_0.png",
+      "width": 220,
+      "height": 153,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2019/06/RANKING-EL-MUNDO_0.png",
+      "width": 220,
+      "height": 153,
+      "caption": "RANKING EL MUNDO"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">EL MUIA aparece en segunda&nbsp;posición en el área de Informática Especializada en el&nbsp;<a href=\"http://www.elmundo.es/especiales/mejores-masters/especializados-informatica.html\" target=\"_top\" rel=\"noopener\">ranking “250 Másteres y Guía Completa MBA”</a>&nbsp;que ha publicado el periódico el Mundo un su edición 2019. El MUIA se encuentra por décimo año consecutivo entre los tres mejores másteres de Informática Especializada en España, habiendo sido en dos ediciones distinguido como mejor máster de España en esta sección.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2019/06/RANKING-EL-MUNDO_0.png",
+    "width": 220,
+    "height": 153,
+    "alt": "RANKING EL MUNDO"
+  },
+  "wordCount": 90,
+  "excerpt": "<p>EL MUIA aparece en segunda&nbsp;posición en el área de Informática Especializada en el&nbsp;ranking “250 Másteres y Guía Completa MBA”&nbsp;que ha</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2019/06/RANKING-EL-MUNDO_0.png",
+    "width": 220,
+    "height": 153,
+    "alt": "RANKING EL MUNDO"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "luis-baumela-molina-en-el-reportaje-asi-te-reconoce-la-inteligencia-artificial-del-diario-el-mundo",
+  "lang": "es",
+  "path": "/es/luis-baumela-molina-en-el-reportaje-asi-te-reconoce-la-inteligencia-artificial-del-diario-el-mundo/",
+  "title": "Luis Baumela Molina en el reportaje «Así te reconoce la Inteligencia Artificial» del Diario el Mundo",
+  "wpId": 248,
+  "date": "2020-09-01T08:59:00+00:00",
+  "modified": "2023-11-23T18:25:40+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Luis Baumela Molina en el reportaje \"Así te reconoce la Inteligencia Artificial\" del Diario el Mundo - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El Catedrático de Universidad y profesor del MUIA Luis Baumela Molina participa en el reportaje «Así te reconoce la Inteligencia Artificial» […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2020/09/Captura-de-pantalla-2020-09-01-a-las-10.53.59.jpg",
+      "width": 220,
+      "height": 162,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2020/09/Captura-de-pantalla-2020-09-01-a-las-10.53.59.jpg",
+      "width": 220,
+      "height": 162,
+      "caption": "Captura de pantalla 2020-09-01 a las 10"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El Catedrático de Universidad y profesor del MUIA&nbsp;Luis Baumela Molina participa en el reportaje «Así te reconoce la Inteligencia Artificial» del Diario el Mundo, disponible en el siguiente&nbsp;<a href=\"https://www.elmundo.es/promociones/native/2020/08/25t/\" target=\"_blank\" rel=\"noopener\">enlace</a>.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2020/09/Captura-de-pantalla-2020-09-01-a-las-10.53.59.jpg",
+    "width": 220,
+    "height": 162,
+    "alt": "Captura de pantalla 2020-09-01 a las 10"
+  },
+  "wordCount": 49,
+  "excerpt": "<p>El Catedrático de Universidad y profesor del MUIA&nbsp;Luis Baumela Molina participa en el reportaje «Así te reconoce la Inteligencia Artificial»</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2020/09/Captura-de-pantalla-2020-09-01-a-las-10.53.59.jpg",
+    "width": 220,
+    "height": 162,
+    "alt": "Captura de pantalla 2020-09-01 a las 10"
+  }
+}

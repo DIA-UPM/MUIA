@@ -1,0 +1,23 @@
+{#- Staff profiles (data/people/<lang>/<slug>.json). -#}
+{% extends "base.njk" %}
+{% block main %}
+<section class="ast-single-entry-banner" data-post-type="personal" data-banner-layout="layout-2">
+<div class="ast-container">
+<h1 class="entry-title" itemprop="headline">{{ record.name | safe }}</h1>	</div>
+</section>
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary">
+<main id="main" class="site-main">
+<article
+class="{{ articleClass }}" id="post-{{ record.wpId }}" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+<div class="ast-post-format- single-layout-1 ast-no-date-box">
+<div class="entry-content clear"
+{% if record.afterProfile %}data-ast-blocks-layout="true" {% endif %}itemprop="text">{{ content | safe }}</div><!-- .entry-content .clear -->
+</div>
+</article><!-- #post-## -->
+</main><!-- #main -->
+</div><!-- #primary -->
+	</div> <!-- ast-container -->
+</div><!-- #content -->
+{% endblock %}

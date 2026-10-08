@@ -1,0 +1,104 @@
+{
+  "slug": "zanardini-damiano",
+  "lang": "es",
+  "path": "/es/personal/zanardini-damiano/",
+  "name": "Zanardini, Damiano",
+  "wpId": 5593,
+  "date": "2023-10-05T17:28:39+00:00",
+  "modified": "2024-01-13T15:29:31+00:00",
+  "tags": [
+    "profesores-titulares-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/zanardini-damiano_en/",
+    "es": "/es/personal/zanardini-damiano/"
+  },
+  "seo": {
+    "title": "Zanardini, Damiano - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2205Web: http://costa.ls.fi.upm.es/~damiano/Teléfono: +34-91-067-2909ORCID: https://orcid.org/0000-0002-8792-1157Email: damiano@fi.upm.esResearcherID: http://www.researcherid.com/rid/F-9133-2013Grupo de investigación: Scopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=17347009000",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2021/06/damiano.jpeg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/Zanardini-Damiano.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Zanardini-Damiano.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2205"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "http://costa.ls.fi.upm.es/~damiano/",
+      "href": "http://costa.ls.fi.upm.es/~damiano/",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-067-2909"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0002-8792-1157",
+      "href": "https://orcid.org/0000-0002-8792-1157",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "damiano@fi.upm.es",
+      "href": "mailto:damiano@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/F-9133-2013",
+      "href": "http://www.researcherid.com/rid/F-9133-2013",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=17347009000",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=17347009000",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Zanardini-Damiano.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/Zanardini-Damiano.png 490w, /wp-content/uploads/sites/6/2023/10/Zanardini-Damiano-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/Zanardini-Damiano-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

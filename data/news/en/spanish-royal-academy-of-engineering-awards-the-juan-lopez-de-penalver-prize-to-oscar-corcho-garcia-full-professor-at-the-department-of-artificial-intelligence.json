@@ -1,0 +1,66 @@
+{
+  "slug": "spanish-royal-academy-of-engineering-awards-the-juan-lopez-de-penalver-prize-to-oscar-corcho-garcia-full-professor-at-the-department-of-artificial-intelligence",
+  "lang": "en",
+  "path": "/en/spanish-royal-academy-of-engineering-awards-the-juan-lopez-de-penalver-prize-to-oscar-corcho-garcia-full-professor-at-the-department-of-artificial-intelligence/",
+  "title": "Spanish Royal Academy of Engineering awards the Juan López de Peñalver Prize to Óscar Corcho García, full professor at the Department of Artificial Intelligence",
+  "wpId": 49,
+  "date": "2017-05-30T09:10:13+00:00",
+  "modified": "2023-11-24T00:34:11+00:00",
+  "author": "jcano",
+  "categories": [
+    "currenta-affairs",
+    "news",
+    "top-stories"
+  ],
+  "tags": [],
+  "translations": {
+    "en": "/en/spanish-royal-academy-of-engineering-awards-the-juan-lopez-de-penalver-prize-to-oscar-corcho-garcia-full-professor-at-the-department-of-artificial-intelligence/",
+    "es": "/es/oscar-corcho-garcia-catedratico-del-dia-y-profesor-del-muia-obtiene-el-premio-juan-lopez-de-penalver-de-la-real-academia-de-ingenieria/"
+  },
+  "seo": {
+    "title": "Spanish Royal Academy of Engineering awards the Juan López de Peñalver Prize to Óscar Corcho García, full professor at the Department of Artificial Intelligence - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "The Spanish Royal Academy of Engineering has distinguished with the Juan López de Peñalver Prize to Óscar Corcho, full professor at […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/oscar.png",
+      "width": 136,
+      "height": 220,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/oscar.png",
+      "width": 136,
+      "height": 220,
+      "caption": "oscar"
+    },
+    "twitter": {
+      "twitter:label1": "Written by",
+      "twitter:data1": "jcano",
+      "twitter:label2": "Est. reading time",
+      "twitter:data2": "1 minute"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">The <a href=\"http://www.raing.es/en\">Spanish Royal Academy of Engineering</a> has distinguished with the&nbsp;Juan López de Peñalver Prize to Óscar Corcho, full professor at the School of Computer Engineering and co-director of the <a href=\"http://www.upm.es/observatorio/vi/index.jsp?pageac=fichaGrupo.jsp&amp;id_articulo=278&amp;id_tipo_articulo=6&amp;idGrupo=323\">Ontological Engineering Group</a>. The award recognizes his contributions in the study of the semantic web and linked data, ontological engineering and the application of semantic technologies in different domains, such as e-science and open science.</p>\n<p><span id=\"more-49\"></span></p>\n<p class=\"rtejustify\">The <a href=\"http://www.raing.es/en\">Spanish Royal Academy of Engineering</a> has distinguished two members of the <a href=\"http://www.upm.es/\">Technical University of Madrid</a> (UPM) through its 2016 awards for young researchers and practitioners who have developed key innovations, made outstanding contributions or conducted an exceptional piece of research in any branch of engineering. The Juan López de Peñalver Prize went to Óscar Corcho, full professor at the School of Computer Engineering and co-director of the <a href=\"http://www.upm.es/observatorio/vi/index.jsp?pageac=fichaGrupo.jsp&amp;id_articulo=278&amp;id_tipo_articulo=6&amp;idGrupo=323\">Ontological Engineering Group</a>. José María Ulloa, a researcher at the <a href=\"http://www.isom.upm.es/\">Institute of Optolelectronics and Microtechnology</a>, received the Juan López de Peñalver Prize runner-up medal. The awards ceremony is to be held tomorrow.</p>\n<p class=\"rtejustify\">Óscar Corcho received his Bachelor of Science in Informatics (2000), his Master of Science in Software Engineering (2001) and his PhD in Computer Science and Artificial Intelligence (2004) from the UPM. He was awarded the Royal Academy of Engineering Prize in recognition of his contributions to research on the semantic web and linked data, ontological engineering and the application of semantic technologies to a range of domains, including e-science and open science. He is currently coordinating two Marie Curie European actions (SemData and KOPAR) and a Horizon 2020 European programme project (STARS4ALL).</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/oscar.png",
+    "width": 136,
+    "height": 220,
+    "alt": "oscar",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/oscar.png 136w, /wp-content/uploads/sites/6/2017/05/oscar-50x81.png 50w",
+    "sizes": "(max-width: 136px) 100vw, 136px"
+  },
+  "wordCount": 288,
+  "excerpt": "<p>The Spanish Royal Academy of Engineering has distinguished with the&nbsp;Juan López de Peñalver Prize to Óscar Corcho, full professor at</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/oscar.png",
+    "width": 136,
+    "height": 220,
+    "alt": "oscar",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/oscar.png 136w, /wp-content/uploads/sites/6/2017/05/oscar-50x81.png 50w",
+    "sizes": "(max-width: 136px) 100vw, 136px"
+  }
+}

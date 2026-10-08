@@ -1,0 +1,8 @@
+/*
+ * Styles added by the static migration (not part of the original site).
+ */
+
+/* Post grids: items of other pages are hidden by src/js/site/post-grid.js. */
+.ebpg-grid-post[hidden] {
+  display: none !important;
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "swoboda-nik",
+  "lang": "es",
+  "path": "/es/personal/swoboda-nik/",
+  "name": "Swoboda, Nik",
+  "wpId": 704,
+  "date": "2017-05-26T16:24:22+00:00",
+  "modified": "2024-01-13T15:37:15+00:00",
+  "tags": [
+    "profesores-contratados-doctores"
+  ],
+  "translations": {
+    "en": "/en/personal/swoboda-nik_en/",
+    "es": "/es/personal/swoboda-nik/"
+  },
+  "seo": {
+    "title": "Swoboda, Nik - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2205Web: http://www.clip.dia.fi.upm.es/~nswobodaTeléfono: +34-91-336-6901ORCID: https://orcid.org/0000-0002-3095-3115Email: nswoboda@fi.upm.esResearcherID: http://www.researcherid.com/rid/G-1239-2013Grupo de investigación: The Computational logic, Languages, Implementation, and Parallelism LaboratoryScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=6506753168",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/nik.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/Swoboda-Nik.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Swoboda-Nik.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2205"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "http://www.clip.dia.fi.upm.es/~nswoboda",
+      "href": "http://www.clip.dia.fi.upm.es/~nswoboda",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-6901"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0002-3095-3115",
+      "href": "https://orcid.org/0000-0002-3095-3115",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "nswoboda@fi.upm.es",
+      "href": "mailto:nswoboda@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/G-1239-2013",
+      "href": "http://www.researcherid.com/rid/G-1239-2013",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "The Computational logic, Languages, Implementation, and Parallelism Laboratory",
+      "href": "http://cliplab.org/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=6506753168",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=6506753168",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Swoboda-Nik.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/Swoboda-Nik.png 490w, /wp-content/uploads/sites/6/2023/10/Swoboda-Nik-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/Swoboda-Nik-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

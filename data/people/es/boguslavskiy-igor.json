@@ -1,0 +1,99 @@
+{
+  "slug": "boguslavskiy-igor",
+  "lang": "es",
+  "path": "/es/personal/boguslavskiy-igor/",
+  "name": "Boguslavskiy, Igor",
+  "wpId": 672,
+  "date": "2017-05-26T16:22:03+00:00",
+  "modified": "2024-01-13T15:30:49+00:00",
+  "tags": [
+    "profesores-contratados-doctores"
+  ],
+  "translations": {
+    "en": "/en/personal/boguslavskiy-igor_en/",
+    "es": "/es/personal/boguslavskiy-igor/"
+  },
+  "seo": {
+    "title": "Boguslavskiy, Igor - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2201Web: Teléfono: +34-91-336-7436ORCID: https://orcid.org/0000-0002-8567-4105Email: iboguslavsky@fi.upm.esResearcherID: Grupo de investigación: Grupo de Validación y Aplicaciones InformáticasScopus Author ID:",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/bogulasky.png",
+      "width": 176,
+      "height": 220,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/Bogulaski-Igor-1.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Bogulaski-Igor-1.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2201"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-7436"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0002-8567-4105",
+      "href": "https://orcid.org/0000-0002-8567-4105",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "iboguslavsky@fi.upm.es",
+      "href": "mailto:iboguslavsky@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Validación y Aplicaciones Informáticas",
+      "href": "http://www.vai.dia.fi.upm.es/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Bogulaski-Igor-1.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/Bogulaski-Igor-1.png 490w, /wp-content/uploads/sites/6/2023/10/Bogulaski-Igor-1-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/Bogulaski-Igor-1-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

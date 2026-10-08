@@ -1,0 +1,50 @@
+{
+  "perPage": 10,
+  "pageLabel": {
+    "es": "Página {n} de {total}",
+    "en": "Page {n} of {total}"
+  },
+  "people": {
+    "es": {
+      "path": "/es/personal/",
+      "title": "Personals",
+      "seoTitle": "Personals archivo",
+      "description": "<p>Personal del DIA</p>",
+      "translationPath": "/en/personal/"
+    },
+    "en": {
+      "path": "/en/personal/",
+      "title": "Personals",
+      "seoTitle": "Personals Archive",
+      "description": "<p>Personal del DIA</p>",
+      "translationPath": "/es/personal/"
+    }
+  },
+  "authors": [
+    {
+      "slug": "dia-fi-upm",
+      "wpId": 1,
+      "name": "admin",
+      "avatar": {
+        "src": "/assets/images/authors/admin-120.png",
+        "srcset": "/assets/images/authors/admin-240.png 2x",
+        "source": "https://secure.gravatar.com/avatar/1271fda4ca8eef1bc82f68795e8c00aa (Gravatar default image, copied locally)"
+      },
+      "ogImage": "https://secure.gravatar.com/avatar/1271fda4ca8eef1bc82f68795e8c00aa?s=500&d=mm&r=g",
+      "es": {
+        "heading": "Nombre del autor:admin",
+        "seoTitle": "admin, autor en Máster Universitario en Inteligencia Artificial",
+        "breadcrumb": "Archivo de admin"
+      },
+      "en": {
+        "heading": "Author name: admin",
+        "seoTitle": "admin, autor en Máster Universitario en Inteligencia Artificial",
+        "breadcrumb": "Archivo de admin",
+        "switchTo": {
+          "lang": "es",
+          "path": "/es/author/dia-fi-upm/"
+        }
+      }
+    }
+  ]
+}

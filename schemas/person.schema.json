@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "person.schema.json",
+  "title": "Staff profile (data/people/<lang>/<slug>.json)",
+  "type": "object",
+  "required": ["slug", "lang", "path", "name", "wpId", "date", "tags", "photo", "contact", "biography", "seo"],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9_-]+$" },
+    "lang": { "enum": ["es", "en"] },
+    "path": { "type": "string", "pattern": "^/(es|en)/personal/[^/]+/$" },
+    "name": { "type": "string", "minLength": 1, "description": "Page title and listing label, e.g. \"Corcho García, Óscar\"" },
+    "wpId": { "type": "integer" },
+    "date": { "type": "string", "format": "date-time", "description": "Publication date: order of the staff archive (newest first)" },
+    "modified": { "type": "string", "format": "date-time" },
+    "tags": { "type": "array", "items": { "type": "string" }, "description": "Staff categories (taxonomies.json → post_tag) used by the teaching-staff grids" },
+    "translations": { "type": "object", "additionalProperties": { "type": "string", "pattern": "^/" } },
+    "photo": {
+      "type": "object",
+      "required": ["src"],
+      "properties": { "src": { "type": "string", "pattern": "^/" }, "alt": { "type": "string" } },
+      "additionalProperties": false
+    },
+    "photoPrefixHtml": { "type": "string", "description": "Text printed before the photo (kept from the original English profiles)" },
+    "contact": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["icon", "label", "value"],
+        "properties": {
+          "icon": { "type": "string", "description": "Font Awesome classes, e.g. \"far fa-envelope\"" },
+          "label": { "type": "string" },
+          "value": { "type": "string" },
+          "href": { "type": "string" },
+          "target": { "type": "string" },
+          "separator": { "type": "string" },
+          "itemNewTab": { "type": "boolean" },
+          "iconColor": { "type": "string" },
+          "iconBackground": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "biography": { "$ref": "blocks.schema.json" },
+    "afterProfile": { "$ref": "blocks.schema.json" },
+    "listImage": { "$ref": "image.schema.json" },
+    "excerpt": { "type": "string" },
+    "styleVariant": { "type": "string", "pattern": "^(none|variant-\\d+)$" },
+    "seo": { "$ref": "seo.schema.json" },
+    "bodyClass": { "type": "string" }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,501 @@
+{
+  "slug": "objetivos_competencias",
+  "lang": "es",
+  "path": "/es/objetivos_competencias/",
+  "title": "Objetivos y competencias",
+  "wpId": 317,
+  "date": "2023-09-21T11:34:54+00:00",
+  "modified": "2024-01-08T14:55:27+00:00",
+  "translations": {
+    "en": "/en/objectives_competencies/",
+    "es": "/es/objetivos_competencias/"
+  },
+  "seo": {
+    "title": "Objetivos y competencias - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2023/09/joven-investigador-con-brazo-robot.jpg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/09/joven-investigador-con-brazo-robot.jpg"
+    }
+  },
+  "bodyClass": "page-template-default page page-id-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit- astra-addon-4.8.6",
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-gwapcxe",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-yjokuln",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "hero_section",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-v62zddu",
+              "children": [
+                {
+                  "type": "row",
+                  "id": "eb-row-9recpm3",
+                  "rootClass": false,
+                  "align": "full",
+                  "children": [
+                    {
+                      "type": "column",
+                      "outer": false,
+                      "id": "eb-column-y6aoqv5",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-phz4e97",
+                          "rootClass": false,
+                          "animation": "fadeIn",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "h1",
+                              "html": "Pensando en tu éxito"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-whm5l2i",
+                          "rootClass": false,
+                          "animation": "fadeIn",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "h1",
+                              "html": "Objetivos y competencias<br>del MUIA"
+                            },
+                            {
+                              "part": "subtitle",
+                              "tag": "p",
+                              "html": "Consulta la memoria completa del Máster Universitario en Inteligencia Artificial"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-ix5btov",
+                          "rootClass": false,
+                          "animation": "fadeInLeft",
+                          "href": "https://dia.fi.upm.es/wp-content/version-final-memoria.muia.pdf",
+                          "target": "_blank",
+                          "rel": "nofollow noopener",
+                          "icon": "fas fa-chevron-right hvr-icon",
+                          "iconPosition": "right",
+                          "text": "Ver memoria"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "column",
+                      "outer": false,
+                      "id": "eb-column-bdcogf5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-6jcdd7c",
+      "rootClass": false,
+      "align": "full",
+      "anchor": "objetivos",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-ljt72p8",
+          "rootClass": false,
+          "align": "full",
+          "anchor": "services_section",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-2ok1ejd",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-xv8x1j5",
+                  "rootClass": false,
+                  "animation": "fadeInLeft",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Objetivos del MUIA"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "El objetivo general del Máster Universitario en Inteligencia Artificial es: <strong>Preparar al alumno para la innovación en el área de la Inteligencia Artificial, en dos sentidos: la creación de técnicas y métodos innovadores en la propia área de investigación de la Inteligencia Artificial y la incorporación de esas técnicas y métodos a la realidad social y empresarial, creando procesos y soluciones informáticas innovadoras.</strong><br><br>De esta forma, se proporcionará a los profesionales de la Ingeniería Informática y, en general, a los profesionales de la Ciencia y la Tecnología, un mayor grado de conocimientos en Inteligencia Artificial, para que sean capaces de abordar y solucionar problemas de carácter tanto científico como tecnológico mediante técnicas, métodos y productos recientes de la investigación en el área.<br><br>Este objetivo general se completa con dos metas intrínsecas al contenido de la titulación. En primer lugar, la idea de innovar para investigar y, a la vez, la idea de investigar para innovar. La primera meta sugiere programas innovadores, que sean capaces de combinar el carácter especializado de la formación con la creatividad que subyace a líneas originales, activas y productivas de investigación. La segunda se dirige hacia la capacidad de ser creativo a la hora de abordar y solucionar problemas mediante la investigación."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-pyu5671",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-scdup5l",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/joven-investigador-con-brazo-robot.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objetivo 1",
+                  "description": "Adquirir una formación avanzada, de carácter especializado y multidisciplinar, orientada a promover la iniciación de tareas investigadoras en Inteligencia Artificial."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-49xfhyo",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/alumnos-sonrientes-con-robot.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objetivo 2",
+                  "description": "Proporcionar un mayor grado de conocimientos en técnicas y métodos de Inteligencia Artificial para ser capaz de abordar y solucionar problemas de carácter científico y tecnológico mediante la investigación (investigar para innovar)."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-sozjusy",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-3q5zpj8",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/Alumno-asiatico-sonriendo.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objetivo 3",
+                  "description": "Crear programas innovadores que sean capaces de combinar el carácter especializado de la formación con la creatividad que subyace a líneas de investigación originales, activas y productivas (innovar para investigar) en Inteligencia Artificial."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-fxwbzou",
+                  "rootClass": false,
+                  "animation": "zoomIn",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/alumnos-sonrientes-8.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h2",
+                  "title": "Objetivo 4",
+                  "description": "Capacitar al alumno para ser creativo a la hora de abordar y solucionar problemas de carácter científico y tecnológico mediante la investigación en Inteligencia Artificial."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-7m6qvjp",
+      "rootClass": false,
+      "align": "wide",
+      "anchor": "competencias",
+      "legacy": true,
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-tingcs3",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-n9aiv8s",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-oceq20x",
+                  "rootClass": false,
+                  "anchor": "competencias",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": ""
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Los objetivos anteriormente descritos están encaminados a que los estudiantes adquieran, durante sus estudios, una serie de competencias generales y específicas.<br><br>Las competencias del título de Máster Universitario en Inteligencia Artificial se han estructurado en 4 categorías."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-kd4dl89",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-n5rz1on",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-h4h9obr",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "Competencias Generales",
+                  "description": "Las competencias generales provienen, por una parte, de un Real Decreto y son comunes para cualquier máster en España; Por otra, están las propuestas por la UPM; y, finalmente,&nbsp;están las propias de la acreditación EURO-INF.&nbsp;"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-hgzuqj8",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-7vrz4t5",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "Competencias de investigación",
+                  "description": "Estas competencias se comparten por todos los másteres de orientación investigadora de la Escuela Técnica Superior de Ingenieros Informáticos, y que son distintas de las compartidas por los de orientación profesional.&nbsp;"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-k91aavc",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-ds38een",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "Competencias de IA",
+                  "description": "En esta categoría están las competencias específicas en Inteligencia Artificial, que diferencian al título propuesto de cualquier otro máster de investigación de la Escuela Técnica Superior de Ingenieros Informáticos."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-jhve7tj",
+              "animation": "fadeIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-tfb2xlw",
+                  "rootClass": false,
+                  "titleTag": "h2",
+                  "title": "Competencias del TFM",
+                  "description": "En esta categoría se encuentra la competencia específica asociada al Trabajo Fin de Máster, prevista para dotar al alumno de la capacidad de elaborar, presentar. y defender su proyecto frente a los miembros de un tribunal universitario, entre otras."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-sv3vx9v",
+          "rootClass": false,
+          "align": "full",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "row",
+              "id": "eb-row-zjpfom0",
+              "rootClass": false,
+              "align": "full",
+              "children": [
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-ck15svb",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-jtzjtfs",
+                      "rootClass": false,
+                      "animation": "fadeInUp",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h2",
+                          "html": "Competencias generales y específicas del MUIA"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "outer": false,
+                  "id": "eb-column-5706uoa",
+                  "children": [
+                    {
+                      "type": "button",
+                      "id": "eb-button-fjxrynr",
+                      "rootClass": false,
+                      "animation": "fadeInLeft",
+                      "href": "https://dia.fi.upm.es/masteria/sites/default/files/master/General/Competencias%20por%20materias.pdf",
+                      "target": "_blank",
+                      "rel": "nofollow noopener",
+                      "icon": "fas fa-chevron-right hvr-icon",
+                      "iconPosition": "right",
+                      "text": "Ver cuadros de niveles de competencias por asignatura"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "wrapper",
+              "id": "eb-wrapper-7c0gz",
+              "rootClass": false,
+              "align": "full",
+              "contentAlign": "center",
+              "children": [
+                {
+                  "type": "advanced-tabs",
+                  "id": "eb-advanced-tabs-cg12jgf",
+                  "rootClass": false,
+                  "align": "full",
+                  "className": "algomindai_tabmark",
+                  "animation": "fadeInUp",
+                  "layout": "vertical",
+                  "titleTag": "h6",
+                  "activeIndex": 0,
+                  "tabs": [
+                    {
+                      "tabId": "1",
+                      "title": "Competencias generales",
+                      "children": [
+                        {
+                          "type": "wrapper",
+                          "id": "eb-wrapper-g4hv7vx",
+                          "rootClass": false,
+                          "align": "full",
+                          "contentAlign": "center",
+                          "children": [
+                            {
+                              "type": "html",
+                              "html": "<p><strong>CG1</strong>:&nbsp;Que los estudiantes sepan aplicar los conocimientos adquiridos y su capacidad de resolución de problemas&nbsp;en entornos nuevos o poco conocidos dentro de contextos más amplios (o multidisciplinares) relacionados&nbsp;con su área de estudio.)</p>\n<p><strong>CG2</strong>:&nbsp;Que los estudiantes sean capaces de integrar conocimientos y enfrentarse a la complejidad de formular&nbsp;juicios a partir de una información que, siendo incompleta o limitada, incluya reflexiones sobre las&nbsp;responsabilidades sociales y éticas vinculadas a la aplicación de sus conocimientos y juicios.</p>\n<p><strong>CG3</strong>: Que los estudiantes sepan comunicar sus conclusiones y los conocimientos y razones últimas que las&nbsp;sustentan a públicos especializados y no especializados de un modo claro y sin ambigüedades.</p>\n<p><strong>CG4</strong>: Que los estudiantes posean las habilidades de aprendizaje que les permitan continuar estudiando de un&nbsp;modo que habrá de ser en gran medida autodirigido o autónomo.</p>\n<p><strong>CG5</strong>: Organización y planificación.&nbsp;</p>\n<p><strong>CG6</strong>: Gestión de la información.</p>\n<p><strong>CG7</strong>: Especificación y realización de tareas informáticas complejas, poco definidas o no familiares.</p>\n<p><strong>CG8</strong>: Planteamiento y resolución de problemas también en áreas nuevas y emergentes de su disciplina.</p>\n<p><strong>CG9</strong>: Aplicación de los métodos de resolución de problemas más recientes o innovadores y que puedan implicar&nbsp;el uso de otras disciplinas.</p>\n<p><strong>CG10</strong>: Capacidad de pensamiento creativo con el objetivo de desarrollar enfoques y métodos nuevos y originales.</p>\n<p><strong>CG11</strong>: Integración del conocimiento a partir de disciplinas diferentes, así como el manejo de la complejidad.</p>\n<p><strong>CG12</strong>: Comprensión amplia de las técnicas y métodos aplicables en una especialización concreta, así como de sus&nbsp;límites.</p>\n<p><strong>CG13</strong>: Apreciación de los límites del conocimiento actual y de la aplicación práctica de la tecnología más reciente.</p>\n<p><strong>CG14</strong>: Conocimiento y comprensión de la informática necesaria para la creación de modelos de información, y de&nbsp;los sistemas y procesos complejos.</p>\n<p><strong>CG15</strong>: Capacidad para contribuir al desarrollo futuro de la informática.</p>\n<p><strong>CG16</strong>: Capacidad de trabajar de forma independiente en su campo profesional.</p>\n<p><strong>CG17</strong>: Habilidades de gestión y capacidad de liderar un equipo que puede estar integrado por disciplinas y&nbsp;niveles distintos.</p>\n<p><strong>CG18</strong>:&nbsp;Capacidad de trabajar y comunicarse también en contextos internacionales.</p>\n<p><strong>CG19</strong>: Aproximación sistemática a la gestión de riesgos.</p>"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tabId": "2",
+                      "title": "Competencias específicas <br>de investigación",
+                      "children": [
+                        {
+                          "type": "wrapper",
+                          "id": "eb-wrapper-a45r5r0",
+                          "rootClass": false,
+                          "align": "full",
+                          "contentAlign": "center",
+                          "children": [
+                            {
+                              "type": "html",
+                              "html": "<p><strong>CGI1</strong>: Adquirir conocimientos científicos avanzados del campo de la informática que le permitan generar nuevas&nbsp;ideas dentro de una línea de investigación.</p>\n<p><strong>CGI2</strong>:&nbsp;Comprender el procedimiento, valor y límites del método científico en el campo de la Informática, siendo&nbsp;capaz de identificar, localizar y obtener datos requeridos en un trabajo de investigación, de diseñar y guiar&nbsp;investigaciones analíticas, de modelado y experimentales, así como de evaluar datos de una manera&nbsp;crítica y extraer conclusiones.</p>\n<p><strong>CGI3:</strong>&nbsp;Capacidad para valorar la importancia de las fuentes documentales, manejarlas y buscar la información&nbsp;para el desarrollo de cualquier trabajo de investigación.</p>\n<p><strong>CGI4:</strong>&nbsp;Capacidad de leer y comprender publicaciones dentro de su ámbito de estudio/investigación, así como su&nbsp;catalogación y valor científico.</p>\n<p><strong>CGI5</strong>:&nbsp;Que el estudiante adquiera el conocimiento necesario sobre los mecanismos de financiación de la&nbsp;investigación y transferencia de la tecnología, y sobre la legislación vigente sobre protección de&nbsp;resultados.</p>"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tabId": "3",
+                      "title": "Competencias específicas <br>de Inteligencia Artificial",
+                      "children": [
+                        {
+                          "type": "wrapper",
+                          "id": "eb-wrapper-07ss307",
+                          "rootClass": false,
+                          "align": "full",
+                          "contentAlign": "center",
+                          "children": [
+                            {
+                              "type": "html",
+                              "html": "<p><strong>CEIA1</strong>: Capacidad de integrar tecnologías y sistemas propios de la Inteligencia Artificial, con carácter&nbsp;generalista, y en contextos más amplios y multidisciplinares.</p>\n<p><strong>CEIA2</strong>: Capacidad de conectar la tecnología puntera en Inteligencia Artificial con las necesidades de los clientes.</p>\n<p><strong>CEIA3</strong>:&nbsp;Conocimiento y aplicación de los modelos cuantitativos que dan soporte a los procesos de toma de&nbsp;decisiones en sus distintas variantes: determinístico-estocástico, individual-colectivo o estáticodinámico.</p>\n<p><strong>CEIA4</strong>: Capacidad de interpretar los modelos de clasificación supervisada y no supervisada obtenidos al aplicar&nbsp;las técnicas de Aprendizaje Automático para un conjunto de datos.</p>\n<p><strong>CEIA5</strong>:&nbsp;Conocimiento las principales técnicas de computación natural, tanto a nivel simbólico como físico, e&nbsp;identificar su idoneidad para distintos tipos de problemas.</p>\n<p><strong>CEIA6</strong>: Formalización de especificaciones, demostración de propiedades de los programas y diseño de&nbsp;programas con razonamiento o la utilización de la lógica misma como lenguaje de programación.</p>\n<p><strong>CEIA7</strong>:&nbsp;Conocimiento de las técnicas de representación del conocimiento reutilizables y modelos de&nbsp;razonamiento en entornos centralizados y distribuidos a utilizar en la resolución de problemas que&nbsp;impliquen conducta inteligente.</p>\n<p><strong>CEIA8</strong>:&nbsp;Capacidad de analizar un problema de percepción relacionado con el guiado de un robot y determinar&nbsp;qué técnica es la más adecuada para su resolución, así como determinar las características del equipo&nbsp;de adquisición y llevar a la práctica un prototipo de dicho sistema.</p>\n<p><strong>CEIA9</strong>: Comprensión del mercado, sus hábitos y necesidades de productos o servicios en el ámbito de la&nbsp;Inteligencia Artificial.</p>\n<p><strong>CEIA10</strong>: Identificación de áreas de aplicación en las que se pueda utilizar las técnicas y métodos de la&nbsp;Inteligencia Artificial.</p>"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tabId": "4",
+                      "title": "Competencia específica <br>de trabajo fin del Máster",
+                      "children": [
+                        {
+                          "type": "wrapper",
+                          "id": "eb-wrapper-ipbycxb",
+                          "rootClass": false,
+                          "align": "full",
+                          "contentAlign": "center",
+                          "children": [
+                            {
+                              "type": "html",
+                              "html": "<p><strong>CTFM</strong>: Elaborar&nbsp;individualmente&nbsp;y presentar y defender &nbsp;públicamente ante un&nbsp;tribunal universitario, un proyecto en el ámbito científico o tecnológico de las materias del programa, en el que se sinteticen e integren las competencias adquiridas en las enseñanzas.</p>"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/es-objetivos_competencias.css"
+}

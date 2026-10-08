@@ -1,0 +1,22 @@
+{#- Error page (Astra "404 layout 1"). Texts: data/site.json → notFound. -#}
+{% extends "base.njk" %}
+{% block main %}
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary">
+<section class="error-404 not-found">
+<div class="ast-404-layout-1">
+<header class="page-header"><h1 class="page-title">{{ notFound.heading | safe }}</h1></header><!-- .page-header -->
+<div class="page-content">
+<h3 class="page-sub-title">
+{{ notFound.subtitle | safe }}</h3>
+<div class="ast-404-search">
+<div class="widget widget_search">{% include "partials/search-form.njk" %}
+</div>		</div>
+</div><!-- .page-content -->
+</div>
+</section><!-- .error-404 -->
+</div><!-- #primary -->
+	</div> <!-- ast-container -->
+</div><!-- #content -->
+{% endblock %}

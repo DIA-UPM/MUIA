@@ -1,0 +1,105 @@
+{
+  "slug": "hernandez-diego-josefa",
+  "lang": "es",
+  "path": "/es/personal/hernandez-diego-josefa/",
+  "name": "Hernández Diego, Josefa",
+  "wpId": 687,
+  "date": "2017-05-26T16:16:31+00:00",
+  "modified": "2024-01-13T16:00:26+00:00",
+  "tags": [
+    "profesores-titulares-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/hernandez-diego-josefa_en/",
+    "es": "/es/personal/hernandez-diego-josefa/"
+  },
+  "seo": {
+    "title": "Hernández Diego, Josefa - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2205Web: https://dia.fi.upm.es/~phernanTeléfono: +34-91-336-6901ORCID: https://orcid.org/0000-0002-5374-1457Email: phernan@fi.upm.esResearcherID: http://www.researcherid.com/rid/D-2268-2012Grupo de investigación: Grupo de Análisis de Decisiones y EstadísticaScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=35612122100",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/Josefa-Hernandez-Diego.jpg",
+      "width": 200,
+      "height": 200,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/Jose-Z-Hernandez-Diego.jpg",
+      "width": 491,
+      "height": 492
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Jose-Z-Hernandez-Diego.jpg"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2205"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "https://dia.fi.upm.es/~phernan",
+      "href": "https://dia.fi.upm.es/~phernan",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-6901"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0002-5374-1457",
+      "href": "https://orcid.org/0000-0002-5374-1457",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "phernan@fi.upm.es",
+      "href": "mailto:phernan@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/D-2268-2012",
+      "href": "http://www.researcherid.com/rid/D-2268-2012",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Análisis de Decisiones y Estadística",
+      "href": "https://dia.fi.upm.es/dasg/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=35612122100",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=35612122100",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Jose-Z-Hernandez-Diego.jpg",
+    "width": 491,
+    "height": 492,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/Jose-Z-Hernandez-Diego.jpg 491w, /wp-content/uploads/sites/6/2017/05/Jose-Z-Hernandez-Diego-300x300.jpg 300w, /wp-content/uploads/sites/6/2017/05/Jose-Z-Hernandez-Diego-150x150.jpg 150w",
+    "sizes": "(max-width: 491px) 100vw, 491px"
+  }
+}

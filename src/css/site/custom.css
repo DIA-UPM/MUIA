@@ -1,0 +1,205 @@
+/* Site-specific CSS added in the WordPress customizer ("Additional CSS") – was inline style#wp-custom-css */
+.iframe-container {
+position: relative;
+width: 100%;
+max-width: 1320px; /* Ancho máximo que quieres */
+padding-bottom: calc(400 / 1320 * 100%);  /* Esta es la relación de aspecto */
+}
+.iframe-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+.wp-block-table td {
+border: 1px solid #D3CBD1;
+}
+/* Estilo por defecto para escritorio y otros dispositivos grandes */
+.wp-block-table td {
+font-size: 16px;
+text-align: center;
+vertical-align: middle;
+border: 1px solid #D3CBD1;
+}
+/* Estilo para móviles */
+@media (max-width: 768px) {
+.wp-block-table td {
+font-size: 8px;
+text-align: center;
+vertical-align: middle;
+}
+}
+/* Estilos personalizados para las cajas de proceso */
+.process-box {
+position: relative;
+width: 254px;
+height: 130px;
+background-color: #3498db; /* Color por defecto, pero puedes sobrescribirlo con una clase adicional en el HTML */
+clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+display: flex;
+align-items: center;
+justify-content: center;
+margin-right: -80px;
+transition: transform 0.3s ease; /* Para el efecto de desplazamiento */
+}
+.process-box:last-child {
+margin-right: 0;
+}
+/* Efecto al pasar el ratón por encima */
+.process-box:hover {
+transform: translateX(3px); /* Desplazamiento hacia la derecha al pasar el ratón */
+}
+.process-text {
+text-align: center;
+z-index: 1;
+padding: 10px 60px 10px 75px;
+}
+.process-title {
+color: white;
+font-size: 16px;
+line-height: 1.2;
+}
+.process-subtitle {
+color: rgba(0, 0, 0, 0.7); /* 70% de negro */
+font-size: 14px;
+line-height: 1.2;
+margin-top: 10px; /* Añade espacio entre el título y el subtítulo */
+}
+.color1 { background-color: #e3ab6e; }
+.color2 { background-color: #D9CB51; }
+.color3 { background-color: #2ecc71; }
+.color4 { background-color: #f39c12; }
+.color5 { background-color: #49A1FE; }
+/* Estilo para hacer que el enlace dentro de la caja de proceso ocupe todo el espacio */
+.process-link {
+display: flex; /* Cambio de block a flex */
+align-items: center; /* Centrado vertical */
+justify-content: center; /* Centrado horizontal */
+width: 100%;
+height: 100%;
+text-decoration: none; /* para eliminar el subrayado del enlace */
+}
+/* 
+-------------------------------------
+Estilos personalizados para las cajas de proceso 
+en la página de admisión y matrícula
+-------------------------------------
+*/
+/* Estilo para el primer tab cuando la clase custom-color-tabs está presente */
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="1"]:hover,
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="1"].active {
+background-color: rgba(219,173,119,1) !important;
+}
+/* Estilo para el segundo tab */
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="2"]:hover,
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="2"].active {
+background-color: rgba(217,203,81,1) !important;
+}
+/* Estilo para el tercer tab */
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="3"]:hover,
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="3"].active {
+background-color: rgba(46,204,113,1) !important;
+}
+/* Estilo para el cuarto tab */
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="4"]:hover,
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="4"].active {
+background-color: rgba(243,156,18,1) !important;
+}
+/* Estilo para el quinto tab */
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="5"]:hover,
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="5"].active {
+background-color: rgba(97,159,247,1) !important;
+}
+/* Estilo para el sexto tab */
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="6"]:hover,
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="6"].active {
+background-color: rgba(155,89,182,1) !important;
+}
+/* Estilo para el séptimo tab */
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="7"]:hover,
+.custom-color-tabs .eb-advanced-tabs-cg12jgf .eb-tabs-nav ul.tabTitles li[data-title-tab-id="7"].active {
+background-color: rgba(231,76,60,1) !important;
+}
+/* Modifica el color de los enlaces en las fichas del profesor */
+body .acf-custom-link {
+color: #dbad77 !important; /* Reemplaza #dbad77 con el código HEX del color que desees */
+text-decoration: underline; /* Si deseas que los enlaces estén subrayados */
+}
+html body .acf-custom-link:hover {
+color: #f4bd53 !important;
+}!important /* Reemplaza #f4bd53 con el código HEX del color que desees al pasar el mouse sobre el enlace */
+}
+/* Fichas de profesores. Establecer la fotografa como un círculo */
+.custom-image-container {
+width: 250px;
+height: 250px;
+border-radius: 50%;
+overflow: hidden;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0 auto;
+}
+.my-custom-image {
+max-width: 100%;
+display: block;
+}
+/* Imágenes profesores formato círculo */
+/* Establecer el contenedor de la imagen como un cuadrado */
+.ebpg-entry-thumbnail {
+width: 220px;
+height: 220px;
+overflow: hidden;
+border-radius: 50%;
+margin: 0 auto; /* Ajustado para centrar horizontalmente */
+position: relative;
+background-color: #445272; /* Color de fondo base */
+z-index: 2;
+border: 5px solid #ffff; /* Borde para crear el espacio */
+}
+/* Ajustar la imagen para que se ajuste al contenedor y se centre */
+.ebpg-entry-thumbnail img {
+display: block;
+max-width: 100%;
+height: auto;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+border-radius: 50%;
+}
+/* Efecto de ampliación de la imagen en hover */
+.ebpg-entry-thumbnail:hover img {
+transform: translate(-50%, -50%) scale(1.05);
+transition: transform 0.3s ease-in-out;
+}
+/* Asegurarse de que la imagen no desborde su contenedor */
+.ebpg-entry-thumbnail img {
+transition: transform 0.3s ease-in-out;
+object-fit: cover;
+width: 100%;
+height: 100%;
+}
+/* Efecto de llenado de color en el contenedor padre */
+.ebpg-entry-media {
+position: relative;
+padding-top: 50px; /* Añadido padding de 30px en la parte superior */
+}
+.ebpg-entry-media::before {
+content: "";
+position: absolute;
+top: 0; /* Comienza en la parte superior */
+left: 0; /* Comienza en el lado izquierdo */
+right: 0; /* Termina en el lado derecho */
+bottom: calc(50% - 30px); /* Ajustado para compensar el padding superior */
+background-color: #e3ab6e; /* Color de llenado */
+z-index: 1;
+}
+.ebpg-tags-meta {
+text-align: center;
+}
+/*Evita el posible overlap de los elementos del post grid sobre la cabecera fija*/
+.eb-post-grid-posts-wrapper {
+position: sticky !important;
+}

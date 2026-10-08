@@ -1,0 +1,57 @@
+{
+  "slug": "creacion-del-centro-tecnologico-mixto-ai-nnovation-space",
+  "lang": "es",
+  "path": "/es/creacion-del-centro-tecnologico-mixto-ai-nnovation-space/",
+  "title": "Creación del Centro Tecnológico Mixto «AI.nnovation Space»",
+  "wpId": 73,
+  "date": "2017-12-20T07:20:27+00:00",
+  "modified": "2023-11-23T18:50:02+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Creación del Centro Tecnológico Mixto \"AI.nnovation Space\" - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El Departamento de Inteligencia Artificial ha puesto en marcha, junto con Accenture, un Centro  Tecnológico Mixto «AI.nnovation Space» de la UPM […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2018/01/logoAInnation-Space.jpg",
+      "width": 220,
+      "height": 127,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2018/01/logoAInnation-Space.jpg",
+      "width": 220,
+      "height": 127,
+      "caption": "logoAInnation Space"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El Departamento de Inteligencia Artificial&nbsp;ha puesto en marcha, junto con Accenture, un <strong>Centro&nbsp; Tecnológico Mixto</strong> «<strong>AI.nnovation Space</strong>» de la UPM en la temática de&nbsp;Inteligencia Artificial.</p>\n<p><span id=\"more-73\"></span></p>\n<p class=\"rtejustify\">El Departamento de Inteligencia Artificial ha puesto en marcha, junto con Accenture, un <strong>Centro&nbsp; Tecnológico Mixto</strong> de la UPM en la temática de&nbsp; Inteligencia Artificial, con la denominación de «<strong>AI.nnovation Space</strong>«, cuyas actuaciones van encaminadas a la definición y creación de un espacio de soporte a la investigación, innovación y coworking para el desarrollo y experimentación conjunta, en diversos dominios de aplicación industrial, que pueda ser utilizado para la generación de soluciones innovadoras, basadas en técnicas de Inteligencia Artificial, y que pueden ser trasladadas al mercado, cubriendo las distintas etapas de captación, maduración e incubación de ideas y prototipos, definición e implementación de productos, constitución de spin-offs y puesta en mercado.</p>\n<p class=\"rtejustify\">El AI.nnovation Space refuerza el programa docente de las asignaturas del master universitario en Inteligencia Artificial y proporciona un marco de innovación y transferencia al mercado en Inteligencia Artificial para los alumnos del master.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2018/01/logoAInnation-Space.jpg",
+    "width": 220,
+    "height": 127,
+    "alt": "logoAInnation Space"
+  },
+  "wordCount": 210,
+  "excerpt": "<p>El Departamento de Inteligencia Artificial&nbsp;ha puesto en marcha, junto con Accenture, un Centro&nbsp; Tecnológico Mixto «AI.nnovation Space» de la UPM</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2018/01/logoAInnation-Space.jpg",
+    "width": 220,
+    "height": 127,
+    "alt": "logoAInnation Space"
+  }
+}

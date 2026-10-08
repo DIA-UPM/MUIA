@@ -1,0 +1,73 @@
+{
+  "//": "Configuration objects expected by the Astra / Astra Pro scripts (window.astra, window.astraAddon). Values copied from the original site; language-specific strings are in i18n, infinite_total is set per archive page by the build.",
+  "astra": {
+    "break_point": "921",
+    "isRtl": "",
+    "is_scroll_to_id": "1",
+    "is_scroll_to_top": "1",
+    "is_header_footer_builder_active": "1",
+    "responsive_cart_click": "flyout",
+    "revealEffectEnable": "",
+    "infinite_count": "2",
+    "infinite_total": "0",
+    "pagination": "number",
+    "infinite_scroll_event": "scroll",
+    "no_more_post_message": "No hay más entradas para mostrar.",
+    "grid_layout": {
+      "desktop": 3,
+      "tablet": 1,
+      "mobile": 1
+    },
+    "site_url": "",
+    "blogArchiveTitleLayout": "layout-1",
+    "blogArchiveTitleOn": "1",
+    "show_comments": "Mostrar comentarios",
+    "masonryEnabled": "1",
+    "blogMasonryBreakPoint": "0"
+  },
+  "astraAddon": {
+    "sticky_active": "1",
+    "svgIconClose": "<span class=\"ast-icon icon-close\"><svg viewBox=\"0 0 512 512\" aria-hidden=\"true\" role=\"img\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"18px\" height=\"18px\">\n                                <path d=\"M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z\" />\n                            </svg></span>",
+    "hf_account_show_menu_on": "hover",
+    "hf_account_action_type": "link",
+    "header_main_stick": "1",
+    "header_above_stick": "",
+    "header_below_stick": "1",
+    "stick_header_meta": "",
+    "header_main_stick_meta": "",
+    "header_above_stick_meta": "",
+    "header_below_stick_meta": "",
+    "sticky_header_on_devices": "desktop",
+    "sticky_header_style": "fade",
+    "sticky_hide_on_scroll": "0",
+    "break_point": "921",
+    "tablet_break_point": "921",
+    "mobile_break_point": "544",
+    "header_main_shrink": "1",
+    "header_logo_width": "",
+    "responsive_header_logo_width": {
+      "desktop": 383,
+      "tablet": 185,
+      "mobile": 150,
+      "desktop-svg-height": 81
+    },
+    "stick_origin_position": "",
+    "site_layout": "ast-full-width-layout",
+    "site_content_width": "1360",
+    "site_layout_padded_width": "1200",
+    "site_layout_box_width": "1320",
+    "header_builder_active": "1",
+    "component_limit": "10",
+    "is_header_builder_active": "1"
+  },
+  "i18n": {
+    "es": {
+      "no_more_post_message": "No hay más entradas para mostrar.",
+      "show_comments": "Mostrar comentarios"
+    },
+    "en": {
+      "no_more_post_message": "No more posts to show.",
+      "show_comments": "Show Comments"
+    }
+  }
+}

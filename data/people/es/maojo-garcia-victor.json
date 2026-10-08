@@ -1,0 +1,101 @@
+{
+  "slug": "maojo-garcia-victor",
+  "lang": "es",
+  "path": "/es/personal/maojo-garcia-victor/",
+  "name": "Maojo García, Víctor",
+  "wpId": 696,
+  "date": "2017-05-26T11:58:49+00:00",
+  "modified": "2024-01-13T15:52:29+00:00",
+  "tags": [
+    "catedraticos-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/maojo-garcia-victor_en/",
+    "es": "/es/personal/maojo-garcia-victor/"
+  },
+  "seo": {
+    "title": "Maojo García, Víctor - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2102Web: Teléfono: +34-91-336-6897ORCID: https://orcid.org/0000-0001-5103-4292Email: vmaojo@fi.upm.esResearcherID: Grupo de investigación: Grupo de Informática BiomédicaScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=55171738800 Dirige el Grupo de […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/victormaojo.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/Maojo-Garcia-Victor.png",
+      "width": 490,
+      "height": 491
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Maojo-Garcia-Victor.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2102"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-6897"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0001-5103-4292",
+      "href": "https://orcid.org/0000-0001-5103-4292",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "vmaojo@fi.upm.es",
+      "href": "mailto:vmaojo@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Informática Biomédica",
+      "href": "http://www.gib.fi.upm.es/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=55171738800",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=55171738800",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>\n<p><!-- wp:paragraph --></p>\n<p>Dirige el Grupo de Informática Biomédica, financiado por agencias nacionales e internacionales como la Comisión Europea. Entre sus proyectos europeos destacan en el pasado los proyectos Infogenmed (primer proyecto de la Comisión europea, en 2001, para la integración de bases de datos clínicas y genómicas), Infobiomed (la Red Europea de Excelencia en Informática Biomédica), ACGT, ACTION-Grid (del que ha sido coordinador, para el desarrollo de una nueva disciplina, la nanoinformática, incluyendo investigadores americanos del National Cancer Institute). Recientemente ha coordinado el proyecto europeo Africa Build, para la enseñanza de profesionales médicos e informáticos en África (Ghana, Egipto, Mali y Camerún, con la participación de la OMS) y ha participado con su grupo en los proyectos europeos Dicode, P-Medicine, Integrate, Eureca e InbiomedVision, en áreas de la informática biomédica aplicada en la medicina de precisión.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Su grupo de investigación ha tenido acuerdos de colaboración e intercambio de alumnos y profesores con universidades extranjeras. Entre ellas Harvard, MIT, Rutgers, la University of Utah, Oxford y el National Cancer Institute de los EE.UU. En 2011 fue elegido (uno de los pocos europeos) Fellow del American College of Medical Informatics, la Academia Americana de Informática Médica (con varios premios Nobel en ella), por sus contribuciones científicas al área. Ha sido miembro del comité de varias de las principales revistas mundiales de informática biomédica (Journal of the American Medical Informatics Association, Journal of Biomedical Informatics y Methods of Information in Medicine) y otras en el área de la informática. En los últimos años ha sido uno de los creadores de un nuevo campo científico, la nanoinformática, publicando varias de las primeras publicaciones del área en diversas revistas de primera fila (Pediatric Research, International Journal of Nanomedicine, MIM, Nanomedicine, Computing). En 2018 ha sido elegido miembro fundador de la International Academy of Health Sciences Informatics, junto a unos cien miembros de todo el mundo y recibió el Premio Nacional de Informática y Salud de la Sociedad Española de Informática de la Salud pos sus innovaciones en el área. En la actualidad es uno de los fundadores del nuevo programa de Doctorado en Música, Ciencia y Tecnología de la UPM, en colaboración con el Real Conservatorio Superior de Música de Madrid. En este campo ha publicado el libro «Cerebro y Música. Entre la Neurociencia, la Tecnología y el Arte”.</p>\n<p><!-- /wp:paragraph --></p>\n<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Maojo-Garcia-Victor.png",
+    "width": 490,
+    "height": 491,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/Maojo-Garcia-Victor.png 490w, /wp-content/uploads/sites/6/2017/05/Maojo-Garcia-Victor-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/Maojo-Garcia-Victor-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

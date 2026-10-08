@@ -1,0 +1,100 @@
+{
+  "slug": "elena-montiel-ponsoda_en",
+  "lang": "en",
+  "path": "/en/personal/elena-montiel-ponsoda_en/",
+  "name": "Montiel Ponsoda, Elena",
+  "wpId": 746,
+  "date": "2019-05-25T09:06:22+00:00",
+  "modified": "2024-01-13T03:12:39+00:00",
+  "tags": [
+    "associate-professors"
+  ],
+  "translations": {
+    "en": "/en/personal/elena-montiel-ponsoda_en/",
+    "es": "/es/personal/elena-montiel-ponsoda/"
+  },
+  "seo": {
+    "title": "Montiel Ponsoda, Elena - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2019/05/MG_8893-bis_0.jpg",
+      "width": 220,
+      "height": 179,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2019/05/Montiel-Ponsada-Elena.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2019/05/Montiel-Ponsada-Elena.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Office",
+      "value": "5217"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "http://mayor2.dia.fi.upm.es/oeg-upm/index.php/es/teachers/52",
+      "href": "http://mayor2.dia.fi.upm.es/oeg-upm/index.php/es/teachers/52",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Phone",
+      "value": "+34-91-0673051"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "emontiel@fi.upm.es",
+      "href": "mailto:emontiel@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Research group",
+      "value": "Grupo de Ingeniería Ontológica",
+      "href": "http://www.oeg-upm.net/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "photoPrefixHtml": "&lt;",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2019/05/Montiel-Ponsada-Elena.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2019/05/Montiel-Ponsada-Elena.png 490w, /wp-content/uploads/sites/6/2019/05/Montiel-Ponsada-Elena-300x300.png 300w, /wp-content/uploads/sites/6/2019/05/Montiel-Ponsada-Elena-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  },
+  "styleVariant": "variant-1"
+}

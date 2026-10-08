@@ -1,0 +1,31 @@
+{#- News posts (data/news/<lang>/<slug>.json). -#}
+{% extends "base.njk" %}
+{% block main %}
+<section class="ast-single-entry-banner" data-post-type="post" data-banner-layout="layout-2">
+<div class="ast-container">
+<h1 class="entry-title" itemprop="headline">{{ record.title | safe }}</h1>{% if record.featuredImage %}{% set img = record.featuredImage %}<div class="post-thumb-img-content post-thumb"><img width="{{ img.width }}" height="{{ img.height }}" src="{{ img.src }}" class="attachment-full size-full wp-post-image" alt="{{ img.alt }}" itemprop="image" decoding="async"{% if img.srcset %} srcset="{{ img.srcset }}" sizes="{{ img.sizes }}"{% endif %}></div>{% endif %}	</div>
+</section>
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary">
+<main id="main" class="site-main">
+<article
+class="{{ articleClass }}" id="post-{{ record.wpId }}" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+<div class="ast-post-format- {% if not record.featuredImage %}ast-no-thumb {% endif %}single-layout-1 ast-no-date-box">
+<div class="entry-content clear"
+itemprop="text">{{ content | safe }}</div><!-- .entry-content .clear -->
+</div>
+</article><!-- #post-## -->
+</main><!-- #main -->
+</div><!-- #primary -->
+<div class="widget-area secondary" id="secondary" itemtype="https://schema.org/WPSideBar" itemscope="itemscope">
+<div class="sidebar-main">
+<aside id="block-14" class="widget widget_block">
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><ul class="wp-block-latest-posts__list wp-block-latest-posts">{% for p in latestPosts %}<li><a class="wp-block-latest-posts__post-title" href="{{ p.path }}">{{ p.title | safe }}</a></li>
+{% endfor %}</ul></div>
+</aside>
+</div><!-- .sidebar-main -->
+</div><!-- #secondary -->
+	</div> <!-- ast-container -->
+</div><!-- #content -->
+{% endblock %}

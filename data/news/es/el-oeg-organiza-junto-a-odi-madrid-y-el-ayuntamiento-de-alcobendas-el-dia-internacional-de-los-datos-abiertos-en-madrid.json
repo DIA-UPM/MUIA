@@ -1,0 +1,58 @@
+{
+  "slug": "el-oeg-organiza-junto-a-odi-madrid-y-el-ayuntamiento-de-alcobendas-el-dia-internacional-de-los-datos-abiertos-en-madrid",
+  "lang": "es",
+  "path": "/es/el-oeg-organiza-junto-a-odi-madrid-y-el-ayuntamiento-de-alcobendas-el-dia-internacional-de-los-datos-abiertos-en-madrid/",
+  "title": "El OEG organiza, junto a ODI Madrid y el Ayuntamiento de Alcobendas, el Día Internacional de los Datos Abiertos en Madrid",
+  "wpId": 215,
+  "date": "2020-03-29T16:42:41+00:00",
+  "modified": "2023-11-23T18:59:59+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es",
+    "noticias-destacadas"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "El OEG organiza, junto a ODI Madrid y el Ayuntamiento de Alcobendas, el Día Internacional de los Datos Abiertos en Madrid - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El pasado 7 de marzo fue el Día Internacional de los Datos Abiertos. La jornada, que sirvió para celebrar el décimo aniversario […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2020/03/4043-1-opendatadaygirado.jpg",
+      "width": 220,
+      "height": 165,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2020/03/4043-1-opendatadaygirado.jpg",
+      "width": 220,
+      "height": 165,
+      "caption": "4043-1-opendatadaygirado"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "2 minutos"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El pasado 7 de marzo fue el&nbsp;<a href=\"https://opendataday.org/\">Día Internacional de los Datos Abiertos</a>. La jornada, que sirvió para&nbsp;celebrar el décimo aniversario de un evento al que acuden todos los años, alrededor de todo el&nbsp;mundo, ciudadanos interesados en la apertura de datos y su utilidad para el desarrollo urbano,&nbsp;económico y social, estuvo organizada por el Grupo de Ingeniería Ontológica (OEG) y el nodo&nbsp;de Madrid el Open Data Institute (ODI Madrid) en estrecha colaboración con el Ayuntamiento&nbsp;de Alcobendas.</p>\n<p><span id=\"more-215\"></span></p>\n<p class=\"rtejustify\">La ciudad de Alcobendas se convirtió en el marco ideal para el desarrollo de las actividades que&nbsp;conformaron la jornada. El escenario elegido fue la Ciudad Deportiva Valdelasfuentes, y los&nbsp;anfitriones, el Alcalde de Alcobendas, Rafael Sánchez Acera, y el Concejal de Innovación,&nbsp;Roberto Fraile, que estuvieron acompañados de la Directora General de Transparencia,&nbsp;Gobierno Abierto y Atención al Ciudadano de la Comunidad de Madrid, Ana Lorenzo, y del&nbsp;codirector del&nbsp;<a href=\"http://www.oeg-upm.net/\">Grupo de Ingeniería Ontológica (OEG)</a>&nbsp;y responsable de&nbsp;<a href=\"http://madrid.theodi.org/\">ODI Madrid</a>, Oscar&nbsp;Corcho.</p>\n<p class=\"rtejustify\">La mesa de bienvenida permitió a los asistentes conocer la política del Ayuntamiento de&nbsp;Alcobendas en torno a los datos abiertos y la innovación, así como la evolución de la&nbsp;Comunidad de Madrid en materia de transparencia. Oscar Corcho abordó el tema de los datos&nbsp;abiertos desde su descripción hasta su utilidad, explicando cómo se deben publicar y ofrecer al&nbsp;ciudadano para extraer de ellos todo su potencial.</p>\n<p class=\"rtejustify\">Roberto Magro, Jefe de Servicios Interactivos de este Ayuntamiento, clausuró la mesa,&nbsp;contando cómo ha ido evolucionando la definición y publicación de datos abiertos en&nbsp;Alcobendas y cuál se espera que sea su futuro.</p>\n<p class=\"rtejustify\">Tras la sesión de presentaciones comenzó la jornada de trabajo. Cinco grupos de ciudadanos&nbsp;–profesores, periodistas, estudiantes, abogados, informáticos… – coordinados por&nbsp;responsables de proyectos de investigación en los que participa el OEG, y mentorizados por&nbsp;miembros de ODI Madrid, estudiaron el marco en el que se desarrollan los datos abiertos en&nbsp;torno a tres áreas temáticas: información y publicación de legislación, contratación pública y&nbsp;ciudades abiertas.</p>\n<p class=\"rtejustify\">Varias horas de trabajo dieron como resultado interesantes aportaciones de los participantes,&nbsp;que supieron entender cómo deben estructurarse los datos y de qué manera se deben ofrecer&nbsp;a empresas y ciudadanos, a través de los portales de datos abiertos, para su uso en el&nbsp;desarrollo de las ciudades.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2020/03/4043-1-opendatadaygirado.jpg",
+    "width": 220,
+    "height": 165,
+    "alt": "4043-1-opendatadaygirado"
+  },
+  "wordCount": 464,
+  "excerpt": "<p>El pasado 7 de marzo fue el&nbsp;Día Internacional de los Datos Abiertos. La jornada, que sirvió para&nbsp;celebrar el décimo aniversario […]</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2020/03/4043-1-opendatadaygirado.jpg",
+    "width": 220,
+    "height": 165,
+    "alt": "4043-1-opendatadaygirado"
+  }
+}

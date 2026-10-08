@@ -1,0 +1,33 @@
+{
+  "slug": "concha-bielza-imparte-charla-plenaria-de-inauguracion-del-workshop-artificial-intelligence-for-the-fight-against-covid-19",
+  "lang": "es",
+  "path": "/es/concha-bielza-imparte-charla-plenaria-de-inauguracion-del-workshop-artificial-intelligence-for-the-fight-against-covid-19/",
+  "title": "Concha Bielza imparte charla plenaria de inauguración del Workshop «Artificial Intelligence for the Fight Against COVID-19»",
+  "wpId": 302,
+  "date": "2022-04-29T14:16:26+00:00",
+  "modified": "2023-11-23T18:54:20+00:00",
+  "author": "damiano",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Concha Bielza imparte charla plenaria de inauguración del Workshop \"Artificial Intelligence for the Fight Against COVID-19\" - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "La charla titulada «Interpretable machine learning applied to Covid-19 » arrancó el Workshop «Artificial Intelligence for the Fight Against COVID-19» […]",
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "damiano",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p>La charla titulada «Interpretable machine learning applied to Covid-19 » arrancó el Workshop «Artificial Intelligence for the Fight Against COVID-19» celebrado en Bilbao durante los días 6-8 de abril de 2022, organizado por Basque Center for Applied Mathematics (BCAM). Se repasaron diferentes aplicaciones de aprendizaje automático al Covid-19, principalmente en farmacología, epidemiología, salud y medicina clínica. Después se describieron experiencia propias con datos de hospitales con los que se trabaja, mortalidad del Covid-19, diferencias entre las seis olas de la pandemia en Madrid y Covid-19 persistente. El énfasis se puso en la interpretabilidad de los modelos, donde máquinas y humanos interactúan.</p>\n<p>Más información en: <a href=\"https://events.bcamath.org/ai4facovid-19/programme/\">https://events.bcamath.org/ai4facovid-19/programme/</a></p>"
+    }
+  ],
+  "wordCount": 136,
+  "excerpt": "<p>La charla titulada «Interpretable machine learning applied to Covid-19 » arrancó el Workshop «Artificial Intelligence for the Fight Against COVID-19»</p>"
+}

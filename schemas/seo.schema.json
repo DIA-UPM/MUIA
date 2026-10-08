@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "seo.schema.json",
+  "title": "SEO metadata",
+  "description": "Only what cannot be derived from the record; the build generates the remaining tags and the JSON-LD graph.",
+  "type": "object",
+  "required": ["title"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1, "description": "<title> of the page" },
+    "description": { "type": "string", "description": "meta description" },
+    "ogTitle": { "type": "string" },
+    "ogDescription": { "type": "string" },
+    "robots": { "type": "string" },
+    "image": {
+      "type": "object",
+      "required": ["src"],
+      "properties": { "src": { "type": "string" }, "width": { "type": "integer" }, "height": { "type": "integer" }, "type": { "type": "string" } },
+      "additionalProperties": false
+    },
+    "schemaImage": {
+      "type": "object",
+      "required": ["src"],
+      "properties": { "src": { "type": "string" }, "width": { "type": "integer" }, "height": { "type": "integer" }, "caption": { "type": "string" } },
+      "additionalProperties": false
+    },
+    "twitter": { "type": "object", "additionalProperties": { "type": "string" } },
+    "extraSchema": { "type": "array", "items": { "type": "string" }, "description": "Extra JSON-LD scripts, printed verbatim" }
+  },
+  "additionalProperties": false
+}

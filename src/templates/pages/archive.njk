@@ -1,0 +1,42 @@
+{#- Listing pages generated from the collections: news categories, tags, author and
+    the staff ("personal") archive. Ten items per page, newest first. -#}
+{% extends "base.njk" %}
+{% block main %}
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary ast-blog-layout-4-grid ast-grid-3 ast-grid-md-1 ast-grid-sm-1">
+<section class="{{ archive.sectionClass }}">
+{% if archive.kind == "author" %}{{ archive.description | safe }}{% else %}<h1 class="page-title ast-archive-title">{{ archive.title | safe }}</h1>{{ archive.description | safe if archive.description }}{% endif %}		</section>
+<main id="main" class="site-main">
+{% if items.length %}<div class="ast-row">{% for it in items %}<article
+class="{{ it.articleClass }}" id="post-{{ it.record.wpId }}" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+<div class="ast-post-format- {% if not it.image %}ast-no-thumb {% endif %}blog-layout-4 ast-article-inner ast-no-date-box">
+<div class="post-content ast-grid-common-col">
+<div class="ast-blog-featured-section post-thumb ast-blog-single-element">{% if it.image %}<div class="post-thumb-img-content post-thumb"><a href="{{ it.record.path }}"><img width="{{ it.image.width }}" height="{{ it.image.height }}" src="{{ it.image.src }}" class="attachment-large size-large wp-post-image" alt="{{ it.image.alt }}" itemprop="image" decoding="async"{% if it.image.srcset %} srcset="{{ it.image.srcset }}" sizes="{{ it.image.sizes }}"{% endif %}></a></div>{% endif %}</div>		<header class="entry-header ast-blog-single-element ast-blog-meta-container">
+<div class="entry-meta"><span class="posted-on"><span class="published" itemprop="datePublished"> {{ it.date }} </span></span></div>		</header><!-- .entry-header -->
+<div class="ast-excerpt-container ast-blog-single-element">
+{{ it.record.excerpt | safe if it.record.excerpt }}
+</div>
+<div class="entry-content clear"
+itemprop="text">
+</div><!-- .entry-content .clear -->
+</div><!-- .post-content -->
+</div> <!-- .blog-layout-4 -->
+</article><!-- #post-## -->
+{% endfor %}</div>			</main><!-- #main -->
+{% if pagination %}<div class="ast-pagination">
+<nav class="navigation pagination" aria-label="{{ L.strings.paginationLabel }}">
+<span class="screen-reader-text">{{ L.strings.paginationLabel }}</span>
+<div class="nav-links">{{ pagination | safe }}</div>
+</nav></div>
+{% endif %}{% else %}<section class="no-results not-found">
+<div class="page-content">
+<p>{{ L.strings.noResults | safe }}</p>
+{% include "partials/search-form.njk" %}
+</div><!-- .page-content -->
+</section><!-- .no-results -->
+</main><!-- #main -->
+{% endif %}</div><!-- #primary -->
+	</div> <!-- ast-container -->
+</div><!-- #content -->
+{% endblock %}

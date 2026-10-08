@@ -1,0 +1,55 @@
+{
+  "slug": "entrevista-al-profesor-martin-molina-gonzalez-en-el-periodico-el-mundo",
+  "lang": "es",
+  "path": "/es/entrevista-al-profesor-martin-molina-gonzalez-en-el-periodico-el-mundo/",
+  "title": "Entrevista al profesor Martín Molina González en el periódico El Mundo",
+  "wpId": 62,
+  "date": "2017-12-17T23:00:00+00:00",
+  "modified": "2023-11-23T18:50:09+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Entrevista al profesor Martín Molina González en el periódico El Mundo - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El día 1 de Agosto se ha publicado en el periódico El Mundo una entrevista a Martín Molina González, Catedrático de Universidad […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/08/15015193593721.jpg",
+      "width": 220,
+      "height": 146,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/08/15015193593721.jpg",
+      "width": 220,
+      "height": 146,
+      "caption": "15015193593721"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El día 1 de Agosto se ha publicado en el periódico El Mundo una <a href=\"http://www.elmundo.es/tecnologia/2017/08/01/597f5de6468aeb14378b4649.html\" target=\"_blank\" rel=\"noopener\">entrevista</a> a&nbsp;Martín Molina González,&nbsp;Catedrático de Universidad y profesor del Máster U. en Inteligencia Artificial por la UPM, titulada «¿Inteligencia artificial? Primero hay que conocer bien nuestra propia mente».&nbsp;</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2017/08/15015193593721.jpg",
+    "width": 220,
+    "height": 146,
+    "alt": "15015193593721"
+  },
+  "wordCount": 66,
+  "excerpt": "<p>El día 1 de Agosto se ha publicado en el periódico El Mundo una entrevista a&nbsp;Martín Molina González,&nbsp;Catedrático de Universidad</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/08/15015193593721.jpg",
+    "width": 220,
+    "height": 146,
+    "alt": "15015193593721"
+  }
+}

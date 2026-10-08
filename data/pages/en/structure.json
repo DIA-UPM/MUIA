@@ -1,0 +1,1998 @@
+{
+  "slug": "structure",
+  "lang": "en",
+  "path": "/en/structure/",
+  "title": "Structure",
+  "wpId": 584,
+  "date": "2017-05-19T11:21:38+00:00",
+  "modified": "2025-02-10T15:46:26+00:00",
+  "translations": {
+    "en": "/en/structure/",
+    "es": "/es/estructura/"
+  },
+  "seo": {
+    "title": "Structure - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2024/05/Profesor-en-seminario.jpg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2024/05/Profesor-en-seminario.jpg"
+    },
+    "twitter": {
+      "twitter:label1": "Est. reading time",
+      "twitter:data1": "31 minutes"
+    },
+    "extraSchema": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\": \"Is it possible to take the modules in the second semester?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"No. The modules shall only be taught in the first semester, while the seminars shall only be taught in the second semester.\"}},{\"@type\":\"Question\",\"name\": \"Are all MUIA modules and seminars optional?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"All modules in the MUIA degree are optional. Seminars &quot;Research Methodology&quot;, &quot;Project Management and Risk Control&quot; and &quot;Legal and Ethical Aspects of AI&quot;, while all other seminars are optional. However, the student must register for some of the seminars if he/she has not selected any of the modules in a given subject of the MUIA degree.\"}},{\"@type\":\"Question\",\"name\": \"How does one register for the seminars?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The registration for the seminars is done as a single module registration worth 10 ECTS. Specifying which seminars will be attended is not required at the time of registration. Seminars must be also enrolled in the regular (annual) enrollment period.\"}},{\"@type\":\"Question\",\"name\": \"How many seminars should one attend in order to pass the seminars module?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Seminars have a total of 10 ECTS assigned to them. Taking into account that each seminar is worth 1.66 ECTS, the student must attend six seminars in order to successfully complete the associated module.\"}},{\"@type\":\"Question\",\"name\": \"How is the supervisor for the Master’s Final Project (MFP) appointed?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The allocation process of the Master's Final Project is as follows:\nStudents may contact the master's professors and agree on the topic of their MFP.Through an application form proposed by the DIA, students can input their preferences on the proposed MFP performed annually by the teachers of the master (mid-December to mid-January). They identify, if desired, in order to a maximum of 5 proposals that attract them.In the case that a student does not have ideas regarding their MFP, or if not assigned any of the selected (several students can select the same proposal), the student must make a proposal, classifying it in one of the courses offered in the master and must indicate up to three professors that can exert as directors.\"}},{\"@type\":\"Question\",\"name\": \"In which research groups and their lines of research should one base the MFP on?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The professors in the MUIA degree belong to ten solid research groups of the Universidad Politécnica de Madrid (UPM).\"}},{\"@type\":\"Question\",\"name\": \"Is it possible to have more than one supervisor for the MFP?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Co-supervision of a MFP (by two professors) is allowed, but only after a request, sufficiently justified, is made to CAMIA. It is mandatory that at least one of the professors belongs to the teaching staff of the MUIA degree, and that both are Doctors.\"}},{\"@type\":\"Question\",\"name\": \"What does the defence of the Master’s Final Project involve and when may one carry out?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The defence of the MFP will consist of an oral presentation about the work by the student, lasting a mininmum and maximum period of 20 and 40 minutes, respectively, followed by a period of questions from the members of the panel lasting a maximum of 20 minutes. Even though the student may register for the MFP without having completed the UMAI modules and seminars, in order to carry out the defence of the MFP before the appropriate panel it is necessary that the student has obtained the 45 ECTS corresponding to the modules and seminars.\"}},{\"@type\":\"Question\",\"name\": \"What happens if the MFP cannot be completed during the first academic year?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"In this case, the student must re-enrol for the TFM in the following year, at a reduced price.\"}}]}"
+    ]
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-gwapcxe",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-9sv6f4k",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "row",
+              "id": "eb-row-yjokuln",
+              "align": "full",
+              "anchor": "hero_section",
+              "children": [
+                {
+                  "type": "column",
+                  "id": "eb-column-y6aoqv5",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-phz4e97",
+                      "animation": "fadeIn",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h1",
+                          "html": "Flexible and tailored to you"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-whm5l2i",
+                      "animation": "fadeIn",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h1",
+                          "html": "Structure and Contents"
+                        },
+                        {
+                          "part": "subtitle",
+                          "tag": "p",
+                          "html": "The European Master of MSc in Artificial Intelligence is an in-person programme of 60 ECTS, of which 35 correspond to elective courses, each worth 5 ECTS, 10 correspond to seminars, and 15 are associated with the Master’s Thesis. To obtain the degree, the student must complete:<br>– <strong>seven </strong>courses;<br>– <strong>six</strong> seminars; and<br>– the <strong>Master’s Thesis (TFM)</strong>."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "id": "eb-column-7bsi7yn",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-7m6qvjp",
+      "align": "full",
+      "anchor": "modules_and_seminars",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-zjpfom0",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-ck15svb",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-jtzjtfs",
+                  "anchor": "competencias",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Subjects and seminars"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "All the subjects for the degree and most of the offered seminars are optional, and they are structured into several topics. The student will have to choose <strong><span style=\"text-decoration: underline;\">seven subjects</span></strong>. The choice of subjects is free, but the student will have to select subjects from <strong><span style=\"text-decoration: underline;\">at least two topics</span></strong> among M2, M3, M4, M5, and M6. This means that the selection A4, A5, A6, A7, A18, A19 and A20 is not allowed because, apart from M7, only subjects from M3 have been chosen.<br><br>Regarding the seminars, some of them are compulsory, while others are optional (with conditions)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-5706uoa",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "advanced-tabs",
+          "id": "eb-advanced-tabs-cg12jgf",
+          "align": "full",
+          "className": "algomindai_tabmark",
+          "animation": "fadeInUp",
+          "layout": "vertical",
+          "minHeight": "true",
+          "titleTag": "h6",
+          "activeIndex": 0,
+          "tabs": [
+            {
+              "tabId": "1",
+              "title": "M1. <strong>Fundamentals </strong><br><strong>of Research</strong>",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-mdseo16",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-qiylnro",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>S1: Research methodology</strong>&nbsp;??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This seminar guides students about the most common methods, techniques and systems used for the practice of scientific research, what will be relevant for the development of their MSc theses, as well as for some of the courses covered in this Master. The topics that will be covered in this seminar are the following:</p>\n<ul class=\"wp-block-list\">\n<li>The career of a researcher, where the different paths and stages of the career of a researcher in academia or industry will be reviewed and discussed.</li>\n<li>The Scientific Method and how it can be applied in the context of Artificial Intelligence.</li>\n<li>The role of scientific publications in research, including where and when to publish results, and how to publish them.</li>\n<li>Methods and Techniques for generating a literature review.</li>\n<li>Intellectual property, including industrial property, copyright and software licenses.</li>\n<li>Open Science: principles, good practices and trends.</li>\n</ul>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-82iyetg",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10AJ_103000372_2S_2024-25.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-n36udq6",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S2: Project management and risk control</strong> ??&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This seminar will cover fundamental aspects of project management and risk control. It will be possible for the student to understand the principles of project management, risk and change management, as well as to acquire the ability to apply methodologies and processes for project management and risk mitigation.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-3lrql88",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10AJ_103000372_2S_2024-25.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-pd1s5ye",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S3: Ethical and Legal aspects of&nbsp;Artificial Intelligence</strong> ??&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This seminar provides students an introduction to the legal framework regulating data and AI in Europe. The students will also learn how to evaluate in practice the ethical aspects of an AI project.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-ujs6k17",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-xc68q49",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>S4: Artificial Intelligence and Inclusion</strong> ??&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This seminar will provide the student with general knowledge about Bias and Fairness in AI methods and techniques with respect to the disability dimension, since most of the research done so far on these aspects has focused on race and gender; Explicability, in general and with respect to the disability dimension (an essential aspect to minimize bias and ensure fairness refers to the creation of explanations associated with AI developments); and Cases of use and applications of AI methods and techniques to solve social inclusion problems.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-90wk80k",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "2",
+              "title": "M2. Decision <br>Analysis",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-v4dvkuv",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-sblm55f",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A1: Decision support systems</strong>&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The DSS are interactive computer systems, the aim of which is to help decision makers in the use of data and models to solve unstructured problems.<br><br>The DSS emerged in 1970s to solve complex situations in which individuals have to choose between several possible alternatives and follow the optimal or a satisfactory one. For this decision making, the experience, common sense or intuitions of experts are not enough since often multiple conflicting criteria usually exist including, uncertainty, several decision makers and various stages. The endless versatility of real-world human decision problems has triggered necessary efforts in multiple areas in order to build a sequence of coherent schemes (patterns), increasingly broader to approach decision making problems correctly. This module will focus on exposing the foundations and applications of the main lines of current development of Decision Processes, studying different tools and software that have emerged in recent years for the modelling and evaluation of decision making problems in uncertain environments.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-8jqajiv",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10AJ_103000372_2S_2024-25.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-4q157e0",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A2: Participatory decision making and negotiation</strong>&nbsp;",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>In this module, “satisficing” logic is presented as the rational framework for negotiation analysis and collective decision making. This framework will appear as the ideal one to strengthen the link between both of these disciplines of decision analysis. <br><br>The way to implement satisficing logic, both to a preference aggregation problem and to a negotiation analysis problem, will be through the use of Goal Programming.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-qevhs5j",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10AJ_103000372_2S_2024-25.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-4p2uuew",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A3: Simulation methods</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Simulation consists on building computer models that describe the essential behavior of a system of interest and designing and conducting experiments with such models in order to draw conclusions from their results in order to support decision-making. Typically, it is used in the analysis of such complex systems, so it is not possible to make an analytical analysis, or on the basis of a numerical analysis. Nowadays, simulation is a fundamental experimental methodology in fields as diverse as economics, statistics, computer science, chemical engineering, ecology and physics, with huge industrial and commercial applications, ranging from manufacturing systems to flight simulators, through computer games, stock prediction and weather forecasting.<br><br>In the subject we will show multiple applications in Artificial Intelligence, especially in the discipline of Decision Analysis.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-hbd3yqw",
+                          "href": "/wp%20content/uploads/sites/6/2017/05/GA_10AJ_103000345_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-coyi71c",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>S5: Decision analysis</strong>&nbsp;</strong>??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The seminar provides students with a general knowledge on the topic of Decision Analysis, being itself an introduction to the different modules that are part of the subject: Decision Support Systems, Participatory Decision-Making and Negotiation and Simulation Methods.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-90hsccb",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "3",
+              "title": "M3. Machine <br>Learning",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-uf5c789",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-yhtomm4",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A4: Bayesian networks&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This module presents Bayesian Networks as graphic tools which are well consolidated and of wide use nowadays to model uncertainty and reason with in intelligent systems. Uncertainty is modelled with probabilities and reasoning is based on Bayes’ rule.<br><br>It begins by explaining the meaning of the networks to model reasoning with uncertainty, both casual and non-casual, and both from a structural (qualitative) point of view and parametric (quantitative). The next step is to pose questions to the network, in other words, to infer knowledge from observations or data that is being collected. Thus, we can ask, for instance, for the diagnosis of a disease or the most likely explanation for the observed evidence. The algorithms can obtain the exact or an approximate answer, in the latter case probably using Monte Carlo simulation. The network is built by analysing the problem with an expert, but can also be induced from a database. This is a current issue: how to obtain a structure and parameters for the network and for that machine learning methods will be discussed. Finally, by knowing how to build the network and how to use it to perform queries, it will be possible to see its application on decision making and other applications of great interest within Artificial Intelligence: computer vision, automatic classification, filtering of email, etc.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-8us4iee",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000359_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-pefd5tq",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>A5: Machine learning</strong>&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Machine Learning deals with building computer systems that optimise performance criteria using previous data or experience. A situation where learning is required is when there is no human experience or it is not easily explained. Another is when the problem to be solved changes over time or depends on a particular environment. Machine Learning transforms data into knowledge and provides general purpose systems that adapt to circumstances. Among the many successful applications that can be cited are: speech recognition or handwritten text, autonomous robot navigation, document information retrieval, cooperative filtering, diagnostic systems, DNA microarrays analysis, etc. &nbsp;&nbsp;&nbsp;&nbsp;<br><br>This module presents several methods based on different fields such as Statistics, Pattern Recognition, Artificial Intelligence and Data Mining. The aim is to know these methods from a unified perspective, noting which problems can be solved, as well as the limitations and circumstances of using each one of them.<br><br>(Available documentation is in English but classes will be taugth in Spanish and the evaluation process will be performed in Spanish)</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-u6pzpqu",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000360_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-a6kvp3z",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>A6: Artificial neural networks and Deep learning&nbsp;</strong>&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This course presents a theoretical and practical view of artificial neural networks. The course presents first the foundations of artificial neural networks and different types of architectures (both shallow and deep networks). Then, the course presents learning techniques to train neural networks, with special attention to deep learning methods. The course also presents neural models (e.g., convolutional neural networks) for problem classes and application domains (e.g., artificial vision, robotics, etc.). To complement the practical view, the student will use specialized software tools to train neural networks in practical problems.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-pkfvsxk",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000815_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-4igi5db",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>A7: Explainable artificial intelligence</strong>&nbsp;</strong><br><strong>(NEW in 2023-24)</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Despite the high performance of Artificial Intelligence (AI) algorithms, many of them are incomprehensible to people. Explainable Artificial Intelligence (XAI) aims to develop artificial intelligent systems that are inherently explainable, as well as techniques that allow the explanation of machine learning models considered to be ‘black boxes’. The concept of ‘black box’ is used to refer to the fact that the reason for a final decision given a learned model cannot be explained. Explainable Artificial Intelligence generates elements that explain the decision of a learned model, providing knowledge that improves its intelligibility and ensures its validity. Among the applications of interest are clinical analysis, bioinformatics, autonomous navigation, or knowledge discovery support systems. In this subject, different models and methods are studied that allow interpreting and providing explainability to an artificial intelligent system. The objective is to know these methods from a global perspective, their uses and limitations, and some metrics that allow their validation.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-1vh3m9e",
+                          "href": "https://www.upm.es/comun_gauss/publico/guias/2023-24/1S/GA_10AJ_103000750_1S_2023-24.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u2v2ajg",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>S6: Machine learning&nbsp;</strong></strong>??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The seminar provides students with general knowledge about the topic of Machine Learning, being itself an introduction to the various modules and seminars that are part of the subject: Bayesian Networks, Machine Learning and Neural Networks.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-qwb4794",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "4",
+              "title": "M4. Natural <br>Computing",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-7xos3cn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-g5qpuha",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A8: Metaheuristic-based intelligent search&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>In recent times, a growing interest in developing methods to solve complex optimisation problems has been observed. Following the success of metaheuristics such as evolutionary algorithms, simulated annealing, tabu search and others in the uniobjective optimisation area, many researchers have proposed the extension of metaheuristics to the multiobjective field.<br><br>The aim of this module is to present the basic lines and some of the recent developments in this field of metaheuristics algorithms for the case of both one and several objectives. We will show that for a given problem there exist alternative methodologies and that the nature of these methods encourages the analyst to modify or adapt any of the approaches that could be chosen, showing that aspects such as particular characteristics of the problem, past experiences and personal preferences are an aid to the final choice.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-u4ofqpc",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000361_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-7rumvnt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A9: Evolutionary computation</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This module introduces, first, the different models of symbolic and sub-symbolic intelligent systems, respectively: knowledge-based systems and artificial neural networks. Their characteristics, their constituent elements, advantages and disadvantages of each model and its application domain, are indicated for each of them. Special emphasis is placed on existing synergies with evolutionary computation to resolve the major difficulties that may be encountered in building such systems: knowledge extraction, selection of the best neural architecture and the process of training the system.<br><br>Subsequently, we will study evolutionary computation, mainly genetic algorithms and genetic programming, which provide mechanisms for automatic construction of intelligent self-adaptive systems or robust systems, both symbolic and sub-symbolic.<br><br>Finally, we will analyse the current trends in evolutionary computation and the mostrecent research results. The student will be provided with a promising line of research to follow in order to obtain the PhD degree.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-bwv3gx2",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000362_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-qgxa5ns",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A10: Programmable biology: DNA computing and biocircuits</strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Modern technological advances are allowing us to handle with increasing precision matter at the molecular and even atomic levels. These technological advances can realise these two new models of computation. In the twentieth century, an attempt was made to model and simulate the computational processes occurring in nature. In the twenty first century, efforts will be directed to use nature itself to perform computations: biomolecular computers to analyse and interact with living organisms and quantum computers in order to simulate quantum physical systems. These studies will also allow us to decipher the laws of information processing in nature; a unique theory of information that includes physics, computer science and biology.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-pz9mh7p",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000363_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-kc709mf",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S7: Natural computing&nbsp;</strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The seminar provides students with general knowledge about the topic of Natural Computing, being itself an introduction to the different modules which are part of the subject: Intelligent Search based on Metaheuristics, Evolutionary Computation and Unconventional Computing (biomolecular computing and biocircuit engineering).</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-tbayxo3",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "5",
+              "title": "M5. Knowledge <br>Representation <br>and Reasoning",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-pxtg44f",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-fpp4llo",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A11: Logic programming&nbsp;</strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This module presents the use of logic as a practical tool for programming advanced applications. The module begins by introducing representation techniques and solving problems by using pure logic programming. Then, the Prolog programming language will be studied in depth as well as efficient programming techniques in this language, with particular emphasis on applications in Artificial Intelligence. The treatment of negation by failure and meta-logic programming will also be studied.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-tt1m72m",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000364_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-j59ifti",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A12:&nbsp;Multi-agent systems</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Multiagent systems are systems consisting of several autonomous entities calledagents that interact among themselves in order to solve problems that exceed the individual capabilities of each or solving them in a more efficient way. This interaction is the main object of research in multiagent systems, and it has contributed to different disciplines such as Social Science, Game Theory and Artificial Intelligence. In this module, besides studying these contributions, we will introduce the students to the practice of research in any area related to multi-agent systems, and the preparation of papers describing the results of its research activity.<br><br>(Available documentation is in English but classes will be taugth in Spanish and the evaluation process will be performed in Spanish)</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-hasrbgr",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000366_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-0ugzj9c",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A13: Ontological engineering</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The aim of this course is to discuss on the scientific, methodological and technological foundations that need to be considered when building ontologies. In particular, sessions in this course will cover: the concepts of ontologies and ontology-based annotations in the context of the Semantic Web and the Web of Linked Data; the theoretical foundations in ontology development; some of the most widely-known ontologies; the RDF(S) and OWL languages; methodologies, methods and techniques used in ontology development, including requirements specification, planning, conceptualisation, reuse, reengineering, etc.; methods and techniques for ontology-based annotation and for the generation of Linked Data; and relevant applications. Throughout the entire course open research problems will be presented and discussed collaboratively for each subtopic.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-h3ze3wa",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000367_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ulm8agj",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>A14: Models of reasoning&nbsp;</strong></strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The course “Models of Reasoning” presents computational models of reasoning proposed in artificial intelligence, which have applicability to the design and construction of intelligent systems. Initially, the course presents basic concepts and foundations of knowledge representation and reasoning. This part explains the symbolic approach of artificial intelligence and illustrates this approach with the main methods (e.g., logic, rules, frames, etc.) and software tools. Next, the course describes models of reasoning for building intelligent autonomous systems that need to make safe and efficient decisions in complex dynamic environments. In this part, we discuss approaches related to reactive, deliberative and reflective reasoning. Finally, the course describes models for common sense reasoning. This type of reasoning is presented as one of the important challenges of artificial intelligence, showing difficulties and partial achievements. For example, this part of the course describes logical-based methods for common sense reasoning (e.g., event calculus) and an introduction to physical reasoning.<br><br>The course gives mainly a theoretical description of a number of methods, illustrated in some cases with tools and applications related to practical domains (e.g., autonomous aerial robots). As a general learning objective, students are expected to develop a comprehensive understanding of reasoning methods that may complement other more specific areas in artificial intelligence that make use of symbolic approaches (e.g., autonomous robots, multi-agent systems, automated planning, ontology engineering, etc.). In the course, students will develop research skills in artificial intelligence through the realization of a project that explores a topic of their interest, related to models of reasoning. In this project, students will analyze bibliographic sources, will write a report and will present the results in class.<br><br>(Available documentation is in English but classes will be taugth in Spanish and the evaluation process will be performed in Spanish</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-r2aji1s",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000368_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-dv5jffq",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong><strong>S8: Knowledge representation and reasoning</strong></strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The seminar provides students with general knowledge on the topic of Knowledge Representation and Reasoning Models, being itself an introduction to the several modules and seminars that are part of the subject: Intelligent Agents and Multi- agent Systems, Ontology Engineering, Commonsense Reasoning and Fuzzy Logic.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-poy7lj3",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-sj56fxx",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S9:&nbsp;Fuzzy logic</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>This seminar aims to provide the theoretical and practical foundations of Fuzzy Logic, which permits to represent imprecise knowledge. Students will acquire knowledge of the design of fuzzy control systems and their inference process in current applications and real-world scenarios. This seminar is intended for students without previous experience in fuzzy logic.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-lg0kqjl",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-pibv1dv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S10: Cognitive computing&nbsp;</strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The aim of this seminar is to provide an introduction to Cognitive Science and Cognitive Systems, paying attention to architectures, key components, and revising the main systems and platforms that can be found in the literature.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-1tcp021",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "6",
+              "title": "M6. Cognitive <br>Robotics and Perception",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-1fn804n",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-gb3dzmb",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A15: Computer vision</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Computer vision techniques aim to extract properties of the world from a set of images. Identifying and locating surrounding objects, recognising a person, or the automatic insertion of a graphic character in a film are some examples of current applications of computer vision. <br><br>The aim of the course is to introduce students to the challenges of computer vision and to study the most common techniques for automatic image analysis from the perspective of deep learning. The most widely used models and architectures will be studied in detail, as well as some of their applications. The course aims to balance theoretical knowledge of the latest advances with the practical use of the most established techniques.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-v5q3syz",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000369_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-v0xsqvr",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A16: Autonomous robots&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The main aim of robotics is to build intelligent machines that are able to perceive and even model the state of the dynamic environment in which they operate and act with reference to that information. This is how we define the basic control loop that raises a number of challenges to disciplines such as Electronics, Mechanics, Applied Mathematics and, especially, Computer Science, in particular, Artificial Intelligence. In the module, we will study and apply several methods of control, coordination and communication of autonomous mobile robots that use specific tools as a base together with techniques of Artificial Intelligence. These can be summarised as methods based on artificial neural networks, evolutionarytechniques and genetic algorithms, fuzzy logic, reinforcement learning, and paradigms of coordination models that use multi-agent systems. As a final aim, we study and provide solutions for mobile robots with wheels, articulated, modular, aerial, and also for multi-robot systems consisting of teams of robots with the previously listed characteristics.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-raxogwb",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000370_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-1r1l10x",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S11: Cognitive robotics and perception</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The purpose of this seminar is to provide students with a brief introduction to some of the topics covered in the following courses: Computer Vision and Autonomous Robots.&nbsp; The seminar will include:</p>\n<ul class=\"wp-block-list\">\n<li>Robotics\n<ul class=\"wp-block-list\">\n<li>Introduction and Reactive navigation</li>\n<li>Control of robotic systems</li>\n<li>Planning</li>\n</ul>\n</li>\n<li>Computer Vision\n<ul class=\"wp-block-list\">\n<li>Introduction</li>\n<li>Deep models for computer vision</li>\n</ul>\n</li>\n</ul>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-otp6hce",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-aiqc4bo",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S12: Principals of robotics locomotion&nbsp;</strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Very few living organisms do not have the capacity of locomotion, being able to move is fundamental to survival in the real world. Likewise, locomotion is one of the basic capacities expected of an intelligent robotic system. In this seminar we will discuss issues related to robot locomotion with a focus on navigation and mapping. Participants in the seminar will build a simple robot controller and will test that controller in a real robot.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-tdwan4v",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "7",
+              "title": "M7. Application <br>Areas",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-hiy01c0",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-arrow-right",
+                  "expandedIcon": "fas fa-arrow-down",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-8v0byxa",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "<strong>A17: Biomedical informatics</strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Biomedical informatics tries to analyse problems in medical practice from the viewpoint of information management (medical and biological) and find the best solutions by using computers. Therefore, the emphasis is on the handling of data, information and knowledge, and not on the techniques and methods used. Many of the current problems of biomedicine have their root cause in the defects of analysing and managing information, which might have better solutions with proper systems from medical informatics.<br><br>Technologies are not the ultimate goal of biomedical informatics; however, it is indeed important to use methods that would not only allow building the best applications, but also sharing and reusing skills and knowledge by encouraging collaboration between research groups. These joint efforts are stimulated by the growth of the Internet and new techniques of Artificial Intelligence, database, programming and Software Engineering, which facilitate communication between applications and groups. The use of new technology-based systems (e.g. the Semantic Web or Grid) is contributing to a breakthrough in biomedical informatics</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-eg4rx7n",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000371_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wm0owss",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A18: Language engineering&nbsp;</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Language Engineering (LE) is the set of techniques, resources and tools to solve problems by using more or less an automated language. This course aims to introduce students to the overall framework, which is currently the LE. The second part of the subject will explain the two main principles of most language treatment systems, such as the content representation models and the creation and maintenance of lexical resources, both pillars of any system and any use. In the third part of the course the student will be introduced three of the major commercial applications of LE, such as information retrieval (associated with the search for data or items of information in a text) and text mining, where besides extracting data type information, we will extract relationships between them. The existing application on the market, and the more immediate trends (for example the analysis of forums for opinions) will also be discussed and explained.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-sabltnk",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000346_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ejv9ll5",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A19: Web science</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Web Science studies the phenomena related to the analysis and design of socio- technical systems. Sociology plays an important role in the design of the web of the future. This course introduces the principles of web science. The design systems used in web science are presented, including information retrieval mechanisms, recommender systems and sentiment analysis systems. Then, the terms Social Computing and Citizen Science are defined, paying special attention to artificial societies and trust and reputation mechanisms. Finally, social decision-making mechanisms based on preference aggregation are revised.<br><br>(Available documentation is in English but classes will be taugth in Spanish and the evaluation process will be performed in Spanish)</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-qdbzs7v",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000720_1S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-czjtlbt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>A20: Deep Learning for Natural Language Processing</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Deep Learning is a subfield of machine learning based on the use of artificial neural networks that, through a hierarchy of layers with non-linear processing units, learn high-level abstractions for data. In recent years, these representations have enabled outstanding performance in various fields of artificial intelligence (AI) such as: computer vision; reinforcement learning; and, as addressed in this course, natural language processing or NLP.<br><br>NLP is a crucial field of AI that studies the interactions between computers and human language. The goal is making computers “process” or “understand” natural language (as opposed to programming languages), allowing them to perform useful tasks. Examples of these tasks include sentiment analysis, automatic translation, automatic text summarization, or the search for answers to questions posed by humans in natural language. This course will explore the main Deep Learning technologies for NLP and how they can be used to solve these problems.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-ynwjbv7",
+                          "href": "/wp-content/uploads/sites/6/2017/04/GA_10AJ_103000743_1S_2022-23.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-vu4mlws",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S13: Applications of Artificial Intelligence</strong> ??",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The seminar is a compendium of Artificial Intelligence applications naturally taking full advantage of the research potential of professors at DIA and the experience of its members in numerous R&amp;D projects undertaken in recent years. In order to do this, descriptions of all DIA modules (and particularly those who have an applied component and less than basic research) are considered and included in this seminar. In this seminar not only are the topics important to teach, but teaching the very development of Artificial Intelligence applications and projects in the area, exceeding the idea of mere exposition of a theoretical lectures without the applied aspect which is essential in Artificial Intelligence and particularly for industrial use.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-6xy29de",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-mehn88p",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S14: Natural language processing</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>The purpose of this seminar derives from the need to fill a gap in the teaching of subjects that are, generally speaking, on Language Engineering. On the one hand, when we talk about Engineering, then we talk about design, methodologies, techniques, systems, and components; on the other hand, when we talk about language then we talk about grammars, corpora, dictionaries, etc. Usually, the teaching of these subjects often has a tendency, perhaps excessive, to one side or another. This seminar aims to provide a unified view of both sides, from the fundamentals to applications. The area of Linguistic Engineering is considered to be one of the areas where most research and development efforts will lie in the next few years, if we are to achieve the goal of having machines that really make our lives easier in a simple way. The seminar is focused, in the first part, on the state of the art technologies, followed by a second part where we will explore in depth technologies that allow supporting applications on the market. For practical reasons, the practice work will be focused in word processing technologies.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-owxx5up",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ttitw8a",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S15: Automated planning</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Automated planning is a branch of Artificial intelligence aimed at obtaining plans (i.e. sequences of actions) for solving complex problems or for governing the behavior of intelligent agents, autonomous robots or unmanned vehicles. Planning techniques have been successfully applied in different domains, including industrial contexts, logistics, computer games, robotics or space exploration. In this seminar we will review the existing approaches for solving classical planning problems, such as state-space search, plan-space search, graph-based techniques or turning classical planning problems into propositional satisfiability problems. The course will then focus on the study of knowledge-based planning methods, such as control rule-based pruning or hierarchical task network-based planning techniques. These approaches exploit the domain knowledge provided by human experts to improve the performance of the planning algorithms. Finally, we will briefly introduce advanced planning algorithms, which are able to generate planning policies that take into account time constraints and/or partial observability conditions, which are common in real world applications.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-6snqg5x",
+                          "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-gekgf",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>S16: Generative AI and Prompt Engineering: Applications and Challenges</strong>",
+                      "children": [
+                        {
+                          "type": "html",
+                          "html": "<p>Generative Artificial Intelligence (GenAI) includes systems capable of creating and generating content, such as text, images, or other media, in response to instructions or prompts. When these systems can process and integrate data from different modalities along with textual prompts (such as images, audio, and video), we refer to this as multimodal GenAI. These technologies have experienced exponential growth in popularity due to their ease of use and ability to address a wide variety of tasks, from generating creative and artistic content to solving complex problems in fields like engineering and medicine.<br>This seminar will explore the field of multimodal GenAI, focusing on its practical application through methods such as prompt engineering, few-shot prompting, chain-of-thought prompting, and retrieval-augmented generation (RAG). A challenge-based learning methodology will be followed. Some challenges that can be addressed with GenAI include: generating videos from textual descriptions, answering questions about content in images, or automatic voice-to-text translation. Collaborative work, active experimentation, and the exchange of ideas among participants will be encouraged.</p>"
+                        },
+                        {
+                          "type": "button",
+                          "id": "eb-button-uyomi",
+                          "href": "#",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "text": "View learning guide"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tabId": "8",
+              "title": "M8. Master´s final project",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "advanced-tabs",
+      "id": "eb-advanced-tabs-xa4alcc",
+      "align": "full",
+      "className": "algomindai_tabmark",
+      "animation": "fadeInUp",
+      "layout": "horizontal",
+      "minHeight": "true",
+      "titleTag": "h6",
+      "activeIndex": 0,
+      "tabs": [
+        {
+          "tabId": "1",
+          "title": "M1. <strong>Fundamentals </strong><br><strong>of Research</strong>",
+          "children": [
+            {
+              "type": "accordion",
+              "id": "eb-accordion-ng6yioz",
+              "mode": "accordion",
+              "tabIcon": "fas fa-arrow-right",
+              "expandedIcon": "fas fa-arrow-down",
+              "transitionDuration": "500",
+              "legacy": false,
+              "items": [
+                {
+                  "id": "eb-accordion-item-v6tmade",
+                  "clickable": "true",
+                  "titleTag": "h3",
+                  "title": "<strong>S1: Research methodology</strong>&nbsp;??",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>This seminar tries to inform and guide the students about techniques, most common standards and systems for the practice of scientific research and its methodological bases and documentaries. <br><br>The topics are as follows: General Approach (scientific knowledge and its purpose, problems of scientific research, research works); Scientific Work (choice of subject, setting objectives, formulating hypotheses, choice of work method, choice of tools and resources. Phases of work); Information Search (sources, publications, bibliographical searches, access to scientific documentation, internet, etc.); Work Writing (rules, principles, tips, style, language, etc.) and Presentation and Defence of Work (legal aspects, formal aspects, personal aspects, visual aids to support the presentation).</p>"
+                    },
+                    {
+                      "type": "button",
+                      "id": "eb-button-fdyagja",
+                      "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                      "target": "_blank",
+                      "rel": "noopener",
+                      "text": "View learning guide"
+                    }
+                  ]
+                },
+                {
+                  "id": "eb-accordion-item-l14s61k",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "<strong>S2: Project management and risk control</strong> ??&nbsp;",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>This seminar will cover fundamental aspects of project management and risk control. It Will be possible for the student to understand the principles of project management, risk and change management, as well as to acquire the ability to apply methodologies and processes for project management and risk mitigation.</p>"
+                    },
+                    {
+                      "type": "button",
+                      "id": "eb-button-fztygli",
+                      "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                      "target": "_blank",
+                      "rel": "noopener",
+                      "text": "View learning guide"
+                    }
+                  ]
+                },
+                {
+                  "id": "eb-accordion-item-5oybh69",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "<strong>S3: Legal and ethical aspects of&nbsp;Artificial Intelligence</strong> ??&nbsp;",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>MUIA graduates will have to address in their careers a number of professional challenges not strictly related to their technical skills, but to knowledge domains such as Law or Ethics. Everyday duties of a computer scientist include dealing with data protection or intellectual property, and knowing the basics in these domains is a must. Also, every well educated person should be able to assess the impact of a project or an endeavor from an ethical point of view. However, professionals dealing with specific problems on artificial intelligence or data science will have to face these situations more often and more important.</p>"
+                    },
+                    {
+                      "type": "button",
+                      "id": "eb-button-sc9kl56",
+                      "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                      "target": "_blank",
+                      "rel": "noopener",
+                      "text": "View learning guide"
+                    }
+                  ]
+                },
+                {
+                  "id": "eb-accordion-item-ycxxx88",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "<strong><strong>S4: Artificial Intelligence and Inclusion</strong> ??&nbsp;</strong>",
+                  "children": [
+                    {
+                      "type": "html",
+                      "html": "<p>This seminar will provide the student with general knowledge about Bias and Fairness in AI methods and techniques with respect to the disability dimension, since most of the research done so far on these aspects has focused on race and gender; Explicability, in general and with respect to the disability dimension (an essential aspect to minimize bias and ensure fairness refers to the creation of explanations associated with AI developments); and Cases of use and applications of AI methods and techniques to solve social inclusion problems.</p>"
+                    },
+                    {
+                      "type": "button",
+                      "id": "eb-button-vsda5qy",
+                      "href": "/wp-content/uploads/sites/6/2017/05/GA_10AJ_103000372_2S_2021-22.pdf",
+                      "target": "_blank",
+                      "rel": "noopener",
+                      "text": "View learning guide"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tabId": "2",
+          "title": "M2. Decision <br>Analysis",
+          "children": [
+            {
+              "type": "accordion",
+              "id": "eb-accordion-qwefpxx",
+              "mode": "accordion",
+              "tabIcon": "fas fa-arrow-right",
+              "expandedIcon": "fas fa-arrow-down",
+              "transitionDuration": "500",
+              "legacy": false,
+              "items": [
+                {
+                  "id": "eb-accordion-item-u2m4c",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 1",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-qdepj",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 2",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-73r03",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tabId": "3",
+          "title": "M3. Machine <br>Learning",
+          "children": [
+            {
+              "type": "accordion",
+              "id": "eb-accordion-h46o5mo",
+              "mode": "accordion",
+              "tabIcon": "fas fa-arrow-right",
+              "expandedIcon": "fas fa-arrow-down",
+              "transitionDuration": "500",
+              "legacy": false,
+              "items": [
+                {
+                  "id": "eb-accordion-item-rdlvj",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 1",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-fx45f",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 2",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-5mrui",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tabId": "4",
+          "title": "M4. Natural <br>Computing",
+          "children": [
+            {
+              "type": "accordion",
+              "id": "eb-accordion-10ncghl",
+              "mode": "accordion",
+              "tabIcon": "fas fa-arrow-right",
+              "expandedIcon": "fas fa-arrow-down",
+              "transitionDuration": "500",
+              "legacy": false,
+              "items": [
+                {
+                  "id": "eb-accordion-item-18c6v",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 1",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-jlxs8",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 2",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-2a2wh",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tabId": "5",
+          "title": "M5. Knowledge <br>Representation <br>and Reasoning",
+          "children": [
+            {
+              "type": "accordion",
+              "id": "eb-accordion-qk3exmh",
+              "mode": "accordion",
+              "tabIcon": "fas fa-arrow-right",
+              "expandedIcon": "fas fa-arrow-down",
+              "transitionDuration": "500",
+              "legacy": false,
+              "items": [
+                {
+                  "id": "eb-accordion-item-3ko8d",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 1",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-drhdj",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 2",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-b8mbh",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tabId": "6",
+          "title": "M6. Cognitive <br>Robotics and Perception",
+          "children": [
+            {
+              "type": "accordion",
+              "id": "eb-accordion-bzkksji",
+              "mode": "accordion",
+              "tabIcon": "fas fa-arrow-right",
+              "expandedIcon": "fas fa-arrow-down",
+              "transitionDuration": "500",
+              "legacy": false,
+              "items": [
+                {
+                  "id": "eb-accordion-item-4hmmw",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 1",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-nl1wv",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 2",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-pab1y",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tabId": "7",
+          "title": "M7. Application <br>Areas",
+          "children": [
+            {
+              "type": "accordion",
+              "id": "eb-accordion-j1dyxy7",
+              "mode": "accordion",
+              "tabIcon": "fas fa-arrow-right",
+              "expandedIcon": "fas fa-arrow-down",
+              "transitionDuration": "500",
+              "legacy": false,
+              "items": [
+                {
+                  "id": "eb-accordion-item-4z61i",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 1",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-vdkds",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 2",
+                  "children": []
+                },
+                {
+                  "id": "eb-accordion-item-sp74o",
+                  "clickable": "false",
+                  "titleTag": "h3",
+                  "title": "Accordion title 3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tabId": "8",
+          "title": "M8. Seminars <br>by visiting professors",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-gvblj",
+      "align": "full",
+      "anchor": "teaching_plan",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-kjnzh",
+          "align": "full",
+          "anchor": "services_section",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-4ieoz",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-znfws",
+                  "anchor": "objetivos",
+                  "animation": "fadeInLeft",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Master’s Programme Teaching Plan"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-text-color\" style=\"color:#5c6680;font-size:16px\">Due to the wide range of elective options available in the master’s programme design, the offered degree accommodates <strong>two types of students:</strong></p>\n<ul style=\"color:#5c6680;line-height:1.5\" class=\"wp-block-list has-text-color\">\n<li style=\"margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:16px\">The student interested in <strong>specialising</strong> in one or more specific disciplines of AI, who will tend to take all courses and seminars related to their areas of interest.<br></li>\n<li style=\"margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);font-size:16px\">The student seeking a more <strong>comprehensive overview</strong>, aiming to acquire extensive knowledge of the entire AI field, who will tend to take courses across almost all subjects.</li>\n</ul>\n<p class=\"has-text-color\" style=\"color:#5c6680;font-size:16px\">All courses are taught in the first semester, either in Spanish or English, leaving the second semester for seminars and the master’s thesis. Students can freely choose 7 courses from the available offerings.<br>&nbsp;<br>Regarding the seminars, there is also a high degree of flexibility. However, to cover all the competencies of the degree, students are required to attend seminars in subjects where they have not selected any courses, with the seminar name matching the subject name.<br><br>Most seminars can be taken online if the inability to attend in person is adequately justified. The exceptions are <em>S1: Research Methodology </em>(first-semester edition), <em>S9: Fuzzy Logic</em>, and <em>S12: Principles of Robotic Locomotion</em>, which are only offered in person.</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-jjczx",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-42i6p",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">Types of Seminars</mark>"
+                    }
+                  ]
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-ryinn",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(1)</mark> MANDATORY Seminars (S1, S2, S3)",
+                  "description": "These are the only mandatory seminars in the master’s programme, which all students must attend."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-qm42x",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(2)</mark> Optional Seminars whose name matches that of the subject to which they belong (S5, S6, S7, S8, S11)",
+                  "description": "These aim to cover certain disciplines of Artificial Intelligence that are not studied in the respective subjects. They become mandatory if no course is chosen from the subject: for example, S5 is usually optional but becomes mandatory if no course is chosen from A1, A2, and A3."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-mqcya",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(3) </mark>Optional Seminars (S4, S9, S10, S12, S13, S14, S15)",
+                  "description": "These seminars aim to delve into specific topics not covered in any of the optional courses."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-dt1l7",
+                  "animation": "zoomIn",
+                  "titleTag": "h2",
+                  "title": "<mark style=\"color:#d1893d\" class=\"has-inline-color\">(4) </mark>Visiting Professors’ Seminars",
+                  "description": "In these seminars, students acquire advanced or specialised knowledge about a subject studied in the master’s programme."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-a8ow8",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-76blf",
+                  "figureClass": "img-style-square caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2024/05/Profesor-en-seminario.jpg",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-v0fa15q",
+      "align": "full",
+      "anchor": "masters_final_project",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-20r6fsm",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "Master’s final project"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "The <strong><span style=\"color:orange\">assignment process</span></strong> for the Master’s Final Project is as follows:"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-a93woha",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-0f2y7hf",
+              "animation": "fadeInLeft",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-hrqbsj4",
+                  "titleTag": "h2",
+                  "title": "Agree on the topic",
+                  "description": "Students can contact their teachers to define the topic of their dissertation. Early communication with faculty is crucial to select a topic of mutual interest. This collaboration ensures the relevance of the topic and allows students to receive guidance and develop research skills with expert guidance."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-aldpu25",
+              "animation": "zoomIn",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-cihq3jf",
+                  "titleTag": "h2",
+                  "title": "Selection of proposals",
+                  "description": "Alternatively, during the month of December, students will receive a file with various proposals for dissertations by MUIA professors and will send to the degree coordinator their preferences about the possible proposals for Master’s Thesis, identifying in order up to a maximum of 5 proposals that most appeal to them."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-q4aqg4r",
+              "animation": "fadeInRight",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-57cjrnz",
+                  "titleTag": "h2",
+                  "title": "Make proposal",
+                  "description": "In the event that they are not attracted by any offer, or have not been assigned any of the selected ones (several students can select the same proposal), the student must make one and send it to the coordinator, placing it in one of the MUIA subjects and indicating up to three teachers from the same subject who can act as directors."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-s2gxdca",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "<span style=\"color:black\">The</span> <strong><span style=\"color:orange\">defence</span></strong>"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Once the dissertation has been completed, it will be defended before a panel made up of 3 lecturers from the degree course appointed by the academic committee of the master’s degree. The members of the panel and the student will agree on the date and time of the defence, and will notify the coordinator of the master’s degree at least 7 calendar days before the defence. <br><br>The student must provide:"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-2t8ldgd",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-l1ayzi4",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-kz482gd",
+                  "className": "last-home-card",
+                  "animation": "fadeInRight",
+                  "icon": "fas fa-file-pdf",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Master’s Final Project Report",
+                  "description": "The student must submit the dissertation report in electronic digital format (PDF) within seven calendar days prior to the defence."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-4a352zh",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-pggx678",
+                  "className": "last-home-card",
+                  "animation": "fadeInUp",
+                  "icon": "fas fa-upload",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "UPM Digital Archive",
+                  "description": "If you are interested in publishing your work in the UPM digital archive: complete the two instances of authorisation  (<a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/CONFIDENCIAL_ESP_2021.pdf\">instance 1/2</a>, <a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/AUTORIZACION_TFM_ESP_2022-01.pdf\">instance 2/2</a>)&nbsp;f the TFM in the UPM digital archive."
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-4ex3aml",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-zvjoyg7",
+                  "className": "last-home-card",
+                  "animation": "fadeInDown",
+                  "icon": "fas fa-lock",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Confidentiality request",
+                  "description": "If you are <strong>NOT </strong>interested in having your work published in the UPM digital archive: you must submit a request for confidentiality (<a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/CONFIDENCIAL_ESP_2021.pdf\">instance</a>) of your TFM."
+                },
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-fhp29",
+                  "className": "last-home-card",
+                  "animation": "fadeInDown",
+                  "icon": "fas fa-lock",
+                  "iconTag": "i",
+                  "iconWrapperClass": "number-or-icon",
+                  "titleTag": "h4",
+                  "title": "Confiden-tiality request",
+                  "description": "If you are <strong>NOT </strong>interested in having your work published in the UPM digital archive: you must submit a request for confidentiality (<a href=\"https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/9559724/course/section/30095/CONFIDENCIAL_ESP_2021.pdf\">instance</a>) of your TFM."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-k3ix7qn",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "The language of both the dissertation report and its defence before the examining board may be Spanish or English."
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-mhxo7ox",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "The defence can be done in person or online, and will consist of an oral presentation by the student for a minimum of 20 minutes and a maximum of 40 minutes, followed by a question and answer session with the members of the examining board for a maximum of 20 minutes. The examining board may propose the dissertation for an honourable mention if it deems it appropriate and the work meets the criteria of excellence approved by the Academic Committee of the master’s degree."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-0l9usi8",
+      "align": "full",
+      "anchor": "procedure_to_apply_for_the_diploma",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-fpforz4",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-perybl5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-sutaztc",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Degree certificate application"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Once the studies are completed, including the defence of the dissertation, you can apply for the degree certificate"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-svtu9b9",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": ""
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "You can apply using the following form (instructions are included). The procedure is carried out with the Student Services Office (<a href=\"mailto:secretaria@fi.upm.es\">secretaria@fi.upm.es</a>)."
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "id": "eb-button-06x0otp",
+                  "href": "https://dia.fi.upm.es/masteria/sites/default/files/master/Titulo/solicitudTitulo_ES.docx",
+                  "rel": "noopener",
+                  "text": "Download form with instructions"
+                },
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-white-color has-text-color has-small-font-size\">*Do not fill out ‘Speciality’, ‘Doctor’, and ‘Mention”</p>"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-jgeulpy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-re9srhu",
+      "align": "full",
+      "anchor": "muia_structure_faqs",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-chj48xh",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-w3qq0z5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-g7t8tyc",
+                  "animation": "slideInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h3",
+                      "html": "MUIA Structure <br>FAQs"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "You can access more general or specific FAQs by clicking on the following links:"
+                    }
+                  ]
+                },
+                {
+                  "type": "feature-list",
+                  "id": "eb-feature-list-ue3xn3a",
+                  "wrapperClass": "eb-icon-position-left eb-tablet-icon-position-left eb-mobile-icon-position-left eb-feature-list-left",
+                  "listClass": "circle stacked",
+                  "titleTag": "h3",
+                  "items": [
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/en//#general_faq",
+                      "title": "About the Master’s programme in general.",
+                      "content": "You will find answers to the most common questions prospective students often have about the programme itself, giving you a complete and accurate overview of what to expect when you join the MUIA."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/en//en/access_admission_registration/#faq_admission",
+                      "title": "About admission access",
+                      "content": "You will find answers about the number of places and enrolment periods, the qualification you need and the admission criteria, as well as the procedures to follow."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "https://muia.fi.dia.upm.es/en/student_support/#faqs-students-outside-madrid",
+                      "title": "For students from outside Madrid",
+                      "content": "If you are a student coming from outside the city of Madrid, you will find information on where to find accommodation and on the documentation for your visa."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-l1impt9",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-q6hw06h",
+                  "animation": "zoomIn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-angle-down",
+                  "expandedIcon": "fas fa-angle-up",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-vzxka8v",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "Is it possible to take the modules in the second semester?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-2e4rekc",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "No. The modules shall only be taught in the first semester, while the seminars shall only be taught in the second semester."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u6eljqt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Are all MUIA modules and seminars optional?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-xwdod12",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "All modules in the MUIA degree are optional. Seminars “Research Methodology”, “Project Management and Risk Control” and “Legal and Ethical Aspects of AI”, while all other seminars are optional. However, the student must register for some of the seminars if he/she has not selected any of the modules in a given subject of the MUIA degree."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-2cynjuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "How does one register for the seminars?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-diyjtab",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The registration for the seminars is done as a single module registration worth 10 ECTS. Specifying which seminars will be attended is not required at the time of registration. Seminars must be also enrolled in the regular (annual) enrollment period."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-s8tg4ws",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "How many seminars should one attend in order to pass the seminars module?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-7oslr5m",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Seminars have a total of 10 ECTS assigned to them. Taking into account that each seminar is worth 1.66 ECTS, the student must attend six seminars in order to successfully complete the associated module."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-fmjpygc",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "How is the supervisor for the Master’s Final Project (MFP) appointed?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-y3ckrh2",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The allocation process of the Master’s Final Project is as follows:"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "html",
+                          "html": "<ul style=\"color:#1f2b3dbd\" class=\"wp-block-list has-text-color\">\n<li style=\"font-size:16px\">Students may contact the master’s professors and agree on the topic of their MFP.</li>\n<li style=\"font-size:16px\">Through an application form proposed by the DIA, students can input their preferences on the proposed MFP performed annually by the teachers of the master (mid-December to mid-January). They identify, if desired, in order to a maximum of 5 proposals that attract them.</li>\n<li style=\"font-size:16px\">In the case that a student does not have ideas regarding their MFP, or if not assigned any of the selected (several students can select the same proposal), the student must make a proposal, classifying it in one of the courses offered in the master and must indicate up to three professors that can exert as directors.<br></li>\n</ul>"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wy4cyhj",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "In which research groups and their lines of research should one base the MFP on?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-jjxwwef",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The professors in the MUIA degree belong to ten <a href=\"https://dia.fi.upm.es/#grupos_de_investigacion\">solid research</a> groups of the Universidad Politécnica de Madrid (UPM)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-crxx32g",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Is it possible to have more than one supervisor for the MFP?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-wzc7nyk",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Co-supervision of a MFP (by two professors) is allowed, but only after a request, sufficiently justified, is made to CAMIA. It is mandatory that at least one of the professors belongs to the teaching staff of the MUIA degree, and that both are Doctors."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ny88yrk",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>What does the defence of the Master’s Final Project involve and when may one carry out?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-3xt6d8i",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The defence of the MFP will consist of an oral presentation about the work by the student, lasting a mininmum and maximum period of 20 and 40 minutes, respectively, followed by a period of questions from the members of the panel lasting a maximum of 20 minutes. <br><br>Even though the student may register for the MFP without having completed the UMAI modules and seminars, in order to carry out the defence of the MFP before the appropriate panel it is necessary that the student has obtained the 45 ECTS corresponding to the modules and seminars."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-hgm9kuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "What happens if the MFP cannot be completed during the first academic year?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-j2tvora",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "In this case, the student must re-enrol for the TFM in the following year, at a reduced price."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stylesheet": "blocks/pages/en-structure.css"
+}

@@ -1,0 +1,932 @@
+{
+  "slug": "home",
+  "lang": "en",
+  "path": "/en/",
+  "title": "Portada",
+  "wpId": 1664,
+  "date": "2023-09-12T11:40:05+00:00",
+  "modified": "2024-09-26T11:34:41+00:00",
+  "translations": {
+    "en": "/en/",
+    "es": "/es/"
+  },
+  "seo": {
+    "title": "Presentation - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2023/09/Robot-en-carrera-transparente.png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/09/Robot-en-carrera-transparente.png"
+    },
+    "extraSchema": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\": \"What is the length of the MUIA\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"We have a LLM-based, RAG-based chat. It's still in beta, so that feel free to use it and help us with your feedback. Moreover, if you want to help developing it, we definitely have work for you.\"}},{\"@type\":\"Question\",\"name\": \"What is the length of MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"MUIA is taught in two semesters, that is, one academic year. The first semester is devoted to semester-long courses (students must attend seven of them), while the second semester is devoted to seminars (students must attend, at least, six of them) and the Master’s Final Project.\"}},{\"@type\":\"Question\",\"name\": \"Is MUIA a face-to-face master?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Yes, it is. However, during the second semester, it may be possible to attend most seminars by videoconference, for duly justified reasons.\"}},{\"@type\":\"Question\",\"name\": \"In which language is the MUIA taught?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The languages used to teach the MUIA are Spanish and English. The modules and seminars offered in English are indicated here. The subjects offered in English will be taught in English if there is a student enrolled in them who does not speak Spanish; otherwise, if all the students are Spanish speakers, they can be taught in Spanish. It is important to know that it is not possible to take the whole MUIA without a good knowledge of Spanish.\"}},{\"@type\":\"Question\",\"name\": \"How much does it cost to complete the full MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Refer to this page.\"}},{\"@type\":\"Question\",\"name\": \"What kind of studentships are there to support studying MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The Department of Artificial Intelligence of the UPM announces the annual José Cuena Awards, aimed at incoming students at the MUIA. Upon application, students of any nationality, enrolled full time, who have passed the 7 subjects of the first semester and have obtained the highest grades (average of the 7 grades) are eligible for this award.In addition, the research groups to which the master's degree lecturers belong occasionally offer grants associated with research projects in which they are involved, which allow students to carry out their final master's degree project and/or subsequent doctoral thesis with funding. For more information on grants and financial aid, please consult this page.\"}},{\"@type\":\"Question\",\"name\": \"Are there any job prospects for MUIA graduates, or is the degree solely geared towards continuing to PhD studies after its completion?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Despite the fact that the MUIA constitutes the training period for the PhD in Artificial Intelligence, this is not the only purpose of the degree, and an alternative consists of finding a job in R&amp;D companies and institutions, a career path that numerous DIA postgraduate students have already followed.\"}},{\"@type\":\"Question\",\"name\": \"Can MUIA be considered as the training period for the PhD in Artificial Intelligence?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Yes, the MUIA is associated with the PhD in Artificial Intelligence at the UPM, which involves the adaptation to the European Higher Education Area of the doctoral programme that had been taught until the 2009-10 academic year.\"}},{\"@type\":\"Question\",\"name\": \"What kind of research activity does the AI department (DIA) carry out?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"Consult the official website of the Department of Artificial Intelligence (DIA) about its research activity.\"}},{\"@type\":\"Question\",\"name\": \"What are the rules for staying at MUIA?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"In those situations in which the student has completed the 3 academic years and wishes to continue their master's studies, they must submit an application to the Academic Committee of the Master's Degree in Artificial Intelligence, which will analyse the student's situation and submit their application to the Academic Planning Committee of the ETS in Computer Engineering. It also includes the requirement that the student must pass at least 15 ECTS in the first year, and at least 45 ECTS in the first two years of enrollment. In any case, the rules of permanence of the Master will be in accordance with the regulations established by the Universidad Politécnica de Madrid for the regime of permanence in the University Master's degrees.\"}},{\"@type\":\"Question\",\"name\": \"Is MUIA adapted to the European Higher Education Area (EHEA)?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The MUIA is, effectively, the adaptation of the MSc in Artificial Intelligence, which had been taught since the academic year 2006-2007, to the European Higher Education Area (EHEA). The MUIA was positively verified for the first time by ANECA on 13 January 2010 and has been taught continuously since then.\"}}]}"
+    ]
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-cu974",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-xxgsp",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-obwid",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-xra3q",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Boost your career with confidence"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-432bt",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "European <br>MSc in Artificial Intelligence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-mpd3a",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-kveiz",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2023/09/Robot-en-carrera-transparente.png",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-k16mx",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-3mitm",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2023/08/Logo-politecnica-blanco.png",
+                  "alt": ""
+                },
+                {
+                  "type": "advanced-video",
+                  "id": "eb-advanced-video-5zsnc",
+                  "lightbox": "none",
+                  "url": "https://youtu.be/CKycvwF1hXc?si=PKVp6xFkgS-P7MNN",
+                  "controls": false,
+                  "loop": false,
+                  "muted": true,
+                  "autoplay": true,
+                  "poster": "/wp-content/uploads/sites/6/2023/08/Portada-video.jpg",
+                  "playIcon": "fas fa-play-circle",
+                  "playIconImage": "/assets/vendor/essential-blocks/assets/images/adv-video-playicon.svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-gfwkk",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-ts9ew",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-seew3",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-l3ukj",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2017/05/euroinfMII1024x326.jpg",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-auwa0",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-4iqk0cn",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "The Euro-Inf Quality Label is an outcomes based framework that provides a quality reference for Bachelor and Master degrees in Informatics according to academic and professional criteria."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-564h4",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-6md5l",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2018/02/Centro-IDi-e1695493447170.png",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-e2o3q",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-vqqac",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Students will have the opportunity to experience research activity with DIA research groups and the UPM AI R+D+I centre, AI.nnovation Space."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-l5qvm",
+              "children": [
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-8fxrm",
+                  "figureClass": "img-style-rounded caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2023/08/Ranking-El-Mundo-e1695492847930.jpeg",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-h14sj",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-eu4np",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Recognised in the ranking of the best masters in specialised computer science in Spain, published by the newspaper El Mundo, among the three best for fourteen editions."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-y97ia",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-5g7n0",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-ib72w",
+              "children": [
+                {
+                  "type": "number-counter",
+                  "id": "eb-counter-bsk9l",
+                  "title": "Academic year",
+                  "target": "1",
+                  "start": "0",
+                  "duration": "1000",
+                  "separator": ",",
+                  "showSeparator": "true"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-4tavw",
+              "children": [
+                {
+                  "type": "number-counter",
+                  "id": "eb-counter-9wivn",
+                  "title": "ECTS credits",
+                  "target": "60",
+                  "start": "0",
+                  "duration": "1000",
+                  "separator": ",",
+                  "showSeparator": "true"
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-smqjo",
+              "children": [
+                {
+                  "type": "number-counter",
+                  "id": "eb-counter-we1bq",
+                  "title": "Places",
+                  "target": "60",
+                  "start": "0",
+                  "duration": "1000",
+                  "separator": ",",
+                  "showSeparator": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-heduf",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-6u86p",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-36ruk",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "A research focused master’s"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-topy9",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-lhumw",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "The European MSc in Artificial Intelligence (MUIA) is organised and taught by the Department of Artificial Intelligence (DIA), and is part of the postgraduate offer of the School of Computer Engineering of the Universidad Politécnica de Madrid (UPM). With a research orientation, it began to be taught in the 2010/11 academic year, and provides quality training in various fields of current research in artificial intelligence."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-4e60l",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-ax9gk",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-c2qot",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/Sergio-Cavero-Dias-e1704658424499.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h6",
+                  "title": "“The teachers were really relevant in the area of artificial intelligence”"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-s52fj",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "separator",
+                      "style": "line"
+                    },
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Sergio Cavero "
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "José Cuena Award. Best Master’s Thesis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-sqf4j",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-al0f4",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2024/01/Maria-Navas-Lobo.jpeg",
+                    "alt": ""
+                  },
+                  "titleTag": "h6",
+                  "title": "“I looked at various AI master’s and this one was the most general.”"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-yr9ul",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "separator",
+                      "style": "line"
+                    },
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "María Navas "
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Post-doctoral researcher"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-rigwv",
+              "children": [
+                {
+                  "type": "infobox",
+                  "id": "eb-infobox-xsagd",
+                  "image": {
+                    "src": "/wp-content/uploads/sites/6/2023/09/Maria-Navas-Lobo.jpg",
+                    "alt": ""
+                  },
+                  "titleTag": "h6",
+                  "title": "“I have many classmates who are at very cutting-edge companies”"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-tkmyl",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "separator",
+                      "style": "line"
+                    },
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Elvira Amador"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Post-doctoral researcher"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-hs566",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-gsgsp",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-e33y9",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Access to PhD programme"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-van7q",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-rjh61",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "The European MSc in Artificial Intelligence (MUIA) constitutes the training period associated with the PhD Program in Artificial Intelligence at Universidad Politécnica de Madrid (UPM), so students who complete it have the opportunity to directly access said programme"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-re9srhu",
+      "align": "full",
+      "anchor": "general_faq",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-chj48xh",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-w3qq0z5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-g7t8tyc",
+                  "animation": "slideInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h3",
+                      "html": "General FAQ about MUIA"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "You can access more specific FAQs by clicking on the following links:"
+                    }
+                  ]
+                },
+                {
+                  "type": "feature-list",
+                  "id": "eb-feature-list-ue3xn3a",
+                  "wrapperClass": "eb-icon-position-left eb-tablet-icon-position-left eb-mobile-icon-position-left eb-feature-list-left",
+                  "listClass": "circle stacked",
+                  "titleTag": "h3",
+                  "items": [
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/en/access_admission_registration/#faq_admission",
+                      "title": "About access to admission",
+                      "content": "You will find answers about the number of places and enrolment periods, the qualification you need and the admission criteria, as well as the procedures to follow."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/en/structure/#muia_structure_faqs",
+                      "title": "About the structure of the Master",
+                      "content": "You will learn everything you need to know about the structure of the master’s program, its courses and seminars, the development of the Master’s Thesis (TFM), and how its defense is conducted."
+                    },
+                    {
+                      "icon": "fas fa-question",
+                      "iconColor": "var(--ast-global-color-5)",
+                      "iconBackground": "rgba(227,171,110,1)",
+                      "href": "/en/student_support/#faqs-students-outside-madrid",
+                      "title": "For students from outside Madrid",
+                      "content": "If you are a student arriving from areas outside of Madrid, you will find guidance on sourcing accommodation as well as on the necessary documentation for your visa."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-l1impt9",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-q6hw06h",
+                  "animation": "zoomIn",
+                  "mode": "accordion",
+                  "tabIcon": "fas fa-angle-down",
+                  "expandedIcon": "fas fa-angle-up",
+                  "transitionDuration": "500",
+                  "legacy": false,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-vzxka8v",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "What is the length of the MUIA",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-2e4rekc",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "We have a LLM-based, RAG-based <a href=\"https://damianozanardini-muia-faqs-main-san0ns.streamlit.app/\"><strong>chat</strong></a>. It’s still in beta, so that feel free to use it and help us with your feedback. Moreover, if you want to help developing it, we definitely have work for you."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u491b",
+                      "clickable": "true",
+                      "titleTag": "h3",
+                      "title": "What is the length of MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-cgi8u",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "MUIA is taught in two semesters, that is, <strong>one academic year</strong>. The first semester is devoted to semester-long courses (students must attend seven of them), while the second semester is devoted to seminars (students must attend, at least, six of them) and the Master’s Final Project."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u6eljqt",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Is MUIA a face-to-face master?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-xwdod12",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Yes, it is. However, during the <strong>second semester</strong>, it may be possible to attend most seminars by videoconference, <strong>for duly justified reasons.</strong>"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-2cynjuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "In which language is the MUIA taught?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-diyjtab",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The languages used to teach the MUIA are <strong>Spanish</strong> and <strong>English</strong>. The modules and seminars offered in English are indicated <strong><a href=\"/en/structure/#modules_and_seminars\">here</a>.</strong> <br><br>The subjects offered in English will be taught in English if there is a student enrolled in them who does not speak Spanish; otherwise, if all the students are Spanish speakers, they can be taught in Spanish. It is important to know that <strong>it is not possible</strong> to take the whole MUIA without a good knowledge of Spanish."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-s8tg4ws",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "<strong>How much does it cost to complete the full </strong>MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-7oslr5m",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Refer to this <a href=\"https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Matricula\"><strong>page</strong></a>."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-fmjpygc",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "What kind of studentships are there to support studying MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-y3ckrh2",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The Department of Artificial Intelligence of the UPM announces the annual José Cuena Awards, <strong>aimed at incoming students at the MUIA.</strong> Upon application, students of any nationality, enrolled full time, who have passed the 7 subjects of the first semester and have obtained the highest grades (average of the 7 grades) are eligible for this award.In addition, the research groups to which the master’s degree lecturers belong occasionally offer grants associated with research projects in which they are involved, which allow students to carry out their final master’s degree project and/or subsequent doctoral thesis with funding. For more information on grants and financial aid, please consult this <a href=\"https://www.upm.es/Estudiantes/BecasAyudasPremios\"><strong>page</strong></a>."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-wy4cyhj",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Are there any job prospects for MUIA graduates, or is the degree solely geared towards continuing to PhD studies after its completion?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-jjxwwef",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Despite the fact that the MUIA constitutes the training period for the PhD in Artificial Intelligence, this is not the only purpose of the degree, and an alternative consists of finding a job in R&amp;D companies and institutions, a career path that numerous DIA postgraduate students have already followed."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-crxx32g",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Can MUIA be considered as the training period for the PhD in Artificial Intelligence?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-wzc7nyk",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Yes, the MUIA is associated with the <strong>PhD in Artificial Intelligence at the UPM,</strong> which involves the adaptation to the European Higher Education Area of the doctoral programme that had been taught until the 2009-10 academic year."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-ny88yrk",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "What kind of research activity does the AI department (DIA) carry out?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-3xt6d8i",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "Consult the <a href=\"\"><strong>official website</strong></a> of the Department of Artificial Intelligence (DIA) about its research activity."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-hgm9kuv",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "What are the rules for staying at MUIA?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-j2tvora",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "In those situations in which the student has completed the 3 academic years and wishes to continue their master’s studies, they must submit an application to the Academic Committee of the Master’s Degree in Artificial Intelligence, which will analyse the student’s situation and submit their application to the Academic Planning Committee of the ETS in Computer Engineering. It also includes the requirement that the student must pass at least 15 ECTS in the first year, and at least 45 ECTS in the first two years of enrollment. In any case, the rules of permanence of the Master will be in accordance with the regulations established by the Universidad Politécnica de Madrid for the regime of permanence in the University Master’s degrees."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-zue7frw",
+                      "clickable": "false",
+                      "titleTag": "h3",
+                      "title": "Is MUIA adapted to the European Higher Education Area (EHEA)?",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-mieusxc",
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The MUIA is, effectively, the adaptation of the MSc in Artificial Intelligence, which had been taught since the academic year 2006-2007, to the European Higher Education Area (EHEA). The MUIA was positively verified for the first time by ANECA on 13 January 2010 and has been taught continuously since then."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-s98kx",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "wrapper",
+          "id": "eb-wrapper-xc22e",
+          "contentAlign": "center",
+          "children": [
+            {
+              "type": "advanced-heading",
+              "id": "eb-advance-heading-5zgtk",
+              "anchor": "cta_section",
+              "animation": "zoomIn",
+              "preset": "button-1",
+              "parts": [
+                {
+                  "part": "title",
+                  "tag": "h1",
+                  "html": "Find out about the specific objectives and competencies of the Master’s programme."
+                },
+                {
+                  "part": "subtitle",
+                  "tag": "p",
+                  "html": "The primary aim of the Master’s Programme in Artificial Intelligence is twofold: first, to equip students with the skills to innovate within the field of AI by developing cutting-edge techniques and methods; and second, to apply these advancements to real-world social and business challenges, thereby creating novel computing solutions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "dual-button",
+          "id": "eb-button-group-vdnqo",
+          "preset": "button-1",
+          "buttons": [
+            {
+              "text": "OBJECTIVES",
+              "href": "/es/objetivos_competencias/#objetivos",
+              "rel": "noopener"
+            },
+            {
+              "text": "COMPETENCES",
+              "href": "/es/objetivos_competencias/#competencias",
+              "rel": "noopener"
+            }
+          ],
+          "connector": {
+            "icon": "fas fa-arrows-alt-h"
+          }
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-s2msowq",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-ruxmnwh",
+          "align": "full",
+          "anchor": "blog-post-section",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-3x49d3b",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-4iabuxm",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Top stories"
+                    }
+                  ]
+                },
+                {
+                  "type": "row",
+                  "id": "eb-row-hh3ewju",
+                  "align": "full",
+                  "children": [
+                    {
+                      "type": "column",
+                      "id": "eb-column-4i4cd10",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "row",
+                  "id": "eb-row-32znkj8",
+                  "align": "full",
+                  "animation": "zoomIn",
+                  "children": [
+                    {
+                      "type": "column",
+                      "id": "eb-column-h8eytgk",
+                      "children": [
+                        {
+                          "type": "post-grid",
+                          "id": "eb-post-grid-oc6mq1b",
+                          "rootFirst": true,
+                          "preset": "style-4",
+                          "source": "news",
+                          "categories": [
+                            "top-stories"
+                          ],
+                          "orderBy": "date",
+                          "order": "desc",
+                          "perPage": 9,
+                          "pagination": true,
+                          "showThumbnail": false,
+                          "showTaxonomyFilter": false,
+                          "showMeta": false,
+                          "titleTag": "h2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isHome": true,
+  "stylesheet": "blocks/pages/en-home.css"
+}

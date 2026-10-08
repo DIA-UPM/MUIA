@@ -1,0 +1,41 @@
+{
+  "name": "muia-static",
+  "version": "1.0.0",
+  "description": "Static recreation of https://muia.dia.fi.upm.es/ (Máster Universitario en Inteligencia Artificial, UPM). Content lives in data/*.json.",
+  "scripts": {
+    "build": "node scripts/build/build.mjs",
+    "dev": "node scripts/build/build.mjs && node scripts/serve.mjs --watch",
+    "serve": "node scripts/serve.mjs",
+    "validate": "node scripts/validation/validate.mjs",
+    "check-links": "node scripts/validation/check-links.mjs",
+    "test": "node scripts/build/build.mjs --quiet && node scripts/validation/check-links.mjs && playwright test",
+    "test:functional": "playwright test tests/functional",
+    "test:visual": "playwright test tests/visual",
+    "crawl": "node scripts/crawl/crawl.mjs && node scripts/crawl/render.mjs && node scripts/crawl/assets.mjs",
+    "crawl:refresh": "node scripts/crawl/crawl.mjs --refresh && node scripts/crawl/render.mjs --refresh && node scripts/crawl/assets.mjs --refresh",
+    "baseline": "node tests/tools/capture-baseline.mjs",
+    "migrate:extract": "node scripts/crawl/extract.mjs --force && node scripts/crawl/extract-site.mjs && node scripts/crawl/import-vendor.mjs",
+    "compare-dom": "node tests/tools/compare-dom.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "cheerio": "^1.2.0",
+    "nunjucks": "^3.2.4",
+    "p-limit": "^7.3.3",
+    "pixelmatch": "^8.0.0",
+    "playwright": "^1.63.0",
+    "pngjs": "^7.0.0",
+    "postcss": "^8.5.29",
+    "postcss-safe-parser": "^7.1.0"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}

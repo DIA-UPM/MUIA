@@ -1,0 +1,57 @@
+{
+  "slug": "simposio-sobre-inteligencia-artificial-en-madrid",
+  "lang": "es",
+  "path": "/es/simposio-sobre-inteligencia-artificial-en-madrid/",
+  "title": "Simposio sobre Inteligencia Artificial en Madrid",
+  "wpId": 185,
+  "date": "2019-09-19T10:46:52+00:00",
+  "modified": "2023-11-23T18:36:17+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Simposio sobre Inteligencia Artificial en Madrid - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Los próximos días 21 y 22 de octubre, la European Academy of Sciences celebra un simposio sobre Inteligencia Artificial en […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2019/09/Captura-de-pantalla-2019-09-19-a-las-12.40.55.png",
+      "width": 220,
+      "height": 123,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2019/09/Captura-de-pantalla-2019-09-19-a-las-12.40.55.png",
+      "width": 220,
+      "height": 123,
+      "caption": "Captura de pantalla 2019-09-19 a las 12"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">Los próximos días 21 y 22 de octubre, la European Academy of Sciences celebra un simposio sobre Inteligencia Artificial en Madrid.</p>\n<p class=\"rtejustify\">En dicho simposio, el día 21 de octubre, van a participar varios ponentes de gran trayectoria y reconocimiento internacional en el ámbito de la Inteligencia Artificial, que puede ser de gran interés para los alumnos del MUIA.</p>\n<p><span id=\"more-185\"></span></p>\n<p class=\"rtejustify\">Los próximos días 21 y 22 de octubre, la European Academy of Sciences celebra un simposio sobre Inteligencia Artificial en Madrid (en el paraninfo de la UPM) en cuyo patrocinio participa la UPM, la ETSIINF y el DIA, entre otros.</p>\n<p class=\"rtejustify\">En dicho simposio, el día 21 de octubre, van a participar varios ponentes de gran trayectoria y reconocimiento internacional en el ámbito de la Inteligencia Artificial, que puede ser de gran interés para los alumnos del MUIA.</p>\n<p class=\"rtejustify\">La inscripción al simposio para el día 21 será gratuita para los alumnos del MUIA interesados en asistir</p>\n<p class=\"rtejustify\">La agenda del simposio está disponible en:&nbsp;<a href=\"https://www.eurasc.org/programme-eurasc2019\" target=\"_blank\" rel=\"noopener\">https://www.eurasc.org/programme-eurasc2019</a></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2019/09/Captura-de-pantalla-2019-09-19-a-las-12.40.55.png",
+    "width": 220,
+    "height": 123,
+    "alt": "Captura de pantalla 2019-09-19 a las 12"
+  },
+  "wordCount": 175,
+  "excerpt": "<p>Los próximos días 21 y 22 de octubre, la European Academy of Sciences celebra un simposio sobre Inteligencia Artificial en</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2019/09/Captura-de-pantalla-2019-09-19-a-las-12.40.55.png",
+    "width": 220,
+    "height": 123,
+    "alt": "Captura de pantalla 2019-09-19 a las 12"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "perez-del-rey-david",
+  "lang": "es",
+  "path": "/es/personal/perez-del-rey-david/",
+  "name": "Pérez del Rey, David",
+  "wpId": 732,
+  "date": "2018-05-21T06:57:41+00:00",
+  "modified": "2024-01-13T15:16:15+00:00",
+  "tags": [
+    "profesores-titulares-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/perez-del-rey-david_en/",
+    "es": "/es/personal/perez-del-rey-david/"
+  },
+  "seo": {
+    "title": "Pérez del Rey, David - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2104Web: http://gib.fi.upm.es/dperezTeléfono: +34-91-067-2975ORCID: Email: dperezdelrey@fi.upm.esResearcherID: Grupo de investigación: Grupo de Informática BiomédicaScopus Author ID:",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2019/06/David_0.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2018/05/david-perez-del-rey.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2018/05/david-perez-del-rey.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2104"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "http://gib.fi.upm.es/dperez",
+      "href": "http://gib.fi.upm.es/dperez",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-067-2975"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "dperezdelrey@fi.upm.es",
+      "href": "mailto:dperezdelrey@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Informática Biomédica",
+      "href": "http://www.gib.fi.upm.es",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2018/05/david-perez-del-rey.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2018/05/david-perez-del-rey.png 490w, /wp-content/uploads/sites/6/2018/05/david-perez-del-rey-300x300.png 300w, /wp-content/uploads/sites/6/2018/05/david-perez-del-rey-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

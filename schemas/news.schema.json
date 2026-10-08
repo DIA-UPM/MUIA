@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "news.schema.json",
+  "title": "News post (data/news/<lang>/<slug>.json)",
+  "type": "object",
+  "required": ["slug", "lang", "path", "title", "wpId", "date", "categories", "tags", "seo", "blocks"],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9_-]+$" },
+    "lang": { "enum": ["es", "en"] },
+    "path": { "type": "string", "pattern": "^/(es|en)/[^/]+/$" },
+    "title": { "type": "string", "minLength": 1 },
+    "wpId": { "type": "integer" },
+    "date": { "type": "string", "format": "date-time" },
+    "modified": { "type": "string", "format": "date-time" },
+    "author": { "type": "string" },
+    "categories": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "translations": { "type": "object", "additionalProperties": { "type": "string", "pattern": "^/" } },
+    "featuredImage": { "$ref": "image.schema.json" },
+    "listImage": { "$ref": "image.schema.json" },
+    "excerpt": { "type": "string", "description": "Text shown in listings (HTML)" },
+    "parentPage": { "type": "string", "description": "Path of the page the post belongs to in the menu (WordPress post_parent)" },
+    "wordCount": { "type": "integer" },
+    "seo": { "$ref": "seo.schema.json" },
+    "bodyClass": { "type": "string" },
+    "stylesheet": { "type": "string" },
+    "blocks": { "$ref": "blocks.schema.json" }
+  },
+  "additionalProperties": false
+}

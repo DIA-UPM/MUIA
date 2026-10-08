@@ -1,0 +1,30 @@
+{#- Astra footer builder: three widget columns + copyright row. Content: data/footer/<lang>.json -#}
+<footer
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+<div class="site-primary-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-3-lheavy ast-builder-grid-row-tablet-3-equal ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-primary-footer-builder">
+<div class="ast-builder-grid-row-container-inner">
+<div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
+{% for col in footer.columns -%}
+<div class="site-footer-primary-section-{{ col.section }} site-footer-section site-footer-section-{{ col.section }}">
+<aside
+class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="{{ col.area }}" aria-label="{{ col.label }}">
+{% for w in col.widgets %}<section id="{{ w.id }}" class="{{ w.class }}">{% if w.type == "menu" %}{{ footerMenu(w) | safe }}{% else %}
+{{ w.html | safe }}
+{% endif %}</section>{% endfor %}		</aside>
+</div>
+{% endfor -%}
+</div>
+</div>
+</div>
+<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+<div class="ast-builder-grid-row-container-inner">
+<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+<div class="ast-footer-copyright">{{ footer.copyright | replace("{year}", year) | safe }}
+</div>			</div>
+</div>
+</div>
+</div>
+</div>
+</footer><!-- #colophon -->

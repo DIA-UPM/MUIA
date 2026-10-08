@@ -1,0 +1,61 @@
+{
+  "slug": "nuevo-libro-de-los-catedraticos-de-la-upm-concha-bielza-y-pedro-larranaga",
+  "lang": "es",
+  "path": "/es/nuevo-libro-de-los-catedraticos-de-la-upm-concha-bielza-y-pedro-larranaga/",
+  "title": "Nuevo libro de los catedráticos de la UPM, Concha Bielza y Pedro Larrañaga",
+  "wpId": 263,
+  "date": "2021-01-13T12:47:55+00:00",
+  "modified": "2023-11-23T18:22:50+00:00",
+  "author": "admin",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Nuevo libro de los catedráticos de la UPM, Concha Bielza y Pedro Larrañaga - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El libro, publicado por la editorial Cambridge University Press introduce al lector en diferentes técnicas relacionadas con el machine learning […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2021/01/libro_larranaga.jpeg",
+      "width": 220,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2021/01/libro_larranaga.jpeg",
+      "width": 220,
+      "height": 220,
+      "caption": "libro_larranaga"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "admin",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p><strong>El libro, publicado por la editorial Cambridge University Press introduce al lector en diferentes técnicas relacionadas con el machine learning y los modelos estadísticos aplicados a la neurociencia.</strong></p>\n<p>Los catedráticos de la ETSI Informática de la &nbsp;Universidad Politécnica de Madrid, Concha Bielza y Pedro Larrañaga han publicado un nuevo libro en el que recogen algunas de sus aportaciones más destacadas en materia de neurociencia computacional.</p>\n<p>El texto, que ha sido publicado por la prestigiosa editorial Cambridge University Press, resulta de especial interés para los jóvenes investigadores y graduados que quieran ampliar sus conocimientos en el campo del tratamiento de datos aplicado a la neurociencia. Cada una de las técnicas propuestas se acompaña de casos prácticos y casos reales que animan al lector a buscar sus propias soluciones al problema, aplicando los conocimientos que se le presentan.</p>\n<p>Centrado en la aplicación del machine learning y los modelos estadísticos al campo de la neurociencia, el texto abarca una gran cantidad de metodologías &nbsp;y ha recibido una muy buena acogida por parte de la comunidad científica.</p>\n<p>\n<a href=\"https://www.cambridge.org/core/books/datadriven-computational-neuroscience/1D528620B04385EFBDDCBDD3F5C1C485#fndtn-information\">Más información</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><a href=\"https://www.upm.es/e-politecnica/?p=11621\">Fuente</a></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2021/01/libro_larranaga.jpeg",
+    "width": 220,
+    "height": 220,
+    "alt": "libro_larranaga",
+    "srcset": "/wp-content/uploads/sites/6/2021/01/libro_larranaga.jpeg 220w, /wp-content/uploads/sites/6/2021/01/libro_larranaga-150x150.jpeg 150w",
+    "sizes": "(max-width: 220px) 100vw, 220px"
+  },
+  "wordCount": 213,
+  "excerpt": "<p>El libro, publicado por la editorial Cambridge University Press introduce al lector en diferentes técnicas relacionadas con el machine learning</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2021/01/libro_larranaga.jpeg",
+    "width": 220,
+    "height": 220,
+    "alt": "libro_larranaga",
+    "srcset": "/wp-content/uploads/sites/6/2021/01/libro_larranaga.jpeg 220w, /wp-content/uploads/sites/6/2021/01/libro_larranaga-150x150.jpeg 150w",
+    "sizes": "(max-width: 220px) 100vw, 220px"
+  }
+}

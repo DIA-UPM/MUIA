@@ -1,0 +1,231 @@
+{
+  "slug": "teachingstaff_tutorship",
+  "lang": "en",
+  "path": "/en/teachingstaff_tutorship/",
+  "title": "Teaching Staff and Tutorship",
+  "wpId": 325,
+  "date": "2017-04-19T10:41:35+00:00",
+  "modified": "2024-05-20T03:00:16+00:00",
+  "translations": {
+    "en": "/en/teachingstaff_tutorship/",
+    "es": "/es/profesorado_tutorias/"
+  },
+  "seo": {
+    "title": "Teaching Staff and Tutorship - Máster Universitario en Inteligencia Artificial",
+    "twitter": {
+      "twitter:label1": "Est. reading time",
+      "twitter:data1": "1 minute"
+    }
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-yb11s0f",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-8sv4xip",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-800wmb9",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-white-color has-text-color\" style=\"font-size:24px;font-style:normal;font-weight:400;line-height:1.5\">Experts in artificial intelligence</p>"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-48xwrld",
+                  "rootClass": false,
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Faculty"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "The teaching experience of the DIA faculty is extensive, as shown by the average of 3.71 recognised teaching experience periods, and their research quality is accredited by indicators such as an average number of research periods of 2.82, as well as an H-index of over 20 for 50% of the department’s lecturers, 4 of whom have an H-index of over 40 (data from April 2022)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-y9m1zyc",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "id": "eb-row-kci0q4e",
+      "rootClass": false,
+      "align": "full",
+      "children": [
+        {
+          "type": "column",
+          "outer": false,
+          "id": "eb-column-5p9eb2k",
+          "children": [
+            {
+              "type": "html",
+              "html": "<p class=\"has-text-color\" style=\"color:#030c25;font-size:18px;line-height:1.5\">It is worth noting the numerous awards and distinctions, both national and international, received by several professors from the department:</p>\n<ul style=\"color:#030c25;padding-top:0;padding-bottom:0\" class=\"has-text-color wp-block-list\">\n<li style=\"font-size:16px\"><strong>Real Academia Española (RAE) </strong>(Asunción Gómez, silla “q”)<br><br></li>\n<li style=\"font-size:16px\"><strong>Real Academia Nacional de Medicina de España</strong> (Víctor Maojo, Académico Correspondiente)<br><br></li>\n<li style=\"font-size:16px\">J<strong>akiunde, Academia de las Ciencias, las Letras y las Artes del País Vasco</strong> (Pedro Larrañaga)<br><br></li>\n<li style=\"font-size:16px\"><strong>ACM, Association for Computing Machinery</strong> (Manuel Hermenegildo, “Fellow”)<br><br></li>\n<li style=\"font-size:16px\"><strong>Presidente del Consejo Científico del INRIA</strong> (Manuel Hermenegildo)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio Nacional de informática </strong>(Asunción Gómez, Manuel Hermenegildo, Pedro Larrañaga)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio Ada Byron</strong> (Asunción Gómez)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio Nacional de Informática y Salud</strong> (Víctor Maojo)<br><br></li>\n<li style=\"font-size:16px\"><strong>Fellow of the Academia Europaea </strong>(Pedro Larrañaga)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio de la Real Academia de Ingeniería</strong> (Óscar Corcho)<br><br></li>\n<li style=\"font-size:16px\"><strong>Fellow of the European Academy of Sciences</strong> (Asunción Gómez)<br><br></li>\n<li style=\"font-size:16px\"><strong>Presidencia del Comité Científico del INRIA</strong> (Manuel Hermenegildo)</li>\n</ul>"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "outer": false,
+          "id": "eb-column-nbgtcxw",
+          "children": [
+            {
+              "type": "post-grid",
+              "id": "eb-post-grid-48ml8mn",
+              "rootFirst": true,
+              "preset": "style-1",
+              "source": "people",
+              "tags": [
+                "professors"
+              ],
+              "filterTerms": [
+                {
+                  "slug": "professors",
+                  "name": "Professors"
+                }
+              ],
+              "filterTaxonomy": "post_tag",
+              "orderBy": "title",
+              "order": "asc",
+              "perPage": 25,
+              "pagination": false,
+              "showThumbnail": true,
+              "showTaxonomyFilter": true,
+              "showMeta": false,
+              "titleTag": "h2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-n23058x",
+      "rootFirst": true,
+      "preset": "style-1",
+      "source": "people",
+      "tags": [
+        "associate-professors"
+      ],
+      "filterTerms": [
+        {
+          "slug": "associate-professors",
+          "name": "Associate Professors"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": false,
+      "titleTag": "h2"
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-sgjjj43",
+      "rootFirst": true,
+      "preset": "style-1",
+      "source": "people",
+      "tags": [
+        "assistant-professors",
+        "assistant-profesors"
+      ],
+      "filterTerms": [
+        {
+          "slug": "assistant-profesors",
+          "name": "Assistant professors"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": false,
+      "titleTag": "h2"
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-i8s1rbm",
+      "rootFirst": true,
+      "preset": "style-1",
+      "source": "people",
+      "tags": [
+        "lecturers"
+      ],
+      "filterTerms": [
+        {
+          "slug": "lecturers",
+          "name": "Lecturers"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": false,
+      "titleTag": "h2"
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-j27vdap",
+      "rootFirst": true,
+      "preset": "style-1",
+      "source": "people",
+      "tags": [
+        "beatriz-galindo-programme-researcher"
+      ],
+      "filterTerms": [
+        {
+          "slug": "researchers",
+          "name": "Researchers"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": true,
+      "headerMeta": [
+        "post_tag"
+      ],
+      "footerMeta": [],
+      "titleTag": "h2"
+    }
+  ],
+  "stylesheet": "blocks/pages/en-teachingstaff_tutorship.css"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "bomba-genetica-programable-capaz-de-matar-solo-bacterias-malas",
+  "lang": "es",
+  "path": "/es/bomba-genetica-programable-capaz-de-matar-solo-bacterias-malas/",
+  "title": "‘Bomba genética programable’ capaz de matar solo bacterias malas",
+  "wpId": 172,
+  "date": "2019-04-23T06:14:36+00:00",
+  "modified": "2023-11-23T18:38:19+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "'Bomba genética programable' capaz de matar solo bacterias malas - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Alfonso Rodríguez-Patón, profesor del Departamento de Inteligencia Artificial de la UPM participa con investigadores del Instituto Pasteur en el desarrollo […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2019/04/Foto-Alfonso-Rodriguez-Paton-v2.jpg",
+      "width": 220,
+      "height": 176,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2019/04/Foto-Alfonso-Rodriguez-Paton-v2.jpg",
+      "width": 220,
+      "height": 176,
+      "caption": "Foto Alfonso Rodríguez-Patón v2"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p>Alfonso Rodríguez-Patón, profesor del Departamento de Inteligencia Artificial de la UPM participa con investigadores del Instituto Pasteur en el desarrollo de un antibiótico programable que se ha publicado en la prestigiosa revista Nature Biotechnology.&nbsp;</p>\n<p><span id=\"more-172\"></span></p>\n<p>Alfonso Rodríguez-Patón, profesor del Departamento de Inteligencia Artificial de la UPM participa con investigadores del Instituto Pasteur en el desarrollo de un antibiótico programable que se ha publicado en la prestigiosa revista Nature Biotechnology. Información adicional y vídeo divulgativo en la nota de prensa de la UPM:&nbsp;&nbsp;LINK (link a la nota de prensa de la UPM:&nbsp;<a href=\"http://www.upm.es/UPM/SalaPrensa/Noticias_de_investigacion?id=d780fb62f5b0a610VgnVCM10000009c7648a____&amp;fmt=detail&amp;prefmt=articulo\" rel=\"noopener noreferrer\" target=\"-5F23PY1tJv_72jTwgyv9D4\">http://www.upm.es/UPM/SalaPrensa/Noticias_de_investigacion?id=d780fb62f5b0a610VgnVCM10000009c7648a____&amp;fmt=detail&amp;prefmt=articulo</a>&nbsp;</p>\n<blockquote>\n<p>&nbsp;</p>\n</blockquote>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2019/04/Foto-Alfonso-Rodriguez-Paton-v2.jpg",
+    "width": 220,
+    "height": 176,
+    "alt": "Foto Alfonso Rodríguez-Patón v2"
+  },
+  "wordCount": 139,
+  "excerpt": "<p>Alfonso Rodríguez-Patón, profesor del Departamento de Inteligencia Artificial de la UPM participa con investigadores del Instituto Pasteur en el desarrollo</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2019/04/Foto-Alfonso-Rodriguez-Paton-v2.jpg",
+    "width": 220,
+    "height": 176,
+    "alt": "Foto Alfonso Rodríguez-Patón v2"
+  }
+}

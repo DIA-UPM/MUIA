@@ -1,0 +1,517 @@
+{
+ "base": "https://muia.dia.fi.upm.es",
+ "source": "crawl cache of the live site (.cache/crawl)",
+ "capturedAt": "2026-10-07T11:31:46.002Z",
+ "shots": [
+  {
+   "page": "home-es",
+   "viewport": "1920",
+   "file": "home-es-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/"
+  },
+  {
+   "page": "home-en",
+   "viewport": "1920",
+   "file": "home-en-1920.png",
+   "url": "https://muia.dia.fi.upm.es/en/"
+  },
+  {
+   "page": "estructura",
+   "viewport": "1920",
+   "file": "estructura-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/estructura/"
+  },
+  {
+   "page": "admision",
+   "viewport": "1920",
+   "file": "admision-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/admision_y_matricula/"
+  },
+  {
+   "page": "horarios",
+   "viewport": "1920",
+   "file": "horarios-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/horarios/"
+  },
+  {
+   "page": "profesorado",
+   "viewport": "1920",
+   "file": "profesorado-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/profesorado_tutorias/"
+  },
+  {
+   "page": "objetivos",
+   "viewport": "1920",
+   "file": "objetivos-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/objetivos_competencias/"
+  },
+  {
+   "page": "calidad",
+   "viewport": "1920",
+   "file": "calidad-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/calidad/"
+  },
+  {
+   "page": "gestion",
+   "viewport": "1920",
+   "file": "gestion-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/gestion/"
+  },
+  {
+   "page": "post",
+   "viewport": "1920",
+   "file": "post-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/topdia/"
+  },
+  {
+   "page": "post-nothumb",
+   "viewport": "1920",
+   "file": "post-nothumb-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/alumno-del-master-ganador-del-ets-development-challenge/"
+  },
+  {
+   "page": "person",
+   "viewport": "1920",
+   "file": "person-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/corcho-garcia-oscar/"
+  },
+  {
+   "page": "person-en",
+   "viewport": "1920",
+   "file": "person-en-1920.png",
+   "url": "https://muia.dia.fi.upm.es/en/personal/corcho-garcia-oscar_en/"
+  },
+  {
+   "page": "person-archive",
+   "viewport": "1920",
+   "file": "person-archive-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/"
+  },
+  {
+   "page": "category",
+   "viewport": "1920",
+   "file": "category-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/category/noticias-es/"
+  },
+  {
+   "page": "tag-empty",
+   "viewport": "1920",
+   "file": "tag-empty-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/tag/catedraticos-de-universidad/"
+  },
+  {
+   "page": "author",
+   "viewport": "1920",
+   "file": "author-1920.png",
+   "url": "https://muia.dia.fi.upm.es/es/author/dia-fi-upm/"
+  },
+  {
+   "page": "home-es",
+   "viewport": "1440",
+   "file": "home-es-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/"
+  },
+  {
+   "page": "home-en",
+   "viewport": "1440",
+   "file": "home-en-1440.png",
+   "url": "https://muia.dia.fi.upm.es/en/"
+  },
+  {
+   "page": "estructura",
+   "viewport": "1440",
+   "file": "estructura-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/estructura/"
+  },
+  {
+   "page": "admision",
+   "viewport": "1440",
+   "file": "admision-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/admision_y_matricula/"
+  },
+  {
+   "page": "horarios",
+   "viewport": "1440",
+   "file": "horarios-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/horarios/"
+  },
+  {
+   "page": "profesorado",
+   "viewport": "1440",
+   "file": "profesorado-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/profesorado_tutorias/"
+  },
+  {
+   "page": "objetivos",
+   "viewport": "1440",
+   "file": "objetivos-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/objetivos_competencias/"
+  },
+  {
+   "page": "calidad",
+   "viewport": "1440",
+   "file": "calidad-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/calidad/"
+  },
+  {
+   "page": "gestion",
+   "viewport": "1440",
+   "file": "gestion-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/gestion/"
+  },
+  {
+   "page": "post",
+   "viewport": "1440",
+   "file": "post-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/topdia/"
+  },
+  {
+   "page": "post-nothumb",
+   "viewport": "1440",
+   "file": "post-nothumb-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/alumno-del-master-ganador-del-ets-development-challenge/"
+  },
+  {
+   "page": "person",
+   "viewport": "1440",
+   "file": "person-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/corcho-garcia-oscar/"
+  },
+  {
+   "page": "person-en",
+   "viewport": "1440",
+   "file": "person-en-1440.png",
+   "url": "https://muia.dia.fi.upm.es/en/personal/corcho-garcia-oscar_en/"
+  },
+  {
+   "page": "person-archive",
+   "viewport": "1440",
+   "file": "person-archive-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/"
+  },
+  {
+   "page": "category",
+   "viewport": "1440",
+   "file": "category-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/category/noticias-es/"
+  },
+  {
+   "page": "tag-empty",
+   "viewport": "1440",
+   "file": "tag-empty-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/tag/catedraticos-de-universidad/"
+  },
+  {
+   "page": "author",
+   "viewport": "1440",
+   "file": "author-1440.png",
+   "url": "https://muia.dia.fi.upm.es/es/author/dia-fi-upm/"
+  },
+  {
+   "page": "home-es",
+   "viewport": "1024",
+   "file": "home-es-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/"
+  },
+  {
+   "page": "home-en",
+   "viewport": "1024",
+   "file": "home-en-1024.png",
+   "url": "https://muia.dia.fi.upm.es/en/"
+  },
+  {
+   "page": "estructura",
+   "viewport": "1024",
+   "file": "estructura-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/estructura/"
+  },
+  {
+   "page": "admision",
+   "viewport": "1024",
+   "file": "admision-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/admision_y_matricula/"
+  },
+  {
+   "page": "horarios",
+   "viewport": "1024",
+   "file": "horarios-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/horarios/"
+  },
+  {
+   "page": "profesorado",
+   "viewport": "1024",
+   "file": "profesorado-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/profesorado_tutorias/"
+  },
+  {
+   "page": "objetivos",
+   "viewport": "1024",
+   "file": "objetivos-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/objetivos_competencias/"
+  },
+  {
+   "page": "calidad",
+   "viewport": "1024",
+   "file": "calidad-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/calidad/"
+  },
+  {
+   "page": "gestion",
+   "viewport": "1024",
+   "file": "gestion-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/gestion/"
+  },
+  {
+   "page": "post",
+   "viewport": "1024",
+   "file": "post-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/topdia/"
+  },
+  {
+   "page": "post-nothumb",
+   "viewport": "1024",
+   "file": "post-nothumb-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/alumno-del-master-ganador-del-ets-development-challenge/"
+  },
+  {
+   "page": "person",
+   "viewport": "1024",
+   "file": "person-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/corcho-garcia-oscar/"
+  },
+  {
+   "page": "person-en",
+   "viewport": "1024",
+   "file": "person-en-1024.png",
+   "url": "https://muia.dia.fi.upm.es/en/personal/corcho-garcia-oscar_en/"
+  },
+  {
+   "page": "person-archive",
+   "viewport": "1024",
+   "file": "person-archive-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/"
+  },
+  {
+   "page": "category",
+   "viewport": "1024",
+   "file": "category-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/category/noticias-es/"
+  },
+  {
+   "page": "tag-empty",
+   "viewport": "1024",
+   "file": "tag-empty-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/tag/catedraticos-de-universidad/"
+  },
+  {
+   "page": "author",
+   "viewport": "1024",
+   "file": "author-1024.png",
+   "url": "https://muia.dia.fi.upm.es/es/author/dia-fi-upm/"
+  },
+  {
+   "page": "home-es",
+   "viewport": "768",
+   "file": "home-es-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/"
+  },
+  {
+   "page": "home-en",
+   "viewport": "768",
+   "file": "home-en-768.png",
+   "url": "https://muia.dia.fi.upm.es/en/"
+  },
+  {
+   "page": "estructura",
+   "viewport": "768",
+   "file": "estructura-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/estructura/"
+  },
+  {
+   "page": "admision",
+   "viewport": "768",
+   "file": "admision-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/admision_y_matricula/"
+  },
+  {
+   "page": "horarios",
+   "viewport": "768",
+   "file": "horarios-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/horarios/"
+  },
+  {
+   "page": "profesorado",
+   "viewport": "768",
+   "file": "profesorado-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/profesorado_tutorias/"
+  },
+  {
+   "page": "objetivos",
+   "viewport": "768",
+   "file": "objetivos-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/objetivos_competencias/"
+  },
+  {
+   "page": "calidad",
+   "viewport": "768",
+   "file": "calidad-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/calidad/"
+  },
+  {
+   "page": "gestion",
+   "viewport": "768",
+   "file": "gestion-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/gestion/"
+  },
+  {
+   "page": "post",
+   "viewport": "768",
+   "file": "post-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/topdia/"
+  },
+  {
+   "page": "post-nothumb",
+   "viewport": "768",
+   "file": "post-nothumb-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/alumno-del-master-ganador-del-ets-development-challenge/"
+  },
+  {
+   "page": "person",
+   "viewport": "768",
+   "file": "person-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/corcho-garcia-oscar/"
+  },
+  {
+   "page": "person-en",
+   "viewport": "768",
+   "file": "person-en-768.png",
+   "url": "https://muia.dia.fi.upm.es/en/personal/corcho-garcia-oscar_en/"
+  },
+  {
+   "page": "person-archive",
+   "viewport": "768",
+   "file": "person-archive-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/"
+  },
+  {
+   "page": "category",
+   "viewport": "768",
+   "file": "category-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/category/noticias-es/"
+  },
+  {
+   "page": "tag-empty",
+   "viewport": "768",
+   "file": "tag-empty-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/tag/catedraticos-de-universidad/"
+  },
+  {
+   "page": "author",
+   "viewport": "768",
+   "file": "author-768.png",
+   "url": "https://muia.dia.fi.upm.es/es/author/dia-fi-upm/"
+  },
+  {
+   "page": "home-es",
+   "viewport": "390",
+   "file": "home-es-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/"
+  },
+  {
+   "page": "home-en",
+   "viewport": "390",
+   "file": "home-en-390.png",
+   "url": "https://muia.dia.fi.upm.es/en/"
+  },
+  {
+   "page": "estructura",
+   "viewport": "390",
+   "file": "estructura-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/estructura/"
+  },
+  {
+   "page": "admision",
+   "viewport": "390",
+   "file": "admision-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/admision_y_matricula/"
+  },
+  {
+   "page": "horarios",
+   "viewport": "390",
+   "file": "horarios-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/horarios/"
+  },
+  {
+   "page": "profesorado",
+   "viewport": "390",
+   "file": "profesorado-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/profesorado_tutorias/"
+  },
+  {
+   "page": "objetivos",
+   "viewport": "390",
+   "file": "objetivos-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/objetivos_competencias/"
+  },
+  {
+   "page": "calidad",
+   "viewport": "390",
+   "file": "calidad-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/calidad/"
+  },
+  {
+   "page": "gestion",
+   "viewport": "390",
+   "file": "gestion-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/gestion/"
+  },
+  {
+   "page": "post",
+   "viewport": "390",
+   "file": "post-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/topdia/"
+  },
+  {
+   "page": "post-nothumb",
+   "viewport": "390",
+   "file": "post-nothumb-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/alumno-del-master-ganador-del-ets-development-challenge/"
+  },
+  {
+   "page": "person",
+   "viewport": "390",
+   "file": "person-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/corcho-garcia-oscar/"
+  },
+  {
+   "page": "person-en",
+   "viewport": "390",
+   "file": "person-en-390.png",
+   "url": "https://muia.dia.fi.upm.es/en/personal/corcho-garcia-oscar_en/"
+  },
+  {
+   "page": "person-archive",
+   "viewport": "390",
+   "file": "person-archive-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/personal/"
+  },
+  {
+   "page": "category",
+   "viewport": "390",
+   "file": "category-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/category/noticias-es/"
+  },
+  {
+   "page": "tag-empty",
+   "viewport": "390",
+   "file": "tag-empty-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/tag/catedraticos-de-universidad/"
+  },
+  {
+   "page": "author",
+   "viewport": "390",
+   "file": "author-390.png",
+   "url": "https://muia.dia.fi.upm.es/es/author/dia-fi-upm/"
+  }
+ ]
+}

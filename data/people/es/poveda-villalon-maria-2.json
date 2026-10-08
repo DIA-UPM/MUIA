@@ -1,0 +1,97 @@
+{
+  "slug": "poveda-villalon-maria-2",
+  "lang": "es",
+  "path": "/es/personal/poveda-villalon-maria-2/",
+  "name": "Poveda Villalón, María",
+  "wpId": 5588,
+  "date": "2023-10-05T19:55:31+00:00",
+  "modified": "2024-01-13T15:35:11+00:00",
+  "tags": [
+    "profesores-contratados-doctores"
+  ],
+  "translations": {
+    "en": "/en/personal/poveda-villalon-maria/",
+    "es": "/es/personal/poveda-villalon-maria-2/"
+  },
+  "seo": {
+    "title": "Poveda Villalón, María - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 3205Web: Teléfono: +34 91-067-7288ORCID: Email: mpoveda@fi.upm.esResearcherID: Grupo de investigación: Ontology Engineering GroupScopus Author ID:",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2023/10/mariaPoveda.webp",
+      "width": 214,
+      "height": 270,
+      "type": "image/webp"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/Maria-Poveda-1.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Maria-Poveda-1.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "3205"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34 91-067-7288"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "mpoveda@fi.upm.es",
+      "href": "mailto:mpoveda@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Ontology Engineering Group",
+      "href": "https://www.oeg-upm.net/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/Maria-Poveda-1.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/Maria-Poveda-1.png 490w, /wp-content/uploads/sites/6/2023/10/Maria-Poveda-1-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/Maria-Poveda-1-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

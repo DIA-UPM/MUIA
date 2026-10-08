@@ -1,0 +1,33 @@
+{
+  "slug": "alumno-del-master-ganador-del-ets-development-challenge",
+  "lang": "es",
+  "path": "/es/alumno-del-master-ganador-del-ets-development-challenge/",
+  "title": "Alumno del máster ganador del ETS Development Challenge",
+  "wpId": 118,
+  "date": "2018-05-30T09:46:08+00:00",
+  "modified": "2023-11-23T17:55:25+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "actualidad-es",
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Alumno del máster ganador del ETS Development Challenge - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El alumno del Máster U. en Inteligencia Artificial, Álvaro Sánchez Palomino, ha resultado ganador el ETS Development Challenge 2018.",
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El alumno del Máster U. en Inteligencia Artificial,&nbsp;Álvaro Sánchez Palomino, ha resultado ganador el&nbsp;<a href=\"https://www.etsfactory.com/joboffersinside.aspx?J=33\" target=\"_blank\" rel=\"noopener\">ETS Development Challenge 2018</a>.</p>"
+    }
+  ],
+  "wordCount": 31,
+  "parentPage": "/es/admision_y_matricula/",
+  "excerpt": "<p>El alumno del Máster U. en Inteligencia Artificial,&nbsp;Álvaro Sánchez Palomino, ha resultado ganador el&nbsp;ETS Development Challenge 2018.</p>"
+}

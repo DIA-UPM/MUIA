@@ -1,0 +1,57 @@
+{
+  "slug": "iniciativa-drugs4convid-para-ayudar-a-los-medicos-a-localizar-tratamientos-en-el-diario-el-mundo",
+  "lang": "es",
+  "path": "/es/iniciativa-drugs4convid-para-ayudar-a-los-medicos-a-localizar-tratamientos-en-el-diario-el-mundo/",
+  "title": "Iniciativa DRUGS4CONVID para ayudar a los médicos a localizar tratamientos en el Diario el Mundo",
+  "wpId": 218,
+  "date": "2020-04-24T08:27:45+00:00",
+  "modified": "2023-11-23T18:29:36+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Iniciativa DRUGS4CONVID para ayudar a los médicos a localizar tratamientos en el Diario el Mundo - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "La iniciativa DRUGS4CONVID para ayudar a los médicos a localizar tratamientos liderada por Óscar Corcho y Carlos Badenes, ha sido destacada en el artículo […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2020/04/Captura-de-pantalla-2020-04-24-a-las-10.27.10.png",
+      "width": 220,
+      "height": 204,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2020/04/Captura-de-pantalla-2020-04-24-a-las-10.27.10.png",
+      "width": 220,
+      "height": 204,
+      "caption": "Captura de pantalla 2020-04-24 a las 10"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">La iniciativa DRUGS4CONVID para ayudar a los médicos a localizar tratamientos&nbsp;liderada&nbsp;por Óscar Corcho&nbsp;y Carlos Badenes, ha sido destacada en el&nbsp;artículo «La ciencia se recicla para combatir la virus» publicado en el diario el Mundoo el 19 de abril de 2020.</p>\n<p><span id=\"more-218\"></span></p>\n<p class=\"rtejustify\">La iniciativa DRUGS4CONVID para ayudar a los médicos a localizar tratamientos&nbsp;liderada&nbsp;por Óscar Corcho&nbsp;y Carlos Badenes, ha sido destacada en el&nbsp;artículo «La ciencia se recicla para combatir la virus» publicado en el diario el Mundoo el 19 de abril de 2020.</p>\n<p class=\"rtejustify\">En el&nbsp;<a href=\"http://www.oeg-upm.net/\">Ontology Engineering Group</a>&nbsp;de la&nbsp;<a href=\"http://www.fi.upm.es/\">Escuela Técnica Superior de Ingenieros Informáticos&nbsp;</a>de la&nbsp;<a href=\"https://www.upm.es/\">Universidad Politécnica de Madrid</a>&nbsp;llevan trabajando varios años en el procesamiento de grandes corpus de textos, así que&nbsp;se han puesto a trabajar para intentar aportar su grano de arena en la solución de estos problemas, desarrollando el core de una tecnología que permita a otros investigadores, estudiantes e informáticos trabajar sobre ella. En la siguiente página describen lo que han hecho hasta ahora, y los recursos que ponen a disposición del resto de la comunidad científica, por si pudieran resultar útiles:&nbsp;<a href=\"https://oeg-upm.github.io/covid19/\">https://oeg-upm.github.io/covid19/</a></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2020/04/Captura-de-pantalla-2020-04-24-a-las-10.27.10.png",
+    "width": 220,
+    "height": 204,
+    "alt": "Captura de pantalla 2020-04-24 a las 10"
+  },
+  "wordCount": 235,
+  "excerpt": "<p>La iniciativa DRUGS4CONVID para ayudar a los médicos a localizar tratamientos&nbsp;liderada&nbsp;por Óscar Corcho&nbsp;y Carlos Badenes, ha sido destacada en el&nbsp;artículo</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2020/04/Captura-de-pantalla-2020-04-24-a-las-10.27.10.png",
+    "width": 220,
+    "height": 204,
+    "alt": "Captura de pantalla 2020-04-24 a las 10"
+  }
+}

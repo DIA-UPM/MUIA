@@ -1,0 +1,102 @@
+{
+  "lang": "es",
+  "columns": [
+    {
+      "section": "1",
+      "area": "sidebar-widgets-footer-widget-1",
+      "label": "Footer Widget 1",
+      "widgets": [
+        {
+          "id": "block-17",
+          "class": "widget widget_block widget_media_image",
+          "type": "html",
+          "html": "<figure class=\"wp-block-image size-full is-resized wp-duotone-unset-1\"><img decoding=\"async\" width=\"727\" height=\"156\" src=\"/wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x.png\" alt=\"\" class=\"wp-image-6490\" style=\"aspect-ratio:4.761904761904762;width:376px;height:auto\" srcset=\"/wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x.png 727w, /wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x-300x64.png 300w, /wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x-380x82.png 380w\" sizes=\"(max-width: 727px) 100vw, 727px\"></figure>"
+        },
+        {
+          "id": "block-18",
+          "class": "widget widget_block",
+          "type": "html",
+          "html": "<div style=\"height:29px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>"
+        },
+        {
+          "id": "block-19",
+          "class": "widget widget_block widget_media_image",
+          "type": "html",
+          "html": "<figure class=\"wp-block-image size-large is-resized wp-duotone-unset-2\"><img decoding=\"async\" src=\"/assets/external/mucd.dia.fi.upm.es/wp-content/uploads/sites/7/2023/10/foto-campus-1024x576.jpeg\" alt=\"\" class=\"wp-image-2917\" style=\"aspect-ratio:1.7777777777777777;width:375px;height:auto\"></figure>"
+        },
+        {
+          "id": "block-20",
+          "class": "widget widget_block",
+          "type": "html",
+          "html": "<h3 class=\"wp-block-heading\" style=\"font-size:16px\"><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">International Campus of Excellence in Innovation</mark></h3>"
+        },
+        {
+          "id": "block-21",
+          "class": "widget widget_block widget_media_image",
+          "type": "html",
+          "html": "<figure class=\"wp-block-image is-resized\"><img decoding=\"async\" src=\"/assets/external/www.fi.upm.es/web/futuroalumno/wp-content/uploads/sites/15/2015/11/logo_i2tech.png\" alt=\"Campus Montegancedo\" style=\"aspect-ratio:1.8447488584474885;width:391px;height:auto\"></figure>"
+        },
+        {
+          "id": "block-22",
+          "class": "widget widget_block widget_text",
+          "type": "html",
+          "html": "<p><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">The School is located on the Montegancedo Campus,<br>which has been <strong>designated by the Ministry of Education</strong></mark><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\"><strong>as an International Campus of Excellence in Innovation</strong>,<br>the only one in Spain with this recognition</mark>.</p>"
+        }
+      ]
+    },
+    {
+      "section": "2",
+      "area": "sidebar-widgets-footer-widget-3",
+      "label": "Footer Widget 3",
+      "widgets": [
+        {
+          "id": "block-26",
+          "class": "widget widget_block widget_media_image",
+          "type": "html",
+          "html": "<figure class=\"wp-block-image is-resized wp-duotone-grayscale\"><img decoding=\"async\" src=\"/assets/external/www.fi.upm.es/web/futuroalumno/wp-content/uploads/sites/15/2015/11/logo_academic-ranking.jpg\" alt=\"\" style=\"aspect-ratio:1.8447488584474885;width:158px;height:auto\"><figcaption class=\"wp-element-caption\"><strong><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">Shanghai Ranking</mark></strong><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">The UPM is among the<br>top 200 in the world<br>in the field of Computer<br>Science (out of over<br>15,000 universities).</mark></figcaption></figure>"
+        },
+        {
+          "id": "block-27",
+          "class": "widget widget_block widget_media_image",
+          "type": "html",
+          "html": "<figure class=\"wp-block-image is-resized wp-duotone-000000-rgb255255255-3\"><img decoding=\"async\" src=\"/assets/external/www.fi.upm.es/web/futuroalumno/wp-content/uploads/sites/15/2015/11/logo_world-university1.jpg\" alt=\"\" style=\"aspect-ratio:1.8447488584474885;width:151px;height:auto\"><figcaption class=\"wp-element-caption\"><strong><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">QS Ranking</mark></strong><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">The UPM is among the<br>top 150 in the world<br>in the field of Computer<br>Science.</mark></figcaption></figure>"
+        },
+        {
+          "id": "block-28",
+          "class": "widget widget_block widget_media_image",
+          "type": "html",
+          "html": "<figure class=\"wp-block-image is-resized wp-duotone-000000-rgb255255255-4\"><img decoding=\"async\" src=\"/assets/external/www.fi.upm.es/web/futuroalumno/wp-content/uploads/sites/15/2015/11/logo-elmundo.jpg\" alt=\"\" style=\"aspect-ratio:1.8447488584474885;width:155px;height:auto\"><figcaption class=\"wp-element-caption\"><strong><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">\"El Mundo\" Ranking</mark></strong><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">Among the top 3 centres</mark><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\"> for studying Computer</mark><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\"> Engineering in Spain in </mark><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\">all editions of \"El Mundo\"</mark><br><mark style=\"background-color:rgba(0, 0, 0, 0)\" class=\"has-inline-color has-ast-global-color-6-color\"> ranking.</mark></figcaption></figure>"
+        }
+      ]
+    },
+    {
+      "section": "3",
+      "area": "sidebar-widgets-footer-widget-2",
+      "label": "Footer Widget 2",
+      "widgets": [
+        {
+          "id": "block-23",
+          "class": "widget widget_block",
+          "type": "html",
+          "html": "<div class=\"wp-block-essential-blocks-advanced-navigation\"><div class=\"eb-parent-wrapper eb-parent-eb-advanced-navigation-qyz6n0u \"><div class=\"eb-advanced-navigation-qyz6n0u eb-advanced-navigation-wrapper is-horizontal preset-1 items-justified-left responsive-icon close-icon-right\"><div class=\"eb-nav-contents\"></div></div></div></div>"
+        },
+        {
+          "id": "nav_menu-3",
+          "class": "widget widget_nav_menu",
+          "type": "menu",
+          "title": "MENU",
+          "navLabel": "MENU",
+          "containerClass": "menu-main-menu-container",
+          "menuId": "menu-main-menu"
+        },
+        {
+          "id": "block-25",
+          "class": "widget widget_block widget_media_image",
+          "type": "html",
+          "html": "<figure class=\"wp-block-image size-full is-resized\"><a href=\"https://www.upm.es/\" target=\"_blank\" rel=\" noreferrer noopener\"><img decoding=\"async\" src=\"/assets/external/mucd.dia.fi.upm.es/wp-content/uploads/sites/7/2023/10/Logo-politecnica.png\" alt=\"\" class=\"wp-image-928\" style=\"width:243px;height:auto\"></a></figure>"
+        }
+      ]
+    }
+  ],
+  "copyright": "<h4><span style=\"font-size: 10pt\">Copyright © {year} Máster Universitario en Inteligencia Artificial | Powered by <a href=\"http://sasover.com\" rel=\"nofollow noopener\" target=\"_blank\">Sasover</a></span></h4>"
+}

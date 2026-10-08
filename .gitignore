@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-*/
+.cache/
+test-results/
+playwright-report/
+tests/visual/__diffs__/
+*.log
+.crawl*.log
+.render.log
+.assets.log

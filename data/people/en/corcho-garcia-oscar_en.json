@@ -1,0 +1,106 @@
+{
+  "slug": "corcho-garcia-oscar_en",
+  "lang": "en",
+  "path": "/en/personal/corcho-garcia-oscar_en/",
+  "name": "Corcho García, Óscar",
+  "wpId": 711,
+  "date": "2017-05-26T11:25:42+00:00",
+  "modified": "2024-01-13T03:02:21+00:00",
+  "tags": [
+    "professors"
+  ],
+  "translations": {
+    "en": "/en/personal/corcho-garcia-oscar_en/",
+    "es": "/es/personal/corcho-garcia-oscar/"
+  },
+  "seo": {
+    "title": "Corcho García, Óscar - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/05/oscar.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/Corcho-Garcia-Oscar.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Corcho-Garcia-Oscar.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Office",
+      "value": "2105"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "http://www.oeg-upm.net/index.php/es/teachers/11-ocorcho",
+      "href": "http://www.oeg-upm.net/index.php/es/teachers/11-ocorcho",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Phone",
+      "value": "+34-91-336-3755"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0002-9260-0753",
+      "href": "https://orcid.org/0000-0002-9260-0753",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "ocorcho@fi.upm.es",
+      "href": "mailto:ocorcho@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/C-4000-2011",
+      "href": "http://www.researcherid.com/rid/C-4000-2011",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Research group",
+      "value": "Grupo de Ingeniería Ontológica",
+      "href": "http://www.oeg-upm.net/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=14010357000",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=14010357000",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>\n<p><!-- wp:paragraph --></p>\n<p>Prof. Dr.&nbsp;Oscar Corcho, PhD, es Catedrático de Universidad en el Departamento de Inteligencia Artificial de la Universidad Politécnica de Madrid (UPM), y codirige el Grupo de Ingeniería Ontológica (OEG) de la citada Escuela. Anteriormente trabajó como investigador Marie Curie en la Universidad de Manchester y como gestor de investigación en la empresa iSOCO.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Formación:</strong>&nbsp;&nbsp;Licenciado en Informática (2000) –Primer expediente de la Promoción, Tercer Premio Nacional Fin de Carrera (MEC) y Premio al Rendimiento Académico por la Fundación General de la UPM en su convocatoria 1997-1998-, Máster en Ingeniería del Software (2001) y Doctor en Informática (2004) por la UPM –Premio&nbsp;Extraordinario Doctorado UPM en su convocatoria de 2005-.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Premios:&nbsp;</strong>Premio Juan López de Peñalver de la Real Academia de Ingeniería (edición 2016) a jóvenes investigadores en el área de ingeniería;&nbsp;Primer Premio&nbsp;<em>Semantic Web Challenge 2015</em>, Primer Permio&nbsp;<em>Fujitsu Laboratories of Europe Innovation Award 2015</em>; varios permios en posters y demos (ICBO2015, ISWC2015, KCAP2015), Premio al mejor paper en la ESWC2011 Conference,&nbsp;&nbsp;Primer Premio&nbsp;<em>Open Track.&nbsp;</em><em>Triplification Challenge</em>(I-SEMANTICS 2011), Mención honorífica&nbsp;<em>Open Government Data Track.&nbsp;</em><em>Triplification Challenge</em>(I-SEMANTICS 2010) y Tercer Premio Nacional en Informática del Ministerio de Educación 2000.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Áreas de Investigación:</strong>Sus actividades de investigación se centran en la&nbsp;Web Semántica&nbsp;y la Web de Datos Enlazados, en la&nbsp;Ingeniería Ontológica&nbsp;y en la aplicación de tecnologías semánticas en distintos dominios,&nbsp;como por ejemplo la&nbsp;e-Ciencia Semántica y Ciencia Abierta. En todas estas áreas combina la investigación básica con la aplicada. Ha coordinado dos acciones europeas Marie Curie (SemData y KOPAR) y un proyecto europeo H2020 (STARS4ALL). Ha participado como investigador principal por parte de la UPM en más de diez proyectos europeos con financiación pública, así como en proyectos nacionales. También ha liderado dos redes temáticas nacionales (la de Linked Data, y la de Open Data y Smart Cities). También ha dirigido contratos privados como el de la&nbsp;<em>International Classification of Patient Safety</em>, con la Organización Mundial de la Salud, y varios contratos relacionados con la apertura de datos de instituciones públicas (Consorcio Regional de Transportes de Madrid (CTRM), Centro Nacional de Información Geográfica, IASoft-Oesía para el Gobierno de Aragón).</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Dirección de Investigación:</strong>Es co-director del&nbsp;Ontology Engineering Group (OEG), que desde&nbsp;el año 2012&nbsp;ocupa el 8º puesto en el ranking de los grupos de investigación de la UPM (primer grupo de investigación en la Facultad de Informática). El OEG está compuesto por 35 personas, de las cuales 19 son doctores. En él se han formado más de 150 estudiantes.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Publicaciones:</strong>Ha publicado varios libros, entre los que destaca “Ontological Engineering”, utilizado como texto académico en varias universidades españolas y extranjeras, y “Data Bonanza”, así como más de 100 artículos en revistas, conferencias y&nbsp;<em>workshops</em>. Ha sido invitado a dar charlas en conferencias de prestigio (EKAW2014, SEMANTICS2015), así como en centros universitarios y de investigación internacionales (Estados Unidos, Reino Unido, Francia). Es miembro del comité editorial de varias revistas, y participa habitualmente en los comités de programa de las conferencias y&nbsp;<em>workshops</em>más relevantes del área, habiendo dirigido el comité de programa de algunas de ellas (K-CAP, ESWC, ISWC).</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Tesis Doctorales:</strong>Ha supervisado 16 tesis doctorales (tanto en la UPM como en distintas universidades internacionales). Algunos de sus principales estudiantes de PhD tienen destacadas posiciones&nbsp;&nbsp;en el panorama de la investigación científica y académica, en instituciones como EPDL, la Universidad Southern California, Fujitsu, PUC Chile, etc.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Conferencias invitadas y eventos organizados:</strong>Organiza con frecuencia&nbsp;<em>workshops</em>y conferencias nacionales e internacionales, y escuelas de verano. Ha sido co-fundador de las&nbsp;<em>spin-offs</em>LikeCube Ltd, adquirida por TimeOut en 2011, y LocaliData, creada en 2013.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Innovación</strong>.&nbsp;Ha sido co-fundador de las&nbsp;<em>spin-offs&nbsp;</em>LikeCube Ltd, adquirida por TimeOut en 2011, y LocaliData, creada en 2013.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p><strong>Actividades para acercar la ciencia y la tecnología al ciudadano:&nbsp;</strong>Sus&nbsp;actividades de investigación se centran en la Ciencia Abierta, la&nbsp;Integración de datos, la Web de Linked Data&nbsp;y la&nbsp;Ingeniería Ontológica. Ha participado en proyectos europeos y nacionales con financiaciónpública en todas estas áreas (STARS4ALL, Mobile-AGE, CLARITY, SlideWiki, 3cixty, DrInventor, SemData, Wf4Ever, PlanetData, LPS-Bigger, Ciudad2020, BuscaMedia, mIO!, SemsorGrid4Env, ADMIRE, OntoGrid, Esperonto, DIP, HOPS, SWWS, Knowledge Web, OntoWeb y MKBEEM), siendo investigador principal por la UPM en los 13 primeros, así como en proyectos privados (como el proyecto HALO, financiado por Vulcan Inc., o el de la&nbsp;<em>International Classification of Patient Safety</em>, financiado por la Organización Mundial de la Salud).</p>\n<p><!-- /wp:paragraph --></p>\n<p></p>"
+    }
+  ],
+  "photoPrefixHtml": "&lt;",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Corcho-Garcia-Oscar.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/Corcho-Garcia-Oscar.png 490w, /wp-content/uploads/sites/6/2017/05/Corcho-Garcia-Oscar-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/Corcho-Garcia-Oscar-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  },
+  "styleVariant": "variant-1"
+}

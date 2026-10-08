@@ -1,0 +1,248 @@
+{
+  "slug": "student_support",
+  "lang": "en",
+  "path": "/en/student_support/",
+  "title": "Student Support",
+  "wpId": 556,
+  "date": "2016-11-11T10:59:29+00:00",
+  "modified": "2024-02-14T23:20:16+00:00",
+  "translations": {
+    "en": "/en/student_support/",
+    "es": "/es/gestion/"
+  },
+  "seo": {
+    "title": "Student Support - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2016/11/plano_fi.gif",
+      "width": 1112,
+      "height": 699,
+      "type": "image/gif"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2016/11/plano_fi.gif",
+      "width": 1112,
+      "height": 699
+    },
+    "twitter": {
+      "twitter:label1": "Est. reading time",
+      "twitter:data1": "3 minutes"
+    },
+    "extraSchema": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\": \"How much is the cost of living in Madrid?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"As a rule of thumb, it is possible to find shared rooms in flats starting at around 150 euros per month. The cost of renting a studio apartment (a one-room flat) starts at 400 euros per month. These prices depend, naturally, on the area, and utility costs (water, electricity, telephone, service charges, etc.) are not included. Note to foreign students: the Spanish Government requires proof that living costs can be met before granting a visa to reside in Spanish territory. This can be proven with a given amount of money in a bank account, or by providing proof that a studentship was granted. We suggest that you contact your nearest embassy or consulate sufficiently beforehand.\"}},{\"@type\":\"Question\",\"name\": \"Where can I find accommodations in Madrid?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"The UPM does not own student dormitories. You can find some information about accommodation here. \"}},{\"@type\":\"Question\",\"name\": \"What documentation do I need to obtain a studentvisa in Spain?\",\"acceptedAnswer\":{\"@type\": \"Answer\",\"text\": \"This depends on the country of origin. For further questions, please refer to the International office at the School of Computer Engineering: orex@fi.upm.es.\"}}]}"
+    ]
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-lmparau",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-b0p9k9o",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-27z900i",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<h2 class=\"wp-block-heading has-white-color has-text-color has-link-color wp-elements-2582f6bc1dede7b414ba3d6ed3fcf18a\" style=\"font-style:normal;font-weight:300\">Count on us</h2>"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-i12rphw",
+                  "rootClass": false,
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Students support"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "At UPM we are dedicated to ensuring that your academic career is smooth and successful. Below you will find key contacts and resources for immediate assistance with registration, academic inquiries and facilities. Our team is committed to providing fast and effective support for all your needs."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-0o85v7r",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-sv3vx9v",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "advanced-tabs",
+          "id": "eb-advanced-tabs-cg12jgf",
+          "rootClass": false,
+          "align": "wide",
+          "className": "algomindai_tabmark",
+          "layout": "vertical",
+          "titleTag": "h6",
+          "activeIndex": 0,
+          "tabs": [
+            {
+              "tabId": "1",
+              "title": "Administrative management",
+              "customId": "",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p>For any administrative problem or question, you can contact the Secretary of the Master’s Degree in Artificial Intelligence:&nbsp;<a href=\"mailto:masteria.dia@fi.upm.es\">masteria.dia@fi.upm.es</a>, Office 2213 (Secretary of the Department of Artificial Intelligence), Tel.: +34-91-067-3074.<br><br>Or, in the case of problems associated with the registration process, with the&nbsp;<em>Secretariat of Administrative Management</em>&nbsp;of the E.T.S. IT Engineers (<a href=\"mailto:secretaria@fi.upm.es\">secretaria@fi.upm.es</a>). Tel.: +34-91-067-2737.<br><br>For any academic problem or doubt, you can contact the Master’s Coordinator: Mr. Damiano Zanardini, (<a href=\"mailto:masteria.dia@fi.upm.es\">masteria.dia@fi.upm.es&lt; /span&gt;</a>), Office 2205, Tel.: +34-91-067-2909.</p>"
+                }
+              ]
+            },
+            {
+              "tabId": "2",
+              "title": "Claims",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p>In accordance with the Procedure «PR/SO/5/001: Process for managing incidents, complaints and suggestions» of the Quality Assurance System of the E.T.S. Computer Engineers, any student who wishes to make any claim or suggestion must contact the Coordinator of the Master’s Degree in Artificial Intelligence (<a href=\"mailto:masteria.dia@fi.upm.es\">masteria.dia@fi.upm.es</a>).<br><br>In the same way, the E.T.S. Ingenieros Informáticos makes available to its users a complaints and suggestions system, which is available&nbsp;<a href=\"http://www.fi.upm.es/?pagina=1421\" target=\"_blank\" rel=\"noreferrer noopener\">Here</a>.</p>"
+                }
+              ]
+            },
+            {
+              "tabId": "3",
+              "title": "<strong><strong>Facilities and resources at the E.T.S.I. Inf.</strong></strong>",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p>Please see in this link the&nbsp;<a href=\"http://www.fi.upm.es/?id=campus/instalaciones\" target=\"_blank\" rel=\"noreferrer noopener\">Facilities</a>&nbsp;and in the next one the&nbsp;<a href=\"http://www.fi.upm.es/?pagina=20\" target=\"_blank\" rel=\"noreferrer noopener\">resources</a>&nbsp;available at the E.T.S.I. Computer scientists.<br><br></p>"
+                }
+              ]
+            },
+            {
+              "tabId": "4",
+              "title": "<strong>Postal Address</strong>",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p>E.T.S.I. Informáticos<br>Universidad Politécnica de Madrid<br>28660 Boadilla del Monte, Madrid<br>Campus de Montegancedo S/N<br>Spain</p>"
+                }
+              ]
+            },
+            {
+              "tabId": "5",
+              "title": "Where we are",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p>The Artificial Intelligence Department is housed at the <a href=\"http://www.fi.upm.es/\" target=\"_blank\" rel=\"noreferrer noopener\">E.T.S. School of Computer Engineering</a>, situated on the <a href=\"http://www.fi.upm.es/?pagina=166\" target=\"_blank\" rel=\"noreferrer noopener\">Montegancedo Campus</a> in the Urbanización Montepríncipe residential area, southwest of Madrid. Upon entering the campus, you will find three buildings: one white and two green. Our offices are in the largest green building, known as block 2. You can find the Department’s secretariat in office D-2213. For the office numbers of other department members, please refer to their respective pages on our website</p>\n<p></p>\n<p></p>\n<figure class=\"wp-block-image size-large is-resized\"><img decoding=\"async\" src=\"/assets/external/mucd.dia.fi.upm.es/wp-content/uploads/sites/7/2023/11/image-1-1024x644.png\" alt=\"\" class=\"wp-image-3496\" style=\"aspect-ratio:1.5900621118012421;width:891px;height:auto\"></figure>"
+                }
+              ]
+            },
+            {
+              "tabId": "6",
+              "title": "FAQs for students from outside Madrid",
+              "customId": "faqs-students-outside-madrid",
+              "anchor": "faqs-students-outside-madrid",
+              "children": [
+                {
+                  "type": "accordion",
+                  "id": "eb-accordion-q6hw06h",
+                  "rootClass": false,
+                  "mode": "toggle",
+                  "tabIcon": "fas fa-angle-down",
+                  "expandedIcon": "fas fa-angle-up",
+                  "transitionDuration": "500",
+                  "legacy": true,
+                  "items": [
+                    {
+                      "id": "eb-accordion-item-vzxka8v",
+                      "clickable": "true",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "<strong>How much is the cost of living in Madrid?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-2e4rekc",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "As a rule of thumb, it is possible to find shared rooms in flats starting at around 150 euros per month. The cost of renting a studio apartment (a one-room flat) starts at 400 euros per month. These prices depend, naturally, on the area, and utility costs (water, electricity, telephone, service charges, etc.) are not included. Note to foreign students: the Spanish Government requires proof that living costs can be met before granting a visa to reside in Spanish territory. This can be proven with a given amount of money in a bank account, or by providing proof that a studentship was granted. We suggest that you contact your nearest embassy or consulate sufficiently beforehand."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-u6eljqt",
+                      "clickable": "true",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "<strong>Where can I find accommodations in Madrid?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-xwdod12",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "The UPM does not own student dormitories. You can find some information about accommodation <a href=\"https://www.fi.upm.es/?pagina=2365&amp;idioma=english#org1610f1a\">here</a>.&nbsp;"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "eb-accordion-item-s8tg4ws",
+                      "clickable": "true",
+                      "noBlockClass": true,
+                      "titleTag": "h3",
+                      "title": "<strong>What documentation do I need to obtain a student</strong><br><strong>visa in Spain?</strong>",
+                      "children": [
+                        {
+                          "type": "advanced-heading",
+                          "id": "eb-advance-heading-7oslr5m",
+                          "rootClass": false,
+                          "preset": "button-1",
+                          "parts": [
+                            {
+                              "part": "title",
+                              "tag": "p",
+                              "html": "This depends on the country of origin. For further questions, please refer to the <a href=\"https://www.fi.upm.es/?pagina=286\">International office</a> at the School of Computer Engineering: <a href=\"mailto:orex@fi.upm.es\" target=\"_blank\" rel=\"noreferrer noopener\">orex@fi.upm.es</a>."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeaturedImage": true,
+  "stylesheet": "blocks/pages/en-student_support.css"
+}

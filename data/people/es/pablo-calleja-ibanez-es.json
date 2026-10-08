@@ -1,0 +1,96 @@
+{
+  "slug": "pablo-calleja-ibanez-es",
+  "lang": "es",
+  "path": "/es/personal/pablo-calleja-ibanez-es/",
+  "name": "Pablo Calleja Ibáñez",
+  "wpId": 5578,
+  "date": "2023-10-05T20:19:01+00:00",
+  "modified": "2024-01-13T15:40:59+00:00",
+  "tags": [
+    "profesores-ayudantes-doctores"
+  ],
+  "translations": {
+    "en": "/en/personal/pablo-calleja-ibanez/",
+    "es": "/es/personal/pablo-calleja-ibanez-es/"
+  },
+  "seo": {
+    "title": "Pablo Calleja Ibáñez - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 3206Web: Teléfono: ORCID: Email: ResearcherID: Grupo de investigación: Scopus Author ID:",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2023/10/pablo-calleja-ibanez-e1696537014674.jpeg",
+      "width": 301,
+      "height": 306,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/pablo-calleja.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/pablo-calleja.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "3206"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "",
+      "href": "http://Margarita%20Salas",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/pablo-calleja.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/pablo-calleja.png 490w, /wp-content/uploads/sites/6/2023/10/pablo-calleja-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/pablo-calleja-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "slug": "profesorado_tutorias",
+  "lang": "es",
+  "path": "/es/profesorado_tutorias/",
+  "title": "Profesorado y tutorías",
+  "wpId": 550,
+  "date": "2017-04-19T10:41:35+00:00",
+  "modified": "2024-05-20T02:47:38+00:00",
+  "translations": {
+    "en": "/en/teachingstaff_tutorship/",
+    "es": "/es/profesorado_tutorias/"
+  },
+  "seo": {
+    "title": "Profesorado y tutorías - Máster Universitario en Inteligencia Artificial",
+    "twitter": {
+      "twitter:label1": "Tiempo de lectura",
+      "twitter:data1": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-yb11s0f",
+      "rootClass": false,
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-8sv4xip",
+          "rootClass": false,
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-800wmb9",
+              "children": [
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-white-color has-text-color\" style=\"font-size:24px;line-height:1.5\">Expertos en inteligencia Artificial</p>"
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-48xwrld",
+                  "rootClass": false,
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Profesorado"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "La experiencia docente del profesorado del DIA es amplia, como muestra el promedio de 3,71 tramos de experiencia docente reconocidos, y su calidad investigadora está acreditada tanto por indicadores como un promedio de tramos de investigación de 2,82, como un H-index superior a 20 para el 50% de los profesores del departamento, y de ellos 4 con un H-index superior a 40 (datos de abril de 2022)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "outer": false,
+              "id": "eb-column-y9m1zyc",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "id": "eb-row-kci0q4e",
+      "rootClass": false,
+      "align": "full",
+      "children": [
+        {
+          "type": "column",
+          "outer": false,
+          "id": "eb-column-5p9eb2k",
+          "children": [
+            {
+              "type": "html",
+              "html": "<p class=\"has-text-color\" style=\"color:#030c25;font-size:17px;line-height:1.8\">Es de destacar los numerosos premios y distinciones, tanto nacionales como internacionales, de varios profesores del departamento:</p>\n<ul style=\"color:#030c25;padding-top:0;padding-bottom:0\" class=\"has-text-color wp-block-list\">\n<li style=\"font-size:16px\"><strong>Real Academia Española (RAE) </strong>(Asunción Gómez, silla «q»)<br><br></li>\n<li style=\"font-size:16px\"><strong>Real Academia Nacional de Medicina de España</strong> (Víctor Maojo, Académico Correspondiente)<br><br></li>\n<li style=\"font-size:16px\">J<strong>akiunde, Academia de las Ciencias, las Letras y las Artes del País Vasco</strong> (Pedro Larrañaga)<br><br></li>\n<li style=\"font-size:16px\"><strong>ACM, Association for Computing Machinery</strong> (Manuel Hermenegildo, “Fellow”)<br><br></li>\n<li style=\"font-size:16px\"><strong>Presidente del Consejo Científico del INRIA</strong> (Manuel Hermenegildo)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio Nacional de informática </strong>(Asunción Gómez, Manuel Hermenegildo, Pedro Larrañaga)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio Ada Byron</strong> (Asunción Gómez)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio Nacional de Informática y Salud</strong> (Víctor Maojo)<br><br></li>\n<li style=\"font-size:16px\"><strong>Fellow of the Academia Europaea </strong>(Pedro Larrañaga)<br><br></li>\n<li style=\"font-size:16px\"><strong>Premio de la Real Academia de Ingeniería</strong> (Óscar Corcho)<br><br></li>\n<li style=\"font-size:16px\"><strong>Fellow of the European Academy of Sciences</strong> (Asunción Gómez)<br><br></li>\n<li style=\"font-size:16px\"><strong>Presidencia del Comité Científico del INRIA</strong> (Manuel Hermenegildo)</li>\n</ul>"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "outer": false,
+          "id": "eb-column-nbgtcxw",
+          "children": [
+            {
+              "type": "post-grid",
+              "id": "eb-post-grid-ipz8zwz",
+              "rootFirst": true,
+              "preset": "style-3",
+              "source": "people",
+              "tags": [
+                "catedraticos-de-universidad"
+              ],
+              "filterTerms": [
+                {
+                  "slug": "catedraticos-de-universidad",
+                  "name": "Catedráticos de Universidad"
+                }
+              ],
+              "filterTaxonomy": "post_tag",
+              "orderBy": "title",
+              "order": "asc",
+              "perPage": 25,
+              "pagination": false,
+              "showThumbnail": true,
+              "showTaxonomyFilter": true,
+              "showMeta": false,
+              "titleTag": "h2",
+              "titleWords": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-sw1pi1s",
+      "rootFirst": true,
+      "preset": "style-3",
+      "source": "people",
+      "tags": [
+        "profesores-titulares-de-universidad"
+      ],
+      "filterTerms": [
+        {
+          "slug": "profesores-titulares-de-universidad",
+          "name": "Profesores Titulares de Universidad"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": false,
+      "titleTag": "h2",
+      "titleWords": 28
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-cw373v2",
+      "rootFirst": true,
+      "preset": "style-3",
+      "source": "people",
+      "tags": [
+        "profesores-contratados-doctores"
+      ],
+      "filterTerms": [
+        {
+          "slug": "profesores-contratados-doctores",
+          "name": "Profesores Contratados Doctores"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": false,
+      "titleTag": "h2",
+      "titleWords": 28
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-ujson",
+      "rootFirst": true,
+      "preset": "style-3",
+      "source": "people",
+      "tags": [
+        "profesores-permanentes-laborales"
+      ],
+      "filterTerms": [
+        {
+          "slug": "profesores-permanentes-laborales",
+          "name": "Profesores permanentes laborales"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": false,
+      "titleTag": "h2",
+      "titleWords": 28
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-gfzy3vd",
+      "rootFirst": true,
+      "preset": "style-3",
+      "source": "people",
+      "tags": [
+        "profesores-ayudantes-doctores"
+      ],
+      "filterTerms": [
+        {
+          "slug": "profesores-ayudantes-doctores",
+          "name": "Profesores Ayudantes Doctores"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": false,
+      "titleTag": "h2",
+      "titleWords": 28
+    },
+    {
+      "type": "post-grid",
+      "id": "eb-post-grid-0cf9nu6",
+      "rootFirst": true,
+      "preset": "style-3",
+      "source": "people",
+      "tags": [
+        "investigador-del-programa-beatriz-galindo"
+      ],
+      "filterTerms": [
+        {
+          "slug": "investigadores",
+          "name": "Investigadores"
+        }
+      ],
+      "filterTaxonomy": "post_tag",
+      "orderBy": "title",
+      "order": "asc",
+      "perPage": 25,
+      "pagination": false,
+      "showThumbnail": true,
+      "showTaxonomyFilter": true,
+      "showMeta": true,
+      "headerMeta": [
+        "post_tag"
+      ],
+      "footerMeta": [],
+      "titleTag": "h2",
+      "titleWords": 28
+    }
+  ],
+  "stylesheet": "blocks/pages/es-profesorado_tutorias.css"
+}

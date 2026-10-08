@@ -1,0 +1,29 @@
+{
+  "jcano": {
+    "name": "jcano",
+    "schemaId": "3398a3b75401202189aa23800add7d29",
+    "avatar": "https://secure.gravatar.com/avatar/c0f0d2216107a837422c43ca460b1049?s=96&d=mm&r=g",
+    "url": "/es/author/jcano/"
+  },
+  "ajimenez": {
+    "name": "ajimenez",
+    "schemaId": "cc5833591dae013628d7a9173d521a33",
+    "avatar": "https://secure.gravatar.com/avatar/ac06739218bb1421318e74636c25492d?s=96&d=mm&r=g",
+    "url": "/es/author/ajimenez/"
+  },
+  "damiano": {
+    "name": "damiano",
+    "schemaId": "8a539bf2bc3869022fdfc770984feb3d",
+    "avatar": "https://secure.gravatar.com/avatar/7d4b46782bab24eb5e80ba460bd689c0?s=96&d=mm&r=g",
+    "url": "/es/author/damiano/"
+  },
+  "admin": {
+    "name": "admin",
+    "schemaId": "e877672dac3e511399812a4f4a2a102e",
+    "avatar": "https://secure.gravatar.com/avatar/1271fda4ca8eef1bc82f68795e8c00aa?s=96&d=mm&r=g",
+    "sameAs": [
+      "https://dia.fi.upm.es"
+    ],
+    "url": "/es/author/dia-fi-upm/"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "segundo-mejor-master-de-espana-en-informatica-especializada",
+  "lang": "es",
+  "path": "/es/segundo-mejor-master-de-espana-en-informatica-especializada/",
+  "title": "Segundo mejor máster de España en Informática Especializada",
+  "wpId": 57,
+  "date": "2018-06-25T14:37:38+00:00",
+  "modified": "2023-11-23T18:45:25+00:00",
+  "author": "jcano",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Segundo mejor máster de España en Informática Especializada - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "EL MUIA aparece en segunda posición en el área de Informática Especializada en el ranking “250 Másteres y Guía Completa […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/06/RANKING-EL-MUNDO.png",
+      "width": 220,
+      "height": 153,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/06/RANKING-EL-MUNDO.png",
+      "width": 220,
+      "height": 153,
+      "caption": "RANKING EL MUNDO"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "jcano",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">EL MUIA aparece en segunda posición en el área de Informática Especializada en el ranking “250 Másteres y Guía Completa MBA” que ha publicado el periódico el Mundo un su edición 2017. El MUIA se encuentra por octavo año consecutivo entre los tres mejores másteres de Informática Especializada en España, habiendo sido en dos ediciones distinguido como mejor máster de España en esta sección.</p>\n<p><span id=\"more-57\"></span></p>\n<p class=\"rtejustify\">EL MUIA aparece en segunda posición en el área de Informática Especializada en el ranking “250 Másteres y Guía Completa MBA” que ha publicado el periódico el Mundo un su edición 2017. El MUIA se encuentra por octavo año consecutivo entre los tres mejores másteres de Informática Especializada en España, habiendo sido en dos ediciones distinguido como mejor máster de España en esta sección.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2017/06/RANKING-EL-MUNDO.png",
+    "width": 220,
+    "height": 153,
+    "alt": "RANKING EL MUNDO"
+  },
+  "wordCount": 161,
+  "excerpt": "<p>EL MUIA aparece en segunda posición en el área de Informática Especializada en el ranking “250 Másteres y Guía Completa</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/06/RANKING-EL-MUNDO.png",
+    "width": 220,
+    "height": 153,
+    "alt": "RANKING EL MUNDO"
+  }
+}

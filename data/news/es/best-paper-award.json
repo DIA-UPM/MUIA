@@ -1,0 +1,31 @@
+{
+  "slug": "best-paper-award",
+  "lang": "es",
+  "path": "/es/best-paper-award/",
+  "title": "Best paper award",
+  "wpId": 143,
+  "date": "2018-11-25T08:51:10+00:00",
+  "modified": "2023-11-23T18:41:35+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Best paper award - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El trabajo de Pedro Diego López (egresado del MUIA), Roberto Valle y Luis Baumela, titulado «Facial landmarks detection using a cascade of recombinator […]",
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El&nbsp;trabajo de Pedro Diego López (egresado&nbsp;del MUIA), Roberto Valle y Luis Baumela,&nbsp;titulado «Facial landmarks detection using a cascade of recombinator networks» ha obtenido el <strong>Best Paper Award</strong> en el <em>23 Iberoamerican Congress on Pattern Recognition</em> (CIARP-2018).</p>"
+    }
+  ],
+  "wordCount": 45,
+  "excerpt": "<p>El&nbsp;trabajo de Pedro Diego López (egresado&nbsp;del MUIA), Roberto Valle y Luis Baumela,&nbsp;titulado «Facial landmarks detection using a cascade of recombinator</p>"
+}

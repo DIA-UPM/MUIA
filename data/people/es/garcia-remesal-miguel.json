@@ -1,0 +1,103 @@
+{
+  "slug": "garcia-remesal-miguel",
+  "lang": "es",
+  "path": "/es/personal/garcia-remesal-miguel/",
+  "name": "García Remesal, Miguel",
+  "wpId": 680,
+  "date": "2017-05-26T16:22:59+00:00",
+  "modified": "2024-01-13T15:58:25+00:00",
+  "tags": [
+    "profesores-titulares-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/garcia-remesal-miguel_en/",
+    "es": "/es/personal/garcia-remesal-miguel/"
+  },
+  "seo": {
+    "title": "García Remesal, Miguel - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2206Web: http://www.gib.fi.upm.es/es/mgarciaTeléfono: +34-91-336-7441ORCID: https://orcid.org/0000-0002-5948-8691Email: mgremesal@fi.upm.esResearcherID: Grupo de investigación: Grupo de Informática BiomédicaScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=6507216549",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2018/05/remesal_0.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/garcia-remesal-miguel.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/garcia-remesal-miguel.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2206"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "http://www.gib.fi.upm.es/es/mgarcia",
+      "href": "http://www.gib.fi.upm.es/es/mgarcia",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-7441"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0002-5948-8691",
+      "href": "https://orcid.org/0000-0002-5948-8691",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "mgremesal@fi.upm.es",
+      "href": "mailto:mgremesal@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": ""
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Informática Biomédica",
+      "href": "http://www.gib.fi.upm.es/",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=6507216549",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=6507216549",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/garcia-remesal-miguel.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/garcia-remesal-miguel.png 490w, /wp-content/uploads/sites/6/2017/05/garcia-remesal-miguel-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/garcia-remesal-miguel-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

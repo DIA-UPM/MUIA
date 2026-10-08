@@ -1,0 +1,1167 @@
+{
+  "slug": "horarios",
+  "lang": "es",
+  "path": "/es/horarios/",
+  "title": "Horarios",
+  "wpId": 330,
+  "date": "2017-04-19T10:41:46+00:00",
+  "modified": "2026-07-29T08:39:30+00:00",
+  "translations": {
+    "en": "/en/timetables/",
+    "es": "/es/horarios/"
+  },
+  "seo": {
+    "title": "Horarios - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2026/07/MUIA-calendario-2026-2027_MUIA.png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2026/07/MUIA-calendario-2026-2027_MUIA.png"
+    },
+    "twitter": {
+      "twitter:label1": "Tiempo de lectura",
+      "twitter:data1": "3 minutos"
+    }
+  },
+  "bodyClass": "page-template-default page page-id-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit- astra-addon-4.8.6",
+  "blocks": [
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-9sv6f4k",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-yjokuln",
+          "align": "full",
+          "anchor": "hero_section",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-y6aoqv5",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-phz4e97",
+                  "animation": "fadeIn",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h1",
+                      "html": "Máster Universitario en Inteligencia Artificial"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "Horarios y Calendarios"
+                    }
+                  ]
+                },
+                {
+                  "type": "html",
+                  "html": "<p class=\"has-white-color has-text-color\" style=\"margin-top:10px;margin-bottom:10px;padding-top:0;padding-bottom:0;font-style:normal;font-weight:400;line-height:1.6\"><strong>Acto de bienvenida:</strong> <strong>miércoles 2 de septiembre</strong> de 2026 <br>a las <strong>13:00</strong> horas en el aula <strong>6201</strong></p>\n<p class=\"has-white-color has-text-color\" style=\"font-style:normal;font-weight:400;line-height:1.6\"><strong>Comienzo de las clases (asignaturas de primer semestre):</strong> <strong>lunes 7 de septiembre</strong> de 2026</p>\n<p class=\"has-white-color has-text-color\" style=\"margin-top:10px;margin-bottom:10px;padding-top:0;padding-bottom:0;font-style:normal;font-weight:400;line-height:1.6\"><strong>El seminario obligatorio&nbsp;S1: Metodología de la Investigación</strong>&nbsp;se impartirá dos veces:</p>"
+                },
+                {
+                  "type": "feature-list",
+                  "id": "eb-feature-list-b9l7b",
+                  "wrapperClass": "eb-icon-position-left eb-tablet-icon-position-left eb-mobile-icon-position-left eb-feature-list-left",
+                  "listClass": "circle stacked",
+                  "titleTag": "h3",
+                  "items": [
+                    {
+                      "icon": "dashicons-arrow-right-alt",
+                      "iconColor": "var(--eb-global-primary-color)",
+                      "iconBackground": "var(--eb-global-button-text-color)",
+                      "title": "Del 2 al 4 de septiembre de 2026, de 17:00h a 20:00h, en el aula 5001",
+                      "content": ""
+                    },
+                    {
+                      "icon": "dashicons-arrow-right-alt",
+                      "iconColor": "var(--eb-global-primary-color)",
+                      "iconBackground": "var(--eb-global-button-text-color)",
+                      "title": "26 y 27 de enero de 2027. Aula por determinar",
+                      "content": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-7bsi7yn",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-hcm5r3q",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-zjpfom0",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-ck15svb",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-jtzjtfs",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Horarios 2026-27 – Aula 6201"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-5706uoa",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-9sw6mt6",
+          "align": "full",
+          "className": "mi-row",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-5qkj7u0",
+              "className": "mi-columna",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-5didox6",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-dipu4i3",
+                      "animation": "fadeInUp",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h2",
+                          "html": "Lunes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-pr2h3zv",
+                  "anchor": "excluir",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>09:00 – 10:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A7: </strong>Inteligencia Artificial Explicable"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-9q51rx7",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>10:00 – 12:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A3: </strong>Métodos de Simulación"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-k7kmt8v",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>12:00 – 14:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A14: </strong>Modelos de Razonamiento"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-67ini3y",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>14:00 – 15:00</strong>"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-8f3xkyr",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>15:00 – 17:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A1:</strong> Sistemas de Ayuda a la Decisión"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-xqd89oz",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>17:00 – 19:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A8:</strong> Búsqueda Inteligente basada en Metaheurísticas"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-kikrnis",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>19:00 – 21:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A10:</strong> Biología Programable: Computación con ADN e Ingeniería de Biocircuitos"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-5wwtzhx",
+              "className": "mi-columna",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-genbzzy",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-5dh5mo0",
+                      "animation": "fadeInUp",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h2",
+                          "html": "Martes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-pnd1vtv",
+                  "anchor": "excluir",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>09:00 – 10:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A4: </strong>Redes Bayesianas"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-1098jv9",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>10:00 – 12:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A2: </strong>Decisión Participativa  y Negociación"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-z54h6cx",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>12:00 – 14:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A15: </strong>Visión por Computador"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-snnzuw3",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>14:00 – 15:00</strong>"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-ss14smy",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>15:00 – 17:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A12: </strong>Sistemas Multiagente"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-xccid5b",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>17:00 – 19:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A13:</strong> Ingeniería Ontológica"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-2jc7yc8",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>19:00 – 21:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-1krzst4",
+              "className": "mi-columna",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-f012p86",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-fqbova6",
+                      "animation": "fadeInUp",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h2",
+                          "html": "Miércoles"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-h1h5fl8",
+                  "anchor": "excluir",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>09:00 – 10:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A4: </strong>Redes Bayesianas"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-d6ggb",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>10:00 – 12:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A9:</strong> Computación Evolutiva"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-y11wv7a",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>12:00 – 14:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A20:</strong> Deep Learning para el Procesamiento del Lenguaje Natural"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-s721mc1",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>14:00 – 15:00</strong>"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-nyuokjh",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>15:00 – 17:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A11: </strong>Programación  Lógica"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-0va7en6",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>17:00 – 19:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A18:</strong> Ingeniería  Lingüística"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-0sxqfie",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>19:00 – 21:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A19: </strong>Ciencia de la Web"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-qazhz4u",
+              "className": "mi-columna",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-7ct89du",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-vbh614g",
+                      "animation": "fadeInUp",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h2",
+                          "html": "Jueves"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-ln5qlxp",
+                  "anchor": "excluir",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>09:00 – 10:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A7: </strong>Inteligencia Artificial Explicable"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-lw78s0r",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>10:00 – 12:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A6:</strong> Redes de Neuronas Artificiales y Deep Learning"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-0sstayo",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>12:00 – 14:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A17: </strong>Informática Biomédica"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-hu74hsz",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>14:00 – 15:00</strong>"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-tylir49",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>15:00 – 17:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A5:</strong> Aprendizaje Automático"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-df1sa0y",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>17:00 – 19:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A4: </strong>Redes  Bayesianas"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-c89yjc7",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>19:00 – 21:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-30ro5x4",
+              "className": "mi-columna",
+              "children": [
+                {
+                  "type": "wrapper",
+                  "id": "eb-wrapper-7sxemz4",
+                  "contentAlign": "center",
+                  "children": [
+                    {
+                      "type": "advanced-heading",
+                      "id": "eb-advance-heading-xe2lfx0",
+                      "animation": "fadeInUp",
+                      "preset": "button-1",
+                      "parts": [
+                        {
+                          "part": "title",
+                          "tag": "h2",
+                          "html": "Viernes"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-2w5i7db",
+                  "anchor": "excluir",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>09:00 – 10:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-lj71vdu",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>10:00 – 12:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A19: </strong>Ciencia  de la Web"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-fug117q",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>12:00 – 14:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A13: </strong>Ingeniería Ontológica"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-onlz3mi",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>14:00 – 15:00</strong>"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-q9pen6m",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>15:00 – 17:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": "<strong>A16: </strong>Robots  Autónomos"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-78i60mm",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>17:00 – 19:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-z0udwdw",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "<strong>19:00 – 21:00</strong>"
+                    },
+                    {
+                      "part": "subtitle",
+                      "tag": "p",
+                      "html": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-n2v0byh",
+          "align": "full",
+          "children": []
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-0qr2z5d",
+          "animation": "fadeInUp",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Las asignaturas A4, A13y A19 se impartirán <strong>de forma concentrada,</strong>&nbsp;con <strong>4 horas</strong> de clase semanales, durante las <strong>primeras ocho semanas</strong> del semestre. El resto de las asignaturas se imparte a lo largo de todo el semestre (dos horas de clase semanales)."
+            }
+          ]
+        },
+        {
+          "type": "html",
+          "html": "<figure class=\"wp-block-table is-style-regular\" style=\"font-style:normal;font-weight:600\"><table class=\"has-ast-global-color-2-color has-text-color has-background has-fixed-layout\" style=\"background-color:#e7e1e6\"><tbody><tr><td class=\"has-text-align-center\" data-align=\"center\"><strong>1</strong></td><td class=\"has-text-align-center\" data-align=\"center\">2</td><td class=\"has-text-align-center\" data-align=\"center\">3</td><td class=\"has-text-align-center\" data-align=\"center\">4</td><td class=\"has-text-align-center\" data-align=\"center\">5</td><td class=\"has-text-align-center\" data-align=\"center\">6</td><td class=\"has-text-align-center\" data-align=\"center\">7</td><td class=\"has-text-align-center\" data-align=\"center\">8</td><td class=\"has-text-align-center\" data-align=\"center\">9</td><td class=\"has-text-align-center\" data-align=\"center\">10</td><td class=\"has-text-align-center\" data-align=\"center\">11</td><td class=\"has-text-align-center\" data-align=\"center\">12</td><td class=\"has-text-align-center\" data-align=\"center\">13</td><td class=\"has-text-align-center\" data-align=\"center\">14</td><td class=\"has-text-align-center\" data-align=\"center\">15</td><td class=\"has-text-align-center\" data-align=\"center\">16</td></tr></tbody></table></figure>"
+        },
+        {
+          "type": "row",
+          "id": "eb-row-zhhwrse",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-ypo0vs7",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-5jjz0zz",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "A1, A2, A3, A5, A6, A7, A8, A9, A10, A11, A12, A14, A15, A16, A17, A18, A20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "id": "eb-row-z3eqrsw",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-q0g3v2l",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-at2qzuk",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "A4, A13, A19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "id": "eb-column-zwfl8md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-p50f7gk",
+          "animation": "fadeInUp",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Los <strong>horarios</strong> y <strong>aulas</strong> de los <strong>seminarios</strong> del segundo semestre para el curso 2026-27 a partir de febrero están por determinar:"
+            }
+          ]
+        },
+        {
+          "type": "html",
+          "html": "<table id=\"tablepress-11\" class=\"tablepress tablepress-id-11\">\n<thead>\n<tr class=\"row-1 odd\">\n<th class=\"column-1\">SEMANA</th><th class=\"column-2\">SEMINARIO</th><th class=\"column-3\">LUNES</th><th class=\"column-4\">MARTES</th><th class=\"column-5\">MIERCOLES</th><th class=\"column-6\">JUEVES</th><th class=\"column-7\">VIERNES</th><th class=\"column-8\">AULA</th>\n</tr>\n</thead>\n<tbody class=\"row-hover\">\n<tr class=\"row-2 even\">\n<td class=\"column-1\">2 de septiembre de 2026</td><td class=\"column-2\">S1: Metodología de la Investigación (primer semestre)</td><td class=\"column-3\"></td><td class=\"column-4\"></td><td class=\"column-5\">17h-20h</td><td class=\"column-6\">17h-20h</td><td class=\"column-7\">17h-20h</td><td class=\"column-8\">5001</td>\n</tr>\n<tr class=\"row-3 odd\">\n<td class=\"column-1\">26 de enero de 2027</td><td class=\"column-2\">S1: Metodología de la Investigación (segundo semestre)</td><td class=\"column-3\"></td><td class=\"column-4\">17h-20h</td><td class=\"column-5\">17h-20h</td><td class=\"column-6\"></td><td class=\"column-7\"></td><td class=\"column-8\">6202</td>\n</tr>\n<tr class=\"row-4 even\">\n<td class=\"column-1\">3 de febrero de 2025</td><td class=\"column-2\">S16: IA Generativa y Prompt Engineering: Aplicaciones y Retos</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">3102-3103</td>\n</tr>\n<tr class=\"row-5 odd\">\n<td class=\"column-1\">3 de febrero de 2025</td><td class=\"column-2\">S2: Gestión de Proyectos y Análisis de Riesgos</td><td class=\"column-3\">19h-21h</td><td class=\"column-4\">19h-21h</td><td class=\"column-5\">19h-21h</td><td class=\"column-6\">19h-21h</td><td class=\"column-7\">19h-21h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-6 even\">\n<td class=\"column-1\">10 de febrero de 2025</td><td class=\"column-2\">S4: Inteligencia Artificial e Inclusión</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-7 odd\">\n<td class=\"column-1\">17 de febrero de 2025</td><td class=\"column-2\">S15: Planificación Automática</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-8 even\">\n<td class=\"column-1\">24 de febrero de 2025</td><td class=\"column-2\">S5: Análisis de Decisiones</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-9 odd\">\n<td class=\"column-1\">3 de marzo de 2025</td><td class=\"column-2\">S6: Aprendizaje Automático</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-10 even\">\n<td class=\"column-1\">10 de marzo de 2025</td><td class=\"column-2\">S12: Principios de la locomoción robótica</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-11 odd\">\n<td class=\"column-1\">17 de marzo de 2025</td><td class=\"column-2\">S9: Lógica Borrosa</td><td class=\"column-3\">15h-17h</td><td class=\"column-4\">15h-17h</td><td class=\"column-5\">15h-17h</td><td class=\"column-6\">15h-17h</td><td class=\"column-7\">15h-17h</td><td class=\"column-8\">3102-3103</td>\n</tr>\n<tr class=\"row-12 even\">\n<td class=\"column-1\">24 de marzo de 2025</td><td class=\"column-2\">S8: Representación del Conocimiento y Razonamiento</td><td class=\"column-3\">19h-21h</td><td class=\"column-4\">19h-21h</td><td class=\"column-5\">19h-21h</td><td class=\"column-6\">19h-21h</td><td class=\"column-7\">19h-21h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-13 odd\">\n<td class=\"column-1\">31 de marzo de 2025</td><td class=\"column-2\">S10: Computación Cognitiva</td><td class=\"column-3\">19h-21h</td><td class=\"column-4\">19h-21h</td><td class=\"column-5\">19h-21h</td><td class=\"column-6\">19h-21h</td><td class=\"column-7\">19h-21h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-14 even\">\n<td class=\"column-1\">7 de abril de 2025</td><td class=\"column-2\">S7: Computación natural</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-15 odd\">\n<td class=\"column-1\">14 de abril de 2025</td><td class=\"column-2\">SEMANA SANTA</td><td class=\"column-3\"></td><td class=\"column-4\"></td><td class=\"column-5\"></td><td class=\"column-6\"></td><td class=\"column-7\"></td><td class=\"column-8\"></td>\n</tr>\n<tr class=\"row-16 even\">\n<td class=\"column-1\">21 de abril de 2025</td><td class=\"column-2\">S11: Robótica Cognitiva y Percepción</td><td class=\"column-3\"></td><td class=\"column-4\">16h-18.30h</td><td class=\"column-5\">16h-18.30h</td><td class=\"column-6\">16h-18.30h</td><td class=\"column-7\">16h-18.30h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-17 odd\">\n<td class=\"column-1\">28 de abril de 2025</td><td class=\"column-2\"></td><td class=\"column-3\"></td><td class=\"column-4\"></td><td class=\"column-5\"></td><td class=\"column-6\"></td><td class=\"column-7\"></td><td class=\"column-8\"></td>\n</tr>\n<tr class=\"row-18 even\">\n<td class=\"column-1\">5 de mayo de 2025</td><td class=\"column-2\">S14: Procesamiento del lenguaje natural</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-19 odd\">\n<td class=\"column-1\">12 de mayo de 2025</td><td class=\"column-2\">S3: Aspectos Éticos y Legales de la IA</td><td class=\"column-3\">16h-18.30h</td><td class=\"column-4\">16h-18.30h</td><td class=\"column-5\">16h-18.30h</td><td class=\"column-6\"></td><td class=\"column-7\">16h-18.30h</td><td class=\"column-8\">H-1001</td>\n</tr>\n<tr class=\"row-20 even\">\n<td class=\"column-1\">19 de mayo de 2025</td><td class=\"column-2\">S13: Aplicaciones de la Inteligencia Artificial</td><td class=\"column-3\">16h-18h</td><td class=\"column-4\">16h-18h</td><td class=\"column-5\">16h-18h</td><td class=\"column-6\">16h-18h</td><td class=\"column-7\">16h-18h</td><td class=\"column-8\">H-1001</td>\n</tr>\n</tbody>\n</table>"
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-6qutux0",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-t02yl32",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-q4hb8sc",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-wkav6qb",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Calendario académico 2026-2027"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-fc7qgs2",
+                  "figureClass": "img-style-square caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2026/07/MUIA-calendario-2026-2027_MUIA.png",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-cl3ntcr",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-qntjwri",
+          "align": "full",
+          "children": [
+            {
+              "type": "column",
+              "id": "eb-column-dlzwd97",
+              "children": [
+                {
+                  "type": "advanced-heading",
+                  "id": "eb-advance-heading-jv14rnd",
+                  "animation": "fadeInUp",
+                  "preset": "button-1",
+                  "parts": [
+                    {
+                      "part": "title",
+                      "tag": "h2",
+                      "html": "Calendario académico 2024-2025"
+                    }
+                  ]
+                },
+                {
+                  "type": "advanced-image",
+                  "id": "eb-advanced-image-aw4epeq",
+                  "figureClass": "img-style-square caption-style-1 caption-horizontal-center caption-vertical-bottom bottom no-effect",
+                  "src": "/wp-content/uploads/sites/6/2024/06/MUIA-calendario-MOVIL-2024-2025-ESPANOL.png",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wrapper",
+      "id": "eb-wrapper-hbmg6fk",
+      "align": "full",
+      "contentAlign": "center",
+      "children": [
+        {
+          "type": "row",
+          "id": "eb-row-kr9ynr0",
+          "align": "full",
+          "children": []
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-9tuxb0v",
+          "animation": "fadeInUp",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": "Evaluación"
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Convocatoria ordinaria: <strong>Del 11 al 15 de enero de 202</strong>7, en el horario especificado en la siguiente tabla (en rojo, y para evitar confusiones, los únicos exámenes que <strong>NO</strong> se realizan en el horario de clase de la asignatura; los otros siguen el mismo horario que las clases)."
+            }
+          ]
+        },
+        {
+          "type": "html",
+          "html": "<table id=\"tablepress-13\" class=\"tablepress tablepress-id-13\">\n<thead>\n<tr class=\"row-1\">\n<th class=\"column-1\"></th><th class=\"column-2\">10:00-12:00</th><th class=\"column-3\">12:00-14:00</th><th class=\"column-4\">14:00-15:00</th><th class=\"column-5\">15:00-17:00</th><th class=\"column-6\">17:00-19:00</th><th class=\"column-7\">19:00-21:00</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"row-2\">\n<td class=\"column-1\">LUNES</td><td class=\"column-2\">A3: Métodos de simulación</td><td class=\"column-3\">A14: Modelos de razonamiento</td><td class=\"column-4\"></td><td class=\"column-5\">A1: Sistemas de ayuda a la decisión</td><td class=\"column-6\">A8: Búsqueda inteligente basada en metaheurísticas </td><td class=\"column-7\">A10: Biología programable: Computación con ADN e Ingeniería de biocircuitos</td>\n</tr>\n<tr class=\"row-3\">\n<td class=\"column-1\">MARTES</td><td class=\"column-2\">A2: Decisión participativa y negociación</td><td class=\"column-3\">A17: Informática biomédica</td><td class=\"column-4\"></td><td class=\"column-5\">A12: Sistemas multiagente</td><td class=\"column-6\">A13: Ingeniería ontológica</td><td class=\"column-7\"></td>\n</tr>\n<tr class=\"row-4\">\n<td class=\"column-1\">MIÉRCOLES</td><td class=\"column-2\">A9: Computación evolutiva</td><td class=\"column-3\">A20: Deep Learning para el Procesamiento del Lenguaje Natural</td><td class=\"column-4\"></td><td class=\"column-5\"><span style=\"color: OrangeRed\">A18: Ingeniería lingüística</span><br>\n</td><td class=\"column-6\"><span style=\"color: OrangeRed\">A11: Programación lógica</span><br>\n</td><td class=\"column-7\">A19: Ciencia de la web </td>\n</tr>\n<tr class=\"row-5\">\n<td class=\"column-1\">JUEVES</td><td class=\"column-2\">A6: Redes de neuronas artificiales y Deep Learning</td><td class=\"column-3\">A17: Informática biomédica</td><td class=\"column-4\"></td><td class=\"column-5\">A5: Aprendizaje automático</td><td class=\"column-6\">A4: Redes bayesianas</td><td class=\"column-7\"></td>\n</tr>\n<tr class=\"row-6\">\n<td class=\"column-1\">VIERNES</td><td class=\"column-2\"></td><td class=\"column-3\"></td><td class=\"column-4\"></td><td class=\"column-5\">A16: Robots autónomos</td><td class=\"column-6\">A7: Inteligencia artificial explicable (NUEVA en 2023-24)</td><td class=\"column-7\"></td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+          "type": "advanced-heading",
+          "id": "eb-advance-heading-2czau",
+          "animation": "fadeInUp",
+          "preset": "button-1",
+          "parts": [
+            {
+              "part": "title",
+              "tag": "h2",
+              "html": ""
+            },
+            {
+              "part": "subtitle",
+              "tag": "p",
+              "html": "Convocatoria extraordinaria: <strong>Del 1 al 7 de julio</strong>.<br><br>IMPORTANTE: este período va de miércoles a martes, aunque la tabla de momento no lo refleje. El examen de la asignatura A3 está previsto el jueves 1, el de A2 está previsto el viernes 2, el de A6 está previsto el lunes 5, etc.<br>"
+            }
+          ]
+        },
+        {
+          "type": "html",
+          "html": "<table id=\"tablepress-14\" class=\"tablepress tablepress-id-14\">\n<thead>\n<tr class=\"row-1\">\n<th class=\"column-1\"></th><th class=\"column-2\">10:00-12:00</th><th class=\"column-3\">12:00-14:00</th><th class=\"column-4\">14:00-15:00</th><th class=\"column-5\">15:00-17:00</th><th class=\"column-6\">17:00-19:00</th><th class=\"column-7\">19:00-21:00</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"row-2\">\n<td class=\"column-1\">JUEVES</td><td class=\"column-2\">A3: Métodos de simulación</td><td class=\"column-3\">A14: Modelos de razonamiento</td><td class=\"column-4\"></td><td class=\"column-5\">A1: Sistemas de ayuda a la decisión</td><td class=\"column-6\">A8: Búsqueda inteligente basada en metaheurísticas </td><td class=\"column-7\">A10: Biología programable: Computación con ADN e Ingeniería de biocircuitos</td>\n</tr>\n<tr class=\"row-3\">\n<td class=\"column-1\">VIERNES</td><td class=\"column-2\">A2: Decisión participativa y negociación</td><td class=\"column-3\">A17: Informática biomédica</td><td class=\"column-4\"></td><td class=\"column-5\">A12: Sistemas multiagente</td><td class=\"column-6\">A13: Ingeniería ontológica</td><td class=\"column-7\"></td>\n</tr>\n<tr class=\"row-4\">\n<td class=\"column-1\">LUNES</td><td class=\"column-2\">A9: Computación evolutiva</td><td class=\"column-3\">A20: Deep Learning para el Procesamiento del Lenguaje Natural</td><td class=\"column-4\"></td><td class=\"column-5\"><span style=\"color: OrangeRed\">A18: Ingeniería lingüística</span><br>\n</td><td class=\"column-6\"><span style=\"color: OrangeRed\">A11: Programación lógica</span><br>\n</td><td class=\"column-7\">A19: Ciencia de la web </td>\n</tr>\n<tr class=\"row-5\">\n<td class=\"column-1\">MARTES</td><td class=\"column-2\">A6: Redes de neuronas artificiales y Deep Learning</td><td class=\"column-3\">A17: Informática biomédica</td><td class=\"column-4\"></td><td class=\"column-5\">A5: Aprendizaje automático</td><td class=\"column-6\">A4: Redes bayesianas</td><td class=\"column-7\"></td>\n</tr>\n<tr class=\"row-6\">\n<td class=\"column-1\">MIÉRCOLES</td><td class=\"column-2\"></td><td class=\"column-3\"></td><td class=\"column-4\"></td><td class=\"column-5\">A16: Robots autónomos</td><td class=\"column-6\">A7: Inteligencia artificial explicable (NUEVA en 2023-24)</td><td class=\"column-7\"></td>\n</tr>\n</tbody>\n</table>"
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "selector": "#tablepress-13",
+      "options": {
+        "stripeClasses": [],
+        "ordering": false,
+        "paging": false,
+        "searching": false,
+        "info": false,
+        "scrollX": true
+      }
+    },
+    {
+      "selector": "#tablepress-14",
+      "options": {
+        "stripeClasses": [],
+        "ordering": false,
+        "paging": false,
+        "searching": false,
+        "info": false,
+        "scrollX": true
+      }
+    }
+  ],
+  "stylesheet": "blocks/pages/es-horarios.css"
+}

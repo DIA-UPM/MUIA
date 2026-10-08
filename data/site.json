@@ -1,0 +1,135 @@
+{
+  "name": "Máster Universitario en Inteligencia Artificial",
+  "origin": "https://muia.dia.fi.upm.es",
+  "defaultLanguage": "es",
+  "languages": {
+    "es": {
+      "locale": "es-ES",
+      "hreflang": "es",
+      "ogLocale": "es_ES",
+      "home": "/es/",
+      "logoAlt": "Máster Universitario en Inteligencia Artificial",
+      "strings": {
+        "skipLink": "Ir al contenido",
+        "skipLinkTitle": "Ir al contenido",
+        "menuToggle": "Alternar menú",
+        "dropdownToggle": "Conmutador del menú",
+        "mainMenu": "Main Menu",
+        "closeMenu": "Close menu",
+        "scrollTop": "Scroll al inicio",
+        "feedTitle": "Máster Universitario en Inteligencia Artificial » Feed",
+        "commentsFeedTitle": "Máster Universitario en Inteligencia Artificial » Feed de los comentarios",
+        "paginationLabel": "Paginación de entradas",
+        "next": "Siguiente <span class=\"ast-right-arrow\">→</span>",
+        "previous": "<span class=\"ast-left-arrow\">←</span> Anterior",
+        "noResults": "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda.",
+        "searchLabel": "Buscar por:",
+        "searchPlaceholder": "Search...",
+        "searchSubmit": "Buscar",
+        "searchButton": "Enviar la búsqueda",
+        "searchHidden": "Buscar",
+        "searchResultsTitle": "Resultados de búsqueda para: ",
+        "searchDocumentTitle": "Has buscado {query} - Máster Universitario en Inteligencia Artificial",
+        "breadcrumbsLabel": "Migas de pan",
+        "breadcrumbsHome": "Inicio",
+        "searchResultsTrail": "Resultados de búsqueda para: ",
+        "searchNoResults": "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+      },
+      "headerHtml": "<h1 style=\"font-family: 'Syne', sans-serif;font-weight: normal;font-size: 13.9pt;color: transparent;border: 1px solid #cccccc;border-radius: 3px;padding: 0 12px;line-height: 29px\">\n<span style=\"color: #ffffff\">Máster Universitario en Inteligencia Artificial</span><br>\n</h1>"
+    },
+    "en": {
+      "locale": "en-US",
+      "hreflang": "en",
+      "ogLocale": "en_US",
+      "home": "/en/",
+      "logoAlt": "Máster Universitario en Inteligencia Artificial",
+      "strings": {
+        "skipLink": "Skip to content",
+        "skipLinkTitle": "Skip to content",
+        "menuToggle": "Menu Toggle",
+        "dropdownToggle": "Menu Toggle",
+        "mainMenu": "Main Menu",
+        "closeMenu": "Close menu",
+        "scrollTop": "Scroll to Top",
+        "feedTitle": "Máster Universitario en Inteligencia Artificial » Feed",
+        "commentsFeedTitle": "Máster Universitario en Inteligencia Artificial » Comments Feed",
+        "paginationLabel": "Post pagination",
+        "next": "Next <span class=\"ast-right-arrow\">→</span>",
+        "previous": "<span class=\"ast-left-arrow\">←</span> Previous",
+        "noResults": "It seems we can’t find what you’re looking for. Perhaps searching can help.",
+        "searchLabel": "Search for:",
+        "searchPlaceholder": "Search...",
+        "searchSubmit": "Search",
+        "searchButton": "Search Submit",
+        "searchHidden": "Search",
+        "searchResultsTitle": "Search Results for: ",
+        "searchDocumentTitle": "Has buscado {query} - Máster Universitario en Inteligencia Artificial",
+        "breadcrumbsLabel": "Breadcrumbs",
+        "breadcrumbsHome": "Home",
+        "searchResultsTrail": "Search results for: ",
+        "searchNoResults": "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+      },
+      "headerHtml": "<h1 style=\"font-family: 'Syne', sans-serif;font-weight: normal;font-size: 13.9pt;color: transparent;border: 1px solid #cccccc;border-radius: 3px;padding: 0 12px;line-height: 29px\">\n<span style=\"color: #ffffff\">Máster Universitario en Inteligencia Artificial</span><br>\n</h1>"
+    }
+  },
+  "logo": {
+    "src": "/wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x.png",
+    "width": 727,
+    "height": 156,
+    "srcset": "/wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x.png 727w, /wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x-300x64.png 300w, /wp-content/uploads/sites/6/2023/11/dia-etsii-upm-logo@96x-380x82.png 380w",
+    "sizes": "(max-width: 727px) 100vw, 727px"
+  },
+  "favicon": "/wp-content/uploads/sites/6/2023/12/logo-dia-actualizado.svg",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "layouts": {
+    "search": {
+      "bodyClass": "search {results} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-separate-container ast-two-container ast-no-sidebar astra-4.8.6 group-blog ast-inherit-site-logo-transparent ast-hfb-header ast-blog-grid-3 ast-blog-layout-4 ast-pagination-default ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default astra-addon-4.8.6"
+    },
+    "post": {
+      "bodyClass": "post-template-default single single-post postid-{id} single-format-standard wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-separate-container ast-two-container ast-right-sidebar astra-4.8.6 group-blog ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-normal-title-enabled elementor-default elementor-kit- astra-addon-4.8.6"
+    },
+    "home": {
+      "bodyClass": "home page-template-default page page-id-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-normal-title-enabled elementor-default elementor-kit- astra-addon-4.8.6"
+    },
+    "page": {
+      "bodyClass": "page-template-default page page-id-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-normal-title-enabled elementor-default elementor-kit- astra-addon-4.8.6"
+    },
+    "person": {
+      "bodyClass": "personal-template-default single single-personal postid-{id} wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-plain-container ast-no-sidebar astra-4.8.6 group-blog ast-blog-single-style-1 ast-custom-post-type ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-normal-title-enabled elementor-default elementor-kit- astra-addon-4.8.6"
+    }
+  },
+  "notFound": {
+    "lang": "es",
+    "title": "Página no encontrada - Máster Universitario en Inteligencia Artificial",
+    "heading": "Parece que esta página no existe.",
+    "subtitle": "Parece que el enlace que apuntaba aquí no sirve. ¿Quieres probar con una búsqueda?",
+    "bodyClass": "error404 wp-custom-logo ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-separate-container ast-two-container ast-no-sidebar astra-4.8.6 group-blog ast-inherit-site-logo-transparent ast-hfb-header ast-full-width-layout ast-sticky-main-shrink ast-sticky-below-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default astra-addon-4.8.6"
+  },
+  "dataTablesLanguage": {
+    "es": {
+      "emptyTable": "Ningún dato disponible en esta tabla",
+      "info": "Mostrando desde _START_ hasta _END_ de _TOTAL_ registros",
+      "infoEmpty": "Mostrando desde 0 hasta 0 de 0 registros",
+      "infoFiltered": "(filtrado de _MAX_ registros en total)",
+      "infoPostFix": "",
+      "lengthMenu": "Mostrar _MENU_ registros",
+      "loadingRecords": "Cargando...",
+      "processing": "Procesando...",
+      "search": "Buscar:",
+      "zeroRecords": "No se encontraron resultados",
+      "paginate": {
+        "first": "Primero",
+        "previous": "Anterior",
+        "next": "Siguiente",
+        "last": "Último"
+      },
+      "aria": {
+        "sortAscending": ": Activar para ordenar la columna de manera ascendente",
+        "sortDescending": ": Activar para ordenar la columna de manera descendente"
+      },
+      "decimal": ",",
+      "thousands": "."
+    },
+    "en": {}
+  }
+}

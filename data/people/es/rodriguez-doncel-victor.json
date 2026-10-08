@@ -1,0 +1,103 @@
+{
+  "slug": "rodriguez-doncel-victor",
+  "lang": "es",
+  "path": "/es/personal/rodriguez-doncel-victor/",
+  "name": "Rodríguez Doncel, Víctor",
+  "wpId": 5591,
+  "date": "2023-10-05T17:59:42+00:00",
+  "modified": "2024-01-13T15:19:02+00:00",
+  "tags": [
+    "profesores-titulares-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/rodriguez-doncel-victor_en/",
+    "es": "/es/personal/rodriguez-doncel-victor/"
+  },
+  "seo": {
+    "title": "Rodríguez Doncel, Víctor - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 3205Web: Teléfono: +34-91-067-2947ORCID: https://orcid.org/0000-0003-1076-2511Email: vrodriguez@fi.upm.esResearcherID: http://www.researcherid.com/rid/J-5779-2012Grupo de investigación: Grupo de Ingeniería OntológicaScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=35204031900",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2020/08/victor_rodriguez.jpg",
+      "width": 176,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/rodriguez-donce-victor.png",
+      "width": 450,
+      "height": 450
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/rodriguez-donce-victor.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "3205"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-067-2947"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0003-1076-2511",
+      "href": "https://orcid.org/0000-0003-1076-2511",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "vrodriguez@fi.upm.es",
+      "href": "mailto:vrodriguez@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/J-5779-2012",
+      "href": "http://www.researcherid.com/rid/J-5779-2012",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Ingeniería Ontológica",
+      "href": "http://www.oeg-upm.net",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=35204031900",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=35204031900",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/rodriguez-donce-victor.png",
+    "width": 450,
+    "height": 450,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/rodriguez-donce-victor.png 450w, /wp-content/uploads/sites/6/2023/10/rodriguez-donce-victor-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/rodriguez-donce-victor-150x150.png 150w",
+    "sizes": "(max-width: 450px) 100vw, 450px"
+  }
+}

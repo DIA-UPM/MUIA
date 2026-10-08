@@ -1,0 +1,59 @@
+{
+  "slug": "pedro-larranaga-nuevo-miembro-jakiunde",
+  "lang": "es",
+  "path": "/es/pedro-larranaga-nuevo-miembro-jakiunde/",
+  "title": "Pedro Larrañaga nuevo miembro de Jakiunde",
+  "wpId": 307,
+  "date": "2022-11-25T12:27:56+00:00",
+  "modified": "2023-11-23T18:54:46+00:00",
+  "author": "admin",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Pedro Larrañaga nuevo miembro de Jakiunde - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Pedro Larrañaga elegido por votación nuevo miembro de Jakiunde, la Academia de las Ciencias, las Letras y las Artes del […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef.jpg",
+      "width": 220,
+      "height": 156,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef.jpg",
+      "width": 220,
+      "height": 156,
+      "caption": "P Larranagainteriordef"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "admin"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<pre>Pedro Larrañaga elegido por votación nuevo miembro de <a href=\"https://www.jakiunde.eus\">Jakiunde</a>, la Academia de las Ciencias, las Letras y las Artes del País Vasco.\n\nLos miembros de la Academia están reconocidos públicamente por su labor en diferentes disciplinas de las ciencias puras y las aplicadas, la creación artística y el pensamiento crítico y apuestan por trabajar en común para ofrecer a la sociedad su percepción ante los nuevos retos del futuro.\n\n<a href=\"https://www.upm.es/UPM/SalaPrensa/Noticias?id=87ee29e179994810VgnVCM10000009c7648a____&amp;fmt=detail&amp;prefmt=articulo\">Pulsa aquí para más información\n</a><a href=\"https://www.jakiunde.eus/\">https://www.jakiunde.eus</a></pre>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef.jpg",
+    "width": 220,
+    "height": 156,
+    "alt": "P Larranagainteriordef",
+    "srcset": "/wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef.jpg 220w, /wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef-50x35.jpg 50w",
+    "sizes": "(max-width: 220px) 100vw, 220px"
+  },
+  "wordCount": 7,
+  "excerpt": "<p>Pedro Larrañaga elegido por votación nuevo miembro de Jakiunde, la Academia de las Ciencias, las Letras y las Artes del […]</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef.jpg",
+    "width": 220,
+    "height": 156,
+    "alt": "P Larranagainteriordef",
+    "srcset": "/wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef.jpg 220w, /wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef-50x35.jpg 50w",
+    "sizes": "(max-width: 220px) 100vw, 220px"
+  }
+}

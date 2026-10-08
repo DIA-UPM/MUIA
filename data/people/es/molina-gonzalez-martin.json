@@ -1,0 +1,103 @@
+{
+  "slug": "molina-gonzalez-martin",
+  "lang": "es",
+  "path": "/es/personal/molina-gonzalez-martin/",
+  "name": "Molina González, Martín",
+  "wpId": 700,
+  "date": "2017-05-26T12:00:54+00:00",
+  "modified": "2024-01-13T15:54:27+00:00",
+  "tags": [
+    "catedraticos-de-universidad"
+  ],
+  "translations": {
+    "en": "/en/personal/molina-gonzalez-martin_en/",
+    "es": "/es/personal/molina-gonzalez-martin/"
+  },
+  "seo": {
+    "title": "Molina González, Martín - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Despacho: 2111Web: Teléfono: +34-91-336-3756ORCID: https://orcid.org/0000-0001-7145-1974Email: mmolina@fi.upm.esResearcherID: http://www.researcherid.com/rid/L-9517-2014Grupo de investigación: Grupo de Sistemas Inteligentes e Ingeniería del ConocimientoScopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=55926142500 […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2019/06/Martin-new_0.png",
+      "width": 194,
+      "height": 220,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/05/Molina-Gonzalez-Martin.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Molina-Gonzalez-Martin.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Despacho",
+      "value": "2111"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Teléfono",
+      "value": "+34-91-336-3756"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "https://orcid.org/0000-0001-7145-1974",
+      "href": "https://orcid.org/0000-0001-7145-1974",
+      "target": "_blank",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "mmolina@fi.upm.es",
+      "href": "mailto:mmolina@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/L-9517-2014",
+      "href": "http://www.researcherid.com/rid/L-9517-2014",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Grupo de investigación",
+      "value": "Grupo de Sistemas Inteligentes e Ingeniería del Conocimiento",
+      "href": "https://dia.fi.upm.es/grupos/I&K/I&K-home.htm",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=55926142500",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=55926142500",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>\n<p><!-- wp:paragraph --></p>\n<p>Licenciado en Informática en 1990 por la Universidad Politécnica de Madrid (UPM), Doctor en Informática por la UPM (1993), es profesor en el Departamento de Inteligencia Artificial de la UPM desde 1994 y Catedrático de Universidad en dicho departamento desde 2012 en el área de conocimiento de Ciencias de la Computación e Inteligencia Artificial. Ha sido profesor invitado durante aproximadamente 3 años en distintos centros de investigación de reconocido prestigio en Estados Unidos (AT&amp;T Labs–Research en 2008, Universidad de Stanford en 1995 y Universidad de California–Irvine en 1994).</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Entre 1999 y 2016 dirigió el grupo de investigación de “Sistemas Inteligentes e Ingeniería del Conocimiento” de la UPM y actualmente es miembro del grupo de investigación “Visión por Computador y Robótica Aérea” de la UPM, en donde es responsable de la línea de investigación de inteligencia artificial en robótica aérea (arquitecturas cognitivas, sistemas autónomos, interacción persona-robot y aprendizaje automático).</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>En conjunto, tiene más de 20 años de experiencia en investigación en sistemas inteligentes y sus aplicaciones prácticas. Entre sus contribuciones a la ciencia es posible destacar más de 90 publicaciones relacionadas con la Inteligencia Artificial. Son de especial interés además sus contribuciones a la aplicación de los sistemas inteligentes al ámbito de la ingeniería civil (transporte, hidrología, aeronáutica, etc.).<!-- /wp:paragraph --></p>\n<p></p>"
+    }
+  ],
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/05/Molina-Gonzalez-Martin.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2017/05/Molina-Gonzalez-Martin.png 490w, /wp-content/uploads/sites/6/2017/05/Molina-Gonzalez-Martin-300x300.png 300w, /wp-content/uploads/sites/6/2017/05/Molina-Gonzalez-Martin-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  }
+}

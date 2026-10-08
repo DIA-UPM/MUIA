@@ -1,0 +1,57 @@
+{
+  "slug": "pedro_fellowaaia",
+  "lang": "es",
+  "path": "/es/pedro_fellowaaia/",
+  "title": "Pedro Larrañaga nombrado Fellow de la Asia-Pacific Artificial Intelligence Association",
+  "wpId": 292,
+  "date": "2021-11-15T11:26:11+00:00",
+  "modified": "2023-11-23T18:17:32+00:00",
+  "author": "admin",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Pedro Larrañaga nombrado Fellow de la Asia-Pacific Artificial Intelligence Association - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El Catedrático del Departamento de Inteligencia Artificial de la Universidad Politécnica de Madrid ha sido designado Fellow de la Asia-Pacific […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2021/11/Pedro-Larranaga-2021.jpg",
+      "width": 204,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2021/11/Pedro-Larranaga-2021.jpg",
+      "width": 204,
+      "height": 220,
+      "caption": "Pedro-Larran?aga-2021"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "admin",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p>El Catedrático del Departamento de Inteligencia Artificial de la Universidad Politécnica de Madrid ha sido designado Fellow de la Asia-Pacific Artificial Intelligence Association (AAIA). La AAIA se ha constituido este año 2021 en Hong Kong. Se trata de una organización académica, no gubernamental, sin ánimo de lucro que busca la promoción del desarrollo y la aplicación de la Inteligencia Artificial a través de la investigación académica, la conexión con la industria y la sociedad, así como por medio de la organización de actividades de diseminación y divulgación. En la actualidad consta de mas de 400 Fellows provenientes de diversas academias (US National Academy of Sciences, US National Academy of Engineering, Chinese Academy of Engineering, Academia Europaea, …), de prestigiosas universidades, y de compañías tecnológicas (Google, Microsoft, IBM, Alibaba, Huawei, …).</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2021/11/Pedro-Larranaga-2021.jpg",
+    "width": 204,
+    "height": 220,
+    "alt": "Pedro-Larran?aga-2021"
+  },
+  "wordCount": 153,
+  "excerpt": "<p>El Catedrático del Departamento de Inteligencia Artificial de la Universidad Politécnica de Madrid ha sido designado Fellow de la Asia-Pacific</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2021/11/Pedro-Larranaga-2021.jpg",
+    "width": 204,
+    "height": 220,
+    "alt": "Pedro-Larran?aga-2021"
+  }
+}

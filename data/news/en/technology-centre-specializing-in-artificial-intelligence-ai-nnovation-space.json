@@ -1,0 +1,59 @@
+{
+  "slug": "technology-centre-specializing-in-artificial-intelligence-ai-nnovation-space",
+  "lang": "en",
+  "path": "/en/technology-centre-specializing-in-artificial-intelligence-ai-nnovation-space/",
+  "title": "Technology Centre specializing in artificial intelligence “AI.nnovation Space”",
+  "wpId": 71,
+  "date": "2022-10-03T07:19:04+00:00",
+  "modified": "2023-11-24T00:34:11+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "currenta-affairs",
+    "news",
+    "top-stories"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Technology Centre specializing in artificial intelligence “AI.nnovation Space” - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "DIA has set up in conjunction with Accenture a UPM Joint Technology Centre specializing in artificial intelligence, called AI.nnovation Space. […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2017/10/Captura-de-pantalla-2017-10-03-a-las-9.08.40.png",
+      "width": 220,
+      "height": 206,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2017/10/Captura-de-pantalla-2017-10-03-a-las-9.08.40.png",
+      "width": 220,
+      "height": 206,
+      "caption": "Captura de pantalla 2017-10-03 a las 9"
+    },
+    "twitter": {
+      "twitter:label1": "Written by",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Est. reading time",
+      "twitter:data2": "1 minute"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">DIA has set up in conjunction with Accenture a UPM Joint <strong>Technology Centre specializing in artificial intelligence</strong>, called <strong>AI.nnovation Space</strong>.</p>\n<p><span id=\"more-71\"></span></p>\n<p class=\"rtejustify\">In conjunction with Accenture, DIA has set up a UPM Joint <strong>Technology Centre specializing in artificial intelligence</strong>, called AI.nnovation Space. <strong>AI.nnovation Space</strong> was designed to provide research, innovation and coworking support for joint development and experimentation within a range of industrial application domains. The space&nbsp;is to bused to generate innovative solutions based on artificial intelligence techniques. This technology transfer process includes different stages ranging from the capture, maturing and incubation of ideas and prototyping, through product definition and implementation, to spin-off development and release.</p>\n<p class=\"rtejustify\">The AI.nnovation Space provides support for the MSc in Artificial Intelligence teaching programme and offers a framework for technology innovation and transfer in artificial intelligence for master’s programme students.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2017/10/Captura-de-pantalla-2017-10-03-a-las-9.08.40.png",
+    "width": 220,
+    "height": 206,
+    "alt": "Captura de pantalla 2017-10-03 a las 9"
+  },
+  "wordCount": 149,
+  "excerpt": "<p>DIA has set up in conjunction with Accenture a UPM Joint Technology Centre specializing in artificial intelligence, called AI.nnovation Space.</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2017/10/Captura-de-pantalla-2017-10-03-a-las-9.08.40.png",
+    "width": 220,
+    "height": 206,
+    "alt": "Captura de pantalla 2017-10-03 a las 9"
+  }
+}

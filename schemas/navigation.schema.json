@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "navigation.schema.json",
+  "title": "Main menu (data/navigation/<lang>.json)",
+  "type": "object",
+  "required": ["lang", "ariaLabel", "items", "languageSwitcher"],
+  "properties": {
+    "lang": { "enum": ["es", "en"] },
+    "ariaLabel": { "type": "string" },
+    "items": { "type": "array", "items": { "$ref": "#/definitions/item" } },
+    "languageSwitcher": {
+      "type": "object",
+      "required": ["targetLang", "itemId", "termId", "hreflang", "label", "flag"]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "required": ["id", "label", "url", "kind"],
+      "properties": {
+        "id": { "type": "integer", "description": "Menu item id (keeps the menu-item-<id> CSS class)" },
+        "label": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "minLength": 1 },
+        "kind": { "enum": ["page", "custom", "category"] },
+        "children": { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

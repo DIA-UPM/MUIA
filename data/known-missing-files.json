@@ -1,0 +1,147 @@
+{
+  "//": "Files referenced by the content that were already missing on the original website (HTTP 404 during the crawl). The validator reports other missing files as errors.",
+  "files": [
+    {
+      "path": "/wp-content/uploads/2019/09/Euro-Inf_Framework_Standards_and_Accreditation_Criteria_Spanish_Version.pdf",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/jbajo-copia_0.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/concha-1.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/bogulasky.png",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/oscar.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/javierdlope.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2019/05/MG_8893-bis_0.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2018/05/juanantonio_0.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2021/06/Garcia-Castro-Raul-e1696531855477.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2023/10/esteban-garcia-cuesta.jpeg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2018/05/remesal_0.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/asun.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/jgpachon.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/pepa.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/ajimenez2.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/manrique.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/victormaojo.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2023/10/Martinez-Orga-Vicente.jpeg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/alfonso.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2019/06/David_0.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2023/10/mariaPoveda.webp",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2022/04/Webp.net-resizeimage-4.png",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2020/08/victor_rodriguez.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/alfonsorp.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/nik.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2023/10/RobertoValle-e1696537433644.jpeg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2021/06/damiano.jpeg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/concha-1_0.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2017/05/Josefa-Hernandez-Diego.jpg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    },
+    {
+      "path": "/wp-content/uploads/sites/6/2021/06/EmilioS2018DIA_0.jpeg",
+      "reason": "Broken on the original site (HTTP 404); references kept as they were."
+    }
+  ],
+  "links": [
+    {
+      "path": "/wp%20content/uploads/sites/6/2017/05/GA_10AJ_103000345_1S_2021-22.pdf",
+      "page": "/en/structure/",
+      "reason": "Malformed URL in the original content (space instead of hyphen in wp-content); returns 404 on the original site."
+    },
+    {
+      "path": "/en//",
+      "page": "/en/structure/",
+      "reason": "Double slash in the original link; WordPress redirected it to /en/. Most static servers (nginx merge_slashes) serve /en/ for it."
+    },
+    {
+      "path": "/en//en/access_admission_registration/",
+      "page": "/en/structure/",
+      "reason": "Malformed link in the original content; returns 404 on the original site."
+    },
+    {
+      "path": "http://fuente de noticias y análisis escritos por la comunidad académica e investigadora y dirigida directamente a la sociedad.",
+      "page": "/es/victor-maojo-publica-el-articulo-debemos-creer-la-informacion-medica-que-ofrecen-las-redes-sociales-en-the-conversation/",
+      "reason": "Text pasted as a link target in the original post; the link was already broken on the original site."
+    }
+  ]
+}

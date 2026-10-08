@@ -1,0 +1,102 @@
+{
+  "slug": "garcia-castro-raul_en",
+  "lang": "en",
+  "path": "/en/personal/garcia-castro-raul_en/",
+  "name": "García Castro, Raul",
+  "wpId": 5523,
+  "date": "2023-10-05T17:11:45+00:00",
+  "modified": "2024-01-13T03:09:23+00:00",
+  "tags": [
+    "associate-professors"
+  ],
+  "translations": {
+    "en": "/en/personal/garcia-castro-raul_en/",
+    "es": "/es/personal/garcia-castro-raul/"
+  },
+  "seo": {
+    "title": "García Castro, Raul - Máster Universitario en Inteligencia Artificial",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2021/06/Garcia-Castro-Raul-e1696531855477.jpg",
+      "width": 599,
+      "height": 694,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2023/10/garcia-castro-raul.png",
+      "width": 490,
+      "height": 490
+    }
+  },
+  "photo": {
+    "src": "/wp-content/uploads/sites/6/2023/10/garcia-castro-raul.png"
+  },
+  "contact": [
+    {
+      "icon": "far fa-address-book",
+      "label": "Office",
+      "value": "2110"
+    },
+    {
+      "icon": "far fa-file-word",
+      "label": "Web",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "fas fa-phone-square",
+      "label": "Phone",
+      "value": "+34-91-067-2952"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ORCID",
+      "value": "",
+      "itemNewTab": true
+    },
+    {
+      "icon": "far fa-envelope",
+      "label": "Email",
+      "value": "rgarcia@fi.upm.es",
+      "href": "mailto:rgarcia@fi.upm.es"
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "ResearcherID",
+      "value": "http://www.researcherid.com/rid/J-5745-2012",
+      "href": "http://www.researcherid.com/rid/J-5745-2012",
+      "target": "_blank"
+    },
+    {
+      "icon": "fas fa-users",
+      "label": "Research group",
+      "value": "Grupo de Ingeniería Ontológica",
+      "href": "http://www.oeg-upm.net",
+      "iconColor": ""
+    },
+    {
+      "icon": "far fa-address-card",
+      "label": "Scopus Author ID",
+      "value": "https://www.scopus.com/authid/detail.uri?authorId=13404965900",
+      "href": "https://www.scopus.com/authid/detail.uri?authorId=13404965900",
+      "target": "_blank",
+      "itemNewTab": true,
+      "iconColor": ""
+    }
+  ],
+  "biography": [
+    {
+      "type": "html",
+      "html": "<p></p>"
+    }
+  ],
+  "photoPrefixHtml": "&lt;",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2023/10/garcia-castro-raul.png",
+    "width": 490,
+    "height": 490,
+    "alt": "",
+    "srcset": "/wp-content/uploads/sites/6/2023/10/garcia-castro-raul.png 490w, /wp-content/uploads/sites/6/2023/10/garcia-castro-raul-300x300.png 300w, /wp-content/uploads/sites/6/2023/10/garcia-castro-raul-150x150.png 150w",
+    "sizes": "(max-width: 490px) 100vw, 490px"
+  },
+  "styleVariant": "variant-1"
+}

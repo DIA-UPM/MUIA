@@ -1,0 +1,57 @@
+{
+  "slug": "hashcodeupm-hub-upm-en-la-competicion-hash-code-que-organiza-google",
+  "lang": "es",
+  "path": "/es/hashcodeupm-hub-upm-en-la-competicion-hash-code-que-organiza-google/",
+  "title": "HashCodeUPM: Hub UPM en la competición Hash Code que organiza Google",
+  "wpId": 95,
+  "date": "2018-02-02T09:40:36+00:00",
+  "modified": "2023-11-23T18:48:48+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "HashCodeUPM: Hub UPM en la competición Hash Code que organiza Google - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "Alumnos del MUIA organizan y participan en el HashCodeUPM: Hub UPM en la competición Hash Code que organiza Google, competición por equipos […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2018/02/Hash-Code.png",
+      "width": 220,
+      "height": 114,
+      "type": "image/png"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2018/02/Hash-Code.png",
+      "width": 220,
+      "height": 114,
+      "caption": "Hash Code"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "1 minuto"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">Alumnos del MUIA organizan y participan en el&nbsp;HashCodeUPM: Hub UPM en la competición Hash Code que organiza Google,&nbsp;competición por equipos para resolver un problema algorítimico en un tiempo límite de 4 horas.</p>\n<p><span id=\"more-95\"></span></p>\n<p class=\"rtejustify\">Otro año consecutivo, Google celebra su conocida competición de la Hash Code, en la que equipos de 2 a 4 personas deben resolver un problema algorítmico de alta complejidad. Los equipos que mejores puntuaciones consigan a nivel mundial serán invitados a su fase final que se celebra en la sede de Google en Dublín. Desde la Universidad Politécnica de Madrid os animamos a participar en la Hash Code con el fin de concentrar a diferentes equipos para crear un ambiente más dinámico y festivo en torno a esta competición. El evento abarca desde las 18:30 hasta las 22:30, pero recomendamos acudir antes para que tengáis todo preparado cuando Google anuncie el problema (lo anuncia a las 18:30). No os olvidéis de traer vuestros ordenadores personales.&nbsp;Al registrarse en la competición y recibir confirmación de Google, el líder del equipo debe registrar el propio equipo en el&nbsp;<em>hub&nbsp;</em>con nombre HashCodeUPM para que quedéis registrados y validados en este evento.</p>\n<p style=\"text-align:center\"><img decoding=\"async\" class=\" size-full wp-image-94\" alt=\"\" height=\"109\" src=\"/wp-content/uploads/sites/6/2018/02/image.png\" width=\"309\" srcset=\"/wp-content/uploads/sites/6/2018/02/image.png 496w, /wp-content/uploads/sites/6/2018/02/image-300x105.png 300w\" sizes=\"(max-width: 309px) 100vw, 309px\"></p>\n<p class=\"rtejustify\">Fecha:&nbsp;<strong>1 de marzo, 18:30h – 22:30h</strong></p>\n<p>Lugar:&nbsp;<strong>Escuela Técnica Superior de Ingenieros Informáticos (UPM) Aula 2113</strong></p>\n<p>Mail de contacto:&nbsp;<a href=\"mailto:santiago.gil.begue@gmail.com\" target=\"_blank\" rel=\"noopener\">santiago.gil.begue@gmail.com</a></p>\n<p>Enlace de registro y más información del evento:&nbsp;<u><a href=\"https://hashcode.withgoogle.com/\" target=\"_blank\" rel=\"noopener\">https://hashcode.withgoogle.com/</a></u></p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2018/02/Hash-Code.png",
+    "width": 220,
+    "height": 114,
+    "alt": "Hash Code"
+  },
+  "wordCount": 266,
+  "excerpt": "<p>Alumnos del MUIA organizan y participan en el&nbsp;HashCodeUPM: Hub UPM en la competición Hash Code que organiza Google,&nbsp;competición por equipos</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2018/02/Hash-Code.png",
+    "width": 220,
+    "height": 114,
+    "alt": "Hash Code"
+  }
+}

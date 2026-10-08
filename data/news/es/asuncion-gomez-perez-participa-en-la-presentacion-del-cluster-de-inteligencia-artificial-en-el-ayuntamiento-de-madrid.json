@@ -1,0 +1,61 @@
+{
+  "slug": "asuncion-gomez-perez-participa-en-la-presentacion-del-cluster-de-inteligencia-artificial-en-el-ayuntamiento-de-madrid",
+  "lang": "es",
+  "path": "/es/asuncion-gomez-perez-participa-en-la-presentacion-del-cluster-de-inteligencia-artificial-en-el-ayuntamiento-de-madrid/",
+  "title": "Asunción Gómez-Pérez participa en la presentación del Clúster de Inteligencia Artificial en el Ayuntamiento de Madrid",
+  "wpId": 240,
+  "date": "2020-07-09T06:21:09+00:00",
+  "modified": "2023-11-23T18:26:40+00:00",
+  "author": "ajimenez",
+  "categories": [
+    "noticias-es"
+  ],
+  "tags": [],
+  "translations": {},
+  "seo": {
+    "title": "Asunción Gómez-Pérez participa en la presentación del Clúster de Inteligencia Artificial en el Ayuntamiento de Madrid - Máster Universitario en Inteligencia Artificial",
+    "ogDescription": "El Ayuntamiento de la capital ha impulsado la creación del primer Clúster de Inteligencia Artificial (IA) en España. En el […]",
+    "image": {
+      "src": "/wp-content/uploads/sites/6/2020/07/esquema_3.jpg",
+      "width": 220,
+      "height": 220,
+      "type": "image/jpeg"
+    },
+    "schemaImage": {
+      "src": "/wp-content/uploads/sites/6/2020/07/esquema_3.jpg",
+      "width": 220,
+      "height": 220,
+      "caption": "esquema_3"
+    },
+    "twitter": {
+      "twitter:label1": "Escrito por",
+      "twitter:data1": "ajimenez",
+      "twitter:label2": "Tiempo de lectura",
+      "twitter:data2": "2 minutos"
+    }
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p class=\"rtejustify\">El Ayuntamiento de la capital ha impulsado la creación del primer Clúster de Inteligencia Artificial (IA) en España. En el acto de presentación, convocado por el área de Innovación y Emprendimiento que dirige Ángel Niño, participaron la vicealcaldesa de Madrid, Begoña Villacís, y el delegado de Economía, Innovación y Empleo, Miguel Ángel Redondo, a los que se unió Asunción Gómez-Pérez, catedrática del Departamento de Inteligencia Artificial de la ETSIINF y actual Vicerrectora de Investigación, Innovación y Doctorado de la UPM.</p>\n<p class=\"rtejustify\">En su presentación, la profesora Gómez-Pérez dio a conocer los objetivos del clúster, que busca impulsar el conocimiento de las disciplinas tecnológicas y aplicaciones asociadas a la IA para anticipar la demanda de los sectores estratégicos afincados en la capital, con el fin de incrementar el valor de negocio, predecir las evoluciones relacionadas con esta tecnología –que el mercado demandará sobre la base de estudios analíticos y tratamiento de la información y datos–, y su interacción con la red de ciudades del mundo referentes en este terreno.</p>\n<p class=\"rtejustify\">La Vicerrectora de Investigación, Innovación y Doctorado abordó la creación del Digital Innovation Hub in Artificial Intelligence &amp; Robotics for Sustainable Development Goals (DIH – AIR4S) de la Universidad Politécnica de Madrid (UPM) en colaboración con diferentes organismos, entre los que se encuentra el Ayuntamiento de la capital. Asimismo, señaló que el motivo que ha llevado a impulsar la fundación de este Hub ha sido la existencia de más de 30 grupos de investigación y más de 200 investigadores en la UPM relacionados con la IA y la robótica.</p>\n<p class=\"rtejustify\">Puede verse el vídeo íntegro de la presentación del clúster en el siguiente <a href=\"http://www.fi.upm.es/?id=tablon&amp;acciongt=consulta1&amp;idet=4135\" target=\"_blank\" rel=\"noopener\">enlace</a>.</p>"
+    }
+  ],
+  "featuredImage": {
+    "src": "/wp-content/uploads/sites/6/2020/07/esquema_3.jpg",
+    "width": 220,
+    "height": 220,
+    "alt": "esquema_3",
+    "srcset": "/wp-content/uploads/sites/6/2020/07/esquema_3.jpg 220w, /wp-content/uploads/sites/6/2020/07/esquema_3-150x150.jpg 150w",
+    "sizes": "(max-width: 220px) 100vw, 220px"
+  },
+  "wordCount": 330,
+  "excerpt": "<p>El Ayuntamiento de la capital ha impulsado la creación del primer Clúster de Inteligencia Artificial (IA) en España. En el</p>",
+  "listImage": {
+    "src": "/wp-content/uploads/sites/6/2020/07/esquema_3.jpg",
+    "width": 220,
+    "height": 220,
+    "alt": "esquema_3",
+    "srcset": "/wp-content/uploads/sites/6/2020/07/esquema_3.jpg 220w, /wp-content/uploads/sites/6/2020/07/esquema_3-150x150.jpg 150w",
+    "sizes": "(max-width: 220px) 100vw, 220px"
+  }
+}

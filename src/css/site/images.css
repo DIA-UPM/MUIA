@@ -1,0 +1,2 @@
+/* WordPress default for images with sizes="auto" */
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }

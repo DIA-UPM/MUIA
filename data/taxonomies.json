@@ -1,0 +1,318 @@
+{
+  "category": {
+    "actualidad-es": {
+      "slug": "actualidad-es",
+      "lang": "es",
+      "name": "Actualidad",
+      "path": "/es/category/noticias-es/actualidad-es/",
+      "wpId": 311,
+      "parent": "noticias-es",
+      "translations": {
+        "en": "/en/category/news/currenta-affairs/",
+        "es": "/es/category/noticias-es/actualidad-es/"
+      },
+      "seo": {
+        "title": "Actualidad archivos - Máster Universitario en Inteligencia Artificial",
+        "schemaImage": {
+          "src": "/wp-content/uploads/sites/6/2017/05/Sello-Euroinf.png",
+          "width": 220,
+          "height": 192,
+          "caption": "Sello Euroinf"
+        }
+      }
+    },
+    "currenta-affairs": {
+      "slug": "currenta-affairs",
+      "lang": "en",
+      "name": "Current Affairs",
+      "path": "/en/category/news/currenta-affairs/",
+      "wpId": 318,
+      "parent": "news",
+      "translations": {
+        "en": "/en/category/news/currenta-affairs/",
+        "es": "/es/category/noticias-es/actualidad-es/"
+      },
+      "seo": {
+        "title": "Current Affairs archivos - Máster Universitario en Inteligencia Artificial",
+        "schemaImage": {
+          "src": "/wp-content/uploads/sites/6/2017/10/Captura-de-pantalla-2017-10-03-a-las-9.08.40.png",
+          "width": 220,
+          "height": 206,
+          "caption": "Captura de pantalla 2017-10-03 a las 9"
+        }
+      }
+    },
+    "news": {
+      "slug": "news",
+      "lang": "en",
+      "name": "News",
+      "path": "/en/category/news/",
+      "wpId": 316,
+      "translations": {
+        "en": "/en/category/news/",
+        "es": "/es/category/noticias-es/"
+      },
+      "seo": {
+        "title": "News archivos - Máster Universitario en Inteligencia Artificial",
+        "schemaImage": {
+          "src": "/wp-content/uploads/sites/6/2017/10/Captura-de-pantalla-2017-10-03-a-las-9.08.40.png",
+          "width": 220,
+          "height": 206,
+          "caption": "Captura de pantalla 2017-10-03 a las 9"
+        }
+      }
+    },
+    "noticias-es": {
+      "slug": "noticias-es",
+      "lang": "es",
+      "name": "Noticias",
+      "path": "/es/category/noticias-es/",
+      "wpId": 1,
+      "translations": {
+        "en": "/en/category/news/",
+        "es": "/es/category/noticias-es/"
+      },
+      "seo": {
+        "title": "Noticias archivos - Máster Universitario en Inteligencia Artificial",
+        "schemaImage": {
+          "src": "/wp-content/uploads/sites/6/2022/11/P-Larranagainteriordef.jpg",
+          "width": 220,
+          "height": 156,
+          "caption": "P Larranagainteriordef"
+        }
+      },
+      "themeStyle": "category-news"
+    },
+    "noticias-destacadas": {
+      "slug": "noticias-destacadas",
+      "lang": "es",
+      "name": "Noticias destacadas",
+      "path": "/es/category/noticias-es/noticias-destacadas/",
+      "wpId": 323,
+      "parent": "noticias-es",
+      "translations": {
+        "en": "/en/category/news/top-stories/",
+        "es": "/es/category/noticias-es/noticias-destacadas/"
+      },
+      "seo": {
+        "title": "Noticias destacadas archivos - Máster Universitario en Inteligencia Artificial",
+        "schemaImage": {
+          "src": "/wp-content/uploads/sites/6/2022/07/pedro-concha_eelis.png",
+          "width": 220,
+          "height": 180,
+          "caption": "pedro-concha_eelis"
+        }
+      },
+      "themeStyle": "category-news"
+    },
+    "top-stories": {
+      "slug": "top-stories",
+      "lang": "en",
+      "name": "Top Stories",
+      "path": "/en/category/news/top-stories/",
+      "wpId": 313,
+      "parent": "news",
+      "translations": {
+        "en": "/en/category/news/top-stories/",
+        "es": "/es/category/noticias-es/noticias-destacadas/"
+      },
+      "seo": {
+        "title": "Top Stories archivos - Máster Universitario en Inteligencia Artificial",
+        "schemaImage": {
+          "src": "/wp-content/uploads/sites/6/2017/10/Captura-de-pantalla-2017-10-03-a-las-9.08.40.png",
+          "width": 220,
+          "height": 206,
+          "caption": "Captura de pantalla 2017-10-03 a las 9"
+        }
+      }
+    }
+  },
+  "post_tag": {
+    "assistant-profesors": {
+      "slug": "assistant-profesors",
+      "lang": "en",
+      "name": "Assistant professors",
+      "path": "/en/tag/assistant-profesors/",
+      "wpId": 349,
+      "translations": {
+        "en": "/en/tag/assistant-profesors/",
+        "es": "/es/tag/profesores-permanentes-laborales/"
+      },
+      "seo": {
+        "title": "Assistant professors archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "assistant-professors": {
+      "slug": "assistant-professors",
+      "lang": "en",
+      "name": "Assistant Professors",
+      "path": "/en/tag/assistant-professors/",
+      "wpId": 264,
+      "translations": {
+        "en": "/en/tag/assistant-professors/",
+        "es": "/es/tag/profesores-contratados-doctores/"
+      },
+      "seo": {
+        "title": "Assistant Professors archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "associate-professors": {
+      "slug": "associate-professors",
+      "lang": "en",
+      "name": "Associate Professors",
+      "path": "/en/tag/associate-professors/",
+      "wpId": 245,
+      "translations": {
+        "en": "/en/tag/associate-professors/",
+        "es": "/es/tag/profesores-titulares-de-universidad/"
+      },
+      "seo": {
+        "title": "Associate Professors archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "beatriz-galindo-programme-researcher": {
+      "slug": "beatriz-galindo-programme-researcher",
+      "lang": "en",
+      "name": "Beatriz Galindo Programme Researcher",
+      "path": "/en/tag/beatriz-galindo-programme-researcher/",
+      "wpId": 305,
+      "translations": {
+        "en": "/en/tag/beatriz-galindo-programme-researcher/",
+        "es": "/es/tag/investigador-del-programa-beatriz-galindo/"
+      },
+      "seo": {
+        "title": "Beatriz Galindo Programme Researcher archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "catedraticos-de-universidad": {
+      "slug": "catedraticos-de-universidad",
+      "lang": "es",
+      "name": "Catedráticos de Universidad",
+      "path": "/es/tag/catedraticos-de-universidad/",
+      "wpId": 291,
+      "translations": {
+        "en": "/en/tag/professors/",
+        "es": "/es/tag/catedraticos-de-universidad/"
+      },
+      "seo": {
+        "title": "Catedráticos de Universidad archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "investigador-del-programa-beatriz-galindo": {
+      "slug": "investigador-del-programa-beatriz-galindo",
+      "lang": "es",
+      "name": "Investigador del programa Beatriz Galindo",
+      "path": "/es/tag/investigador-del-programa-beatriz-galindo/",
+      "wpId": 307,
+      "translations": {
+        "en": "/en/tag/beatriz-galindo-programme-researcher/",
+        "es": "/es/tag/investigador-del-programa-beatriz-galindo/"
+      },
+      "seo": {
+        "title": "Investigador del programa Beatriz Galindo archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "lecturers": {
+      "slug": "lecturers",
+      "lang": "en",
+      "name": "Lecturers",
+      "path": "/en/tag/lecturers/",
+      "wpId": 247,
+      "translations": {
+        "en": "/en/tag/lecturers/",
+        "es": "/es/tag/profesores-ayudantes-doctores/"
+      },
+      "seo": {
+        "title": "Lecturers archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "portada": {
+      "slug": "portada",
+      "lang": "es",
+      "name": "portada",
+      "path": "/es/tag/portada/",
+      "wpId": 325,
+      "translations": {},
+      "seo": {
+        "title": "portada archivos - Máster Universitario en Inteligencia Artificial",
+        "schemaImage": {
+          "src": "/wp-content/uploads/sites/6/2017/05/asun_0.png",
+          "width": 220,
+          "height": 151,
+          "caption": "asun_0"
+        }
+      },
+      "themeStyle": "category"
+    },
+    "profesores-ayudantes-doctores": {
+      "slug": "profesores-ayudantes-doctores",
+      "lang": "es",
+      "name": "Profesores Ayudantes Doctores",
+      "path": "/es/tag/profesores-ayudantes-doctores/",
+      "wpId": 297,
+      "translations": {
+        "en": "/en/tag/lecturers/",
+        "es": "/es/tag/profesores-ayudantes-doctores/"
+      },
+      "seo": {
+        "title": "Profesores Ayudantes Doctores archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "profesores-contratados-doctores": {
+      "slug": "profesores-contratados-doctores",
+      "lang": "es",
+      "name": "Profesores Contratados Doctores",
+      "path": "/es/tag/profesores-contratados-doctores/",
+      "wpId": 295,
+      "translations": {
+        "en": "/en/tag/assistant-professors/",
+        "es": "/es/tag/profesores-contratados-doctores/"
+      },
+      "seo": {
+        "title": "Profesores Contratados Doctores archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "profesores-permanentes-laborales": {
+      "slug": "profesores-permanentes-laborales",
+      "lang": "es",
+      "name": "Profesores permanentes laborales",
+      "path": "/es/tag/profesores-permanentes-laborales/",
+      "wpId": 345,
+      "translations": {
+        "en": "/en/tag/assistant-profesors/",
+        "es": "/es/tag/profesores-permanentes-laborales/"
+      },
+      "seo": {
+        "title": "Profesores permanentes laborales archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "profesores-titulares-de-universidad": {
+      "slug": "profesores-titulares-de-universidad",
+      "lang": "es",
+      "name": "Profesores Titulares de Universidad",
+      "path": "/es/tag/profesores-titulares-de-universidad/",
+      "wpId": 293,
+      "translations": {
+        "en": "/en/tag/associate-professors/",
+        "es": "/es/tag/profesores-titulares-de-universidad/"
+      },
+      "seo": {
+        "title": "Profesores Titulares de Universidad archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    },
+    "professors": {
+      "slug": "professors",
+      "lang": "en",
+      "name": "Professors",
+      "path": "/en/tag/professors/",
+      "wpId": 243,
+      "translations": {
+        "en": "/en/tag/professors/",
+        "es": "/es/tag/catedraticos-de-universidad/"
+      },
+      "seo": {
+        "title": "Professors archivos - Máster Universitario en Inteligencia Artificial"
+      }
+    }
+  }
+}
